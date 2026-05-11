@@ -37,10 +37,10 @@ pip install scikit-learn pymatgen
 
 This repository provides training and prediction scripts for four settings. All scripts are run using **4-fold cross validation**.
 
-1. **BiDB with monolayer-based representation**
-2. **BiDB with bilayer-based representation**
-3. **HetDB with monolayer-based representation**
-4. **HetDB with bilayer-based representation**
+1. **BiDB with monolayer-based representation (Bimat-ML)**
+2. **BiDB with bilayer-based representation (Direct)**
+3. **HetDB with monolayer-based representation (Bimat-ML)**
+4. **HetDB with bilayer-based representation (Direct)**
 
 The argument `--mono` controls whether monolayer properties are used:
 
@@ -51,7 +51,7 @@ Pre-trained models for all folds are provided in the `pre-trained/` directory an
 
 ---
 
-### 1. BiDB: Homogeneous Bilayers with Monolayer-based Representation
+### 1. BiDB: Homogeneous Bilayers with Monolayer-based Representation (Bimat-ML)
 
 This setting uses the top and bottom monolayer CIFs together with stacking information to predict the bilayer bandgap.
 
@@ -85,7 +85,7 @@ python predict_kfold_bimono.py --mono 2
 
 ---
 
-### 2. BiDB: Homogeneous Bilayers with Bilayer-based Representation
+### 2. BiDB: Homogeneous Bilayers with Bilayer-based Representation (Direct)
 
 This setting uses full bilayer CIFs to predict the bandgap of homogeneous bilayer materials.
 
@@ -119,7 +119,7 @@ python predict_kfold_bidb.py --mono 2
 
 ---
 
-### 3. HetDB: Heterogeneous Bilayers with Monolayer-based Representation
+### 3. HetDB: Heterogeneous Bilayers with Monolayer-based Representation (Bimat-ML)
 
 This setting uses the top and bottom monolayer CIFs to predict the bilayer bandgap.
 
@@ -153,7 +153,7 @@ python predict_kfold_hetmono.py --mono 1
 
 ---
 
-### 4. HetDB: Heterogeneous Bilayers with Bilayer-based Representation
+### 4. HetDB: Heterogeneous Bilayers with Bilayer-based Representation (Direct)
 
 This setting uses full bilayer CIFs to predict the bandgap of heterogeneous bilayer materials.
 
