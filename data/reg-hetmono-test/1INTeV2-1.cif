@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       V2NITe
+_chemical_formula_sum              "V2 N1 I1 Te1"
+_cell_length_a       3.3578342355730726
+_cell_length_b       3.3573791870918153
+_cell_length_c       20.798043499706207
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98619798781934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.49868065097634245  0.16933497574814982  0.4564219437696627  1.0000
+  V   V2        1.0  0.165810413303584  0.5030642019026444  0.5399727773180134  1.0000
+  N   N1        1.0  0.8322597286739872  0.8362115145857123  0.5011652095998931  1.0000
+  I   I1        1.0  0.4995743970389477  0.1701714162155016  0.6390725648051663  1.0000
+  Te  Te1       1.0  0.1649968128799079  0.5022958163305815  0.36099790347538063  1.0000

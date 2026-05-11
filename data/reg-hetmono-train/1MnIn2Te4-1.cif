@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnIn2Te4
+_chemical_formula_sum              "Mn1 In2 Te4"
+_cell_length_a       4.381722228603975
+_cell_length_b       4.381722228603959
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9984495441906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  8.833560348559729e-18  1.7665817901320416e-17  0.5000000000000001  1.0000
+  In  In1       1.0  0.6666637691345287  0.33333623086546427  0.39252598079233525  1.0000
+  In  In2       1.0  0.3333362308654608  0.66666376913454  0.607474019207666  1.0000
+  Te  Te1       1.0  0.6666788156541592  0.333321184345836  0.6422603138891086  1.0000
+  Te  Te2       1.0  0.33332118434582836  0.6666788156541584  0.35773968611089135  1.0000
+  Te  Te3       1.0  0.6666955221939382  0.3333044778060592  0.4641304748509938  1.0000
+  Te  Te4       1.0  0.33330447780605343  0.6666955221939411  0.5358695251490063  1.0000

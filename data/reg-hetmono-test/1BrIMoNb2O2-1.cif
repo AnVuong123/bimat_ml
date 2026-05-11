@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IBrNb2OMoO
+_chemical_formula_sum              "I1 Br1 Nb2 O2 Mo1"
+_cell_length_a       4.023592010465067
+_cell_length_b       5.136267534784411
+_cell_length_c       20.45647798292722
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.93699937214349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.08852849472300056  0.3378535966196809  0.36663202757871755  1.0000
+  Br  Br1       1.0  0.20144833775051396  0.6905095917494601  0.6333679724212825  1.0000
+  Nb  Nb1       1.0  0.3716251586439251  0.07220839243576332  0.46327007388265967  1.0000
+  Nb  Nb2       1.0  0.8583526899851047  0.9179699056981465  0.5534083443029172  1.0000
+  O   O1        1.0  0.6925911091906832  0.2348213037498042  0.5422086238330256  1.0000
+  Mo  Mo1       1.0  0.18895844285849867  0.5123408277814159  0.5026925711280407  1.0000
+  O   O2        1.0  0.8382355308532373  0.6922236036843862  0.4714877991875022  1.0000

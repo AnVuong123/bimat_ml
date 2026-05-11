@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeTeInISeInI
+_chemical_formula_sum              "Se2 Te1 In2 I2"
+_cell_length_a       4.3849320525357145
+_cell_length_b       9.296768264541912
+_cell_length_c       21.487370534395218
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.83630352835316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7930666453982653  0.49015994205451174  0.5080955491802954  1.0000
+  Te  Te1       1.0  0.9959804541441557  0.12895762947345712  0.4312441015538539  1.0000
+  In  In1       1.0  0.27212222683234755  0.9074921963781211  0.45302618125177585  1.0000
+  I   I1        1.0  0.8754968548063328  0.15415106766639614  0.6509577573489219  1.0000
+  Se  Se2       1.0  0.13997412794253364  0.7471478230006497  0.5586363152876328  1.0000
+  In  In2       1.0  0.11372579101070075  0.3138511600883883  0.542041437606208  1.0000
+  I   I2        1.0  0.04968164371733126  0.7179970110839256  0.349042242651078  1.0000

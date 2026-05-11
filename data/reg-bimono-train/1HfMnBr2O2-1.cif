@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfOBrMnBrO
+_chemical_formula_sum              "Hf1 O2 Br2 Mn1"
+_cell_length_a       3.7689541914991382
+_cell_length_b       6.5071168526672025
+_cell_length_c       18.74476378067727
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.73354887513676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.36121478667103063  0.20488493414438289  0.5145521631839334  1.0000
+  O   O1        1.0  0.8341981333286023  0.15149685127671877  0.5457013559459746  1.0000
+  Br  Br1       1.0  0.48407079638320494  0.43766446415106797  0.4001117372165154  1.0000
+  Mn  Mn1       1.0  0.6555962139653321  0.792701814190614  0.48659397550325906  1.0000
+  Br  Br2       1.0  0.5369325371178284  0.5649506068854712  0.5998882627834846  1.0000
+  O   O2        1.0  0.21540751580602338  0.9130522704108344  0.4716512088221355  1.0000

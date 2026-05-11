@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Fe2Te3I2Te
+_chemical_formula_sum              "Bi2 Fe2 Te4 I2"
+_cell_length_a       3.9081094514264874
+_cell_length_b       13.245878461408386
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.0  0.2668311681198366  0.4430947952307212  1.0000
+  Bi  Bi2       1.0  0.9999999999999997  0.7668311681198351  0.5569052047692709  1.0000
+  Fe  Fe1       1.0  0.5000000000000251  0.5154756056122027  0.4959951284345766  1.0000
+  Fe  Fe2       1.0  0.5000000000000266  0.015475605612187244  0.5040048715654238  1.0000
+  Te  Te1       1.0  0.5000000000000393  0.3182832247255473  0.5026489958691033  1.0000
+  Te  Te2       1.0  0.5000000000000262  0.8182832247255535  0.49735100413089706  1.0000
+  Te  Te3       1.0  0.0  0.5484702995972263  0.5485644001346639  1.0000
+  I   I1        1.0  0.0  0.552093160814132  0.4414890451448555  1.0000
+  I   I2        1.0  6.324033007864947e-18  0.05209316081411606  0.5585109548551519  1.0000
+  Te  Te4       1.0  0.0  0.04847029959721642  0.45143559986531234  1.0000

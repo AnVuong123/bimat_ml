@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ti2S2F2
+_chemical_formula_sum              "Ti2 S2 F2"
+_cell_length_a       4.777225477486126
+_cell_length_b       3.2939002090355016
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.49999999999999983  5.222266057840565e-16  0.46399376401684  1.0000
+  Ti  Ti2       1.0  7.585700493729769e-16  0.5  0.5360065863345572  1.0000
+  S   S1        1.0  0.49999999999999983  0.5  0.5502842137437354  1.0000
+  S   S2        1.0  1.5694846480913828e-16  6.539951767928593e-18  0.4497161524262293  1.0000
+  F   F1        1.0  0.49999999999999983  0.5  0.4088530517544606  1.0000
+  F   F2        1.0  2.0004443111036696e-17  0.0  0.5911472397021629  1.0000

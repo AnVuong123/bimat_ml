@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ISnAuOFI
+_chemical_formula_sum              "I2 Sn1 Au1 O1 F1"
+_cell_length_a       3.9873920192901053
+_cell_length_b       8.005461956437236
+_cell_length_c       18.289145878965908
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    99.38150716314819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7263620178969041  0.5880898286822759  0.44945206495811174  1.0000
+  Sn  Sn1       1.0  0.802027031224421  0.22523190410332955  0.46600101878932004  1.0000
+  Au  Au1       1.0  0.26125997873966395  0.8281785165733367  0.4425899356642023  1.0000
+  O   O1        1.0  0.7231690816616259  0.9892049919121472  0.4334346587520334  1.0000
+  F   F1        1.0  0.2749882868874208  0.25379645630289055  0.4100792923646393  1.0000
+  I   I2        1.0  0.2705517172010735  0.20687011989757081  0.5899207076353605  1.0000

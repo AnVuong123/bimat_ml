@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Te2Br2
+_chemical_formula_sum              "Hf2 Te2 Br2"
+_cell_length_a       5.635843036488591
+_cell_length_b       3.822001605546605
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.49999999999999983  6.018088312325815e-17  0.46213004512570305  1.0000
+  Hf  Hf2       1.0  3.764567359458346e-16  0.5000000000000001  0.5378700147537567  1.0000
+  Te  Te1       1.0  0.49999999999999983  0.5000000000000001  0.5636363301200614  1.0000
+  Te  Te2       1.0  2.2607243519758123e-18  7.768125721837059e-18  0.43636373105122017  1.0000
+  Br  Br1       1.0  0.49999999999999983  0.5000000000000001  0.36936324116592395  1.0000
+  Br  Br2       1.0  0.0  5.509700482801086e-19  0.6306368145008813  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeIHfCl
+_chemical_formula_sum              "Se1 I1 Hf1 Cl1"
+_cell_length_a       3.9830007769607074
+_cell_length_b       5.089225461997343
+_cell_length_c       18.758504587989194
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.95001014114553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7484789867246778  0.24395387375330546  0.5201234595161344  1.0000
+  I   I1        1.0  0.2483970816483636  0.7361286516143049  0.399773006057131  1.0000
+  Hf  Hf1       1.0  0.7483494144031702  0.7565495545891132  0.514732111008594  1.0000
+  Cl  Cl1       1.0  0.2483577591872923  0.7374944390535778  0.6001700764215983  1.0000

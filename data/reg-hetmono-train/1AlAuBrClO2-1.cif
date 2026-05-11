@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlClAuOBrO
+_chemical_formula_sum              "Al1 Cl1 Au1 O2 Br1"
+_cell_length_a       3.8664304252509627
+_cell_length_b       6.146265790136626
+_cell_length_c       18.697373751472142
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.33699857696284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.04536743386605454  0.18250992933840843  0.5119979878220182  1.0000
+  Cl  Cl1       1.0  0.9258192863578261  0.9440391981272415  0.5988741467282546  1.0000
+  Au  Au1       1.0  0.7298204550848231  0.5513200589453396  0.4634997832895267  1.0000
+  O   O1        1.0  0.575060465630379  0.24189390492900986  0.5129534162188897  1.0000
+  Br  Br1       1.0  0.9182213044628417  0.9276729885809964  0.40112585327174544  1.0000
+  O   O2        1.0  0.18576455752857407  0.46319086641561386  0.46446602661314496  1.0000

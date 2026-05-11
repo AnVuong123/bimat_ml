@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F3CuF3Pb
+_chemical_formula_sum              "F6 Cu1 Pb1"
+_cell_length_a       5.22301067018908
+_cell_length_b       5.202398885800717
+_cell_length_c       33.53662102856909
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    102.24796751704146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4520350333601549  0.561987391537299  0.4633170149467353  1.0000
+  F   F2        1.0  0.9631669261965934  0.08182975029647584  0.4557376144028378  1.0000
+  F   F3        1.0  0.4353757341127851  0.02753311180490666  0.5003061473421069  1.0000
+  Cu  Cu1       1.0  0.6786408939141165  0.7951159274687832  0.5000259597241156  1.0000
+  F   F4        1.0  0.9054502563765948  0.028077533240526545  0.5367100554404571  1.0000
+  F   F5        1.0  0.3941129382118462  0.508319760138901  0.5442628202821658  1.0000
+  F   F6        1.0  0.9215713157325887  0.5623601659719143  0.49964364003051337  1.0000
+  Pb  Pb1       1.0  0.17865813419334312  0.2951076911885145  0.4999924125421377  1.0000

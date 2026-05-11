@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrNbBrGe
+_chemical_formula_sum              "Br2 Nb1 Ge1"
+_cell_length_a       3.455363590950431
+_cell_length_b       3.9405561942233036
+_cell_length_c       19.537582906269222
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00031761737281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.745938766926978  0.2507518305878411  0.6163548676710492  1.0000
+  Nb  Nb1       1.0  0.24564229146791097  0.24918529946332313  0.4996528991844938  1.0000
+  Br  Br2       1.0  0.7456381651054058  0.24812112424878854  0.38366702975925865  1.0000
+  Ge  Ge1       1.0  0.7456461706741937  0.7491136944973518  0.5002375389099681  1.0000

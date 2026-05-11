@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoOGeBrOBr
+_chemical_formula_sum              "Mo1 O2 Ge1 Br2"
+_cell_length_a       3.5464047431693944
+_cell_length_b       3.8847563322738923
+_cell_length_c       21.15805122454914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99064672852232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7503893805661154  0.2501688967181677  0.5541931180026292  1.0000
+  O   O1        1.0  0.25032542577500877  0.2497795624798249  0.49845378072250207  1.0000
+  Ge  Ge1       1.0  0.2510822415478474  0.7513101352448796  0.4478045377120532  1.0000
+  Br  Br1       1.0  0.7514149537998874  0.7525151074145122  0.3539656360590222  1.0000
+  O   O2        1.0  0.750398843429162  0.7501502108934806  0.5502537785824295  1.0000
+  Br  Br2       1.0  0.25037574111468236  0.25052122789811393  0.6456054899196435  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlCaIOIO
+_chemical_formula_sum              "Al1 Ca1 I2 O2"
+_cell_length_a       3.7857374637953587
+_cell_length_b       3.6128933105020304
+_cell_length_c       21.665844212624318
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99997812588023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.717592758267807  0.7197163084444281  0.5274979304589594  1.0000
+  Ca  Ca1       1.0  0.2176140610206494  0.21978063568663234  0.446509649298715  1.0000
+  I   I1        1.0  0.7179781834213376  0.719217215682868  0.6536028116729476  1.0000
+  O   O1        1.0  0.7175833420122274  0.21978821910229496  0.5046574879705912  1.0000
+  I   I2        1.0  0.7174898145603008  0.7197242500024162  0.3471248999776996  1.0000
+  O   O2        1.0  0.21757075337346854  0.7196868101705457  0.5096070447771405  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F4Al2F2
+_chemical_formula_sum              "F6 Al2"
+_cell_length_a       4.5981036864200355
+_cell_length_b       4.5981582717735705
+_cell_length_c       17.397126314116864
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.6331881940706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8715403318119536  0.6345003472790322  0.5000710047982085  1.0000
+  F   F2        1.0  0.8718188626233115  0.13450022080137197  0.4311138942784581  1.0000
+  F   F3        1.0  0.3714786618331804  0.6347349314158068  0.4311056817420554  1.0000
+  F   F4        1.0  0.37161543407743897  0.1347449900940288  0.4999630223496094  1.0000
+  Al  Al1       1.0  0.12163899059192457  0.38460535337470625  0.5000211799750849  1.0000
+  Al  Al2       1.0  0.6215951211935477  0.8846737058897756  0.49997926065917025  1.0000
+  F   F5        1.0  0.3715154040234905  0.6346202202593664  0.5688943182579448  1.0000
+  F   F6        1.0  0.871555835266635  0.13458532039856244  0.5688853880445175  1.0000

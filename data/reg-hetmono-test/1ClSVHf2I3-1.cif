@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VI2HfIHfSCl
+_chemical_formula_sum              "V1 I3 Hf2 S1 Cl1"
+_cell_length_a       6.953412456458251
+_cell_length_b       5.3123366196505035
+_cell_length_c       19.693305814920006
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.2574398535755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.9727562503916121  0.6509863143426301  0.4973619935748975  1.0000
+  I   I1        1.0  0.17077626177882763  0.9563227589450601  0.6191599282270901  1.0000
+  I   I2        1.0  0.18915626373175443  0.9842656622606635  0.38084007177290996  1.0000
+  Hf  Hf1       1.0  0.10764771727841649  0.24830981822739043  0.5002151032831244  1.0000
+  I   I3        1.0  0.7827060902599625  0.21578676064729552  0.3955849106427501  1.0000
+  Hf  Hf2       1.0  0.43148268711398186  0.9642493585377281  0.4998231945642395  1.0000
+  S   S1        1.0  0.5214352950171308  0.5498551880415348  0.5051323597455156  1.0000
+  Cl  Cl1       1.0  0.7952871667621316  0.22640710650882412  0.578615165318152  1.0000

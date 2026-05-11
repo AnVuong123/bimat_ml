@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ISFeCuClS
+_chemical_formula_sum              "I1 S2 Fe1 Cu1 Cl1"
+_cell_length_a       4.251466522154857
+_cell_length_b       6.563540418561517
+_cell_length_c       18.69589757279776
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.87125596846928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9320140278152143  0.3289530165289033  0.5988424748907278  1.0000
+  S   S1        1.0  0.21533629788454275  0.8970361628540089  0.5226496145048938  1.0000
+  Fe  Fe1       1.0  0.04998043289400969  0.5653750106041187  0.4783900205065109  1.0000
+  Cu  Cu1       1.0  0.7777153453729507  0.022161491791576903  0.5042828780217224  1.0000
+  Cl  Cl1       1.0  0.9138685315610738  0.2946415465285903  0.40115752510927233  1.0000
+  S   S2        1.0  0.6142495708690239  0.6942838377976338  0.4522582853828283  1.0000

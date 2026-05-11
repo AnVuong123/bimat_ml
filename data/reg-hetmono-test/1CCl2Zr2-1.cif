@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrCClZrCl
+_chemical_formula_sum              "Zr2 C1 Cl2"
+_cell_length_a       3.435294932384636
+_cell_length_b       3.434873887110725
+_cell_length_c       20.9708053270222
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00538596864943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5054723652685594  0.49961312179283085  0.5569981465293612  1.0000
+  C   C1        1.0  0.8387620192595536  0.166384256082164  0.4999887881467567  1.0000
+  Cl  Cl1       1.0  0.17168155446409578  0.8323243493482054  0.6423599435956909  1.0000
+  Zr  Zr2       1.0  0.17229185889244877  0.8331796251634053  0.4429864738660279  1.0000
+  Cl  Cl2       1.0  0.5058974541531116  0.500417064860703  0.3576400564043088  1.0000

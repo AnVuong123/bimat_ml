@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnSAsClTeS
+_chemical_formula_sum              "Zn1 S2 As1 Cl1 Te1"
+_cell_length_a       4.90182005537704
+_cell_length_b       5.676923461322027
+_cell_length_c       18.34275589293623
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    94.580235522509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6594871940301609  0.9404773847467905  0.5039300958498973  1.0000
+  S   S1        1.0  0.4323928295924217  0.6227918313723196  0.5620971324568276  1.0000
+  As  As1       1.0  0.08293742495964307  0.4803245930923435  0.499106731752216  1.0000
+  Cl  Cl1       1.0  0.9238472313516777  0.12670079993351144  0.5911192383643812  1.0000
+  Te  Te1       1.0  0.33600779210710185  0.14987486389078486  0.4088807616356188  1.0000
+  S   S2        1.0  0.9972322678170767  0.8150265504057954  0.4131253833486897  1.0000

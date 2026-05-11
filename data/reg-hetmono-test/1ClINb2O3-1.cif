@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbIO2NbClO
+_chemical_formula_sum              "Nb2 I1 O3 Cl1"
+_cell_length_a       3.9500710505704655
+_cell_length_b       5.650713780349443
+_cell_length_c       19.878967111375452
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.48742136302424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.08958274289183094  0.699914089362037  0.4592206325226784  1.0000
+  I   I1        1.0  0.4717374709930153  0.4640369331794425  0.6227168163225022  1.0000
+  O   O1        1.0  0.5467720705473761  0.6143379579181648  0.42762083057195716  1.0000
+  O   O2        1.0  0.20664346302228165  0.9338111306499634  0.522127149815968  1.0000
+  Nb  Nb2       1.0  0.40054089249046365  0.32134397195133363  0.49267187004894697  1.0000
+  Cl  Cl1       1.0  0.26663719550912407  0.054089909940464635  0.3772831836774977  1.0000
+  O   O3        1.0  0.8978419997265047  0.316184635443566  0.48603965786765674  1.0000

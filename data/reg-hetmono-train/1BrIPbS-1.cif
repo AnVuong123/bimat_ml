@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbISBr
+_chemical_formula_sum              "Pb1 I1 S1 Br1"
+_cell_length_a       5.265379936133876
+_cell_length_b       4.441006289587312
+_cell_length_c       19.772719673706575
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    126.34956186270561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.11748021195257644  0.0759596756147079  0.4567345108409566  1.0000
+  I   I1        1.0  0.32304716034112657  0.4878683623757106  0.6206895093964556  1.0000
+  S   S1        1.0  0.4946966633142236  0.8316352651096999  0.5135775678860505  1.0000
+  Br  Br1       1.0  0.7275637155094095  0.2977116216037558  0.37931049060354466  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AsTiSTiS
+_chemical_formula_sum              "As1 Ti2 S2"
+_cell_length_a       3.5180335585452416
+_cell_length_b       3.5180737954643857
+_cell_length_c       36.26805944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00037834463114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.6666000585252094  0.33330002926260593  0.4999999830275092  1.0000
+  Ti  Ti1       1.0  0.33325738660408166  0.6666286933020406  0.5449300822993411  1.0000
+  S   S1        1.0  0.9999558084107193  0.99997790420536  0.5815527672217138  1.0000
+  Ti  Ti2       1.0  0.9999427453882132  0.9999713726941056  0.4550701167887671  1.0000
+  S   S2        1.0  0.3332443222395811  0.666622161119791  0.41844758158003953  1.0000

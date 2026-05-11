@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SGeRuSBrTeCl
+_chemical_formula_sum              "S2 Ge1 Ru1 Br1 Te1 Cl1"
+_cell_length_a       6.73767601967913
+_cell_length_b       4.446742099881571
+_cell_length_c       20.26708284710492
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    101.7126370536437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7077005696289712  0.8614465401658742  0.47056845688089527  1.0000
+  Ge  Ge1       1.0  0.767299173493783  0.3796103275931278  0.5220145507515386  1.0000
+  Ru  Ru1       1.0  0.3691771857149286  0.7627421333083261  0.45287103687810565  1.0000
+  S   S2        1.0  0.39325120154737564  0.25360465072434984  0.48234069601320756  1.0000
+  Br  Br1       1.0  0.10476705520188759  0.6540486436106633  0.3700581902477074  1.0000
+  Te  Te1       1.0  0.17513847633483406  0.5207704609525049  0.5565433581727839  1.0000
+  Cl  Cl1       1.0  0.6907372878075094  0.3642572635837888  0.6299418097522927  1.0000

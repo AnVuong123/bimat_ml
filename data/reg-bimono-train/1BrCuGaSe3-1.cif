@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeGaBrCuSe2
+_chemical_formula_sum              "Se3 Ga1 Br1 Cu1"
+_cell_length_a       3.676299649955344
+_cell_length_b       8.342481009056646
+_cell_length_c       18.299455824604152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.13863024553666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.021412568697720253  0.7733183575690323  0.5874651505499123  1.0000
+  Ga  Ga1       1.0  0.58394149454499  0.8359038522698573  0.4970578173242057  1.0000
+  Br  Br1       1.0  0.35006309914074435  0.5995151632526591  0.40978752959442866  1.0000
+  Cu  Cu1       1.0  0.11043394647409809  0.36219981843568466  0.5158422531776569  1.0000
+  Se  Se2       1.0  0.6982819642348134  0.4500075673840969  0.5907488325043724  1.0000
+  Se  Se3       1.0  0.8622843769198443  0.11577202887981344  0.43816535509093163  1.0000

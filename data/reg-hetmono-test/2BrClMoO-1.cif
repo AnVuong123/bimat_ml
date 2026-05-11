@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrMoClBrOClMoO
+_chemical_formula_sum              "Br2 Mo2 Cl2 O2"
+_cell_length_a       5.022161476943064
+_cell_length_b       5.022229516350079
+_cell_length_c       18.98695024941793
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.5438469101246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3711336825479795  0.6284865740295243  0.6050623197330278  1.0000
+  Mo  Mo1       1.0  0.15477577301902884  0.4119837859030642  0.4948283888579384  1.0000
+  Cl  Cl1       1.0  0.37106751477568717  0.6285431598581337  0.3949610336366447  1.0000
+  Br  Br2       1.0  0.8712517014486544  0.12835747787812238  0.3962210731858422  1.0000
+  O   O1        1.0  0.8710863262816361  0.6282980283540823  0.49471345315615056  1.0000
+  Cl  Cl2       1.0  0.8713772846175971  0.12824289508355977  0.5813673610273665  1.0000
+  Mo  Mo2       1.0  0.5875596631174999  0.8448454216784778  0.49482583589422596  1.0000
+  O   O2        1.0  0.37128433523828464  0.12850884480460464  0.49469325057542074  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ge2S2Ge2S2
+_chemical_formula_sum              "Ge4 S4"
+_cell_length_a       5.679390666711356
+_cell_length_b       3.4990898699073765
+_cell_length_c       21.255601824949082
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  2.440148981395035e-18  1.1851851701975834e-36  0.3528481602998774  1.0000
+  Ge  Ge2       1.0  0.49999999940914824  0.49999999858429234  0.43965366104247616  1.0000
+  S   S1        1.0  0.054333376256133326  0.49999999858429234  0.43018616011461275  1.0000
+  S   S2        1.0  0.5543333756652815  1.3512674515678394e-22  0.3623156612277408  1.0000
+  Ge  Ge3       1.0  0.2558829591558117  6.237515713412495e-23  0.5603463391951515  1.0000
+  Ge  Ge4       1.0  0.7558829603257121  0.49999999858429234  0.647151839467286  1.0000
+  S   S3        1.0  0.310216335411945  0.49999999858429234  0.6376843390098869  1.0000
+  S   S4        1.0  0.8102163348210931  1.9750190229090768e-22  0.5698138396525507  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2NiScIPdSeI
+_chemical_formula_sum              "I4 Ni1 Sc1 Pd1 Se1"
+_cell_length_a       7.861214550651952
+_cell_length_b       5.230396289558476
+_cell_length_c       18.784190507191724
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.21923804258937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.28376533671238074  0.7765101664082356  0.39944652031216493  1.0000
+  I   I2        1.0  0.2837853059259042  0.7758874057284163  0.6006048037508006  1.0000
+  Ni  Ni1       1.0  0.08858992276202095  0.91431832130588  0.49999619489469005  1.0000
+  Sc  Sc1       1.0  0.5904794477564169  0.9145770035236538  0.49998493897834967  1.0000
+  I   I3        1.0  0.8968760295214786  0.05712241191158309  0.600728069855949  1.0000
+  Pd  Pd1       1.0  0.09129679027669729  0.4158703103605405  0.5000066784271373  1.0000
+  Se  Se1       1.0  0.59075967898419  0.41613366623574244  0.5000277928273312  1.0000
+  I   I4        1.0  0.8967343689230286  0.05771925388225996  0.399271930144051  1.0000

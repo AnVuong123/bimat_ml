@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2O4Ca2Cl2CaO
+_chemical_formula_sum              "Ni2 O5 Ca3 Cl2"
+_cell_length_a       3.7283239237737296
+_cell_length_b       3.7283239237736883
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  3.831406143393417e-18  0.4524546768320974  1.0000
+  Ni  Ni2       1.0  0.0  2.0271452860658567e-17  0.5475453231679027  1.0000
+  O   O1        1.0  4.045576123642861e-18  0.5  0.5554013641954081  1.0000
+  O   O2        1.0  0.49999999999999845  0.0  0.5554013641954081  1.0000
+  O   O3        1.0  1.2625284549384522e-18  0.5  0.4445986358045919  1.0000
+  O   O4        1.0  0.49999999999999845  4.906955720982581e-18  0.4445986358045919  1.0000
+  Ca  Ca1       1.0  0.49999999999999845  0.5  0.592516939044052  1.0000
+  Ca  Ca2       1.0  0.49999999999999845  0.5  0.407483060955948  1.0000
+  Cl  Cl1       1.0  4.364450080877876e-19  0.0  0.3758863645244814  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.6241136354755187  1.0000
+  Ca  Ca3       1.0  0.49999999999999845  0.5  0.5  1.0000
+  O   O5        1.0  0.0  2.5243172652390097e-19  0.5  1.0000

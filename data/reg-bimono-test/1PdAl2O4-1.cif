@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdAl2O4
+_chemical_formula_sum              "Pd1 Al2 O4"
+_cell_length_a       3.07743406143598
+_cell_length_b       3.0779223679148133
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99475210245689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  3.0557389816831014e-17  6.11147796916992e-17  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6666529708895205  0.33330594177903977  0.4209974415963669  1.0000
+  Al  Al2       1.0  0.3333470291104821  0.6666940582209606  0.5790025584036337  1.0000
+  O   O1        1.0  0.6666509108670252  0.33330182173404943  0.5938635877674139  1.0000
+  O   O2        1.0  0.3333490891329757  0.6666981782659478  0.406136412232586  1.0000
+  O   O3        1.0  0.6671011095610753  0.3342022191221498  0.46526976883910787  1.0000
+  O   O4        1.0  0.33289889043892695  0.6657977808778502  0.5347302311608921  1.0000

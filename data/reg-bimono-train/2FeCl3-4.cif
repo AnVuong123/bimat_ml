@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2Cl6
+_chemical_formula_sum              "Fe2 Cl6"
+_cell_length_a       6.430718855105911
+_cell_length_b       6.430718855105911
+_cell_length_c       17.851481083860616
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6666666666666665  0.33333333333333326  0.4999977538077316  1.0000
+  Fe  Fe2       1.0  0.3333333333333326  0.6666666666666665  0.5000022280180226  1.0000
+  Cl  Cl1       1.0  0.44609911846778827  1.798639467444301e-05  0.41439793488604487  1.0000
+  Cl  Cl2       1.0  0.5539188679268852  0.5539008815322086  0.41439793488604487  1.0000
+  Cl  Cl3       1.0  0.9999820136053251  0.4460811320731165  0.41439793488604487  1.0000
+  Cl  Cl4       1.0  0.4460984976750249  1.6670397471317867e-05  0.5856020409237097  1.0000
+  Cl  Cl5       1.0  0.5539181727224424  0.5539015023249716  0.5856020409237097  1.0000
+  Cl  Cl6       1.0  0.9999833296025299  0.446081827277555  0.5856020409237097  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IOHfBrHfBr2O
+_chemical_formula_sum              "I1 O2 Hf2 Br3"
+_cell_length_a       5.613471670115548
+_cell_length_b       5.613306990943099
+_cell_length_c       19.049880782376366
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.36814264809797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6441558824620656  0.37455470151691245  0.6062853794637673  1.0000
+  O   O1        1.0  0.14577603339263248  0.3759777940748935  0.49127201248460406  1.0000
+  Hf  Hf1       1.0  0.8956833648065459  0.6259210748182713  0.49276979964132106  1.0000
+  Br  Br1       1.0  0.1441551941095451  0.8744619128357713  0.5914968711181509  1.0000
+  Hf  Hf2       1.0  0.3902407351001717  0.1204694546465733  0.4927785212401258  1.0000
+  Br  Br2       1.0  0.14398138061008467  0.8746712378109105  0.39369402416484145  1.0000
+  Br  Br3       1.0  0.6442586488598604  0.37446055828297453  0.3958488791006279  1.0000
+  O   O2        1.0  0.6455652697955656  0.8759553049481236  0.49127033930791925  1.0000

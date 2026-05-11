@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgAlInO4
+_chemical_formula_sum              "Hg1 Al1 In1 O4"
+_cell_length_a       3.3112722336878058
+_cell_length_b       3.311258902886139
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99986682488161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999963980241453  0.9999981990120723  0.4968889509065257  1.0000
+  Al  Al1       1.0  0.6666600389468729  0.33333001947343643  0.41709451350116966  1.0000
+  In  In1       1.0  0.33334025014817714  0.6666701250740843  0.5837615895819062  1.0000
+  O   O1        1.0  0.6666683848491617  0.33333419242457907  0.4608819961019457  1.0000
+  O   O2        1.0  0.33332689284074185  0.6666634464203712  0.5322960772203541  1.0000
+  O   O3        1.0  0.33333332604130983  0.6666666630206558  0.4043186346992052  1.0000
+  O   O4        1.0  0.6666746144861232  0.3333373072430606  0.6047257622091159  1.0000

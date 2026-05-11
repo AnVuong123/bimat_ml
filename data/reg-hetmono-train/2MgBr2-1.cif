@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br2Mg2Br2
+_chemical_formula_sum              "Br4 Mg2"
+_cell_length_a       3.887626327184125
+_cell_length_b       6.631705776489638
+_cell_length_c       34.37166
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.0  2.222213090861725e-16  0.46373293812325883  1.0000
+  Br  Br2       1.0  0.5000000000000056  2.576265900552121e-16  0.5560169732472993  1.0000
+  Mg  Mg1       1.0  0.5000000000000047  0.7500000000001236  0.5  1.0000
+  Mg  Mg2       1.0  0.5000000000000047  0.25000000000003686  0.5  1.0000
+  Br  Br3       1.0  0.0  0.5000000000000737  0.5362670618767302  1.0000
+  Br  Br4       1.0  0.5000000000000047  0.5000000000000737  0.44398302675270174  1.0000

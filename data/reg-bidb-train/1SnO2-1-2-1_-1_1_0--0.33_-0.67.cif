@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnO2SnO2
+_chemical_formula_sum              "Sn2 O4"
+_cell_length_a       3.219508068087537
+_cell_length_b       3.2195080680875368
+_cell_length_c       25.035849298689655
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.0  0.0  0.3398711271378898  1.0000
+  O   O1        1.0  0.6666666645347588  0.33333333158155865  0.38017183026014445  1.0000
+  O   O2        1.0  0.3333333333748459  0.6666666667496918  0.2995704244150623  1.0000
+  Sn  Sn2       1.0  0.6666666645347588  0.33333333158155865  0.5221367725154098  1.0000
+  O   O3        1.0  0.0  0.0  0.5624374756376644  1.0000
+  O   O4        1.0  0.3333333333748459  0.6666666667496918  0.4818360697925823  1.0000

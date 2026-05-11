@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mo2CTe2
+_chemical_formula_sum              "Mo2 C1 Te2"
+_cell_length_a       3.323311554727674
+_cell_length_b       3.423038318931837
+_cell_length_c       19.46435317848812
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.89737917307727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.24727985942083167  0.5744084630492716  0.4496220644538864  1.0000
+  Mo  Mo2       1.0  0.5906096065294487  0.26354680528572955  0.5503876634179047  1.0000
+  C   C1        1.0  0.9191156590397461  0.919073218710167  0.5000029088909955  1.0000
+  Te  Te1       1.0  0.26060201099754826  0.6045507431176499  0.6549185626482495  1.0000
+  Te  Te2       1.0  0.5772710657875821  0.23329942425954853  0.3450878558951711  1.0000

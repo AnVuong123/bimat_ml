@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClSReNiTeBr
+_chemical_formula_sum              "Cl1 S1 Re1 Ni1 Te1 Br1"
+_cell_length_a       3.607614064243319
+_cell_length_b       8.452923513245375
+_cell_length_c       18.052356056441617
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    115.06944893092222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6168613701659896  0.10556350206045564  0.4147191497086307  1.0000
+  S   S1        1.0  0.3809037108094532  0.3715509529528805  0.5556674275471102  1.0000
+  Re  Re1       1.0  0.8631220112377657  0.3535803774083325  0.48644617241662386  1.0000
+  Ni  Ni1       1.0  0.410363166962325  0.8992245788604031  0.5045558427434346  1.0000
+  Te  Te1       1.0  0.14784845123663778  0.6398194032530405  0.4185365482573521  1.0000
+  Br  Br1       1.0  0.877046767458642  0.8656736099898311  0.5861638216051007  1.0000

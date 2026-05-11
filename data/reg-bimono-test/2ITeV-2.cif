@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2Te2V2
+_chemical_formula_sum              "I2 Te2 V2"
+_cell_length_a       3.9963073189125664
+_cell_length_b       6.659991399523389
+_cell_length_c       18.25775073
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.229968596890635  0.46807612922850267  0.4087388916017098  1.0000
+  I   I2        1.0  0.7700314031093662  0.9680761292285014  0.4087388916017098  1.0000
+  Te  Te1       1.0  0.21691432421570794  0.7989674330423053  0.5867553299509984  1.0000
+  Te  Te2       1.0  0.7830856757842938  0.29896743304230705  0.5867553299509984  1.0000
+  V   V1        1.0  0.29434656338562454  0.13831555080907146  0.5044999854698108  1.0000
+  V   V2        1.0  0.7056534366143793  0.6383155508090746  0.5044999854698108  1.0000

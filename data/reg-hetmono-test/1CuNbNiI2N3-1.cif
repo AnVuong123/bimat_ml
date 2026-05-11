@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NNbNiNCuNI2
+_chemical_formula_sum              "N3 Nb1 Ni1 Cu1 I2"
+_cell_length_a       3.73536324574076
+_cell_length_b       5.766884244204157
+_cell_length_c       20.538180363437917
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.89646929311769
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.18076754110747908  0.28240809669569494  0.4964386103135598  1.0000
+  Nb  Nb1       1.0  0.7326736372143333  0.38619423016358045  0.50736158799321  1.0000
+  Ni  Ni1       1.0  0.030923010723548406  0.9827813878464622  0.44914877607586645  1.0000
+  N   N2        1.0  0.9101972850352766  0.7412363179268846  0.5210945869690095  1.0000
+  Cu  Cu1       1.0  0.45310499620333217  0.8271471505675392  0.5324280622453673  1.0000
+  N   N3        1.0  0.566732828120452  0.05442830364397788  0.44686521901215076  1.0000
+  I   I1        1.0  0.8440214095805082  0.6093843565679159  0.36903610601722514  1.0000
+  I   I2        1.0  0.6283225325534141  0.17708774787420717  0.6329085565611504  1.0000

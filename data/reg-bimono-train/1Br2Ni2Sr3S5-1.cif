@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2S4Sr2Br2SrS
+_chemical_formula_sum              "Ni2 S5 Sr3 Br2"
+_cell_length_a       4.324879143464918
+_cell_length_b       4.324879143464824
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  1.5000967100366704e-19  0.9999999999999997  0.4434802485926908  1.0000
+  Ni  Ni2       1.0  0.9999999999999999  0.9999999999999998  0.5565197514073094  1.0000
+  S   S1        1.0  0.0  0.499999999999999  0.5726467168027928  1.0000
+  S   S2        1.0  0.4999999999999967  0.0  0.5726467168027928  1.0000
+  S   S3        1.0  2.5347720137919136e-17  0.499999999999999  0.4273532831972072  1.0000
+  S   S4        1.0  0.4999999999999967  0.0  0.4273532831972072  1.0000
+  Sr  Sr1       1.0  0.4999999999999967  0.499999999999999  0.6250126848101032  1.0000
+  Sr  Sr2       1.0  0.4999999999999967  0.499999999999999  0.3749873151898851  1.0000
+  Br  Br1       1.0  5.642786667140907e-18  0.0  0.3441014346612943  1.0000
+  Br  Br2       1.0  1.9628196130779786e-18  5.070140327504549e-19  0.6558985653387124  1.0000
+  Sr  Sr3       1.0  0.4999999999999967  0.499999999999999  0.5  1.0000
+  S   S5        1.0  0.0  0.0  0.5  1.0000

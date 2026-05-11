@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlGeTe3
+_chemical_formula_sum              "Al1 Ge1 Te3"
+_cell_length_a       7.337770696612467
+_cell_length_b       7.3378508010018
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99658872623688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  7.925315768190781e-06  0.9999588108706152  0.512994441072537  1.0000
+  Ge  Ge1       1.0  0.6666787001411009  0.3333043540789328  0.5131898339760558  1.0000
+  Te  Te1       1.0  0.05274225543489994  0.3731678791163709  0.5131305150607498  1.0000
+  Te  Te2       1.0  0.32052443379440115  0.9472866384965766  0.5131361270573069  1.0000
+  Te  Te3       1.0  0.6268468156582021  0.6794822256764115  0.5131331000292012  1.0000

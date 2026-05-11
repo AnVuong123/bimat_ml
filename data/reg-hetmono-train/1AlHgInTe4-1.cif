@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgAlInTe4
+_chemical_formula_sum              "Hg1 Al1 In1 Te4"
+_cell_length_a       4.414290712793431
+_cell_length_b       4.4142935832310695
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000215104371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999939810608058  0.9999969905304028  0.4979954088527721  1.0000
+  Al  Al1       1.0  0.6666612621421699  0.33333063107108013  0.39198924572602084  1.0000
+  In  In1       1.0  0.33334434754146886  0.6666721737707282  0.6083945421090814  1.0000
+  Te  Te1       1.0  0.6666596556829607  0.33332982784148013  0.4572588847388574  1.0000
+  Te  Te2       1.0  0.3333359121407977  0.666667956070399  0.538334145252933  1.0000
+  Te  Te3       1.0  0.3333279775518715  0.6666639887759329  0.3633535409097633  1.0000
+  Te  Te4       1.0  0.6666768670770717  0.33333843353853404  0.642671649375852  1.0000

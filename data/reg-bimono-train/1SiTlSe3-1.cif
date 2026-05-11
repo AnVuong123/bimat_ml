@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TlSiSe3
+_chemical_formula_sum              "Tl1 Si1 Se3"
+_cell_length_a       7.060813357575515
+_cell_length_b       7.0606405155340815
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99864053267817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  1.9524063785424396e-05  0.9999751365258893  0.5127088840537957  1.0000
+  Si  Si1       1.0  0.6667038462147993  0.3333059488951493  0.5132225947620305  1.0000
+  Se  Se1       1.0  0.014171833075397787  0.4251581045486791  0.5132138220228185  1.0000
+  Se  Se2       1.0  0.41107343982123734  0.985832398851869  0.5132203745958865  1.0000
+  Se  Se3       1.0  0.5748314600442593  0.5889282827501  0.5132168513697895  1.0000

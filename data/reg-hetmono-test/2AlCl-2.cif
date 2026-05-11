@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2Al2
+_chemical_formula_sum              "Cl2 Al2"
+_cell_length_a       3.4374248975733512
+_cell_length_b       3.44661738972464
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.93334126500349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9999866063298745  0.9999845270510571  0.3652052509937658  1.0000
+  Cl  Cl2       1.0  0.33334734509582353  0.6666815764993879  0.634908332363877  1.0000
+  Al  Al1       1.0  0.9999889178412558  0.0001926184246419102  0.548325094198252  1.0000
+  Al  Al2       1.0  0.33334507480005954  0.6664736578694533  0.4517913090336351  1.0000

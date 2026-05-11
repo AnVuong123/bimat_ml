@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       In2Zn2S5
+_chemical_formula_sum              "In2 Zn2 S5"
+_cell_length_a       3.9158227635368696
+_cell_length_b       3.9158253007967647
+_cell_length_c       42.49425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997856598208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  7.517569506931716e-07  1.503513901386387e-06  0.4597236647083849  1.0000
+  In  In2       1.0  0.6666653013701631  0.3333306027403267  0.6284569825610468  1.0000
+  Zn  Zn1       1.0  0.6666678368850903  0.3333356737701811  0.367966909577046  1.0000
+  Zn  Zn2       1.0  0.33333286093930514  0.6666657218786105  0.5483152661337064  1.0000
+  S   S1        1.0  0.33333570658780853  0.6666714131756173  0.3563997425444301  1.0000
+  S   S2        1.0  0.6666664581852162  0.3333329163704329  0.4298685242826754  1.0000
+  S   S3        1.0  0.3333327953552564  0.6666655907105129  0.4959306107631173  1.0000
+  S   S4        1.0  0.6666657069750289  0.3333314139500582  0.5699727131080718  1.0000
+  S   S5        1.0  0.33333270198167714  0.6666654039633544  0.6546179829426906  1.0000

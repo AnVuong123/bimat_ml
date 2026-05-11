@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeTe3SeHf
+_chemical_formula_sum              "Ge1 Te3 Se1 Hf1"
+_cell_length_a       3.68723221114823
+_cell_length_b       7.290104766560295
+_cell_length_c       18.474542554337052
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00130414863573
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7539339039894354  0.10956254733985363  0.5165472528666586  1.0000
+  Te  Te1       1.0  0.7538660729327469  0.42194343125144024  0.594626839980334  1.0000
+  Te  Te2       1.0  0.2539119550668447  0.22249175967290263  0.4133217977633245  1.0000
+  Te  Te3       1.0  0.25387942725686885  0.8853085302153844  0.5913222704816221  1.0000
+  Se  Se1       1.0  0.7539232158863255  0.7240382267988988  0.40462829268019873  1.0000
+  Hf  Hf1       1.0  0.2539115047882415  0.585976639673702  0.4831185778814421  1.0000

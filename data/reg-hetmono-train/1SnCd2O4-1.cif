@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2SnO4
+_chemical_formula_sum              "Cd2 Sn1 O4"
+_cell_length_a       7.560570084408088
+_cell_length_b       6.849327387058645
+_cell_length_c       32.267544
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    123.49887579914042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5000000000000009  2.0580391461937587e-18  0.5322262141734998  1.0000
+  Cd  Cd2       1.0  5.038448097712155e-18  1.4874119405614336e-17  0.4677737858265014  1.0000
+  Sn  Sn1       1.0  0.5000000000000003  0.5  0.5  1.0000
+  O   O1        1.0  0.5530047380037835  0.31334185059272346  0.5379179134805908  1.0000
+  O   O2        1.0  0.7396628874110612  0.686658149407279  0.4620820865194111  1.0000
+  O   O3        1.0  0.4469952619962196  0.686658149407279  0.5379179134805908  1.0000
+  O   O4        1.0  0.2603371125889419  0.3133418505927241  0.4620820865194111  1.0000

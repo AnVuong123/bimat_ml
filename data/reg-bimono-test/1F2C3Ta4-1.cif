@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ta4C3F2
+_chemical_formula_sum              "Ta4 C3 F2"
+_cell_length_a       3.153216997472938
+_cell_length_b       3.1532169974729327
+_cell_length_c       25.347341168073132
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.3333333333333342  0.6666666666666659  0.44679653375902434  1.0000
+  Ta  Ta2       1.0  0.6666666666666666  0.3333333333333329  0.5530904010279524  1.0000
+  Ta  Ta3       1.0  2.9910702486632834e-18  1.2556746290577711e-18  0.3522970593970822  1.0000
+  Ta  Ta4       1.0  1.9915613328383263e-18  0.0  0.6476144929744799  1.0000
+  C   C1        1.0  1.346305763184792e-20  0.0  0.499939513911565  1.0000
+  C   C2        1.0  0.6666666666666666  0.3333333333333329  0.3965428371016455  1.0000
+  C   C3        1.0  0.3333333333333342  0.6666666666666659  0.6033508558185823  1.0000
+  F   F1        1.0  0.6666666666666666  0.3333333333333329  0.7046324042686436  1.0000
+  F   F2        1.0  0.3333333333333342  0.6666666666666659  0.2953079220942747  1.0000

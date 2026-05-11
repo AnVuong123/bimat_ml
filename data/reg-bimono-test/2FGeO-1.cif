@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2O2F2
+_chemical_formula_sum              "Ge2 O2 F2"
+_cell_length_a       3.8756156918861406
+_cell_length_b       3.3039460798567903
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.4999999999999997  0.9999999999999999  0.45290179860807234  1.0000
+  Ge  Ge2       1.0  1.692510712122375e-16  0.5  0.5470950835158975  1.0000
+  O   O1        1.0  0.4999999999999997  0.5  0.5318152241717774  1.0000
+  O   O2        1.0  5.832160263285405e-18  5.071398197764899e-18  0.4681820231829777  1.0000
+  F   F1        1.0  0.4999999999999997  0.5  0.39659992613740674  1.0000
+  F   F2        1.0  5.776171817172435e-18  0.0  0.6033963501839256  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfTeClTe2Zr
+_chemical_formula_sum              "Hf1 Te3 Cl1 Zr1"
+_cell_length_a       4.813439411367404
+_cell_length_b       4.882889489562169
+_cell_length_c       18.69073250936501
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    86.17042807498164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.7326273020017228  0.27186491002974705  0.4945157677513557  1.0000
+  Te  Te1       1.0  0.2882770549153923  0.2146457858375829  0.5985183556407113  1.0000
+  Cl  Cl1       1.0  0.7386943674607966  0.7708420255180827  0.4192746768389933  1.0000
+  Te  Te2       1.0  0.23685621722167247  0.26926322683224957  0.3993242723913851  1.0000
+  Te  Te3       1.0  0.7852666942996067  0.7162869909741716  0.596648526014428  1.0000
+  Zr  Zr1       1.0  0.23350044757129287  0.7739193164887402  0.4939304496378993  1.0000

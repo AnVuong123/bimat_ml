@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Te4
+_chemical_formula_sum              "Ta2 Te4"
+_cell_length_a       7.145354408978032
+_cell_length_b       7.148451150114731
+_cell_length_c       15.078788386505064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5000000002839219  0.999999997135623  0.5000000340988487  1.0000
+  Ta  Ta2       1.0  7.670157231606997e-09  0.49999999750352414  0.4999999726399545  1.0000
+  Te  Te1       1.0  0.15653014702848955  0.15659353981617313  0.4999848348389154  1.0000
+  Te  Te2       1.0  0.6565300801329416  0.34340650834322417  0.5000151857991492  1.0000
+  Te  Te3       1.0  0.8434698646926722  0.843406454432419  0.5000151993944458  1.0000
+  Te  Te4       1.0  0.3434699278830585  0.6565934865921673  0.4999847999785066  1.0000

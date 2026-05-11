@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TeSY
+_chemical_formula_sum              "Te1 S1 Y1"
+_cell_length_a       3.881235605550378
+_cell_length_b       4.001009685886502
+_cell_length_c       18.621211875359307
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.05117787283102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.1596565832674047  0.49353975903574204  0.5972335178719251  1.0000
+  S   S1        1.0  0.510629971308787  0.16876288577593412  0.40276648212807487  1.0000
+  Y   Y1        1.0  0.8323578290932601  0.829886161323128  0.47134661596739286  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu3Cl3
+_chemical_formula_sum              "Cu3 Cl3"
+_cell_length_a       4.047133536364854
+_cell_length_b       5.648232621400198
+_cell_length_c       19.27710397
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    84.79469296641918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9880096308452179  0.033114258467782404  0.5513632259923429  1.0000
+  Cu  Cu2       1.0  0.04110784336740394  0.6151194398230795  0.43973572141310674  1.0000
+  Cu  Cu3       1.0  0.5299843286473778  0.7879712575376783  0.5049641866852106  1.0000
+  Cl  Cl1       1.0  0.6837293069415153  0.8163056912015736  0.6135587494590988  1.0000
+  Cl  Cl2       1.0  0.5447189491948401  0.742458440208783  0.39045678001855  1.0000
+  Cl  Cl3       1.0  0.2626130189819706  0.29390718316311293  0.4999228958787222  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2Ga2Se5
+_chemical_formula_sum              "Ni2 Ga2 Se5"
+_cell_length_a       3.8199330054597405
+_cell_length_b       3.819854046436506
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0006837833154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999861472271981  0.9999722944543963  0.4673266724546433  1.0000
+  Ni  Ni2       1.0  0.9999861472271981  0.9999722944543962  0.5326733275453568  1.0000
+  Ga  Ga1       1.0  0.333326116306438  0.6666522326128661  0.38404089022670784  1.0000
+  Ga  Ga2       1.0  0.333326116306438  0.6666522326128661  0.6159591097732939  1.0000
+  Se  Se1       1.0  0.6666898280661664  0.3333796561323221  0.5  1.0000
+  Se  Se2       1.0  0.33332714428053806  0.6666542885610662  0.44248430427520474  1.0000
+  Se  Se3       1.0  0.33332714428053806  0.6666542885610662  0.5575156957247954  1.0000
+  Se  Se4       1.0  0.6666623185006887  0.3333246370013693  0.35607685996751126  1.0000
+  Se  Se5       1.0  0.6666623185006887  0.3333246370013693  0.6439231400324901  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbGaBrSeSBr
+_chemical_formula_sum              "Nb1 Ga1 Br2 Se1 S1"
+_cell_length_a       3.6117246340035094
+_cell_length_b       7.807160450842774
+_cell_length_c       18.379814550619283
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    62.70450077978733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.20678601867320234  0.08979044658555109  0.49835636314498216  1.0000
+  Ga  Ga1       1.0  0.2634844812234555  0.5856176661818963  0.5015459081198388  1.0000
+  Br  Br1       1.0  0.5166946037797107  0.8035032238651192  0.4081600564824963  1.0000
+  Se  Se1       1.0  0.9387330920384418  0.9110647705133196  0.5782830986965707  1.0000
+  S   S1        1.0  0.5772754355319456  0.2585589527164621  0.4335626964087985  1.0000
+  Br  Br2       1.0  0.9501827593817317  0.3784528784815252  0.5919559298591346  1.0000

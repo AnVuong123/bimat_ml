@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BiSeBiSeTeBiSeBiSeTe
+_chemical_formula_sum              "Bi4 Se4 Te2"
+_cell_length_a       4.2684523167089035
+_cell_length_b       4.2684523167089035
+_cell_length_c       35.45737878773707
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99797434525729
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.3334298325112921  0.834021574444451  0.37284636518512726  1.0000
+  Se  Se1       1.0  0.33346900557084974  0.8340472191907515  0.20966848577569278  1.0000
+  Bi  Bi2       1.0  2.0063311567844564e-05  0.16722547087477987  0.252213495349884  1.0000
+  Se  Se2       1.0  6.53575278802254e-05  0.16719977202563896  0.41539137786163466  1.0000
+  Te  Te1       1.0  0.6667619898990691  0.5006234712619172  0.31252993054953443  1.0000
+  Bi  Bi3       1.0  0.12208139672370766  0.4113600607023096  0.5439603975088692  1.0000
+  Se  Se3       1.0  0.12212057212603473  0.4113857054486101  0.7071382769183037  1.0000
+  Bi  Bi4       1.0  0.7886716294323523  0.7445639563293153  0.6645932670620835  1.0000
+  Se  Se4       1.0  0.7887169213058952  0.7445382574801747  0.5014153848323617  1.0000
+  Te  Te2       1.0  0.4554135564542541  0.07796195751977572  0.6042768321444619  1.0000

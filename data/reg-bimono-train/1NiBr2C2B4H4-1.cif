@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BrB2H2NiBrC2B2H2
+_chemical_formula_sum              "Br2 B4 H4 Ni1 C2"
+_cell_length_a       3.6450390759126314
+_cell_length_b       7.308933469501417
+_cell_length_c       33.92925836
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.4999999999999992  1.799684748063538e-18  0.547462834845079  1.0000
+  B   B1        1.0  1.824438262980286e-18  0.6228270897819833  0.5404155480185145  1.0000
+  B   B2        1.0  3.7147845528480326e-17  0.3771729102180162  0.5404155480185145  1.0000
+  H   H1        1.0  0.0  0.6919028956328235  0.5722816082076183  1.0000
+  H   H2        1.0  0.0  0.30809710436717547  0.5722816082076183  1.0000
+  Ni  Ni1       1.0  0.0  0.0  0.5  1.0000
+  Br  Br2       1.0  0.4999999999999992  0.0  0.4525371651549209  1.0000
+  C   C1        1.0  1.736662009131003e-18  0.6925450025505941  0.5  1.0000
+  C   C2        1.0  0.0  0.3074549974494032  0.5  1.0000
+  B   B3        1.0  0.0  0.3771729102180162  0.45958445198148506  1.0000
+  B   B4        1.0  0.0  0.6228270897819833  0.45958445198148506  1.0000
+  H   H3        1.0  1.0719350057205395e-17  0.308097104367175  0.42771839179238214  1.0000
+  H   H4        1.0  0.0  0.6919028956328235  0.4277183917923821  1.0000

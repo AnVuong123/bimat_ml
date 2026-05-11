@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ONbClIn2BrO
+_chemical_formula_sum              "O2 Nb1 Cl1 In2 Br1"
+_cell_length_a       3.646516727685665
+_cell_length_b       5.548865731784823
+_cell_length_c       20.196066165922364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.05873181501889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.23774936714573608  0.8606603887015964  0.5047395326365105  1.0000
+  Nb  Nb1       1.0  0.2382797857767823  0.18172748760102192  0.5047209230626892  1.0000
+  Cl  Cl1       1.0  0.2388701157001057  0.1873769923153657  0.628597151679047  1.0000
+  In  In1       1.0  0.7355976242387257  0.6772129397684246  0.3984972793276944  1.0000
+  In  In2       1.0  0.7430557605658945  0.6782073711513776  0.6084806765213993  1.0000
+  Br  Br1       1.0  0.23721602820513768  0.1804583778401378  0.37108420954432403  1.0000
+  O   O2        1.0  0.7384113699159137  0.31816173892736116  0.504081994192647  1.0000

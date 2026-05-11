@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClNbTa2Cl2SeCl
+_chemical_formula_sum              "Cl4 Nb1 Ta2 Se1"
+_cell_length_a       5.27532660424341
+_cell_length_b       5.939859118299642
+_cell_length_c       18.93197740415086
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.8657519633449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5060013609052871  0.2859281857460332  0.3961430052261618  1.0000
+  Nb  Nb1       1.0  0.6612948392815563  0.09091475666919224  0.5000125756989714  1.0000
+  Ta  Ta1       1.0  0.16140842636675168  0.09117295974118225  0.5000033864019072  1.0000
+  Ta  Ta2       1.0  0.6613143686378392  0.5910289769501513  0.5000100951849716  1.0000
+  Cl  Cl2       1.0  0.5061263236183081  0.2860156634529717  0.6038516055443092  1.0000
+  Cl  Cl3       1.0  0.8166919023925391  0.8960904975261603  0.3962212694089367  1.0000
+  Se  Se1       1.0  0.16105305153450833  0.5906193911499082  0.500025040162851  1.0000
+  Cl  Cl4       1.0  0.8165388832278073  0.8960794464346327  0.6038209942475667  1.0000

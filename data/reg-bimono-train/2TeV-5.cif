@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VTe2V
+_chemical_formula_sum              "V2 Te2"
+_cell_length_a       3.9714466048059776
+_cell_length_b       3.9714466048059776
+_cell_length_c       19.627430902373167
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.33326341212684407  0.6665823794936098  0.5500612654861521  1.0000
+  Te  Te1       1.0  0.6667248424893895  0.33330621591367654  0.382118273008067  1.0000
+  Te  Te2       1.0  0.9999190019697983  0.9999814127468104  0.6178817269919331  1.0000
+  V   V2        1.0  0.3333118763869076  0.6665681422082715  0.4499387465362855  1.0000

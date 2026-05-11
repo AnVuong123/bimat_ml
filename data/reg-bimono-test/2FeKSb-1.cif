@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbKSbFe2K
+_chemical_formula_sum              "Sb2 K2 Fe2"
+_cell_length_a       4.188350354960442
+_cell_length_b       4.188350354960429
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000276691796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9911136565155475  0.9911136565155576  0.42647489316391957  1.0000
+  K   K1        1.0  0.4903014058819986  0.49030140588200344  0.33655800676953995  1.0000
+  Sb  Sb2       1.0  0.4913511812058758  0.4913511812058749  0.5735251042358719  1.0000
+  Fe  Fe1       1.0  0.49132122961824576  0.9911425780995722  0.5000000202894491  1.0000
+  Fe  Fe2       1.0  0.9911425780995738  0.49132122961825136  0.5000000202894491  1.0000
+  K   K2        1.0  0.9921540064815825  0.9921540064815795  0.6634419435256931  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InOInAuBr2AuO2Br
+_chemical_formula_sum              "In2 O3 Au2 Br3"
+_cell_length_a       6.824497886494157
+_cell_length_b       3.4579472007560255
+_cell_length_c       24.37204185522336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    66.44926965131481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.34230232617527034  0.4371117961346088  0.5552766538871491  1.0000
+  O   O1        1.0  0.40878375393835176  0.880418485696937  0.591975603707122  1.0000
+  In  In2       1.0  0.8348725787161823  0.5717006040600672  0.4801380093860731  1.0000
+  Au  Au1       1.0  0.86351580185953  0.995022414130965  0.6018052202415947  1.0000
+  Br  Br1       1.0  0.3378559684335698  0.1358597761354865  0.30894670359825266  1.0000
+  Br  Br2       1.0  0.7793640884222257  0.14745260683609623  0.3956960571858242  1.0000
+  Au  Au2       1.0  0.2691383551356434  0.22770831340200648  0.4060769086727542  1.0000
+  O   O2        1.0  0.7158111156067114  0.15783978626377032  0.5236704185067536  1.0000
+  O   O3        1.0  0.16901840825301442  0.3323598136187038  0.48811430355709307  1.0000
+  Br  Br3       1.0  0.017736499177539944  0.8269777857535054  0.691451936711771  1.0000

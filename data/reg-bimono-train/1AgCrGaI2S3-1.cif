@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaAgISISCrS
+_chemical_formula_sum              "Ga1 Ag1 I2 S3 Cr1"
+_cell_length_a       4.1372416933609815
+_cell_length_b       6.753735247352322
+_cell_length_c       21.06402706893229
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    107.88223666718083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.057944587075835635  0.7061122685117776  0.521249028547135  1.0000
+  Ag  Ag1       1.0  0.8125614744438872  0.21504423199514194  0.5785690725675232  1.0000
+  I   I1        1.0  0.17025661311277765  0.9345044523516037  0.35596000503100983  1.0000
+  S   S1        1.0  0.8710529991334005  0.33351312159486796  0.4086770292518663  1.0000
+  I   I2        1.0  0.0008766988620210192  0.58825184201303  0.6439634532996835  1.0000
+  S   S2        1.0  0.24025126117975204  0.07082634588783686  0.5302580380284104  1.0000
+  Cr  Cr1       1.0  0.3265485162811519  0.24439047964229674  0.4350649302302565  1.0000
+  S   S3        1.0  0.5034843427435304  0.597408810312192  0.47740757433141723  1.0000

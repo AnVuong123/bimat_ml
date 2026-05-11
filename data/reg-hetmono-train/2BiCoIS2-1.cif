@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoSCoBiSIBiS2I
+_chemical_formula_sum              "Co2 S4 Bi2 I2"
+_cell_length_a       3.7025030189866905
+_cell_length_b       8.891961627507365
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000000000081  0.566716375602866  0.4999999528968221  1.0000
+  S   S1        1.0  0.9999999999999998  0.520967345911131  0.5394837401144074  1.0000
+  Co  Co2       1.0  0.5000000000000068  0.06671655794286972  0.49999999964768843  1.0000
+  Bi  Bi1       1.0  0.0  0.7803942687109545  0.573708286468762  1.0000
+  S   S2        1.0  0.5000000000000081  0.8186669718909498  0.5198767820112495  1.0000
+  I   I1        1.0  0.0  0.13071153360347418  0.554120056609259  1.0000
+  Bi  Bi2       1.0  1.751506190004747e-18  0.3530385345528678  0.42629165860368684  1.0000
+  S   S3        1.0  0.5000000000000081  0.314765875946545  0.48012335511457127  1.0000
+  S   S4        1.0  2.4501707109433178e-18  0.6124660325275474  0.4605163258014562  1.0000
+  I   I2        1.0  7.171050652380624e-18  0.002721402775995153  0.44588000150114987  1.0000

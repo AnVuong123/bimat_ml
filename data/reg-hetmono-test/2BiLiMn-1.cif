@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiLiBiMn2Li
+_chemical_formula_sum              "Bi2 Li2 Mn2"
+_cell_length_a       4.192894641392973
+_cell_length_b       4.192894641393081
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99904133665989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9872195566121087  0.9872195566121192  0.3971105635850967  1.0000
+  Li  Li1       1.0  0.4875846650432078  0.487584665043213  0.391126924997822  1.0000
+  Bi  Bi2       1.0  0.4875476076957441  0.4875476076957557  0.6028879163834927  1.0000
+  Mn  Mn1       1.0  0.48733725039401443  0.9874290990936658  0.4999993171439605  1.0000
+  Mn  Mn2       1.0  0.987429099093674  0.48733725039400727  0.4999993171439605  1.0000
+  Li  Li2       1.0  0.9871825893500517  0.9871825893500671  0.608871941080925  1.0000

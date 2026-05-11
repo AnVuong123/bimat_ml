@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2S2Au2Cl2
+_chemical_formula_sum              "Cd2 S2 Au2 Cl2"
+_cell_length_a       4.417606262741764
+_cell_length_b       7.13675724463923
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5000000000000001  0.10829803074508204  0.5285663043631644  1.0000
+  Cd  Cd2       1.0  0.5  0.6082980307450794  0.47143369563683396  1.0000
+  S   S1        1.0  0.5000000000000002  0.24931138196422784  0.46903750295869556  1.0000
+  S   S2        1.0  0.5000000000000001  0.7493113819642021  0.5309624970412973  1.0000
+  Au  Au1       1.0  0.0  0.18416440663500766  0.4562122139896603  1.0000
+  Au  Au2       1.0  0.0  0.684164406634942  0.5437877860103397  1.0000
+  Cl  Cl1       1.0  1.6952282984085482e-17  0.2148538831252772  0.5570957357371905  1.0000
+  Cl  Cl2       1.0  2.4376731832960676e-17  0.7148538831252698  0.44290426426280993  1.0000

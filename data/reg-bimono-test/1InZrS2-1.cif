@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InZrS2
+_chemical_formula_sum              "In1 Zr1 S2"
+_cell_length_a       3.7289506603619427
+_cell_length_b       3.728900210595105
+_cell_length_c       20.090920967457365
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    119.99561896039026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6653781566679834  0.014991014108109022  0.560030942853913  1.0000
+  Zr  Zr1       1.0  0.3323701918275165  0.3488496335789989  0.43641610912114825  1.0000
+  S   S1        1.0  0.9987313086072883  0.6816613187507083  0.6266970532536431  1.0000
+  S   S2        1.0  0.9991231134189921  0.6823391418391264  0.3733029467463568  1.0000

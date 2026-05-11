@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiCl2NiCl2
+_chemical_formula_sum              "Ni2 Cl4"
+_cell_length_a       3.5024165891009615
+_cell_length_b       3.502416589100961
+_cell_length_c       26.20807531444541
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.335602584870171  1.0000
+  Cl  Cl1       1.0  0.6666666653236069  0.33333333324569425  0.38553146458758986  1.0000
+  Cl  Cl2       1.0  0.3333333332456943  0.6666666664913885  0.2856737051527521  1.0000
+  Ni  Ni2       1.0  0.649938485004764  0.3239840649118606  0.556534668227263  1.0000
+  Cl  Cl3       1.0  0.31660515292685143  0.6573173981575549  0.6064635475631202  1.0000
+  Cl  Cl4       1.0  0.9832718182504583  0.9906507314032491  0.5066057885098442  1.0000

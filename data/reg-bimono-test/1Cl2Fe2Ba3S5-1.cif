@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2S4Ba2Cl2BaS
+_chemical_formula_sum              "Fe2 S5 Ba3 Cl2"
+_cell_length_a       4.595991258488534
+_cell_length_b       4.59599125848849
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  5.527931099579353e-20  5.569693966133872e-17  0.4448354064035529  1.0000
+  Fe  Fe2       1.0  2.1703968537423458e-17  0.9999999999999999  0.5551645935964472  1.0000
+  S   S1        1.0  0.0  0.49999999999999534  0.5656513506554208  1.0000
+  S   S2        1.0  0.49999999999999106  0.0  0.5656513506554208  1.0000
+  S   S3        1.0  0.0  0.49999999999999534  0.43434864934457923  1.0000
+  S   S4        1.0  0.4999999999999912  0.0  0.43434864934457923  1.0000
+  Ba  Ba1       1.0  0.49999999999999106  0.49999999999999534  0.6194982677977147  1.0000
+  Ba  Ba2       1.0  0.4999999999999912  0.49999999999999534  0.380501732202288  1.0000
+  Cl  Cl1       1.0  3.1424423155312406e-18  5.961113044380944e-18  0.3553583943695001  1.0000
+  Cl  Cl2       1.0  0.0  1.0646787525457907e-17  0.6446416056304964  1.0000
+  Ba  Ba3       1.0  0.49999999999999106  0.49999999999999534  0.5  1.0000
+  S   S5        1.0  4.873027879106323e-18  9.476199527157547e-18  0.5  1.0000

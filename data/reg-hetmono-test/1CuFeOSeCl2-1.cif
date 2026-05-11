@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeCuFeCl2O
+_chemical_formula_sum              "Se1 Cu1 Fe1 Cl2 O1"
+_cell_length_a       3.5819993920203506
+_cell_length_b       3.4951958257192777
+_cell_length_c       21.151225137320072
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00984701438884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7499235953971433  0.7495378239625152  0.5057137625769021  1.0000
+  Cu  Cu1       1.0  0.7495262062091044  0.2496840572979739  0.5806329369475173  1.0000
+  Fe  Fe1       1.0  0.250025165818637  0.7490609778186073  0.4291771288658706  1.0000
+  Cl  Cl1       1.0  0.7501281684510427  0.7485864637499419  0.3546261307949266  1.0000
+  Cl  Cl2       1.0  0.24956940805273323  0.24885011978057694  0.6453619216900592  1.0000
+  O   O1        1.0  0.2500381873471475  0.2490454842708761  0.4290372513017908  1.0000

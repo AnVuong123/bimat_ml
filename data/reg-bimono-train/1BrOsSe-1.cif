@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SeOsBr
+_chemical_formula_sum              "Se1 Os1 Br1"
+_cell_length_a       3.739475692418808
+_cell_length_b       3.7359649824289622
+_cell_length_c       17.687898147733886
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.04899026857228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8333087084712898  0.49713212028482273  0.42401872383920725  1.0000
+  Os  Os1       1.0  0.16673747299396183  0.16414267999892113  0.48628345733516715  1.0000
+  Br  Br1       1.0  0.49979435908715164  0.8315834026667746  0.5759812761607928  1.0000

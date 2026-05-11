@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SCrSCoCrS2
+_chemical_formula_sum              "S4 Cr2 Co1"
+_cell_length_a       3.394542975843648
+_cell_length_b       3.3944435383696
+_cell_length_c       38.37088052501407
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00096904873664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7251863425020791  0.45037268500416056  0.605949323708671  1.0000
+  Cr  Cr1       1.0  0.05838803984723255  0.11677607969446596  0.4263063104667342  1.0000
+  S   S2        1.0  0.7251052107182177  0.4502104214364376  0.4678009068909349  1.0000
+  Co  Co1       1.0  0.05845918479711442  0.11691836959422973  0.5000011001286737  1.0000
+  Cr  Cr2       1.0  0.05853024242916817  0.11706048485833738  0.5736956359015487  1.0000
+  S   S3        1.0  0.3918134325368192  0.7836268650736444  0.5322012158465405  1.0000
+  S   S4        1.0  0.3917318865273795  0.783463773054765  0.39405260629323885  1.0000

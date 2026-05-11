@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Al2SI2
+_chemical_formula_sum              "Al2 S1 I2"
+_cell_length_a       4.0337505636825455
+_cell_length_b       4.034180840109607
+_cell_length_c       20.994261585618027
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99852724294722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.1730828391164406  0.16585983843094848  0.5580651341445738  1.0000
+  Al  Al2       1.0  0.5062705273485605  0.8319392720772254  0.44194525929805767  1.0000
+  S   S1        1.0  0.8392379570364614  0.4984960016381779  0.5000443809425403  1.0000
+  I   I1        1.0  0.5052684789088957  0.8327602077140911  0.6427353583141078  1.0000
+  I   I2        1.0  0.17202539028285485  0.16412887077041569  0.35727043561495553  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClNaO3ClNaO3
+_chemical_formula_sum              "Cl2 Na2 O6"
+_cell_length_a       4.156652090441914
+_cell_length_b       5.339273633393381
+_cell_length_c       33.864000000000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.041344546812625005  0.0  0.4624367694518043  1.0000
+  Na  Na1       1.0  0.5327075314175437  0.5000000000000164  0.44700224008027234  1.0000
+  O   O1        1.0  0.3714786269342159  0.9999999999999999  0.48168727293788544  1.0000
+  O   O2        1.0  0.02984719879093034  0.7693855060553764  0.4363271735060738  1.0000
+  O   O3        1.0  0.02984719879093034  0.23061449394465214  0.4363271735060738  1.0000
+  Cl  Cl2       1.0  0.9586554531874059  0.5000000000000046  0.5375632305481957  1.0000
+  Na  Na2       1.0  0.4672924685824941  0.0  0.5529977599197249  1.0000
+  O   O4        1.0  0.6285213730657839  0.5000000000000046  0.5183127270621146  1.0000
+  O   O5        1.0  0.9701528012091044  0.26938550605535144  0.5636728264939225  1.0000
+  O   O6        1.0  0.9701528012091044  0.7306144939446519  0.5636728264939225  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaAuTe6As2
+_chemical_formula_sum              "Ga1 Au1 Te6 As2"
+_cell_length_a       6.994549634371386
+_cell_length_b       6.994549634371366
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00312418430505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999969018830571  3.098116942907142e-06  0.5  1.0000
+  Au  Au1       1.0  0.6666679926589447  0.333332007341056  0.5  1.0000
+  Te  Te1       1.0  0.719168188496261  0.6839232261948982  0.5548645364843536  1.0000
+  Te  Te2       1.0  0.9647337593846634  0.2808009310422381  0.5548663441354917  1.0000
+  Te  Te3       1.0  0.3161155955567957  0.03531107141858092  0.5548600580573531  1.0000
+  Te  Te4       1.0  0.3160767738051041  0.2808318115037399  0.4451354635156461  1.0000
+  Te  Te5       1.0  0.9646889285814165  0.6838844044432024  0.4451399419426475  1.0000
+  Te  Te6       1.0  0.719199068957762  0.03526624061533634  0.44513365586450787  1.0000
+  As  As1       1.0  0.3333308258942782  0.666678047337412  0.5382216294662553  1.0000
+  As  As2       1.0  0.33332195266259007  0.6666691741057234  0.4617783705337455  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbNCaClNbNCl
+_chemical_formula_sum              "Nb2 N2 Ca1 Cl2"
+_cell_length_a       3.5344854847010905
+_cell_length_b       3.5347994917939776
+_cell_length_c       23.438643010242732
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01666234204245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.4967621816260844  0.5008307128277265  0.525611236843509  1.0000
+  N   N1        1.0  0.8302173325678963  0.16772537548738786  0.5680426846432314  1.0000
+  Ca  Ca1       1.0  0.8289657621796247  0.16608574740979673  0.39199586875141185  1.0000
+  Cl  Cl1       1.0  0.1617997090246544  0.8325773564717903  0.3199960634754688  1.0000
+  Nb  Nb2       1.0  0.16361099504828364  0.8346035928712203  0.607299720656745  1.0000
+  N   N2        1.0  0.4961658394872799  0.4996663154592538  0.4489421522435379  1.0000
+  Cl  Cl2       1.0  0.4970173314488763  0.5013393804578219  0.6799400551996434  1.0000

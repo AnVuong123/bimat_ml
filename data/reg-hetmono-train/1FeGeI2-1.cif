@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IFeGeI
+_chemical_formula_sum              "I2 Fe1 Ge1"
+_cell_length_a       4.073758041391274
+_cell_length_b       4.073346392840028
+_cell_length_c       19.21343595371985
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.27665612160594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7721435967926121  0.24804313061477976  0.3903518359790275  1.0000
+  Fe  Fe1       1.0  0.848996752021688  0.17131614896742564  0.5253544601362956  1.0000
+  Ge  Ge1       1.0  0.509413981568291  0.5105387608267351  0.49616287421961736  1.0000
+  I   I2        1.0  0.16794762775677027  0.8519263149326384  0.6096481640209723  1.0000

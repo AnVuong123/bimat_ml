@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrCsO3BrCsO3
+_chemical_formula_sum              "Br2 Cs2 O6"
+_cell_length_a       5.118826643796658
+_cell_length_b       6.3653639137694595
+_cell_length_c       33.864000000000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.03095759556210087  0.0  0.4608208108355546  1.0000
+  Cs  Cs1       1.0  0.5021042236770592  0.500000000000009  0.4339810557723353  1.0000
+  O   O1        1.0  0.3490825580937833  0.9999999999999999  0.4759210855144119  1.0000
+  O   O2        1.0  0.9979604099175229  0.7844917331617233  0.4316540241895566  1.0000
+  O   O3        1.0  0.9979604099175229  0.2155082668382865  0.4316540241895566  1.0000
+  Br  Br2       1.0  0.969042404437945  0.500000000000008  0.5391791891644467  1.0000
+  Cs  Cs2       1.0  0.49789577632297316  0.0  0.5660189442276601  1.0000
+  O   O4        1.0  0.6509174419062435  0.500000000000008  0.5240789144855881  1.0000
+  O   O5        1.0  0.0020395900825094238  0.28449173316172416  0.5683459758104379  1.0000
+  O   O6        1.0  0.0020395900825094238  0.7155082668382773  0.5683459758104379  1.0000

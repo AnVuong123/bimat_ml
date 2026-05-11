@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SLiMoBrSCrBrTa
+_chemical_formula_sum              "S2 Li1 Mo1 Br2 Cr1 Ta1"
+_cell_length_a       3.458468883521368
+_cell_length_b       6.129002155102841
+_cell_length_c       21.226997385027644
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.99183807079197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7513336859024596  0.32450018778864376  0.4582525027807728  1.0000
+  Li  Li1       1.0  0.2513116744284934  0.6340172105540581  0.4678625572297638  1.0000
+  Mo  Mo1       1.0  0.25153018088324874  0.14136282083643134  0.520545379707765  1.0000
+  Br  Br1       1.0  0.2527776336983069  0.7859526970420516  0.3533275002833976  1.0000
+  S   S2        1.0  0.7515863408942566  0.8246857960166135  0.5378773733117105  1.0000
+  Cr  Cr1       1.0  0.7525557318551642  0.9638606515389699  0.42320372808104795  1.0000
+  Br  Br2       1.0  0.25162056518507353  0.2618325028707954  0.6466756047238276  1.0000
+  Ta  Ta1       1.0  0.7515731947691775  0.4386409212797975  0.5667092967636206  1.0000

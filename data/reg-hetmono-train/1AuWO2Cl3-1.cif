@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl2AuWClO2
+_chemical_formula_sum              "Cl3 Au1 W1 O2"
+_cell_length_a       3.9255715858584193
+_cell_length_b       8.581023477040794
+_cell_length_c       19.131365790669292
+_cell_angle_alpha    89.99999999999996
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    128.67595279660458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.1664297882880966  0.5737958045424633  0.3920263760602959  1.0000
+  Cl  Cl2       1.0  0.6734797839560179  0.9454028215916964  0.6079736239397039  1.0000
+  Au  Au1       1.0  0.9111744577289398  0.25436397817657147  0.4177092627302989  1.0000
+  W   W1        1.0  0.4961904194942501  0.775682908245578  0.5058343628034566  1.0000
+  Cl  Cl3       1.0  0.9944291966923465  0.466450397586677  0.5622187901153014  1.0000
+  O   O1        1.0  0.71597576897417  0.9837706977953744  0.4494087056466345  1.0000
+  O   O2        1.0  0.9219558471853598  0.7593315082845116  0.5041052454224846  1.0000

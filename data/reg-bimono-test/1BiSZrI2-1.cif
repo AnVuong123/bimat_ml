@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       IBiSIZr
+_chemical_formula_sum              "I2 Bi1 S1 Zr1"
+_cell_length_a       4.531032358101157
+_cell_length_b       4.5288789218750285
+_cell_length_c       21.38263996281872
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.73556289582804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.49121940195977376  0.17556330491976685  0.3507518254547335  1.0000
+  Bi  Bi1       1.0  0.8515827313586585  0.8145866590681637  0.5596149160625411  1.0000
+  S   S1        1.0  0.13385267240217844  0.5299558379639812  0.4808961015643709  1.0000
+  I   I2        1.0  0.5437865493091828  0.12598537094520357  0.6492481745452665  1.0000
+  Zr  Zr1       1.0  0.4751101208790215  0.1908923494687626  0.47728574266571916  1.0000

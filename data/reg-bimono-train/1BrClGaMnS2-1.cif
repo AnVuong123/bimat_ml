@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnS2GaClBr
+_chemical_formula_sum              "Mn1 S2 Ga1 Cl1 Br1"
+_cell_length_a       3.5268713291442078
+_cell_length_b       4.969827507422608
+_cell_length_c       20.50625470165809
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01475670569734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7500718047900657  0.7495248468684336  0.5541058593873498  1.0000
+  S   S1        1.0  0.7495546325195086  0.24969926298772  0.5385249098336847  1.0000
+  S   S2        1.0  0.2487896262147007  0.7500798027519391  0.4732876959046531  1.0000
+  Ga  Ga1       1.0  0.24888103698408665  0.2504178395693758  0.45677452107935673  1.0000
+  Cl  Cl1       1.0  0.2517096958374749  0.7489146004486714  0.6342489170338044  1.0000
+  Br  Br1       1.0  0.7478229919333749  0.2508066896671522  0.3657079888128712  1.0000

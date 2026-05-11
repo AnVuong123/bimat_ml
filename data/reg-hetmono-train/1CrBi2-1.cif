@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       CrBi2
+_chemical_formula_sum              "Cr1 Bi2"
+_cell_length_a       3.418411867761784
+_cell_length_b       3.4184118677617836
+_cell_length_c       18.127
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  3.4098939848409314e-16  3.333737006475641e-16  0.49999999654610594  1.0000
+  Bi  Bi1       1.0  0.666666666666667  0.3333333333333337  0.6220298926218855  1.0000
+  Bi  Bi2       1.0  0.3333333333333336  0.6666666666666669  0.3779700974102059  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InAgTe6As2
+_chemical_formula_sum              "In1 Ag1 Te6 As2"
+_cell_length_a       7.135252876958555
+_cell_length_b       7.1352528769585675
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00227292512065
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9999961424331124  3.8575668877304964e-06  0.5  1.0000
+  Ag  Ag1       1.0  0.6666883056705112  0.33331169432949165  0.5  1.0000
+  Te  Te1       1.0  0.691058801043123  0.6794113174299679  0.5580380434891481  1.0000
+  Te  Te2       1.0  0.9883263297013913  0.3089272198823049  0.55803917497239  1.0000
+  Te  Te3       1.0  0.32060118236284485  0.011681666993576423  0.5580374977642958  1.0000
+  Te  Te4       1.0  0.3205886825700335  0.30894119895688016  0.44196195651085035  1.0000
+  Te  Te5       1.0  0.9883183330064238  0.6793988176371583  0.44196250223570344  1.0000
+  Te  Te6       1.0  0.691072780117698  0.01167367029860844  0.4419608250276088  1.0000
+  As  As1       1.0  0.3333250084137853  0.6666755872187315  0.5381752319701517  1.0000
+  As  As2       1.0  0.33332441278127295  0.666674991586218  0.46182476802984934  1.0000

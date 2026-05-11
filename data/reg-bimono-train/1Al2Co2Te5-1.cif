@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2Al2Te5
+_chemical_formula_sum              "Co2 Al2 Te5"
+_cell_length_a       4.031467631419423
+_cell_length_b       4.031538755359502
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99941641288245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9999982299481103  0.9999964598962205  0.4678520820554297  1.0000
+  Co  Co2       1.0  0.9999982299481103  0.9999964598962205  0.5321479179445704  1.0000
+  Al  Al1       1.0  0.333321604689982  0.666643209379964  0.3766983420909998  1.0000
+  Al  Al2       1.0  0.333321604689982  0.666643209379964  0.6233016579090033  1.0000
+  Te  Te1       1.0  0.6666687189444916  0.3333374378889815  0.5  1.0000
+  Te  Te2       1.0  0.33333780946800534  0.6666756189360107  0.440178911679914  1.0000
+  Te  Te3       1.0  0.33333780946800534  0.6666756189360107  0.5598210883200861  1.0000
+  Te  Te4       1.0  0.6666546424413291  0.3333092848826648  0.3453311446557404  1.0000
+  Te  Te5       1.0  0.6666546424413291  0.3333092848826648  0.6546688553442598  1.0000

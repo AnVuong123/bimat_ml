@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlS2AuBr2
+_chemical_formula_sum              "Al1 S2 Au1 Br2"
+_cell_length_a       3.577691130744371
+_cell_length_b       5.17408989839793
+_cell_length_c       20.683322004265865
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98781341627273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7479350625283513  0.2475205648202143  0.45250536875460157  1.0000
+  S   S1        1.0  0.7469321064609428  0.7473471996377817  0.458305418322822  1.0000
+  S   S2        1.0  0.24800972761607187  0.24733741536786719  0.5288651518490027  1.0000
+  Au  Au1       1.0  0.24784085379792348  0.7473545303392768  0.540868251272142  1.0000
+  Br  Br1       1.0  0.7483441781073872  0.7474229823011254  0.6350252303863678  1.0000
+  Br  Br2       1.0  0.24703471161798332  0.24740883394927846  0.36400770375290015  1.0000

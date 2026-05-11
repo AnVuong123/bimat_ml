@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AsSeNi2S
+_chemical_formula_sum              "As1 Se1 Ni2 S1"
+_cell_length_a       3.948791675931818
+_cell_length_b       3.947882520139584
+_cell_length_c       19.5730239180599
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    125.10637764019086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.2861475366022013  0.22101425750042464  0.3831315964398863  1.0000
+  Se  Se1       1.0  0.6727402666322734  0.8359513213955837  0.4654305767079797  1.0000
+  Ni  Ni1       1.0  0.3682173761971507  0.14066931013631645  0.505695975952514  1.0000
+  Ni  Ni2       1.0  0.6678212232767825  0.843801112392146  0.5892404636741682  1.0000
+  S   S1        1.0  0.34496731688894583  0.1662497240029592  0.6167117728970744  1.0000

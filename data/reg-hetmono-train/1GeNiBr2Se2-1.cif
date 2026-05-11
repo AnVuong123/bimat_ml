@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiGeSeBr2Se
+_chemical_formula_sum              "Ni1 Ge1 Se2 Br2"
+_cell_length_a       6.255553032300767
+_cell_length_b       3.8429002189505495
+_cell_length_c       18.085411937146855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    94.95206200899818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.44087896821212996  0.8309082579069745  0.5092248837409172  1.0000
+  Ge  Ge1       1.0  0.9356436445660641  0.3330141382108381  0.5184692178887238  1.0000
+  Se  Se1       1.0  0.7407714012054886  0.7984052449664415  0.5853319431508441  1.0000
+  Br  Br1       1.0  0.6606698851340386  0.17320126238740283  0.41474325783609  1.0000
+  Br  Br2       1.0  0.15602681542712063  0.7574261175151686  0.42092842910833367  1.0000
+  Se  Se2       1.0  0.30889862483929953  0.3388854883327193  0.5745128677131444  1.0000

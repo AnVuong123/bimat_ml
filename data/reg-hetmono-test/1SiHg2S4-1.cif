@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg2SiS4
+_chemical_formula_sum              "Hg2 Si1 S4"
+_cell_length_a       6.347868778500195
+_cell_length_b       7.36117943741722
+_cell_length_c       32.267544
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.54196060876812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5  1.1594220196162623e-17  0.5319891354491506  1.0000
+  Hg  Hg2       1.0  0.0  3.543434825732487e-17  0.4680108645508387  1.0000
+  Si  Si1       1.0  0.4999999999999998  0.49999999999999994  0.5  1.0000
+  S   S1        1.0  0.6056544932982452  0.34253575066123515  0.5455214853961149  1.0000
+  S   S2        1.0  0.7631187426370066  0.6574642493387581  0.4544785146038738  1.0000
+  S   S3        1.0  0.3943455067017485  0.6574642493387581  0.5455214853961149  1.0000
+  S   S4        1.0  0.23688125736298715  0.34253575066123354  0.4544785146038738  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2In2S5
+_chemical_formula_sum              "Ni2 In2 S5"
+_cell_length_a       3.705180817485906
+_cell_length_b       3.7051808174859358
+_cell_length_c       42.16152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99696638331628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999662469014654  3.375309853452187e-05  0.4673270397729009  1.0000
+  Ni  Ni2       1.0  0.666633766572893  0.333366233427118  0.5326757098350196  1.0000
+  In  In1       1.0  0.9999698637054985  3.0136294501607218e-05  0.612759381985719  1.0000
+  In  In2       1.0  0.6666302277610132  0.33336977223898634  0.387238850373015  1.0000
+  S   S1        1.0  0.3332995706101679  0.6667004293898209  0.5000002918360711  1.0000
+  S   S2        1.0  0.9999660654494976  3.3934550502339105e-05  0.5543039350763564  1.0000
+  S   S3        1.0  0.6666339622702195  0.3333660377297752  0.44569446105373417  1.0000
+  S   S4        1.0  0.9999678527000658  3.214729993420457e-05  0.35680994717083253  1.0000
+  S   S5        1.0  0.6666322348824807  0.3333677651175275  0.6431905621803172  1.0000

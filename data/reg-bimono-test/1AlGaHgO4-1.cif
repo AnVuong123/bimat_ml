@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgAlGaO4
+_chemical_formula_sum              "Hg1 Al1 Ga1 O4"
+_cell_length_a       3.1850751379496107
+_cell_length_b       3.185082085515102
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00007215644594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999982877171486  0.9999991438585746  0.49883019597085115  1.0000
+  Al  Al1       1.0  0.6666604841093973  0.333330242054703  0.41711026911688565  1.0000
+  Ga  Ga1       1.0  0.33333726986398343  0.6666686349319961  0.5832530969392828  1.0000
+  O   O1        1.0  0.666666688616101  0.3333333443080535  0.4608113809401525  1.0000
+  O   O2        1.0  0.33333448794378556  0.6666672439718988  0.5363578846278213  1.0000
+  O   O3        1.0  0.3333336478983763  0.6666668239491953  0.40331583446303726  1.0000
+  O   O4        1.0  0.6666692938336146  0.333334646916809  0.6003337116434186  1.0000

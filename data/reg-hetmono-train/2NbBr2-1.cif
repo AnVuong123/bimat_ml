@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbBr2NbBr2
+_chemical_formula_sum              "Nb2 Br4"
+_cell_length_a       3.5532607637095883
+_cell_length_b       6.159562860486692
+_cell_length_c       18.823797729127772
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  7.494697834296738e-18  0.07698904672587392  0.50662683671895  1.0000
+  Br  Br1       1.0  0.49999999999999994  0.1771098176493022  0.6046606501575709  1.0000
+  Br  Br2       1.0  1.0726005911848634e-16  0.32289020072497376  0.3953393489182779  1.0000
+  Nb  Nb2       1.0  0.5  0.42301096545466493  0.4933731631934853  1.0000
+  Br  Br3       1.0  0.9999999999999999  0.6793996896498942  0.5794716134390323  1.0000
+  Br  Br4       1.0  0.5000000000000001  0.8206003104943784  0.4205283858124251  1.0000

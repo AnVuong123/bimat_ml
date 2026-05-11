@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta2Cl6
+_chemical_formula_sum              "Ta2 Cl6"
+_cell_length_a       5.768870551023296
+_cell_length_b       5.768870551023296
+_cell_length_c       18.176595937811918
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6666666666666669  0.3333333333333334  0.5000003351239998  1.0000
+  Ta  Ta2       1.0  0.33333333333333276  0.6666666666666669  0.49999966560628767  1.0000
+  Cl  Cl1       1.0  0.3483596563398518  0.9999996045005775  0.4124732315482777  1.0000
+  Cl  Cl2       1.0  0.6516399481607256  0.6516403436601481  0.4124732315482777  1.0000
+  Cl  Cl3       1.0  3.9549942268281696e-07  0.34836005183927427  0.4124732315482777  1.0000
+  Cl  Cl4       1.0  0.34835971449257397  0.9999997205043911  0.5875267685866301  1.0000
+  Cl  Cl5       1.0  0.6516400060118188  0.6516402855074289  0.5875267685866301  1.0000
+  Cl  Cl6       1.0  2.79495608659363e-07  0.3483599939881819  0.5875267685866301  1.0000

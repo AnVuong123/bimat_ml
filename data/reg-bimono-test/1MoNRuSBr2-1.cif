@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuMoNSBr2
+_chemical_formula_sum              "Ru1 Mo1 N1 S1 Br2"
+_cell_length_a       3.5161526842801907
+_cell_length_b       3.8435245983055277
+_cell_length_c       21.56564155950892
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    101.32889042858854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.41183979140998644  0.3274907805231062  0.45983920989539945  1.0000
+  Mo  Mo1       1.0  0.7718482754859556  0.6060752971674507  0.5688245879816591  1.0000
+  N   N1        1.0  0.2392914027876572  0.4736194371996895  0.5418975215528936  1.0000
+  S   S1        1.0  0.8113659759444959  0.9289444723972476  0.4722141237699769  1.0000
+  Br  Br1       1.0  0.4150648946342541  0.31024489114121473  0.34778869652318106  1.0000
+  Br  Br2       1.0  0.6615958093506025  0.05780514894359665  0.6522160800254895  1.0000

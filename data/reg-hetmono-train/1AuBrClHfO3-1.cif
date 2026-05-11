@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2AuBrHfOCl
+_chemical_formula_sum              "O3 Au1 Br1 Hf1 Cl1"
+_cell_length_a       4.309578908400521
+_cell_length_b       4.060109212652608
+_cell_length_c       21.139560339208902
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.84663698148884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2263526428141868  0.2880375926913044  0.5059728645185471  1.0000
+  O   O2        1.0  0.6384387763696178  0.181422871549051  0.4338156236480249  1.0000
+  Au  Au1       1.0  0.7399366096639901  0.2611436193000201  0.5302672098757957  1.0000
+  Br  Br1       1.0  0.8148638746501655  0.32249275975904557  0.6452276161547259  1.0000
+  Hf  Hf1       1.0  0.30469827336409844  0.8224843488194141  0.45927370001485224  1.0000
+  O   O3        1.0  0.7598045709031868  0.7534045655239997  0.5050670122740044  1.0000
+  Cl  Cl1       1.0  0.1674356353207078  0.7170749435805077  0.3550510104803712  1.0000

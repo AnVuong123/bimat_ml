@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2GeCo3
+_chemical_formula_sum              "Te2 Ge1 Co3"
+_cell_length_a       3.9453716134953014
+_cell_length_b       3.9453464766867046
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00022089369716
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8333268918792804  0.5000542331752676  0.6249223437735526  1.0000
+  Te  Te2       1.0  0.8333268926106461  0.500054225780592  0.375079399266405  1.0000
+  Ge  Ge1       1.0  0.49999327800325116  0.8333861506946586  0.5000010026889052  1.0000
+  Co  Co1       1.0  0.166662343401774  0.1667247618247725  0.5637350506581044  1.0000
+  Co  Co2       1.0  0.16666234407323882  0.16672475660028963  0.4362669866789043  1.0000
+  Co  Co3       1.0  0.833327913487899  0.5000554651183151  0.5000008465059054  1.0000

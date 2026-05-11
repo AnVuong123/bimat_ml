@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2GeO4
+_chemical_formula_sum              "Cd2 Ge1 O4"
+_cell_length_a       8.174699367099116
+_cell_length_b       6.608480135254568
+_cell_length_c       32.267544
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    128.2067311563171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4999999999999999  7.842379243477984e-18  0.5268295612846736  1.0000
+  Cd  Cd2       1.0  2.919625705506196e-17  4.964342248592132e-17  0.47317043871532755  1.0000
+  Ge  Ge1       1.0  0.4999999999999998  0.5  0.5  1.0000
+  O   O1        1.0  0.5281455927181652  0.31448782072746895  0.5350374827433263  1.0000
+  O   O2        1.0  0.7136577719906962  0.6855121792725313  0.46496251725668014  1.0000
+  O   O3        1.0  0.4718544072818319  0.6855121792725322  0.5350374827433263  1.0000
+  O   O4        1.0  0.28634222800929976  0.31448782072746834  0.46496251725668014  1.0000

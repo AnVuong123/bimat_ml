@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrSBrGaBrO
+_chemical_formula_sum              "Ir1 S1 Br2 Ga1 O1"
+_cell_length_a       3.5272442512459032
+_cell_length_b       4.5562108700120705
+_cell_length_c       20.613005728880395
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.97015821958605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.2498510888532529  0.7191441224634965  0.5519894830549826  1.0000
+  S   S1        1.0  0.25063302913998825  0.21532287163845504  0.5285797676758864  1.0000
+  Br  Br1       1.0  0.2543831010612178  0.31295778112022477  0.3638477535270866  1.0000
+  Ga  Ga1       1.0  0.7511298214361858  0.31187303138487577  0.45422366368545675  1.0000
+  Br  Br2       1.0  0.7498020622553364  0.7237841641842317  0.6361529990581527  1.0000
+  O   O1        1.0  0.7502296420699852  0.7179994635747632  0.48941148973654197  1.0000

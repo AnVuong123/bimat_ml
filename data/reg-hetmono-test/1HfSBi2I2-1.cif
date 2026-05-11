@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiI2SBiHf
+_chemical_formula_sum              "Bi2 I2 S1 Hf1"
+_cell_length_a       9.458766413699566
+_cell_length_b       4.778276673149668
+_cell_length_c       19.992106541190655
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    139.29527749638947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9433615486248573  0.9603110670323048  0.5758684099089084  1.0000
+  I   I1        1.0  0.4405869291604955  0.2064559000183391  0.6248519392117381  1.0000
+  I   I2        1.0  0.44071962053467345  0.206825695628399  0.3751480607882619  1.0000
+  S   S1        1.0  0.31255501203475566  0.5144197513090857  0.5000642110606955  1.0000
+  Bi  Bi2       1.0  0.943686593830916  0.9609896803289578  0.4241720935287867  1.0000
+  Hf  Hf1       1.0  0.186274332673721  0.8249743663593716  0.5000408439708878  1.0000

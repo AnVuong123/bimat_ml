@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaRuSeI
+_chemical_formula_sum              "Ga1 Ru1 Se1 I1"
+_cell_length_a       3.4778021134819883
+_cell_length_b       3.4769302470250456
+_cell_length_c       20.69133348686814
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    120.0372768613746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5831102592778488  0.1680126348426453  0.48972567836075237  1.0000
+  Ru  Ru1       1.0  0.2497169842766557  0.5010896554374873  0.5696755350875168  1.0000
+  Se  Se1       1.0  0.5830216710078653  0.16788232866374536  0.6374954428944163  1.0000
+  I   I1        1.0  0.5825921057126527  0.1683069100916863  0.36224738304548604  1.0000

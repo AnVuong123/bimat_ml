@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaClHfN2I
+_chemical_formula_sum              "Ga1 Cl1 Hf1 N2 I1"
+_cell_length_a       3.475716655779159
+_cell_length_b       3.4757703714577555
+_cell_length_c       23.144552089767224
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    120.00603360656038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.09829061372999015  0.06735897541419782  0.4507442772368131  1.0000
+  Cl  Cl1       1.0  0.43158758974310835  0.7339554847484586  0.6766627219814666  1.0000
+  Hf  Hf1       1.0  0.4315703353105566  0.7340857922254793  0.573689286394163  1.0000
+  N   N1        1.0  0.7648825165649392  0.40076070773243755  0.5601046323046495  1.0000
+  N   N2        1.0  0.4316144007783014  0.7340336838973966  0.4648838953255239  1.0000
+  I   I1        1.0  0.09853537381910592  0.0670925179280507  0.322156462712997  1.0000

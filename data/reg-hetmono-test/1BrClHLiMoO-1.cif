@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HClOLiMoBr
+_chemical_formula_sum              "H1 Cl1 O1 Li1 Mo1 Br1"
+_cell_length_a       4.593250697115023
+_cell_length_b       3.7301600483062263
+_cell_length_c       18.666123188069967
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.37347129538736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.10722071137465616  0.4371745999031605  0.4562045086593389  1.0000
+  Cl  Cl1       1.0  0.8401319950195263  0.6052405596585758  0.589479460141907  1.0000
+  O   O1        1.0  0.3232741062602773  0.04041100201811192  0.556884702247033  1.0000
+  Li  Li1       1.0  0.3470958097461677  0.5221967588422944  0.5981998102703983  1.0000
+  Mo  Mo1       1.0  0.12169021851327136  0.9198643139204166  0.48117968352100804  1.0000
+  Br  Br1       1.0  0.5900199298245353  0.9417488442522808  0.40180485582754394  1.0000

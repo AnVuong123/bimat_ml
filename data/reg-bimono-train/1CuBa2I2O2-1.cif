@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuO2BaIBaI
+_chemical_formula_sum              "Cu1 O2 Ba2 I2"
+_cell_length_a       4.195121707489761
+_cell_length_b       4.19512170748972
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00582474759325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.97410234209382  0.9741023420938205  0.5000000000419801  1.0000
+  O   O1        1.0  0.4739950124172577  0.9740706170753073  0.4999999999929247  1.0000
+  O   O2        1.0  0.9740706170753145  0.47399501241725517  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.4739680761144062  0.47396807611441144  0.4131222677223269  1.0000
+  I   I1        1.0  0.9741361429219396  0.9741361429219395  0.32460834734960503  1.0000
+  Ba  Ba2       1.0  0.47396807612236475  0.4739680761223677  0.5868777322587743  1.0000
+  I   I2        1.0  0.9741361429409944  0.9741361429409944  0.675391652642717  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaCl5GaSe
+_chemical_formula_sum              "Ga2 Cl5 Se1"
+_cell_length_a       6.2249176702801705
+_cell_length_b       6.129741851071125
+_cell_length_c       17.975075786097882
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.49601082485039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9688040923943467  0.16375555898297975  0.49828200926562377  1.0000
+  Cl  Cl1       1.0  0.2970319587364382  0.15067901189341815  0.5756842910930461  1.0000
+  Cl  Cl2       1.0  0.011071045554535933  0.8565886854956254  0.4233779249081656  1.0000
+  Cl  Cl3       1.0  0.9896483017017066  0.4969694520015129  0.5755797827832253  1.0000
+  Cl  Cl4       1.0  0.6436448008846196  0.13358338385772822  0.41724441605974094  1.0000
+  Cl  Cl5       1.0  0.27596670847555677  0.4891088998527175  0.42335308541619193  1.0000
+  Ga  Ga2       1.0  0.3183814242093501  0.8388339055877304  0.4981703446314179  1.0000
+  Se  Se1       1.0  0.6432123020708573  0.8481731981142289  0.5827555839402591  1.0000

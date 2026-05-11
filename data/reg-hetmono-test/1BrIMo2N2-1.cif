@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoBrMoN2I
+_chemical_formula_sum              "Mo2 Br1 N2 I1"
+_cell_length_a       3.3996956932093303
+_cell_length_b       4.239813020386684
+_cell_length_c       20.41630292383453
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0024822510331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2531666953027166  0.786068170408744  0.5313536698421949  1.0000
+  Br  Br1       1.0  0.7533290577741045  0.7602605659918977  0.6326636574736129  1.0000
+  Mo  Mo2       1.0  0.75311926445167  0.20952122950647953  0.47988090028436636  1.0000
+  N   N1        1.0  0.7531383160622672  0.7165570449682557  0.4794927051079756  1.0000
+  N   N2        1.0  0.2531194163621936  0.278781779951275  0.5317349488069785  1.0000
+  I   I1        1.0  0.2525974836134164  0.2392059432504891  0.3672898011967389  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2S4Cu2
+_chemical_formula_sum              "F2 S4 Cu2"
+_cell_length_a       4.841863969895618
+_cell_length_b       7.265520052017184
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00207923375459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9914435743020569  0.9929415912799214  0.4562765339158984  1.0000
+  F   F2        1.0  0.49142963595800315  0.017054080985184697  0.5437115577873038  1.0000
+  S   S1        1.0  0.5738265987209606  0.6381840719120596  0.4508735547991574  1.0000
+  S   S2        1.0  0.0738333814970488  0.37179288953022743  0.5490936715164563  1.0000
+  S   S3        1.0  0.9615527570191643  0.6295891677635341  0.5518403814572481  1.0000
+  S   S4        1.0  0.46155354055281356  0.38038764434199135  0.4481277385833166  1.0000
+  Cu  Cu1       1.0  0.7610312523308292  0.189477935931352  0.49915338021735955  1.0000
+  Cu  Cu2       1.0  0.2610558996524294  0.8205027310330306  0.5008273650747145  1.0000

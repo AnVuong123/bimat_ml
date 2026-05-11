@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tl2Ga2Se6
+_chemical_formula_sum              "Tl2 Ga2 Se6"
+_cell_length_a       4.0221430872544035
+_cell_length_b       6.688841213113531
+_cell_length_c       37.097944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  2.03904739875292e-20  0.0014738274077703698  0.45087498783136776  1.0000
+  Tl  Tl2       1.0  0.4999999999999971  0.5014738274077675  0.5491250121686335  1.0000
+  Ga  Ga1       1.0  0.4999999999999971  0.561049464781606  0.42428786981060507  1.0000
+  Ga  Ga2       1.0  0.0  0.061049464781604876  0.5757121301893934  1.0000
+  Se  Se1       1.0  0.4999999999999971  0.7414482082383831  0.48260468433215953  1.0000
+  Se  Se2       1.0  2.625084040320098e-18  0.24144820823838126  0.5173953156678402  1.0000
+  Se  Se3       1.0  1.4023033488558515e-18  0.6990379280326312  0.3934150508596319  1.0000
+  Se  Se4       1.0  0.4999999999999971  0.19903792803263143  0.6065849491403705  1.0000
+  Se  Se5       1.0  5.588042899798847e-18  0.7028769028811716  0.5858861727934631  1.0000
+  Se  Se6       1.0  0.4999999999999971  0.20287690288116825  0.4141138272065388  1.0000

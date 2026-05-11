@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnSeTeSiGe
+_chemical_formula_sum              "Mn1 Se1 Te1 Si1 Ge1"
+_cell_length_a       3.5409115716970936
+_cell_length_b       4.215780454546675
+_cell_length_c       20.17506623299097
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.82052885356636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.44515042059189064  0.7210015242618125  0.4453144758982452  1.0000
+  Se  Se1       1.0  0.00977147527351141  0.8493954028308566  0.6282540085179131  1.0000
+  Te  Te1       1.0  0.13102642866453837  0.09325289246548062  0.37174599148208687  1.0000
+  Si  Si1       1.0  0.4783510336057085  0.7865430191580195  0.5535012018365534  1.0000
+  Ge  Ge1       1.0  0.7535140250057633  0.337346278515658  0.4748475229568946  1.0000

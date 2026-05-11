@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Se4MoBr2MnBrMn
+_chemical_formula_sum              "Se4 Mo1 Br3 Mn2"
+_cell_length_a       5.111298981146882
+_cell_length_b       6.873808142752952
+_cell_length_c       20.635482100751585
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    93.00461900407058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2774601524530145  0.043753338415726026  0.5412908894036049  1.0000
+  Se  Se2       1.0  0.7323749969969282  0.32394427647029245  0.44992423466004067  1.0000
+  Se  Se3       1.0  0.26460303320550665  0.5561105281816399  0.5523041026301697  1.0000
+  Se  Se4       1.0  0.7548722707407285  0.7983508235424916  0.48678582001656034  1.0000
+  Mo  Mo1       1.0  0.19882982254834358  0.3351296101415646  0.46421314825088933  1.0000
+  Br  Br1       1.0  0.783786428583346  0.2789020749655504  0.6365483508753677  1.0000
+  Br  Br2       1.0  0.24254018827549753  0.5560116010215234  0.36345164912463257  1.0000
+  Mn  Mn1       1.0  0.2451416029986758  0.7678657692323422  0.45951431849696744  1.0000
+  Br  Br3       1.0  0.25173076566766583  0.04069098207993505  0.3785641814522478  1.0000
+  Mn  Mn2       1.0  0.8035086944398613  0.11109251574973711  0.5369562465388754  1.0000

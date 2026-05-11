@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaAuTe6P2
+_chemical_formula_sum              "Ga1 Au1 Te6 P2"
+_cell_length_a       6.906625860033191
+_cell_length_b       6.906625860033196
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00254567935546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999967925965518  3.2074034481214783e-06  0.5  1.0000
+  Au  Au1       1.0  0.6666934073947242  0.3333065926052763  0.5  1.0000
+  Te  Te1       1.0  0.6922833295358435  0.6920811714642011  0.5547974429243151  1.0000
+  Te  Te2       1.0  0.9997706486829303  0.30770536215070177  0.5547990049748596  1.0000
+  Te  Te3       1.0  0.30793313392709964  0.00024034883906631777  0.5547964759794468  1.0000
+  Te  Te4       1.0  0.3079188285357987  0.30771667046415896  0.44520255707568446  1.0000
+  Te  Te5       1.0  0.9997596511609362  0.6920668660729041  0.4452035240205524  1.0000
+  Te  Te6       1.0  0.692294637849301  0.00022935131707035872  0.44520099502514016  1.0000
+  P   P1        1.0  0.3333280661958402  0.6666785222104086  0.5341414182038363  1.0000
+  P   P2        1.0  0.33332147778959254  0.6666719338041603  0.4658585817961648  1.0000

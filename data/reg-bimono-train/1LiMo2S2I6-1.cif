@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Mo2I3LiS2I3
+_chemical_formula_sum              "Mo2 I6 Li1 S2"
+_cell_length_a       4.510302009365423
+_cell_length_b       11.356335928048923
+_cell_length_c       34.131624959999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.5380576174307502  0.5  1.0000
+  Mo  Mo2       1.0  0.0  0.8167676341959321  0.5  1.0000
+  I   I1        1.0  0.0  0.6774127297773077  0.5662033475881003  1.0000
+  I   I2        1.0  8.314968618273659e-20  0.008010796416378382  0.5542519562112055  1.0000
+  I   I3        1.0  5.302308679235489e-19  0.3468150492865772  0.5542520711201282  1.0000
+  Li  Li1       1.0  0.5000000000000003  0.1774110104591895  0.5  1.0000
+  S   S1        1.0  0.5000000000000003  0.5368053466687421  0.5  1.0000
+  S   S2        1.0  0.5000000000000003  0.8180196460000061  0.5  1.0000
+  I   I4        1.0  1.3124137978948277e-18  0.6774127297773077  0.4337966524118983  1.0000
+  I   I5        1.0  0.0  0.3468150492865772  0.4457479288798732  1.0000
+  I   I6        1.0  0.0  0.008010796416378382  0.44574804378879523  1.0000

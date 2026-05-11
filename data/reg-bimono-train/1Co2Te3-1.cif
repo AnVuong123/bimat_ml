@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Te3Co2
+_chemical_formula_sum              "Te3 Co2"
+_cell_length_a       3.8160554266169857
+_cell_length_b       3.8159350718532106
+_cell_length_c       20.31209431
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99534763982619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.08979758486248277  0.31125536863379  0.6305653344900765  1.0000
+  Te  Te2       1.0  0.08979758486248277  0.31125536863379  0.3694346655099297  1.0000
+  Te  Te3       1.0  0.7565205425025212  0.6445824119738125  0.5000000000000018  1.0000
+  Co  Co1       1.0  0.42305718085439026  0.9779584150213889  0.5645409764997458  1.0000
+  Co  Co2       1.0  0.42305718085439026  0.9779584150213889  0.43545902350025795  1.0000

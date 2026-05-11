@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClLiCdO2
+_chemical_formula_sum              "Cl1 Li1 Cd1 O2"
+_cell_length_a       3.5017263926343336
+_cell_length_b       3.7880480028293504
+_cell_length_c       19.132720624663648
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.70897118451019
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.09527875327168864  0.7009068847214674  0.6080013842708869  1.0000
+  Li  Li1       1.0  0.8263006549338796  0.1417517413413255  0.5336781252977565  1.0000
+  Cd  Cd1       1.0  0.5399570087166906  0.582846089623495  0.39810246344956374  1.0000
+  O   O1        1.0  0.5225887185348123  0.5567735118811397  0.5185881591074099  1.0000
+  O   O2        1.0  0.854883022198505  0.2154300968713774  0.3919986157291131  1.0000

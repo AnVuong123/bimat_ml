@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeClIHfSeMnS
+_chemical_formula_sum              "Te1 Cl1 I1 Hf1 Se1 Mn1 S1"
+_cell_length_a       3.6179955762422447
+_cell_length_b       6.382687331387375
+_cell_length_c       21.246183020402174
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    87.63228472421766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.18423826661306172  0.46418459721559896  0.5169455056054039  1.0000
+  Cl  Cl1       1.0  0.7410149170326991  0.33224173732081946  0.36430952131819183  1.0000
+  I   I1        1.0  0.14204868707641083  0.802189447094972  0.6507057961932591  1.0000
+  Hf  Hf1       1.0  0.6811106463235628  0.6809250716614784  0.42728187064092626  1.0000
+  Se  Se1       1.0  0.17376320050758753  0.8369038096079194  0.35256180745197696  1.0000
+  Mn  Mn1       1.0  0.14629789559574596  0.12895264923135463  0.4366176793458885  1.0000
+  S   S1        1.0  0.6473430672776704  0.9887586548609338  0.4965799281334766  1.0000

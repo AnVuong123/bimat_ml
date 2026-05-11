@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfNHfIClIHfO
+_chemical_formula_sum              "Hf3 N1 I2 Cl1 O1"
+_cell_length_a       5.869837986897987
+_cell_length_b       5.8651805983118255
+_cell_length_c       19.627908639748387
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.77495470166762
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.48421216120186955  0.1522504111448938  0.5008170525659654  1.0000
+  N   N1        1.0  0.504206142201715  0.8311840204072597  0.5327153567012118  1.0000
+  Hf  Hf2       1.0  0.8348063073932918  0.8384509326089473  0.4951793821539901  1.0000
+  I   I1        1.0  0.8208045573774368  0.1678303296048322  0.38206954635339463  1.0000
+  Cl  Cl1       1.0  0.48616510666624024  0.4925305834776419  0.4087939876867448  1.0000
+  I   I2        1.0  0.8192324921306633  0.4961952008848274  0.6179407335747238  1.0000
+  Hf  Hf3       1.0  0.15739719461535787  0.5154804110599679  0.49833385075555847  1.0000
+  O   O1        1.0  0.16155440958984904  0.18113032522749445  0.5339703666877628  1.0000

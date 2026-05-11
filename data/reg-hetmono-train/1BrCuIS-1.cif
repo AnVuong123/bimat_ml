@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuSBrI
+_chemical_formula_sum              "Cu1 S1 Br1 I1"
+_cell_length_a       3.9318770174741067
+_cell_length_b       3.925737702744184
+_cell_length_c       19.624237924417898
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    66.71830275043544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.20650807033061452  0.8109281303653124  0.49145730784365255  1.0000
+  S   S1        1.0  0.8364243286008476  0.4519933286610109  0.496118020843668  1.0000
+  Br  Br1       1.0  0.10538792605915363  0.15447811587041313  0.382181584825383  1.0000
+  I   I1        1.0  0.5416144523358856  0.705604180853917  0.617814057651196  1.0000

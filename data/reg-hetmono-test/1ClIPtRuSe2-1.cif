@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuSe2PtClI
+_chemical_formula_sum              "Ru1 Se2 Pt1 Cl1 I1"
+_cell_length_a       3.7151942142996948
+_cell_length_b       5.0530835506383145
+_cell_length_c       20.7952231321388
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99652605710608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.7512805054749876  0.2555857581792022  0.4376407945449087  1.0000
+  Se  Se1       1.0  0.2512417090608999  0.2473116705349752  0.5149570272975309  1.0000
+  Se  Se2       1.0  0.7511366145475975  0.7415978986833542  0.4629278869795849  1.0000
+  Pt  Pt1       1.0  0.25110150230499934  0.7490576473503898  0.5431974005750103  1.0000
+  Cl  Cl1       1.0  0.25132560941088306  0.2505218483232965  0.36062347589980687  1.0000
+  I   I1        1.0  0.7510732228235112  0.7501615419859281  0.6393350104553202  1.0000

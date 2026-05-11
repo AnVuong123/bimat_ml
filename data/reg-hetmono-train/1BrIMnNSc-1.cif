@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnINBrSc
+_chemical_formula_sum              "Mn1 I1 N1 Br1 Sc1"
+_cell_length_a       3.667642972144695
+_cell_length_b       3.667195937603065
+_cell_length_c       21.273499228534554
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02232413899242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.22959137191980017  0.04246503823400172  0.5744006578652556  1.0000
+  I   I1        1.0  0.56331799865384  0.7084371234443231  0.35255130899857345  1.0000
+  N   N1        1.0  0.2302125251272361  0.04225875380689385  0.4854592135077582  1.0000
+  Br  Br1       1.0  0.5629049843645733  0.7088695198024452  0.6474486910014265  1.0000
+  Sc  Sc1       1.0  0.8968911554413216  0.3756020566065611  0.45234086208113666  1.0000

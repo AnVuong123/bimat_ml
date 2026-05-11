@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2PTe2
+_chemical_formula_sum              "Ni2 P1 Te2"
+_cell_length_a       3.615229471136535
+_cell_length_b       3.6151855994349056
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00041373543259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999958895503746  0.9999963134962313  0.46610958200699837  1.0000
+  Ni  Ni2       1.0  0.9999986160876966  0.9999963677362499  0.5338903575938743  1.0000
+  P   P1        1.0  0.6666634806600352  0.3333290839240172  0.49999994774562345  1.0000
+  Te  Te1       1.0  0.33333467764867175  0.6666740536089143  0.4249669050895871  1.0000
+  Te  Te2       1.0  0.3333372603851587  0.6666740940371106  0.5750330979887857  1.0000

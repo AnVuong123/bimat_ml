@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrGa2Te4
+_chemical_formula_sum              "Cr1 Ga2 Te4"
+_cell_length_a       4.19562193330193
+_cell_length_b       4.195621933301933
+_cell_length_c       39.45524608
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  1.8000962469151513e-17  3.600192493830264e-17  0.4999999999999997  1.0000
+  Ga  Ga1       1.0  0.6666666666666666  0.33333333333333237  0.39726021069016443  1.0000
+  Ga  Ga2       1.0  0.33333333333333254  0.6666666666666671  0.6027397893098344  1.0000
+  Te  Te1       1.0  0.6666666666666666  0.33333333333333237  0.46483403215186264  1.0000
+  Te  Te2       1.0  0.33333333333333254  0.6666666666666671  0.5351659678481369  1.0000
+  Te  Te3       1.0  0.6666666666666666  0.33333333333333237  0.6338008886404104  1.0000
+  Te  Te4       1.0  0.33333333333333254  0.6666666666666671  0.36619911135959077  1.0000

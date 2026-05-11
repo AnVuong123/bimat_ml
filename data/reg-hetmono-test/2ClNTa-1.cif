@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2N2Cl2
+_chemical_formula_sum              "Ta2 N2 Cl2"
+_cell_length_a       4.214124544900222
+_cell_length_b       3.3333413495953907
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5000000000000114  1.070483898775444e-12  0.49448226933198974  1.0000
+  Ta  Ta2       1.0  0.9999999999964996  0.49999999999999994  0.5537714436870032  1.0000
+  N   N1        1.0  0.5000000000000215  0.5000000000000091  0.5549248205563979  1.0000
+  N   N2        1.0  0.9999999999998891  2.1111849368475588e-13  0.4933231769640877  1.0000
+  Cl  Cl1       1.0  0.5000000000000179  0.5000000000000091  0.4049489700228459  1.0000
+  Cl  Cl2       1.0  1.139848942873666e-13  2.806524239687898e-13  0.6433189682534688  1.0000

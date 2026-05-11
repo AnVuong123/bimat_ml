@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgGa2O4
+_chemical_formula_sum              "Hg1 Ga2 O4"
+_cell_length_a       3.2560886840636996
+_cell_length_b       3.2560867075681488
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997992009799
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999983991608082  0.9999991995804041  0.4999924697876034  1.0000
+  Ga  Ga1       1.0  0.6666653741649801  0.33333268708248903  0.416707212863283  1.0000
+  Ga  Ga2       1.0  0.3333362360057435  0.6666681180028676  0.5833023101343466  1.0000
+  O   O1        1.0  0.6666620329570838  0.3333310164785398  0.46373015199077006  1.0000
+  O   O2        1.0  0.3333363870310741  0.6666681935155362  0.5362790760909196  1.0000
+  O   O3        1.0  0.33333218693820527  0.6666660934691016  0.40080684347793266  1.0000
+  O   O4        1.0  0.6666693882168071  0.3333346941084011  0.5991796798041573  1.0000

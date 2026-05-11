@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2Zn2O5
+_chemical_formula_sum              "Tl2 Zn2 O5"
+_cell_length_a       3.4275821432539706
+_cell_length_b       3.4275850980027522
+_cell_length_c       42.49425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997148362922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9999989765564978  0.9999979531129958  0.46554496442461196  1.0000
+  Tl  Tl2       1.0  0.6666660576447133  0.33333211528943046  0.6093231200300431  1.0000
+  Zn  Zn1       1.0  0.6666671781855901  0.3333343563711842  0.390678550710502  1.0000
+  Zn  Zn2       1.0  0.33333553460938004  0.6666710692187624  0.5398898273063781  1.0000
+  O   O1        1.0  0.33333429971706263  0.6666685994341274  0.38421193705785  1.0000
+  O   O2        1.0  0.6666657776372968  0.3333315552745975  0.4401482914966971  1.0000
+  O   O3        1.0  0.3333325349401902  0.6666650698803825  0.49509198988390785  1.0000
+  O   O4        1.0  0.6666678184706688  0.33333563694134155  0.5566533923243013  1.0000
+  O   O5        1.0  0.3333329334216954  0.666665866843393  0.6297192403027992  1.0000

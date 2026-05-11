@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrRuOBrOFe
+_chemical_formula_sum              "Br2 Ru1 O2 Fe1"
+_cell_length_a       3.474825127262762
+_cell_length_b       5.2747567548494185
+_cell_length_c       19.38225392030589
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    108.83459545860455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8914694428358475  0.1422866985238613  0.6130480990065558  1.0000
+  Ru  Ru1       1.0  0.07447494280577382  0.3524837969296964  0.49312638127254715  1.0000
+  O   O1        1.0  0.9609690807471102  0.668867859816591  0.5240106259495971  1.0000
+  Br  Br2       1.0  0.3445701075461073  0.616911798563349  0.3869519009934441  1.0000
+  O   O2        1.0  0.4730156161098857  0.16922221909041676  0.4780260192058715  1.0000
+  Fe  Fe1       1.0  0.5413105509391648  0.8411635796224401  0.5126650010442502  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeOLiOSbO3SbO
+_chemical_formula_sum              "Fe1 O6 Li1 Sb2"
+_cell_length_a       5.017878278416462
+_cell_length_b       5.020497615288802
+_cell_length_c       33.22614168318993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98614811253026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6774559498804607  0.9984852189855984  0.5000094319006518  1.0000
+  O   O1        1.0  0.6809692840805864  0.6941850519259395  0.5327021665965178  1.0000
+  Li  Li1       1.0  0.010583880326093153  0.6648418783922312  0.5000099064032254  1.0000
+  O   O2        1.0  0.9810938318101591  0.3067109146139747  0.5327914965252716  1.0000
+  Sb  Sb1       1.0  0.3438922108805562  0.33163276737145453  0.5595467346434758  1.0000
+  O   O3        1.0  0.36863513613783283  0.9949058865049869  0.532470015136662  1.0000
+  O   O4        1.0  0.3695803018675337  0.693987071762601  0.46735780860295467  1.0000
+  O   O5        1.0  0.6820672208556829  0.30665844924188146  0.4672131072225099  1.0000
+  Sb  Sb2       1.0  0.3441700510991394  0.3316142380291178  0.4404724316685191  1.0000
+  O   O6        1.0  0.9825825418759438  0.9947948532481135  0.4675223425894508  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHgCl2Re
+_chemical_formula_sum              "O1 Hg1 Cl2 Re1"
+_cell_length_a       6.947685775731241
+_cell_length_b       3.735050181871447
+_cell_length_c       19.3121405251084
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.51818673452907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8211303727307737  0.4501111370790506  0.4984560969743598  1.0000
+  Hg  Hg1       1.0  0.21744038868885576  0.34640053467878495  0.4320221612704849  1.0000
+  Cl  Cl1       1.0  0.9516590719834996  0.08062584136989835  0.6118127361026818  1.0000
+  Cl  Cl2       1.0  0.6208262354878998  0.7497949882928212  0.3895811562938789  1.0000
+  Re  Re1       1.0  0.8318192050399458  0.9608053146711106  0.4999728288517954  1.0000

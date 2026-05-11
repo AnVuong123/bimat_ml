@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InGaS2ClBr
+_chemical_formula_sum              "In1 Ga1 S2 Cl1 Br1"
+_cell_length_a       3.589041287320135
+_cell_length_b       6.061682052043307
+_cell_length_c       20.28169760983706
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.06757825137842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7455344447326685  0.29662563391131525  0.540134596234  1.0000
+  Ga  Ga1       1.0  0.24530776378001556  0.8057478441732552  0.46079928367798384  1.0000
+  S   S1        1.0  0.24540635962424018  0.19087729672143386  0.4571062635850745  1.0000
+  S   S2        1.0  0.7457992797992089  0.7152262024252799  0.5363625851878367  1.0000
+  Cl  Cl1       1.0  0.2454408177891556  0.24365311748183796  0.6302084695137974  1.0000
+  Br  Br1       1.0  0.7440629862570696  0.7340156359089249  0.3697915304862024  1.0000

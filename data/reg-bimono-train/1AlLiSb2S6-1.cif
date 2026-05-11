@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SAlSb2LiS5
+_chemical_formula_sum              "S6 Al1 Sb2 Li1"
+_cell_length_a       6.736718182499193
+_cell_length_b       6.736718182499065
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.41959404539408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.30431399081521954  0.049805703664814335  0.4551130861805521  1.0000
+  Al  Al1       1.0  0.9982775569822148  0.0017224430177859077  0.5  1.0000
+  Sb  Sb1       1.0  0.4944911276120341  0.8509713126371895  0.4849234077253996  1.0000
+  Sb  Sb2       1.0  0.14902868736281727  0.5055088723879623  0.5150765922746031  1.0000
+  Li  Li1       1.0  0.6451081675552445  0.35489183244475014  0.5  1.0000
+  S   S2        1.0  0.7529515202340342  0.7650232309801386  0.44910087157098644  1.0000
+  S   S3        1.0  0.23497676901986217  0.24704847976596103  0.5508991284290173  1.0000
+  S   S4        1.0  0.6973476248163065  0.026637808680911146  0.5411095268260206  1.0000
+  S   S5        1.0  0.9733621913191076  0.3026523751837013  0.4588904731739843  1.0000
+  S   S6        1.0  0.9501942963351645  0.6956860091847705  0.5448869138194399  1.0000

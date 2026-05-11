@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hg2Cl2F2
+_chemical_formula_sum              "Hg2 Cl2 F2"
+_cell_length_a       11.181845892326361
+_cell_length_b       7.7616477004889255
+_cell_length_c       21.0482036
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    168.69451234979377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.09149842167970434  0.6118862652120833  0.5793814651034348  1.0000
+  Hg  Hg2       1.0  0.5914984416797476  0.6118862652121211  0.4206185348965652  1.0000
+  Cl  Cl1       1.0  0.11369831821467452  0.416901503907153  0.6522248511388372  1.0000
+  Cl  Cl2       1.0  0.613698308214714  0.41690151390719205  0.3477751488611617  1.0000
+  F   F1        1.0  0.12151842911856905  0.8832801200161623  0.5274493524991385  1.0000
+  F   F2        1.0  0.6215184291186235  0.883280120016221  0.4725506475008615  1.0000

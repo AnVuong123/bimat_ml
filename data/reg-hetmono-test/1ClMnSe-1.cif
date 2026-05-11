@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnSeCl
+_chemical_formula_sum              "Mn1 Se1 Cl1"
+_cell_length_a       3.4002898308394416
+_cell_length_b       3.797345457337088
+_cell_length_c       33.18002243416089
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.63613511888046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.037921569060572584  0.05807594105051903  0.4966117410211678  1.0000
+  Se  Se1       1.0  0.36527665959384853  0.7131759230506961  0.4559641394712085  1.0000
+  Cl  Cl1       1.0  0.6141813786568302  0.21008911974704222  0.5446161062595903  1.0000

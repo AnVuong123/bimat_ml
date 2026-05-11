@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeOTeONb2
+_chemical_formula_sum              "Te2 O2 Nb2"
+_cell_length_a       4.098773195308273
+_cell_length_b       4.0987628831789
+_cell_length_c       19.409951368291217
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    85.35243841051472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7502124884354191  0.2561008766836867  0.3864225769992071  1.0000
+  O   O1        1.0  0.2501076566236073  0.7559363183918172  0.46477576054087977  1.0000
+  Te  Te2       1.0  0.2501925118805932  0.7558626536080699  0.6135409216051793  1.0000
+  O   O2        1.0  0.7501302379542847  0.2558402858034692  0.5351931804568252  1.0000
+  Nb  Nb1       1.0  0.25011221783341986  0.25590759477409486  0.49998437520951716  1.0000
+  Nb  Nb2       1.0  0.750129703994049  0.7558410441851484  0.4999812876143772  1.0000

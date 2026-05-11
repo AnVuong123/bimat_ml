@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SSnIAgI
+_chemical_formula_sum              "S1 Sn1 I2 Ag1"
+_cell_length_a       4.3235105140108825
+_cell_length_b       4.332291259475082
+_cell_length_c       21.665706358503257
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    124.12197460882298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5447559074330711  0.45660025960008  0.4947728924620765  1.0000
+  Sn  Sn1       1.0  0.8537142620013307  0.14711258791136814  0.5579569613122579  1.0000
+  I   I1        1.0  0.7926383545877717  0.21554182374393405  0.3466145223108612  1.0000
+  Ag  Ag1       1.0  0.128333532010445  0.8771596143235747  0.4190381839854471  1.0000
+  I   I2        1.0  0.2099153843707466  0.7886878811355614  0.6538012962763906  1.0000

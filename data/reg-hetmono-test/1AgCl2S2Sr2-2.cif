@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgS2SrClSrCl
+_chemical_formula_sum              "Ag1 S2 Sr2 Cl2"
+_cell_length_a       4.74951325246219
+_cell_length_b       4.7495132524621635
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  2.2723914259610005e-16  2.800858155908315e-16  0.4999999999999984  1.0000
+  S   S1        1.0  0.5000000000000001  2.271587226282549e-16  0.5000000000000021  1.0000
+  S   S2        1.0  2.2370104358020304e-16  0.5  0.5000000000000021  1.0000
+  Sr  Sr1       1.0  0.5000000000000001  0.5000000000000001  0.40704326138810815  1.0000
+  Cl  Cl1       1.0  1.2916924788324916e-16  1.2091269299348203e-16  0.3536312333487277  1.0000
+  Sr  Sr2       1.0  0.5000000000000001  0.5  0.5929567386118905  1.0000
+  Cl  Cl2       1.0  3.1949451978511924e-16  3.2135914981318764e-16  0.6463687666512724  1.0000

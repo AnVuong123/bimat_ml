@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiTeGeTe
+_chemical_formula_sum              "Ni1 Te2 Ge1"
+_cell_length_a       4.222639663366824
+_cell_length_b       4.223708735325949
+_cell_length_c       18.395195095975165
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.8937325695209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.751606464100042  0.7515274598345149  0.49999271478006757  1.0000
+  Te  Te1       1.0  0.25084774374911273  0.7510983793495876  0.5922848352045482  1.0000
+  Ge  Ge1       1.0  0.2516200205014114  0.25126790802197574  0.5000162741401174  1.0000
+  Te  Te2       1.0  0.7519459933871238  0.25186245506827515  0.4077151647954517  1.0000

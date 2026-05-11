@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeAsCl3Mn
+_chemical_formula_sum              "Se1 As1 Cl3 Mn1"
+_cell_length_a       5.700654777939606
+_cell_length_b       3.7900998366635124
+_cell_length_c       20.68231666960397
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    92.90025856632543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7442594179052572  0.1645503488883416  0.3626769400097374  1.0000
+  As  As1       1.0  0.2522910809851538  0.8546195623037786  0.5541458688997916  1.0000
+  Cl  Cl1       1.0  0.2628262720577214  0.4824939572761875  0.46465691641665136  1.0000
+  Cl  Cl2       1.0  0.243264525240006  0.47073843279429356  0.637326258969727  1.0000
+  Cl  Cl3       1.0  0.7571418711969189  0.851697548015335  0.5422045144099561  1.0000
+  Mn  Mn1       1.0  0.6964851384014545  0.659795411896367  0.4318004528736084  1.0000

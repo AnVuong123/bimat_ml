@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SeFCaSeF
+_chemical_formula_sum              "Se2 F2 Ca1"
+_cell_length_a       4.440799632305373
+_cell_length_b       4.436029754338649
+_cell_length_c       19.208510457334267
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.55445901891339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.6707901456371326  0.39861979315532337  0.5573359768447376  1.0000
+  F   F1        1.0  0.6743668878312018  0.3957749091320035  0.6527433361980784  1.0000
+  Ca  Ca1       1.0  0.06861288194149827  0.0017471002061839602  0.49997148597170626  1.0000
+  Se  Se2       1.0  0.46579157708903257  0.6035602627047301  0.44268626640476355  1.0000
+  F   F2        1.0  0.4603972112248965  0.6002789020661409  0.3472931633421462  1.0000

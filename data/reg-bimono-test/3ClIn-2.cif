@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl3In3
+_chemical_formula_sum              "Cl3 In3"
+_cell_length_a       4.499515386097627
+_cell_length_b       6.760528565223608
+_cell_length_c       19.48815216
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9575969969435846  0.27838154004332105  0.6072139031611925  1.0000
+  Cl  Cl2       1.0  0.9575969969435846  0.48117744995669565  0.39278609683880844  1.0000
+  Cl  Cl3       1.0  0.4587725261537396  0.8797795000000028  0.5  1.0000
+  In  In1       1.0  0.9584851723508676  0.8869041954702912  0.6115752233237712  1.0000
+  In  In2       1.0  0.9584851723508676  0.8726547945297575  0.38842477667623215  1.0000
+  In  In3       1.0  0.457670562383709  0.3797795000000112  0.5  1.0000

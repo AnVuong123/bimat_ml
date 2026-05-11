@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoAl2Se4
+_chemical_formula_sum              "Co1 Al2 Se4"
+_cell_length_a       3.789900230513697
+_cell_length_b       3.789900230513685
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00026280604007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  1.3494171446869594e-17  2.6991797288190944e-17  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6666570772970591  0.3333429227029416  0.40904224776663506  1.0000
+  Al  Al2       1.0  0.3333429227029454  0.6666570772970623  0.5909577522333647  1.0000
+  Se  Se1       1.0  0.6666775172764512  0.33332248272354714  0.6201906657720189  1.0000
+  Se  Se2       1.0  0.33332248272354964  0.6666775172764501  0.37980933422798185  1.0000
+  Se  Se3       1.0  0.6666877649351866  0.33331223506481444  0.4701319733668079  1.0000
+  Se  Se4       1.0  0.33331223506481783  0.6666877649351881  0.5298680266331922  1.0000

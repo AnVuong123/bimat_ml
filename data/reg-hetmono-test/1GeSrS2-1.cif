@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SrSGeS
+_chemical_formula_sum              "Sr1 S2 Ge1"
+_cell_length_a       5.864468186144372
+_cell_length_b       3.985695931866604
+_cell_length_c       17.890944788127786
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    132.8234156515851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8071009231790524  0.8020447462838456  0.5728759378549374  1.0000
+  S   S1        1.0  0.9442223945747804  0.9366709478493005  0.4192064806424817  1.0000
+  Ge  Ge1       1.0  0.28964671216720755  0.7824211150484377  0.4339602712265029  1.0000
+  S   S2        1.0  0.3004154459105232  0.7951398247964081  0.5807935193575181  1.0000

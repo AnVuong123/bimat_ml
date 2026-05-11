@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSAuBr2
+_chemical_formula_sum              "In1 S1 Au1 Br2"
+_cell_length_a       6.269260401436707
+_cell_length_b       4.4931517543127075
+_cell_length_c       20.46214822099668
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    136.99909104047902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.3084571178210659  0.7627508967047321  0.45377743387392183  1.0000
+  S   S1        1.0  0.8090563513776793  0.05103400902482513  0.4951038574000523  1.0000
+  Au  Au1       1.0  0.6070061282301559  0.19720301311597704  0.5700395073215582  1.0000
+  Br  Br1       1.0  0.2871304561538104  0.14933929724778372  0.366530430676095  1.0000
+  Br  Br2       1.0  0.1817208446765936  0.00017738501270728814  0.6334695693239053  1.0000

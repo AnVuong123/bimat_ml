@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgAuFCl2F2
+_chemical_formula_sum              "Ag1 Au1 F3 Cl2"
+_cell_length_a       5.957221371867238
+_cell_length_b       6.040129817573626
+_cell_length_c       18.201612127191975
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.99590231754175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6722894188010108  0.8640294060355571  0.4998271834175533  1.0000
+  Au  Au1       1.0  0.13382775104258837  0.4001851638835146  0.5000414356405118  1.0000
+  F   F1        1.0  0.9316520722242214  0.20374605098584023  0.5766306872254703  1.0000
+  Cl  Cl1       1.0  0.38632802402482447  0.6266949238314652  0.5879485867740524  1.0000
+  Cl  Cl2       1.0  0.9001753222424762  0.1547832747729373  0.4120514132259476  1.0000
+  F   F2        1.0  0.3395783748698283  0.5923757889372931  0.4233784346475272  1.0000
+  F   F3        1.0  0.8951165704324756  0.6625742006591783  0.49991416710565884  1.0000

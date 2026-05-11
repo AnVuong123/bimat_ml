@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ClGaSe
+_chemical_formula_sum              "Cl1 Ga1 Se1"
+_cell_length_a       3.696270057418217
+_cell_length_b       3.6917996757244644
+_cell_length_c       17.86536333935643
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9286505936346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.4979455350086494  0.49800284613665763  0.4198067432235148  1.0000
+  Ga  Ga1       1.0  0.1670637834045438  0.8330913846871754  0.5095229612149036  1.0000
+  Se  Se1       1.0  0.8329634948162017  0.16596349830286772  0.5801932567764853  1.0000

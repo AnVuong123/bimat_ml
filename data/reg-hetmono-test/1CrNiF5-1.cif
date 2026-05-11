@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiF2CrF3
+_chemical_formula_sum              "Ni1 F5 Cr1"
+_cell_length_a       5.7160527080418735
+_cell_length_b       3.8729576089713604
+_cell_length_c       17.502847226363176
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.57175210507346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.31410659903641475  0.9510955346359499  0.4999895922327372  1.0000
+  F   F1        1.0  0.5440436738314703  0.295602788384343  0.5714982880783344  1.0000
+  F   F2        1.0  0.5438314405630174  0.2959417756482755  0.42850171192166564  1.0000
+  Cr  Cr1       1.0  0.8140968342984087  0.4511067095974336  0.49996808495716394  1.0000
+  F   F3        1.0  0.0843159820872915  0.6061409441537629  0.571418320816056  1.0000
+  F   F4        1.0  0.8144298582854722  0.9512455006531375  0.5000076699450332  1.0000
+  F   F5        1.0  0.08440122473183576  0.606018461234172  0.42852768335931785  1.0000

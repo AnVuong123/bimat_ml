@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuSe2CaClCaCl
+_chemical_formula_sum              "Cu1 Se2 Ca2 Cl2"
+_cell_length_a       4.782289445848968
+_cell_length_b       4.782289445849057
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.97155119800381
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9684491687683714  0.9684491687683623  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.46581707107799575  0.9254128545597152  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9254128545597242  0.4658170710779875  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.4109031988259607  0.4109031988259582  0.40975505592043476  1.0000
+  Cl  Cl1       1.0  0.0684262380212117  0.06842623802121124  0.3493160591199799  1.0000
+  Ca  Ca2       1.0  0.41090319883391824  0.4109031988339153  0.5902449440606664  1.0000
+  Cl  Cl2       1.0  0.06842623804026647  0.0684262380402664  0.6506839408723409  1.0000

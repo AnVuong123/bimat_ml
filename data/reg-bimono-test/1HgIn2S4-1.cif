@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgIn2S4
+_chemical_formula_sum              "Hg1 In2 S4"
+_cell_length_a       4.032658710575789
+_cell_length_b       4.032661321687389
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00002141884322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999977535678649  0.9999988767839324  0.5000010530495432  1.0000
+  In  In1       1.0  0.6666629170957329  0.33333145854786617  0.40249808415213206  1.0000
+  In  In2       1.0  0.3333400828831675  0.666670041441582  0.5975008850189263  1.0000
+  S   S1        1.0  0.6666601309252179  0.3333300654626078  0.46385553564186355  1.0000
+  S   S2        1.0  0.33333621865553337  0.6666681093277701  0.536141108098831  1.0000
+  S   S3        1.0  0.33332982496522073  0.6666649124826102  0.3750166378438076  1.0000
+  S   S4        1.0  0.6666730651274505  0.3333365325637244  0.624986096682086  1.0000

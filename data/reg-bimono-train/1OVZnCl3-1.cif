@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnOClVCl2
+_chemical_formula_sum              "Zn1 O1 Cl3 V1"
+_cell_length_a       3.412385186293889
+_cell_length_b       8.127144964198285
+_cell_length_c       17.86933047910096
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.77417614822681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6207345343004832  0.37149367187890703  0.4953742009308255  1.0000
+  O   O1        1.0  0.6200117145060394  0.8708203373164493  0.5417972089898425  1.0000
+  Cl  Cl1       1.0  0.12026003838864306  0.37112733571719586  0.5802648160764385  1.0000
+  V   V1        1.0  0.12026597356140924  0.8710315147099188  0.5037646282716103  1.0000
+  Cl  Cl2       1.0  0.8722719130303324  0.6225068089528366  0.4197365973416208  1.0000
+  Cl  Cl3       1.0  0.36711423742014  0.11996276944972721  0.41998378036962575  1.0000

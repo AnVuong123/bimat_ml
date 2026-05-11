@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiScBrSBr3
+_chemical_formula_sum              "Ni1 Sc1 Br4 S1"
+_cell_length_a       5.263581796186621
+_cell_length_b       6.574242844786331
+_cell_length_c       18.756552209467095
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.59604532701928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8778342127251252  0.2574200572932783  0.5004702387904421  1.0000
+  Sc  Sc1       1.0  0.34646966461761197  0.8416094482658178  0.5003566919325441  1.0000
+  Br  Br1       1.0  0.16051468293269638  0.5178227412561419  0.59235402540959  1.0000
+  S   S1        1.0  0.8832064738563168  0.9224846435822394  0.5006963143852444  1.0000
+  Br  Br2       1.0  0.5177395242142302  0.1334955507379737  0.6001397316392464  1.0000
+  Br  Br3       1.0  0.1648282775038338  0.5156683437670101  0.408848919077266  1.0000
+  Br  Br4       1.0  0.5205121115269539  0.13092298060986704  0.3998602683607537  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfNZrICl
+_chemical_formula_sum              "Hf1 N1 Zr1 I1 Cl1"
+_cell_length_a       3.2357965178431063
+_cell_length_b       5.22854989407167
+_cell_length_c       20.831692361208308
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.95565645896868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8855457605340616  0.8966845520361257  0.4706465257848738  1.0000
+  N   N1        1.0  0.5071620777216674  0.140795360357757  0.5089830754836926  1.0000
+  Zr  Zr1       1.0  0.13365372066787548  0.39459392855844827  0.5483966544305732  1.0000
+  I   I1        1.0  0.33185587210165085  0.7878086456945059  0.3605384319055791  1.0000
+  Cl  Cl1       1.0  0.6859028563324133  0.5004231907036456  0.6394662351765781  1.0000

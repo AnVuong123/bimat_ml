@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeSeNbBr
+_chemical_formula_sum              "Ge1 Se1 Nb1 Br1"
+_cell_length_a       3.3541245386426435
+_cell_length_b       3.4599011317826616
+_cell_length_c       20.849507880359106
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    119.49664436390198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6915963124822154  0.9585695674911504  0.4695255300898623  1.0000
+  Se  Se1       1.0  0.002918595586965278  0.5829726214807115  0.6402555922461094  1.0000
+  Nb  Nb1       1.0  0.32351955300080915  0.23155994353883302  0.5595058814588381  1.0000
+  Br  Br1       1.0  0.6520723309865737  0.8968823431390286  0.3597153553150069  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl2TeSiCaCl
+_chemical_formula_sum              "Cl3 Te1 Si1 Ca1"
+_cell_length_a       4.445236531535082
+_cell_length_b       5.1700213128481725
+_cell_length_c       20.891237077296235
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.05686518648467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.04151051491033586  0.7481278977272385  0.6409978034210957  1.0000
+  Cl  Cl2       1.0  0.01939420616639493  0.746240920963447  0.4727829834564798  1.0000
+  Te  Te1       1.0  0.5288072515372078  0.24793351610766487  0.5532558826687991  1.0000
+  Si  Si1       1.0  0.3444687462163096  0.7482923325758851  0.5641762516223155  1.0000
+  Ca  Ca1       1.0  0.055097890339935146  0.24592247432617367  0.4288162668846267  1.0000
+  Cl  Cl3       1.0  0.5545068838299085  0.24064624587892652  0.3590021965789044  1.0000

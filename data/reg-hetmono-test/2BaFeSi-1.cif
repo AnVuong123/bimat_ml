@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaFe2SiBaSi
+_chemical_formula_sum              "Ba2 Fe2 Si2"
+_cell_length_a       4.106511951177002
+_cell_length_b       4.106511951176682
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000021524343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9959661970018926  0.9959661970018935  0.6336549460737523  1.0000
+  Fe  Fe1       1.0  0.49571587791255806  0.9958820183464995  0.49983924601767343  1.0000
+  Fe  Fe2       1.0  0.9958820183465052  0.49571587791255306  0.49983924601761603  1.0000
+  Si  Si1       1.0  0.49589289643416656  0.495892896434167  0.551215269050531  1.0000
+  Ba  Ba2       1.0  0.4956303796092879  0.4956303796092813  0.3660808095000697  1.0000
+  Si  Si2       1.0  0.9957053836037382  0.9957053836037365  0.4485626688480996  1.0000

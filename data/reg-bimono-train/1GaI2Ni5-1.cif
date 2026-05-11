@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5GaI2
+_chemical_formula_sum              "Ni5 Ga1 I2"
+_cell_length_a       3.786113661048369
+_cell_length_b       3.786113661048369
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.013491940668243739  0.013491940668243699  0.49998994375634254  1.0000
+  Ni  Ni2       1.0  0.5136679699653065  0.013830335139337364  0.4268265479223691  1.0000
+  Ni  Ni3       1.0  0.013830335139337395  0.5136679699653065  0.4268265479223691  1.0000
+  Ni  Ni4       1.0  0.5136704479454854  0.013830455713296361  0.5731524477251692  1.0000
+  Ni  Ni5       1.0  0.013830455713296344  0.5136704479454854  0.5731524477251692  1.0000
+  Ga  Ga1       1.0  0.5135072137498088  0.5135072137498089  0.49998938565761525  1.0000
+  I   I1        1.0  0.013629101914132443  0.0136291019141324  0.346729576971801  1.0000
+  I   I2        1.0  0.013627158583653471  0.013627158583653397  0.6532704844322104  1.0000

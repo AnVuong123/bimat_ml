@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Se2PtAg
+_chemical_formula_sum              "Se2 Pt1 Ag1"
+_cell_length_a       4.488743193122544
+_cell_length_b       4.494554270470247
+_cell_length_c       17.479239259980773
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.96922478230901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.749908612867036  0.746188791163207  0.5709195412656504  1.0000
+  Se  Se2       1.0  0.2513818295553862  0.2503606485802383  0.4290804587343494  1.0000
+  Pt  Pt1       1.0  0.2502255576421133  0.7497324971423754  0.49983776549055353  1.0000
+  Ag  Ag1       1.0  0.751756013353065  0.24534543227862568  0.5002611354060335  1.0000

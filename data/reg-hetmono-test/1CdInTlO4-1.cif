@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdTlInO4
+_chemical_formula_sum              "Cd1 Tl1 In1 O4"
+_cell_length_a       3.5228190443837915
+_cell_length_b       3.522818218404834
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999224394998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999988239724782  0.9999994119862392  0.5009717783597278  1.0000
+  Tl  Tl1       1.0  0.6666644088863236  0.3333322044431635  0.4179591436267293  1.0000
+  In  In1       1.0  0.33333726892849036  0.6666686344642458  0.5822816944013708  1.0000
+  O   O1        1.0  0.6666636853617833  0.3333318426808912  0.4719415258682229  1.0000
+  O   O2        1.0  0.3333344883052906  0.6666672441526481  0.5308120578736134  1.0000
+  O   O3        1.0  0.33333075822809566  0.6666653791140495  0.39687209461944317  1.0000
+  O   O4        1.0  0.6666706279760857  0.33333531398804417  0.5991671735040593  1.0000

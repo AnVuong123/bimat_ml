@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Se2Zn2Se2Zn2
+_chemical_formula_sum              "Se4 Zn4"
+_cell_length_a       4.075314120208113
+_cell_length_b       4.075596923253244
+_cell_length_c       28.269106521330983
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99770460734251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9999965232778258  1.8899879642426177e-05  0.27315369780694565  1.0000
+  Se  Se2       1.0  0.3333367974619308  0.6666477768168056  0.39389694052048624  1.0000
+  Zn  Zn1       1.0  0.9999796234331412  3.445098732602354e-05  0.3670971402003617  1.0000
+  Zn  Zn2       1.0  0.33335368994521963  0.6666322257091221  0.29996677021261403  1.0000
+  Se  Se3       1.0  0.3333367974619308  0.6666477768168056  0.5243016244187318  1.0000
+  Se  Se4       1.0  0.6666770717011665  0.33327665287499875  0.6450448671322723  1.0000
+  Zn  Zn3       1.0  0.33331989620067604  0.6666633250913488  0.6182450668121479  1.0000
+  Zn  Zn4       1.0  0.6666939641844554  0.33326110176731516  0.5511146971781432  1.0000

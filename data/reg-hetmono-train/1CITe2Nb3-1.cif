@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbTeNbINbTeC
+_chemical_formula_sum              "Nb3 Te2 I1 C1"
+_cell_length_a       4.657285889852618
+_cell_length_b       4.656201477807873
+_cell_length_c       20.04511899572059
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.06192681440992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25196484786245354  0.748906365421593  0.553502049170091  1.0000
+  Te  Te1       1.0  0.7516552946132073  0.7487842628348187  0.6258440769744911  1.0000
+  Nb  Nb2       1.0  0.7532775459502196  0.7496850450848731  0.47318295389925535  1.0000
+  I   I1        1.0  0.7524982230899009  0.2500079971457747  0.37415592302550893  1.0000
+  Nb  Nb3       1.0  0.2528040146828552  0.24946962725722854  0.47316019186203945  1.0000
+  Te  Te2       1.0  0.2510958577904916  0.24879308849720216  0.6257429568340214  1.0000
+  C   C1        1.0  0.2536806825272322  0.7498018555537495  0.4540457109345412  1.0000

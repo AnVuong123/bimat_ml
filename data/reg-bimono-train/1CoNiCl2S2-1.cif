@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoNiClS2Cl
+_chemical_formula_sum              "Co1 Ni1 Cl2 S2"
+_cell_length_a       3.300403119532246
+_cell_length_b       5.97853802958601
+_cell_length_c       17.660065524980652
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00995739676105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7469939523089925  0.74029924742538  0.4993624283844342  1.0000
+  Ni  Ni1       1.0  0.24671696564356432  0.26564680289766734  0.5024785666962649  1.0000
+  Cl  Cl1       1.0  0.7466007261640932  0.06662406709267427  0.42468698597924465  1.0000
+  S   S1        1.0  0.24678679444522042  0.5847411805395252  0.43676701613960595  1.0000
+  S   S2        1.0  0.7466305707754972  0.4345178274359528  0.5669229600388461  1.0000
+  Cl  Cl2       1.0  0.24684698934719246  0.9204142073448872  0.5753130140207553  1.0000

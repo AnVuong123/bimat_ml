@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiNFLiTiNFLi
+_chemical_formula_sum              "Ti2 N2 F2 Li2"
+_cell_length_a       3.0935836931648355
+_cell_length_b       4.060441926339186
+_cell_length_c       35.2912948
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5000000000000001  0.5000000000000004  0.5162189160867957  1.0000
+  N   N1        1.0  0.5000000000000001  0.0  0.5197768118741717  1.0000
+  F   F1        1.0  8.738987642867144e-19  0.5000000000000004  0.5657382672326353  1.0000
+  Li  Li1       1.0  0.5000000000000001  0.0  0.5742493001350704  1.0000
+  Ti  Ti2       1.0  6.153149925017163e-18  0.0  0.48378108391320446  1.0000
+  N   N2        1.0  1.952968045730252e-18  0.5000000000000004  0.48022318812582837  1.0000
+  F   F2        1.0  0.5000000000000001  3.5241949283915845e-18  0.4342617327673653  1.0000
+  Li  Li2       1.0  0.0  0.5000000000000004  0.42575069986492964  1.0000

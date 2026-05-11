@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiNITi2OClO
+_chemical_formula_sum              "Ti3 N1 I1 O2 Cl1"
+_cell_length_a       4.060817033281352
+_cell_length_b       5.259776383456381
+_cell_length_c       20.010131482993252
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.69457605304247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9551488521718512  0.6367325059240714  0.47207690350348724  1.0000
+  N   N1        1.0  0.7701956689403984  0.26650170841995285  0.5113772378761956  1.0000
+  I   I1        1.0  0.17088628760839317  0.06822411604052722  0.3751181813019455  1.0000
+  Ti  Ti2       1.0  0.27160724131908864  0.26930841114012627  0.511716150390008  1.0000
+  Ti  Ti3       1.0  0.5832172757830016  0.8923115642659812  0.5487776431102168  1.0000
+  O   O1        1.0  0.4637794745567848  0.653970083130085  0.4676704490607688  1.0000
+  Cl  Cl1       1.0  0.3798220367089723  0.4857500039512622  0.624990989179557  1.0000
+  O   O2        1.0  0.07793704865435731  0.8818187945956701  0.5538085030934199  1.0000

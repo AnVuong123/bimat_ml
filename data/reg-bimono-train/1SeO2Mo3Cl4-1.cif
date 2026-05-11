@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClMoClSeMoClMoO2Cl
+_chemical_formula_sum              "Cl4 Mo3 Se1 O2"
+_cell_length_a       5.794345523571697
+_cell_length_b       5.874313901038945
+_cell_length_c       19.748849134111104
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.81635440326754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.285067452249587  0.9424191795539616  0.3797689652226701  1.0000
+  Mo  Mo1       1.0  0.5591740098996516  0.04375977595977523  0.480048790381986  1.0000
+  Cl  Cl2       1.0  0.646855030333929  0.5708326806988386  0.6202310347773298  1.0000
+  Se  Se1       1.0  0.23779751726459278  0.8203029022333634  0.5704753052350144  1.0000
+  Mo  Mo2       1.0  0.0945444551554276  0.029195211698635516  0.48085815086012534  1.0000
+  Cl  Cl3       1.0  0.8860101693318637  0.1770217205543909  0.5724344146819141  1.0000
+  Mo  Mo3       1.0  0.7975074498288148  0.5298746909491996  0.5145556987223241  1.0000
+  O   O1        1.0  0.7284168589854496  0.7974004124864222  0.46862750196547276  1.0000
+  O   O2        1.0  0.42984764375001333  0.3140974024104654  0.48740467273429877  1.0000
+  Cl  Cl4       1.0  0.9472827007382323  0.3343185131134771  0.4117978579882519  1.0000

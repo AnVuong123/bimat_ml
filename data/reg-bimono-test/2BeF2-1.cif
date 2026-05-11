@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Be2F4
+_chemical_formula_sum              "Be2 F4"
+_cell_length_a       2.699070010218001
+_cell_length_b       5.031024455797951
+_cell_length_c       18.47756688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999948658649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.39982798951886545  0.9589636130325238  0.5508453108992286  1.0000
+  Be  Be2       1.0  0.3998270778502403  0.45896129656427  0.4491548471433575  1.0000
+  F   F1        1.0  0.8998249647148217  0.9590244618391484  0.595771247424324  1.0000
+  F   F2        1.0  0.899824020026774  0.4590089332784272  0.4042284964289649  1.0000
+  F   F3        1.0  0.3998044745910889  0.2089479512697362  0.49999051949032713  1.0000
+  F   F4        1.0  0.3998160535386988  0.7089477264565476  0.5000092521752455  1.0000

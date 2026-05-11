@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrVORhOBr
+_chemical_formula_sum              "Br2 V1 O2 Rh1"
+_cell_length_a       3.1113213827136237
+_cell_length_b       5.160371663599887
+_cell_length_c       19.97524332793338
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.0340903710111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7437165990335959  0.4460716690144802  0.624535237099615  1.0000
+  V   V1        1.0  0.24326035140752028  0.38199329476648114  0.5222176725695595  1.0000
+  O   O1        1.0  0.2430328510077298  0.039909050975284965  0.5396270758405823  1.0000
+  Rh  Rh1       1.0  0.743209603902773  0.008281376714226907  0.4730839341894411  1.0000
+  O   O2        1.0  0.7433449906460876  0.5358893758283916  0.4859796536777277  1.0000
+  Br  Br2       1.0  0.2434114446912075  0.9736216086973699  0.3754647629003848  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuClCuClNONO
+_chemical_formula_sum              "Cu2 Cl2 N2 O2"
+_cell_length_a       3.7392820486022087
+_cell_length_b       5.124925146755173
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  6.91033566972442e-20  0.8093672941890819  0.46978973991567113  1.0000
+  Cl  Cl1       1.0  0.5  0.5413320884427066  0.47346296550524425  1.0000
+  Cu  Cu2       1.0  0.5  0.3093672941890995  0.5302102600843289  1.0000
+  Cl  Cl2       1.0  0.0  0.041332088442714854  0.5265370344947558  1.0000
+  N   N1        1.0  0.5  0.5271527063311839  0.5702221339853861  1.0000
+  O   O1        1.0  0.5  0.5127292785002735  0.6017470159570665  1.0000
+  N   N2        1.0  5.960622846698157e-18  0.027152706331170312  0.4297778660145949  1.0000
+  O   O2        1.0  0.0  0.012729278500273737  0.398252984042923  1.0000

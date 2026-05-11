@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WO3PbO
+_chemical_formula_sum              "W1 O4 Pb1"
+_cell_length_a       5.2168209513580575
+_cell_length_b       5.198180528417949
+_cell_length_c       30.33936
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    83.03401515576711
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.15092549334669195  0.27906084751847693  0.4962157525722704  1.0000
+  O   O1        1.0  0.33782038298902756  0.4628575053290344  0.530435834871952  1.0000
+  O   O2        1.0  0.9282446165117999  0.505103668351404  0.46542837812288357  1.0000
+  O   O3        1.0  0.37339860236914507  0.05334825384689566  0.46536660029891946  1.0000
+  Pb  Pb1       1.0  0.6510965877280539  0.77915458472079  0.5116480993952366  1.0000
+  O   O4        1.0  0.964382232821784  0.09470047944753386  0.5304138947795487  1.0000

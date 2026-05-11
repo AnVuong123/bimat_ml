@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WVBrONBr
+_chemical_formula_sum              "W1 V1 Br2 O1 N1"
+_cell_length_a       3.2148955813749875
+_cell_length_b       3.9861844715215895
+_cell_length_c       20.310277473589956
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00297202870885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.7497017562605122  0.7476731915120005  0.5302729254538925  1.0000
+  V   V1        1.0  0.2497121383208451  0.24769769553834134  0.4674621166480599  1.0000
+  Br  Br1       1.0  0.749523542762292  0.24785577595298258  0.36930532059520454  1.0000
+  O   O1        1.0  0.249650711515722  0.7477013023595186  0.45881687594634774  1.0000
+  N   N1        1.0  0.7496940536722526  0.24767004754995578  0.5330542670176163  1.0000
+  Br  Br2       1.0  0.24971224597380975  0.7476378799399902  0.6308547930877015  1.0000

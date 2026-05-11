@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SIMnPbCl
+_chemical_formula_sum              "S1 I1 Mn1 Pb1 Cl1"
+_cell_length_a       4.1532467684844
+_cell_length_b       4.155360370116799
+_cell_length_c       22.01547394222867
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.95834209013162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8349114929484281  0.5027548813484168  0.4999751461226949  1.0000
+  I   I1        1.0  0.16972324645668363  0.16019296511026038  0.3406694772813399  1.0000
+  Mn  Mn1       1.0  0.16787838315037565  0.16998394511093756  0.45436934998562467  1.0000
+  Pb  Pb1       1.0  0.5013212392745511  0.8359497867083137  0.585496987426264  1.0000
+  Cl  Cl1       1.0  0.16896877579895522  0.1705112900715049  0.6593305227186601  1.0000

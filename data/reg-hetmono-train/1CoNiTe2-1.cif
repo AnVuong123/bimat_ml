@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeCoTeNi
+_chemical_formula_sum              "Te2 Co1 Ni1"
+_cell_length_a       3.762099207106078
+_cell_length_b       3.763531126438052
+_cell_length_c       18.344730088153167
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98726779787872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7496677030905052  0.7482929926076806  0.408836759328687  1.0000
+  Co  Co1       1.0  0.2497610252868909  0.748304738181524  0.5000475479586636  1.0000
+  Te  Te2       1.0  0.25014498941710017  0.2481250208907932  0.5911632406713128  1.0000
+  Ni  Ni1       1.0  0.7501031068504939  0.24815795869991064  0.4999931609836366  1.0000

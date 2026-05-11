@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2Te2Cl2
+_chemical_formula_sum              "Cu2 Te2 Cl2"
+_cell_length_a       5.499819929035876
+_cell_length_b       3.434739768090065
+_cell_length_c       21.284305697920704
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.49999999999999994  7.065583270946888e-18  0.4342432889855407  1.0000
+  Cu  Cu2       1.0  1.458793391639559e-16  0.49999999999999994  0.565753919326428  1.0000
+  Te  Te1       1.0  0.49999999999999994  0.49999999999999994  0.5309603879952962  1.0000
+  Te  Te2       1.0  0.0  0.0  0.46904474261167173  1.0000
+  Cl  Cl1       1.0  0.49999999999999994  0.49999999999999994  0.3619478289751605  1.0000
+  Cl  Cl2       1.0  2.5609018528130756e-18  1.202529028493102e-17  0.6380623203533972  1.0000

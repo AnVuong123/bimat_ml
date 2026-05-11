@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sr2CuO2ISrCuO2I
+_chemical_formula_sum              "Sr3 Cu2 O4 I2"
+_cell_length_a       4.023994804927974
+_cell_length_b       4.023994804927974
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  1.1246870532590867e-17  0.5  1.0000
+  Sr  Sr2       1.0  0.0  0.0  0.5876110091985676  1.0000
+  Cu  Cu1       1.0  0.5000000000000008  0.5000000000000008  0.5449176115928311  1.0000
+  O   O1        1.0  0.0  0.5000000000000008  0.5448233525843693  1.0000
+  O   O2        1.0  0.5000000000000008  0.0  0.5448233525843693  1.0000
+  I   I1        1.0  0.5000000000000008  0.5000000000000008  0.6337670555821319  1.0000
+  Sr  Sr3       1.0  0.0  2.469960833445222e-18  0.4123889908014325  1.0000
+  Cu  Cu2       1.0  0.5000000000000008  0.5000000000000008  0.4550823884071689  1.0000
+  O   O3        1.0  4.4123005829762285e-18  0.5000000000000008  0.45517664741563074  1.0000
+  O   O4        1.0  0.5000000000000008  1.884248879339735e-19  0.45517664741563074  1.0000
+  I   I2        1.0  0.5000000000000008  0.5000000000000008  0.36623294441786824  1.0000

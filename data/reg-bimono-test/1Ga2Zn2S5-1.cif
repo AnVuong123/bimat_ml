@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2Zn2S5
+_chemical_formula_sum              "Ga2 Zn2 S5"
+_cell_length_a       3.759269311804147
+_cell_length_b       3.7592678743133536
+_cell_length_c       42.49425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00001264922382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  3.151325080882441e-07  6.302650161764637e-07  0.4615755565632651  1.0000
+  Ga  Ga2       1.0  0.6666660763262666  0.3333321526525279  0.6249777315976934  1.0000
+  Zn  Zn1       1.0  0.666667740359597  0.3333354807191888  0.3734717567471173  1.0000
+  Zn  Zn2       1.0  0.33333279381392356  0.6666655876278352  0.5473554243280966  1.0000
+  S   S1        1.0  0.33333448340076716  0.6666689668015224  0.35729365968414756  1.0000
+  S   S2        1.0  0.6666670780294908  0.3333341560589763  0.43377238263131407  1.0000
+  S   S3        1.0  0.3333330902877432  0.6666661805754746  0.49490818418152827  1.0000
+  S   S4        1.0  0.6666657613129328  0.33333152262586024  0.5705586344813538  1.0000
+  S   S5        1.0  0.333332762142926  0.6666655242858401  0.6473338985968399  1.0000

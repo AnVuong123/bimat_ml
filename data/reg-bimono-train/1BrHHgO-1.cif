@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgOHBr
+_chemical_formula_sum              "Hg1 O1 H1 Br1"
+_cell_length_a       3.9226124118166967
+_cell_length_b       3.9225793796643145
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.999030173345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3332986041265115  0.6666346029437421  0.495783270656585  1.0000
+  O   O1        1.0  0.6666182228364315  0.33329646081147374  0.5260489638543193  1.0000
+  H   H1        1.0  0.6666112612291349  0.3332909987510384  0.5552100827486703  1.0000
+  Br  Br1       1.0  0.9999746987202098  0.999975387619482  0.44556291927576835  1.0000

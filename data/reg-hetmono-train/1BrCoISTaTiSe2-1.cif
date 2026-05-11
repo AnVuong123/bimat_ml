@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaBrTiCoISe2S
+_chemical_formula_sum              "Ta1 Br1 Ti1 Co1 I1 Se2 S1"
+_cell_length_a       4.861290582913902
+_cell_length_b       6.168184600384597
+_cell_length_c       19.951802359598336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.197991070201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.27578371136889285  0.9685735590199925  0.5084355056437244  1.0000
+  Br  Br1       1.0  0.1429716659896131  0.7030281776378668  0.6240941111572342  1.0000
+  Ti  Ti1       1.0  0.9450261463683771  0.3074690131760785  0.5524871667397974  1.0000
+  Co  Co1       1.0  0.4993561131140465  0.4171798707877866  0.47902026513977775  1.0000
+  I   I1        1.0  0.35346201816853584  0.12465516574276457  0.3759058888427656  1.0000
+  Se  Se1       1.0  0.7309332961917463  0.8789511200447446  0.5028437627700321  1.0000
+  Se  Se2       1.0  0.05284601105085996  0.5236277957381664  0.448206770296159  1.0000
+  S   S1        1.0  0.4398565210540988  0.2973408650815873  0.5840552331242015  1.0000

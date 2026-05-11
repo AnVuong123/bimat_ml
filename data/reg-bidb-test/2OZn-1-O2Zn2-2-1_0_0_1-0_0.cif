@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O2Zn2O2Zn2
+_chemical_formula_sum              "O4 Zn4"
+_cell_length_a       3.351934689201977
+_cell_length_b       3.352078001393491
+_cell_length_c       22.14884868034409
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99175797643214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9999900909699292  3.5934499155110764e-05  0.33861805226272756  1.0000
+  O   O2        1.0  0.33334303163405565  0.6666307428689114  0.4476200200328416  1.0000
+  Zn  Zn1       1.0  0.9999878947211609  3.8445736620196726e-05  0.44448766173281085  1.0000
+  Zn  Zn2       1.0  0.3333453497840371  0.6666284038512076  0.34176101517717367  1.0000
+  O   O3        1.0  0.9999900909699292  3.5934499155110764e-05  0.5523799799516229  1.0000
+  O   O4        1.0  0.33334303163405565  0.6666307428689114  0.661381947721737  1.0000
+  Zn  Zn3       1.0  0.9999878947211609  3.8445736620196726e-05  0.6582495894217063  1.0000
+  Zn  Zn4       1.0  0.3333453497840371  0.6666284038512076  0.555522942866069  1.0000

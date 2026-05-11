@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClNiClIrSeBrOIr
+_chemical_formula_sum              "Cl2 Ni1 Ir2 Se1 Br1 O1"
+_cell_length_a       3.4676156852651596
+_cell_length_b       6.892494512310791
+_cell_length_c       19.881269358935423
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.97947812200059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2551607092103538  0.42799423675358905  0.5703346722343603  1.0000
+  Ni  Ni1       1.0  0.7558099828231285  0.008545935851403286  0.45703526852744886  1.0000
+  Cl  Cl2       1.0  0.755574144038217  0.028232855825710963  0.6230602655390328  1.0000
+  Ir  Ir1       1.0  0.25554668783614787  0.08893825920060283  0.5428444891333268  1.0000
+  Se  Se1       1.0  0.25583419744388863  0.21908593741520735  0.4244854251552305  1.0000
+  Br  Br1       1.0  0.7554903722425083  0.641863797004735  0.3768621878067304  1.0000
+  O   O1        1.0  0.2553714763168818  0.851217547184036  0.48248750928122897  1.0000
+  Ir  Ir2       1.0  0.25554630459515393  0.5543346988866842  0.46107705460759985  1.0000

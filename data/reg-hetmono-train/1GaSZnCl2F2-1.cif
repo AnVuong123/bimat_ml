@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FClSClZnFGa
+_chemical_formula_sum              "F2 Cl2 S1 Zn1 Ga1"
+_cell_length_a       5.606697065121644
+_cell_length_b       5.579128815771053
+_cell_length_c       20.36639974493858
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    124.99057653522476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.5786795587375911  0.8267138903283481  0.4786597125176175  1.0000
+  Cl  Cl1       1.0  0.6156343051253642  0.6895696753484137  0.6317464012330463  1.0000
+  S   S1        1.0  0.8504676548733864  0.4908103480964489  0.5419670431836529  1.0000
+  Cl  Cl2       1.0  0.0280199123026965  0.8362707938174724  0.3682535987669537  1.0000
+  Zn  Zn1       1.0  0.2986410725269297  0.5870470938670398  0.5523402404806901  1.0000
+  F   F2        1.0  0.19495436437575567  0.20757365253980214  0.5088005309768588  1.0000
+  Ga  Ga1       1.0  0.9240364834642786  0.8393390901435677  0.4694946153371685  1.0000

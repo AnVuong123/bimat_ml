@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cr2NSe2
+_chemical_formula_sum              "Cr2 N1 Se2"
+_cell_length_a       3.150397951687518
+_cell_length_b       3.1500601011253133
+_cell_length_c       19.430547128714363
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00327159171253
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.27023786234594593  0.603404852926019  0.44936108237175365  1.0000
+  Cr  Cr2       1.0  0.6035738725578431  0.27039456104921394  0.5506217804556741  1.0000
+  N   N1        1.0  0.9368864257380127  0.9368794650929934  0.4999916719880176  1.0000
+  Se  Se1       1.0  0.2701079629753306  0.6035642215204489  0.6380444445806526  1.0000
+  Se  Se2       1.0  0.6037041708867433  0.27023564515499693  0.3619391892564799  1.0000

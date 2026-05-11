@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdOF2
+_chemical_formula_sum              "Cd1 O1 F2"
+_cell_length_a       3.594383290941295
+_cell_length_b       3.5943846105586825
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0001311179698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.33329695038223445  0.6666306733863684  0.48776690914702975  1.0000
+  O   O1        1.0  0.6666293486763971  0.3333015532702638  0.517032048755576  1.0000
+  F   F1        1.0  0.6666112339578101  0.3332973648434451  0.5604051434386457  1.0000
+  F   F2        1.0  0.9999653933087504  0.9999680019328985  0.4573698227515386  1.0000

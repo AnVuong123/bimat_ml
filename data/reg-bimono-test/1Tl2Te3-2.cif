@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TlTeTlTe2
+_chemical_formula_sum              "Tl2 Te3"
+_cell_length_a       4.333593557080593
+_cell_length_b       4.333120849769693
+_cell_length_c       36.36696
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00360878841114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  2.5235902343589346e-05  5.047180468717876e-05  0.556380926581974  1.0000
+  Te  Te1       1.0  0.3333778444953292  0.6667556889906584  0.6006939853311792  1.0000
+  Tl  Tl2       1.0  0.33337476188871373  0.6667495237774279  0.44361931484188377  1.0000
+  Te  Te2       1.0  0.6667000009493042  0.33340000189860874  0.5000000011754202  1.0000
+  Te  Te3       1.0  2.2152333278906914e-05  4.430466655781217e-05  0.39930621804841154  1.0000

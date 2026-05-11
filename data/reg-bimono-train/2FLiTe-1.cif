@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2TeFTeF
+_chemical_formula_sum              "Li2 Te2 F2"
+_cell_length_a       5.160967089342316
+_cell_length_b       5.163185532080348
+_cell_length_c       18.615232076943553
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    75.47493921526782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.9816138784366106  0.006688832165055558  0.5003670783397397  1.0000
+  Li  Li2       1.0  0.3994492660336558  0.4242172914107265  0.5002003749798846  1.0000
+  Te  Te1       1.0  0.512690990214838  0.8928093051334741  0.4461925062326142  1.0000
+  F   F1        1.0  0.4321807628706861  0.9720903839162577  0.344160495649089  1.0000
+  Te  Te2       1.0  0.867469145866428  0.5378989708141143  0.5538066787245377  1.0000
+  F   F2        1.0  0.9519616164882783  0.4513719195974183  0.6553992284223873  1.0000

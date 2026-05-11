@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SFTaSTaSF2
+_chemical_formula_sum              "S3 F3 Ta2"
+_cell_length_a       5.837255897008627
+_cell_length_b       5.599864754101971
+_cell_length_c       18.202317496182374
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.4122075536054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8604767621088265  0.15875986534792763  0.5878638004265502  1.0000
+  F   F1        1.0  0.17149099599825673  0.8235124976033585  0.5563220704416858  1.0000
+  Ta  Ta1       1.0  0.8245659701537853  0.4974235207021366  0.5064734784077045  1.0000
+  S   S2        1.0  0.9008868231081338  0.8233804262031985  0.4120045504692375  1.0000
+  Ta  Ta2       1.0  0.15061150015929362  0.14941509077260115  0.506440359011978  1.0000
+  S   S3        1.0  0.5250241626921215  0.4878639033975811  0.5879268819115848  1.0000
+  F   F2        1.0  0.1479375686246497  0.4545431794208563  0.44872443827182784  1.0000
+  F   F3        1.0  0.5167933233822373  0.19241025538459625  0.4487252302804898  1.0000

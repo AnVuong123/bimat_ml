@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IMnO2MnIO
+_chemical_formula_sum              "I2 Mn2 O3"
+_cell_length_a       3.7354510450585723
+_cell_length_b       5.503858683605658
+_cell_length_c       20.16953947028779
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.8022903546892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2303114501617151  0.23017561161004313  0.3717403509597498  1.0000
+  Mn  Mn1       1.0  0.16142809707111713  0.09549210467111563  0.4959595435699713  1.0000
+  O   O1        1.0  0.3329857421382253  0.43934543813280724  0.5380940331046123  1.0000
+  O   O2        1.0  0.6940060103135091  0.16082296784152805  0.505271156754759  1.0000
+  Mn  Mn2       1.0  0.8712466411000108  0.5163494133146865  0.5309671668915478  1.0000
+  I   I2        1.0  0.03894751482446804  0.8543490023382668  0.6281390471936104  1.0000
+  O   O3        1.0  0.9923424588134162  0.7571807653033549  0.4697917886093945  1.0000

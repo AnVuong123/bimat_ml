@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       In2Sb2Se6
+_chemical_formula_sum              "In2 Sb2 Se6"
+_cell_length_a       7.105187024751099
+_cell_length_b       7.105838232628361
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.939050402179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  1.6161006161950995e-05  0.9999891970991818  0.500216121172929  1.0000
+  In  In2       1.0  0.3333236718621859  0.6666917695193713  0.49977510953684995  1.0000
+  Sb  Sb1       1.0  0.6665452480040029  0.3332100610367732  0.42125279342495614  1.0000
+  Sb  Sb2       1.0  0.6667927872287065  0.33347059179655075  0.5786802913929776  1.0000
+  Se  Se1       1.0  0.2916348313622376  0.9586301275439154  0.4081730546411531  1.0000
+  Se  Se2       1.0  0.04126370240865462  0.333108627140368  0.40819621376502235  1.0000
+  Se  Se3       1.0  0.6671373969131117  0.7082587696126235  0.4082012906392631  1.0000
+  Se  Se4       1.0  0.04165292656747255  0.7079325551643075  0.5918580553990844  1.0000
+  Se  Se5       1.0  0.2921855589261322  0.33362676925537066  0.5918344644697513  1.0000
+  Se  Se6       1.0  0.666146335474045  0.9584834529588069  0.5918324158295192  1.0000

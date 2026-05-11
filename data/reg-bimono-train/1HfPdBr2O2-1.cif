@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfOBrOPdBr
+_chemical_formula_sum              "Hf1 O2 Br2 Pd1"
+_cell_length_a       4.172171647407342
+_cell_length_b       3.584702020560491
+_cell_length_c       20.75559985358622
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00731806024696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.24910898474736679  0.7511240216789931  0.5384668058912693  1.0000
+  O   O1        1.0  0.7490004084734596  0.7515678492453606  0.5298782087562411  1.0000
+  Br  Br1       1.0  0.7495624768283544  0.7498496846711948  0.3613392243630942  1.0000
+  O   O2        1.0  0.24913826086725402  0.2511829910608018  0.487942094394199  1.0000
+  Pd  Pd1       1.0  0.7491898552367942  0.2501580153989257  0.4480851113418163  1.0000
+  Br  Br2       1.0  0.2491950806061612  0.25172101625992854  0.6386535066305972  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2Se2Ag2F2
+_chemical_formula_sum              "Cd2 Se2 Ag2 F2"
+_cell_length_a       4.387008802078118
+_cell_length_b       6.5570563373778095
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5000000000000012  0.1317675914308032  0.5149268371219284  1.0000
+  Cd  Cd2       1.0  0.4999999999999973  0.6317675914308067  0.4850731628780716  1.0000
+  Se  Se1       1.0  0.4999999999999973  0.28729030052362653  0.45271556569961846  1.0000
+  Se  Se2       1.0  0.4999999999999957  0.7872903005235982  0.5472844343003743  1.0000
+  Ag  Ag1       1.0  0.9999999999999999  0.09477527375546156  0.4580704882111378  1.0000
+  Ag  Ag2       1.0  0.0  0.594775273755399  0.541929511788862  1.0000
+  F   F1        1.0  2.181331017593025e-17  0.24263542049741157  0.5317927828444041  1.0000
+  F   F2        1.0  5.1465971631615733e-17  0.7426354204974036  0.4682072171555963  1.0000

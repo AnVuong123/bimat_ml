@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnIn2O4
+_chemical_formula_sum              "Mn1 In2 O4"
+_cell_length_a       3.406960483921395
+_cell_length_b       3.406960483921364
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98169241215163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0  0.0  0.5000000000000001  1.0000
+  In  In1       1.0  0.666696366550228  0.3333036334497773  0.420885365269582  1.0000
+  In  In2       1.0  0.3333036334497812  0.6666963665502375  0.5791146347304177  1.0000
+  O   O1        1.0  0.6666813930294669  0.3333186069705384  0.5972877285887763  1.0000
+  O   O2        1.0  0.33331860697053844  0.6666813930294679  0.40271227141122495  1.0000
+  O   O3        1.0  0.6668439484803462  0.33315605151965866  0.47475530338170274  1.0000
+  O   O4        1.0  0.3331560515196595  0.6668439484803508  0.5252446966182974  1.0000

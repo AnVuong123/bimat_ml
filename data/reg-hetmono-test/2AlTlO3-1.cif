@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tl2Al2O6
+_chemical_formula_sum              "Tl2 Al2 O6"
+_cell_length_a       3.2860512945231584
+_cell_length_b       5.360933036234188
+_cell_length_c       37.097944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.0  0.016727946540072588  0.46551969996093134  1.0000
+  Tl  Tl2       1.0  0.49999999999999717  0.5167279465400774  0.5344803000390685  1.0000
+  Al  Al1       1.0  0.49999999999999717  0.5627291032319477  0.43584800712822636  1.0000
+  Al  Al2       1.0  0.0  0.06272910323194654  0.5641519928717711  1.0000
+  O   O1        1.0  0.49999999999999717  0.7351465265214654  0.47982689431259923  1.0000
+  O   O2        1.0  0.0  0.2351465265214654  0.5201731056874006  1.0000
+  O   O3        1.0  5.452940997828363e-18  0.657478394949018  0.42152413644556846  1.0000
+  O   O4        1.0  0.49999999999999717  0.15747839494901897  0.5784758635544301  1.0000
+  O   O5        1.0  0.0  0.7337933559402424  0.5572427370124372  1.0000
+  O   O6        1.0  0.49999999999999717  0.23379335594024317  0.44275726298756396  1.0000

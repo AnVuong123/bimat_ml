@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtHfISCoI
+_chemical_formula_sum              "Pt1 Hf1 I2 S1 Co1"
+_cell_length_a       3.645023380968995
+_cell_length_b       4.589797251811435
+_cell_length_c       21.378450489234755
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.4245245749234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8498864344687144  0.212815544100305  0.42070905888596455  1.0000
+  Hf  Hf1       1.0  0.8233970476999363  0.15942832446029112  0.5435438966443209  1.0000
+  I   I1        1.0  0.5767842384832704  0.6659899265041512  0.35080503622062553  1.0000
+  S   S1        1.0  0.10960782961042437  0.7320776430362117  0.5213097245636065  1.0000
+  Co  Co1       1.0  0.5452726861042841  0.6030397130671562  0.4708555298965295  1.0000
+  I   I2        1.0  0.38209747709575526  0.27663152765587173  0.6491815265723268  1.0000

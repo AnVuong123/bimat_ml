@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClNHfZrO2Cl
+_chemical_formula_sum              "Cl2 N1 Hf1 Zr1 O2"
+_cell_length_a       3.781461450342827
+_cell_length_b       4.161762462975472
+_cell_length_c       21.252707762052545
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.0070815181924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.48708811476181363  0.4757492300352478  0.3528962089899675  1.0000
+  N   N1        1.0  0.9876732086222355  0.7188835487878935  0.5180568486475015  1.0000
+  Hf  Hf1       1.0  0.9872705800171067  0.21706362412253521  0.5371681218037471  1.0000
+  Zr  Zr1       1.0  0.48731342610752604  0.7550855655582873  0.4495414957499396  1.0000
+  O   O1        1.0  0.9873625225663402  0.9697761344245817  0.431064147434746  1.0000
+  O   O2        1.0  0.4874526945473687  0.25558252068202947  0.4986512223627271  1.0000
+  Cl  Cl2       1.0  0.9828642889788272  0.20465997830882943  0.6471037910100325  1.0000

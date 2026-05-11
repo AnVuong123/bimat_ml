@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CrVNSeS
+_chemical_formula_sum              "Cr1 V1 N1 Se1 S1"
+_cell_length_a       3.1911376431832563
+_cell_length_b       4.007925394784789
+_cell_length_c       18.844129722230246
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99924458165937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.25666790521905714  0.24483090462366877  0.4471533380310318  1.0000
+  V   V1        1.0  0.7568707724244459  0.7447318640557813  0.5031868510071991  1.0000
+  N   N1        1.0  0.7566349208284752  0.2448641016145272  0.49940377224054616  1.0000
+  Se  Se1       1.0  0.2567327002542404  0.745156833034429  0.6019980699266616  1.0000
+  S   S1        1.0  0.25669027932444066  0.7448205056759736  0.3980019300733384  1.0000

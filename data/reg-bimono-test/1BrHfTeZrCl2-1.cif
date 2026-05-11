@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeClZrHfBrCl
+_chemical_formula_sum              "Te1 Cl2 Zr1 Hf1 Br1"
+_cell_length_a       4.7280630343916
+_cell_length_b       4.703839257981134
+_cell_length_c       18.38227931010268
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99579556026411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7483509197222823  0.7499545000235257  0.40800163426295516  1.0000
+  Cl  Cl1       1.0  0.2472375095588535  0.2505187215911082  0.5877666584529336  1.0000
+  Zr  Zr1       1.0  0.2479648569824403  0.7497750869561014  0.5044501784925376  1.0000
+  Hf  Hf1       1.0  0.7483798983041251  0.24940755610661228  0.5035501875621666  1.0000
+  Br  Br1       1.0  0.24824813508567856  0.24977600887468435  0.4191973504691885  1.0000
+  Cl  Cl2       1.0  0.7478479213426121  0.7512530165073951  0.5919983657370449  1.0000

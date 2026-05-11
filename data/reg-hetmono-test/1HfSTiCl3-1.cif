@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClSCl2HfTi
+_chemical_formula_sum              "Cl3 S1 Hf1 Ti1"
+_cell_length_a       4.622966786942578
+_cell_length_b       4.626978594107765
+_cell_length_c       18.100255346753986
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.34631555400922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3771135703514282  0.1097222318087503  0.5856412047057106  1.0000
+  S   S1        1.0  0.121076926402956  0.37461674140407386  0.42251850462809387  1.0000
+  Cl  Cl2       1.0  0.8696031025362508  0.6391500722865184  0.5856333626410579  1.0000
+  Cl  Cl3       1.0  0.621919201350479  0.8757721327846345  0.4143587952942892  1.0000
+  Hf  Hf1       1.0  0.6208429624957722  0.37631690093509895  0.4845986704427332  1.0000
+  Ti  Ti1       1.0  0.12379748766714777  0.873894557122454  0.4829324469263376  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiMnSe2
+_chemical_formula_sum              "Li1 Mn1 Se2"
+_cell_length_a       4.195835282351333
+_cell_length_b       4.204028031889122
+_cell_length_c       33.14600794164111
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98284499809644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.4421141991645318  0.8616534047951948  0.5365567016909586  1.0000
+  Mn  Mn1       1.0  0.11058186458555412  0.19459164317565367  0.4749611585504766  1.0000
+  Se  Se1       1.0  0.11003639172213475  0.19617848652865963  0.5454126407464178  1.0000
+  Se  Se2       1.0  0.4436759683351116  0.8608780865144586  0.45435394890887676  1.0000

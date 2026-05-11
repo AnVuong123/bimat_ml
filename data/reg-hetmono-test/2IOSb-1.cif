@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2Sb2O2
+_chemical_formula_sum              "I2 Sb2 O2"
+_cell_length_a       4.275607922297691
+_cell_length_b       18.263600810733912
+_cell_length_c       19.02754707
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    160.0080189811107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4453927823735439  0.20772225180195555  0.605842491659655  1.0000
+  I   I2        1.0  0.9453928323735428  0.20772225180195525  0.39415749834034314  1.0000
+  Sb  Sb1       1.0  0.20726757463188797  0.6464143114315487  0.5691503464293534  1.0000
+  Sb  Sb2       1.0  0.707267624631908  0.6464142814315517  0.4308496635706467  1.0000
+  O   O1        1.0  0.6808089978258636  0.6398833347584456  0.5364021217983443  1.0000
+  O   O2        1.0  0.18080899782585916  0.6398833047584497  0.4635978782016557  1.0000

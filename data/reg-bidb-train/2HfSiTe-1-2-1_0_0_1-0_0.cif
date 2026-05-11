@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       HfSi2TeHfTeHfSi2TeHfTe
+_chemical_formula_sum              "Hf4 Si4 Te4"
+_cell_length_a       3.6587181712370263
+_cell_length_b       3.6587181712370263
+_cell_length_c       49.93156451962325
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.500000001197547  0.500000001197547  0.4118038947471608  1.0000
+  Si  Si1       1.0  0.500000001197547  0.0  0.369588859823278  1.0000
+  Si  Si2       1.0  0.0  0.500000001197547  0.369588859823278  1.0000
+  Te  Te1       1.0  0.0  0.0  0.43991776487130474  1.0000
+  Hf  Hf2       1.0  0.0  0.0  0.3273738248993953  1.0000
+  Te  Te2       1.0  0.500000001197547  0.500000001197547  0.29925995477525136  1.0000
+  Hf  Hf3       1.0  0.500000001197547  0.500000001197547  0.6102715403204418  1.0000
+  Si  Si3       1.0  0.500000001197547  0.0  0.568056505396559  1.0000
+  Si  Si4       1.0  0.0  0.500000001197547  0.568056505396559  1.0000
+  Te  Te3       1.0  0.0  0.0  0.6383854104445856  1.0000
+  Hf  Hf4       1.0  0.0  0.0  0.5258414706729504  1.0000
+  Te  Te4       1.0  0.500000001197547  0.500000001197547  0.4977276003485324  1.0000

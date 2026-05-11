@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ga2Te2
+_chemical_formula_sum              "Ga2 Te2"
+_cell_length_a       4.05979694296082
+_cell_length_b       4.060271365876722
+_cell_length_c       32.745636000000005
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  1.9934553436006405e-19  0.9349529972584993  0.46500972326933143  1.0000
+  Ga  Ga2       1.0  0.4999999999999963  0.43495299725849895  0.5349902767306676  1.0000
+  Te  Te1       1.0  0.4999999999999979  0.4350125362749652  0.4488942559737476  1.0000
+  Te  Te2       1.0  3.690450057419012e-19  0.9350125362749587  0.5511057440262541  1.0000

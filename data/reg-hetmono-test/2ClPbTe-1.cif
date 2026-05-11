@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2Te2Cl2
+_chemical_formula_sum              "Pb2 Te2 Cl2"
+_cell_length_a       5.079058943686657
+_cell_length_b       4.458723248928773
+_cell_length_c       22.567356041997854
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.4999999999999997  0.9999999999999997  0.39561962860471533  1.0000
+  Pb  Pb2       1.0  0.9999999999999999  0.5  0.6044617189042033  1.0000
+  Te  Te1       1.0  0.4999999999999997  0.5  0.509335559921078  1.0000
+  Te  Te2       1.0  2.5209913896273234e-17  7.592918761873462e-18  0.4906400726482431  1.0000
+  Cl  Cl1       1.0  0.4999999999999997  0.5  0.3212190343651381  1.0000
+  Cl  Cl2       1.0  7.677412096754919e-18  0.0  0.6787587935109304  1.0000

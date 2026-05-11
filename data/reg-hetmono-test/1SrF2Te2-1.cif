@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeFSrTeF
+_chemical_formula_sum              "Te2 F2 Sr1"
+_cell_length_a       5.009704885493264
+_cell_length_b       5.0070948616824085
+_cell_length_c       19.208510457334267
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    106.24966520535014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.6684940498109774  0.39942399815077206  0.5646587586566932  1.0000
+  F   F1        1.0  0.6715584213317878  0.39858551846470236  0.6671884890521207  1.0000
+  Sr  Sr1       1.0  0.06521896240905216  0.0024707207232643746  0.500286748240413  1.0000
+  Te  Te2       1.0  0.46306781021394283  0.6047794826450817  0.43511459647603384  1.0000
+  F   F2        1.0  0.4715426602847087  0.594705216042947  0.3328004824298546  1.0000

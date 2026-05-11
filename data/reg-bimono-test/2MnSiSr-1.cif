@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2SrSiSrSi
+_chemical_formula_sum              "Mn2 Sr2 Si2"
+_cell_length_a       3.951762656600744
+_cell_length_b       3.9517626566007076
+_cell_length_c       34.933344
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.49999999999999994  0.9999999999999999  0.5  1.0000
+  Mn  Mn2       1.0  1.47776911423147e-16  0.49999999999999994  0.5  1.0000
+  Sr  Sr1       1.0  0.49999999999999994  0.49999999999999994  0.5802896912002599  1.0000
+  Si  Si1       1.0  0.9999999999999999  0.0  0.5382155584833317  1.0000
+  Sr  Sr2       1.0  1.4056390334270377e-17  1.3266369994595643e-17  0.41971030879974014  1.0000
+  Si  Si2       1.0  0.49999999999999994  0.49999999999999994  0.46178444151666875  1.0000

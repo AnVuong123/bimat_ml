@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       S4Cd2Sb2Br2
+_chemical_formula_sum              "S4 Cd2 Sb2 Br2"
+_cell_length_a       5.582720205002018
+_cell_length_b       7.922423849121111
+_cell_length_c       36.36461788082604
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.0  0.5887658440419429  0.4899627141688604  1.0000
+  S   S2        1.0  0.5000000000000001  0.8765330290574249  0.5100369258418201  1.0000
+  S   S3        1.0  7.183799404643336e-18  0.1370664968469038  0.47989273400678695  1.0000
+  S   S4        1.0  0.5000000000000001  0.3282310860861829  0.520106890880036  1.0000
+  Cd  Cd1       1.0  0.5000000000000001  0.6048714616013385  0.4739001045518879  1.0000
+  Cd  Cd2       1.0  5.693419927221025e-18  0.860427301840221  0.5260999852475896  1.0000
+  Sb  Sb1       1.0  3.0520960657228595e-18  0.3404798908802871  0.5319577803305141  1.0000
+  Sb  Sb2       1.0  0.5000000000000001  0.12481844708919064  0.46804258539145116  1.0000
+  Br  Br1       1.0  0.5000000000000001  0.4510412540667514  0.41241593252125547  1.0000
+  Br  Br2       1.0  0.0  0.014256858593710016  0.5875838718256136  1.0000

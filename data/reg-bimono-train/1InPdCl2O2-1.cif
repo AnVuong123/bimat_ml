@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdOInCl2O
+_chemical_formula_sum              "Pd1 O2 In1 Cl2"
+_cell_length_a       3.5096881701890283
+_cell_length_b       4.167178745188028
+_cell_length_c       20.32865218825741
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99914791378171
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.7493666278224062  0.25049280362226223  0.5507930866638795  1.0000
+  O   O1        1.0  0.24735350651165855  0.2504241847298959  0.48737133970147395  1.0000
+  In  In1       1.0  0.24846923833716011  0.7504208524313682  0.4593924768499737  1.0000
+  Cl  Cl1       1.0  0.7477786776742857  0.7504687638576059  0.36884824073101474  1.0000
+  Cl  Cl2       1.0  0.25069206967533947  0.25080205828611113  0.6312451305248135  1.0000
+  O   O2        1.0  0.7486436962424378  0.7504715324185379  0.5281980920368389  1.0000

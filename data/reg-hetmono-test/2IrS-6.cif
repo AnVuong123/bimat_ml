@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ir2S2
+_chemical_formula_sum              "Ir2 S2"
+_cell_length_a       3.8727612882135385
+_cell_length_b       3.872761256554046
+_cell_length_c       17.84071428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  1.9892059448628146e-34  0.0  0.500000002912706  1.0000
+  Ir  Ir2       1.0  0.49999999973698084  0.4999999997369809  0.4999999973508357  1.0000
+  S   S1        1.0  0.0  0.4999999997369809  0.42358015767160007  1.0000
+  S   S2        1.0  0.49999999973698084  1.0581517587966923e-18  0.5764198425638272  1.0000

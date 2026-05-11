@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5InBr2
+_chemical_formula_sum              "Ni5 In1 Br2"
+_cell_length_a       3.738267260606486
+_cell_length_b       3.738267260606486
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.017292228609132206  0.017292228609132116  0.5000185579379821  1.0000
+  Ni  Ni2       1.0  0.5172893336804495  0.017303288839431188  0.41686835800977273  1.0000
+  Ni  Ni3       1.0  0.01730328883943114  0.5172893336804495  0.41686835800977273  1.0000
+  Ni  Ni4       1.0  0.5172917238094681  0.017302472389911432  0.5831418937730537  1.0000
+  Ni  Ni5       1.0  0.017302472389911408  0.5172917238094681  0.5831418937730537  1.0000
+  In  In1       1.0  0.5172527991775189  0.517252799177519  0.4999830064499165  1.0000
+  Br  Br1       1.0  0.017245570024353445  0.017245570024353445  0.34442243864986805  1.0000
+  Br  Br2       1.0  0.017246161565093714  0.01724616156509369  0.655598965259871  1.0000

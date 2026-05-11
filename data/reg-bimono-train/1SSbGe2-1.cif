@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbGe2S
+_chemical_formula_sum              "Sb1 Ge2 S1"
+_cell_length_a       3.691270925857012
+_cell_length_b       3.6757452641224053
+_cell_length_c       19.950778147825137
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.91257321333445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.49004579032442874  0.8243747199970839  0.6245554281940103  1.0000
+  Ge  Ge1       1.0  0.836618126563639  0.5029306820391485  0.4388479658783845  1.0000
+  Ge  Ge2       1.0  0.1518764868379548  0.15441604844574655  0.5383267357876724  1.0000
+  S   S1        1.0  0.49936106316676937  0.8334201455181179  0.37594655363530044  1.0000

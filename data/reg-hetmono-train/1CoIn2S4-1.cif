@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoInS2InS2
+_chemical_formula_sum              "Co1 In2 S4"
+_cell_length_a       3.7684230662485545
+_cell_length_b       3.7684230662485407
+_cell_length_c       38.822593
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6666666666666665  0.3333333333333331  0.49994367793661393  1.0000
+  In  In1       1.0  0.33333333333333187  0.6666666666666669  0.40956187473539685  1.0000
+  S   S1        1.0  0.6666666666666665  0.3333333333333331  0.3775224699516369  1.0000
+  S   S2        1.0  0.33333333333333187  0.6666666666666669  0.47316314390918  1.0000
+  In  In2       1.0  0.9999999999999999  0.0  0.5903024559624519  1.0000
+  S   S3        1.0  0.6666666666666663  0.3333333333333331  0.6223357327790728  1.0000
+  S   S4        1.0  0.9999999999999999  0.0  0.5267095454721883  1.0000

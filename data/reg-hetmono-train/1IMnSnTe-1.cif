@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ISnTeMn
+_chemical_formula_sum              "I1 Sn1 Te1 Mn1"
+_cell_length_a       4.188944262390207
+_cell_length_b       7.336174773661314
+_cell_length_c       19.066980190948716
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    136.7324714119964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.13182599427676195  0.038388837334841774  0.6066498247289142  1.0000
+  Sn  Sn1       1.0  0.007051638074450956  0.5645958404398445  0.472142570701279  1.0000
+  Te  Te1       1.0  0.16902148067133926  0.3021316951224252  0.3933501752710859  1.0000
+  Mn  Mn1       1.0  0.6950047809915652  0.09642980937669551  0.5151937513773235  1.0000

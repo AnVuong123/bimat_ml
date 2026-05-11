@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4S4Ta2
+_chemical_formula_sum              "Co4 S4 Ta2"
+_cell_length_a       3.35146177988453
+_cell_length_b       6.346005053855127
+_cell_length_c       35.39616024
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0037585387193267376  0.5340819969365977  1.0000
+  Co  Co2       1.0  5.573979460167887e-18  0.5037585387193281  0.465918003063402  1.0000
+  Co  Co3       1.0  7.181300676066204e-18  0.8848443859457772  0.46591684217059937  1.0000
+  Co  Co4       1.0  7.26457477347585e-18  0.38484438594577725  0.5340831578294004  1.0000
+  S   S1        1.0  0.49999999999999956  0.19430897294463764  0.5623054256995957  1.0000
+  S   S2        1.0  0.49999999999999956  0.6943089729446374  0.4376945743004032  1.0000
+  S   S3        1.0  9.50833958721616e-18  0.19429878427840377  0.4352818489965493  1.0000
+  S   S4        1.0  2.220952390351565e-18  0.6942987842784025  0.5647181510034506  1.0000
+  Ta  Ta1       1.0  0.49999999999999956  0.19430272802183912  0.4887134702188306  1.0000
+  Ta  Ta2       1.0  0.49999999999999956  0.6943027280218381  0.5112865297811691  1.0000

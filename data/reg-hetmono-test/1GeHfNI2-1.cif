@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeHfINI
+_chemical_formula_sum              "Ge1 Hf1 I2 N1"
+_cell_length_a       3.675149037959348
+_cell_length_b       3.6747564859278485
+_cell_length_c       22.0385749362962
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.92566092942667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.038348700070711846  0.30282247933495215  0.4355064294242096  1.0000
+  Hf  Hf1       1.0  0.5899190007970004  0.7494502150941301  0.5593047624725533  1.0000
+  I   I1        1.0  0.3686091978719367  0.9749928799626078  0.3403966627600425  1.0000
+  N   N1        1.0  0.9215655096236531  0.4176769576505761  0.5388348570877539  1.0000
+  I   I2        1.0  0.2596563829431449  0.07974436384748101  0.6597646811300635  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2IWIW
+_chemical_formula_sum              "Te2 I2 W2"
+_cell_length_a       4.215126222792231
+_cell_length_b       5.6956847828567785
+_cell_length_c       19.834663298368294
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99879270598925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2530936450759551  0.8745638829409289  0.42473767380849753  1.0000
+  Te  Te2       1.0  0.2526235899169399  0.3746698011563417  0.5580512984548167  1.0000
+  I   I1        1.0  0.7523292443561895  0.374686636285377  0.3781259044925149  1.0000
+  W   W1        1.0  0.7531542496968571  0.6638898519920147  0.49498449301489966  1.0000
+  I   I2        1.0  0.7519680744378225  0.8746122021866576  0.6218740955074851  1.0000
+  W   W2        1.0  0.753207788655592  0.0853390427890734  0.49500030409752416  1.0000

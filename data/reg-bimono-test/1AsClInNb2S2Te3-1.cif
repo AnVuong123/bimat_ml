@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsNbInTe2S2TeClNb
+_chemical_formula_sum              "As1 Nb2 In1 Te3 S2 Cl1"
+_cell_length_a       5.051749716530919
+_cell_length_b       4.910150021187226
+_cell_length_c       22.737908906823957
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.67136053297808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.3317531173280721  0.8866274372669404  0.6216144236957912  1.0000
+  Nb  Nb1       1.0  0.8662806195744965  0.376314223254456  0.3911555312121081  1.0000
+  In  In1       1.0  0.8856745707193685  0.35233594256125356  0.5765206000255958  1.0000
+  Te  Te1       1.0  0.8652171450335568  0.8769162241645185  0.32697399949523326  1.0000
+  Te  Te2       1.0  0.42080823421442415  0.37135531711926406  0.6741338998372682  1.0000
+  S   S1        1.0  0.10868383579807576  0.6221509309806458  0.46588728966916126  1.0000
+  S   S2        1.0  0.6235686067785945  0.1311698420189589  0.466180462526203  1.0000
+  Te  Te3       1.0  0.36629462618896386  0.37702692593320214  0.3275218301352598  1.0000
+  Cl  Cl1       1.0  0.8990747860162993  0.8564132823286609  0.6554926101401936  1.0000
+  Nb  Nb2       1.0  0.3654528751116139  0.8775927352407586  0.39346165975916525  1.0000

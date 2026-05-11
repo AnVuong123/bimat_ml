@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Fe2
+_chemical_formula_sum              "H2 Fe2"
+_cell_length_a       2.515128052568301
+_cell_length_b       2.5150663529355155
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00083017433352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9995585751943302  0.0001117409138670053  0.39117978388918195  1.0000
+  H   H2        1.0  0.3337638421911866  0.6665660188889595  0.6088844135121013  1.0000
+  Fe  Fe1       1.0  0.0004107337504956439  0.9998438521944766  0.5574259787441037  1.0000
+  Fe  Fe2       1.0  0.33291281150412166  0.6668327677069634  0.4426381105384784  1.0000

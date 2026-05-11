@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SFeCuISI
+_chemical_formula_sum              "S2 Fe1 Cu1 I2"
+_cell_length_a       3.6192888899189293
+_cell_length_b       4.586284341537017
+_cell_length_c       20.98467748504969
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99598859740443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7459524881913526  0.2555925054285568  0.5290422271110495  1.0000
+  Fe  Fe1       1.0  0.7483562699323422  0.7551025913832792  0.5514694663401639  1.0000
+  Cu  Cu1       1.0  0.2503189455992603  0.2552064173254738  0.45346306406196124  1.0000
+  I   I1        1.0  0.24770007615583686  0.7556554887732053  0.6425963655937389  1.0000
+  S   S2        1.0  0.2486920391014789  0.7553112705048983  0.4833856486093099  1.0000
+  I   I2        1.0  0.7546887571637612  0.2540494519562157  0.3574036344062612  1.0000

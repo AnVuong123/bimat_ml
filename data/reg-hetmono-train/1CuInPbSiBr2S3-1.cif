@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       SiPbSInSCuBrSBr
+_chemical_formula_sum              "Si1 Pb1 S3 In1 Cu1 Br2"
+_cell_length_a       4.135982973198242
+_cell_length_b       4.136848645369362
+_cell_length_c       27.053550081685422
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99882595118184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.509632909904415  0.9836428765152557  0.5307148909720548  1.0000
+  Pb  Pb1       1.0  0.8435356825685817  0.6593731857041027  0.3462751817609038  1.0000
+  S   S1        1.0  0.5099825143207553  0.9911116193802182  0.4166872542784048  1.0000
+  In  In1       1.0  0.1757141314909824  0.3138522628962794  0.6601963468272208  1.0000
+  S   S2        1.0  0.5090896382223342  0.9812594177856713  0.6150332975035535  1.0000
+  Cu  Cu1       1.0  0.1765334506652827  0.3249320785118702  0.433357634187  1.0000
+  Br  Br1       1.0  0.8434731231190103  0.6475630652083418  0.7233995350005941  1.0000
+  S   S3        1.0  0.17663703548544782  0.3180260036258081  0.5220027614388655  1.0000
+  Br  Br2       1.0  0.1767172046247523  0.325337613465117  0.2769719888812492  1.0000

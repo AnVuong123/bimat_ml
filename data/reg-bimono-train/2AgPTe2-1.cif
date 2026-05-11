@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2P2Te4
+_chemical_formula_sum              "Ag2 P2 Te4"
+_cell_length_a       3.9323490836318786
+_cell_length_b       7.041376649242169
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  1.5552216329492424e-19  0.9968476860633003  0.458520642744568  1.0000
+  Ag  Ag2       1.0  0.0  0.49684768606330354  0.5414793572554318  1.0000
+  P   P1        1.0  0.49999999999999994  0.5065699420161556  0.41887747634183026  1.0000
+  P   P2        1.0  0.49999999999999994  0.0065699420161599706  0.5811225236581837  1.0000
+  Te  Te1       1.0  0.49999999999999994  0.15895465444483017  0.41285128956471673  1.0000
+  Te  Te2       1.0  0.49999999999999994  0.6589546544448552  0.5871487104352896  1.0000
+  Te  Te3       1.0  2.048267169183343e-18  0.6035390377808638  0.46416482186608177  1.0000
+  Te  Te4       1.0  1.1450884444795748e-17  0.10353903778087718  0.5358351781339181  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2Ag2SeTe
+_chemical_formula_sum              "I2 Ag2 Se1 Te1"
+_cell_length_a       5.243079795937186
+_cell_length_b       5.24333649095914
+_cell_length_c       19.196136093566835
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    110.35356697200022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2745953384012879  0.5555420420583808  0.6092963727990313  1.0000
+  I   I2        1.0  0.8088449309531478  0.02131087014759636  0.6089199649452627  1.0000
+  Ag  Ag1       1.0  0.7929244456739648  0.03892138832642512  0.4550472974386994  1.0000
+  Ag  Ag2       1.0  0.29268804601412857  0.5388318271991014  0.45567901346653183  1.0000
+  Se  Se1       1.0  0.29333472593558263  0.0394052261599455  0.40826440300959066  1.0000
+  Te  Te1       1.0  0.7924562338767966  0.5385909055300947  0.3907036272009689  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrSe2GaSeGaPRuSeBr
+_chemical_formula_sum              "Br2 Se4 Ga2 P1 Ru1"
+_cell_length_a       5.293030822387368
+_cell_length_b       6.763969603343998
+_cell_length_c       21.017928838984
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.42579329206976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.1269746278560815  0.899617275352345  0.6431617949867153  1.0000
+  Se  Se1       1.0  0.36256904139351487  0.31217770464873457  0.4313331346261535  1.0000
+  Se  Se2       1.0  0.45406884830058597  0.48647274324538003  0.588214741683292  1.0000
+  Ga  Ga1       1.0  0.8270130325013598  0.2448174970535267  0.41600347393322845  1.0000
+  Se  Se3       1.0  0.7465528460015519  0.08318803936244872  0.5280044190390558  1.0000
+  Ga  Ga2       1.0  0.5272513560361825  0.7011734232175699  0.47416362378198657  1.0000
+  P   P1        1.0  0.9219238204860233  0.56466149682612  0.5855583018373322  1.0000
+  Ru  Ru1       1.0  0.27362398834848434  0.13034514223583835  0.532833711640982  1.0000
+  Se  Se4       1.0  0.06241648572427317  0.7534821134085851  0.4881786211986221  1.0000
+  Br  Br2       1.0  0.6138587000186736  0.8715729658872347  0.35683820501328456  1.0000

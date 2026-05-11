@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2ClBrHgCd
+_chemical_formula_sum              "S2 Cl1 Br1 Hg1 Cd1"
+_cell_length_a       6.7612351487646745
+_cell_length_b       4.089431499204557
+_cell_length_c       21.58134169602732
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    131.0204557673874
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5686475505735558  0.4091732842367608  0.49451709091617096  1.0000
+  S   S2        1.0  0.24064141408293402  0.7781817498652438  0.5193840834190038  1.0000
+  Cl  Cl1       1.0  0.826702841936839  0.12518721296988045  0.6524775843116095  1.0000
+  Br  Br1       1.0  0.9954376872268352  0.09410913204680216  0.34752241568839043  1.0000
+  Hg  Hg1       1.0  0.8528787340488722  0.37985355355259626  0.4247331405302225  1.0000
+  Cd  Cd1       1.0  0.9153760331636397  0.739445240924338  0.5861556566158903  1.0000

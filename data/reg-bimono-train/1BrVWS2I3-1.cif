@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       WIS2VI2Br
+_chemical_formula_sum              "W1 I3 S2 V1 Br1"
+_cell_length_a       5.798261085662246
+_cell_length_b       5.8070906445066575
+_cell_length_c       19.247395967552617
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    101.16391344922079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.43711160774719704  0.1384318423648111  0.49408041846573925  1.0000
+  I   I1        1.0  0.14047290970248577  0.851297327638415  0.5929100336293792  1.0000
+  S   S1        1.0  0.14893200018855918  0.35469493846590755  0.4934637968588265  1.0000
+  S   S2        1.0  0.6478305234899171  0.8522806769101368  0.49346122019346356  1.0000
+  V   V1        1.0  0.8530203378187331  0.5532271487492066  0.4941095157174373  1.0000
+  I   I2        1.0  0.6484103698788911  0.3534638383642488  0.6103368989424051  1.0000
+  I   I3        1.0  0.1418085721617757  0.8517020599445504  0.39296308954465864  1.0000
+  Br  Br1       1.0  0.6491594092098609  0.35405755838910086  0.3896631010575949  1.0000

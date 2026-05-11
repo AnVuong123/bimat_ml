@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnBr3InBr
+_chemical_formula_sum              "Sn1 Br4 In1"
+_cell_length_a       4.498566019138114
+_cell_length_b       7.402420593855307
+_cell_length_c       18.274382371627397
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.05704145183968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2508128184644224  0.9090808705665185  0.500031420883876  1.0000
+  Br  Br1       1.0  0.7495652475897264  0.7448397351392038  0.410410587207829  1.0000
+  Br  Br2       1.0  0.2501448147095248  0.2594031117777427  0.4146111341885711  1.0000
+  Br  Br3       1.0  0.25144488978429785  0.5577609441246377  0.5851320791281509  1.0000
+  In  In1       1.0  0.7505942837472392  0.4092667895636472  0.4997368515079446  1.0000
+  Br  Br4       1.0  0.7507587338637821  0.07386463256253926  0.5895894127921709  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SAuSSnSAuS
+_chemical_formula_sum              "S4 Au2 Sn1"
+_cell_length_a       5.019829489521736
+_cell_length_b       5.029177238667528
+_cell_length_c       19.281748394996818
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    100.11289432615322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6849712942924217  0.8172083993739275  0.5900342502011056  1.0000
+  Au  Au1       1.0  0.18768660577332832  0.7557838770204782  0.6016120463843486  1.0000
+  S   S2        1.0  0.7013748410873099  0.1145028006862072  0.38899377350382613  1.0000
+  Sn  Sn1       1.0  0.8045716958803651  0.6902205382142402  0.4545298276058743  1.0000
+  S   S3        1.0  0.3784354687486133  0.7923681899210351  0.3890757489642505  1.0000
+  Au  Au2       1.0  0.7457804424618322  0.31407033943085705  0.6009036613216032  1.0000
+  S   S4        1.0  0.24769143858495885  0.254004382398663  0.6140319144820409  1.0000

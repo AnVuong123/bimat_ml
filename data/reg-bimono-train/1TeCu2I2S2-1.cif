@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ICuITeS2Cu
+_chemical_formula_sum              "I2 Cu2 Te1 S2"
+_cell_length_a       4.419792454931124
+_cell_length_b       4.307782216580649
+_cell_length_c       22.13821870612655
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.98648247906175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.25183767372379345  0.7512833720719148  0.6612193555606873  1.0000
+  Cu  Cu1       1.0  0.751848335342512  0.748321764770521  0.48513131718715813  1.0000
+  I   I2        1.0  0.750608946421718  0.25120355657617566  0.33878064443931266  1.0000
+  Te  Te1       1.0  0.7517957991254305  0.2512938443330672  0.6363095404849323  1.0000
+  S   S1        1.0  0.25076380545402516  0.7500378377536584  0.44674397722277626  1.0000
+  S   S2        1.0  0.7438758698693887  0.24902435405997636  0.5314683610589518  1.0000
+  Cu  Cu2       1.0  0.25116898387359865  0.2495144854038802  0.4050810083695973  1.0000

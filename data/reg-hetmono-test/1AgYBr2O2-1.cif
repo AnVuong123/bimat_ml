@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrO2YAgBr
+_chemical_formula_sum              "Br2 O2 Y1 Ag1"
+_cell_length_a       3.8745463709986745
+_cell_length_b       4.200844985187137
+_cell_length_c       20.888155363338587
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98610483196819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7271726902134238  0.24895620550403805  0.3590551616234849  1.0000
+  O   O1        1.0  0.733273781054325  0.251093287047163  0.5216895278741461  1.0000
+  O   O2        1.0  0.1634181187240302  0.7503346633104628  0.4843755593222023  1.0000
+  Y   Y1        1.0  0.23188219797040002  0.2503278293014671  0.45925323144571817  1.0000
+  Ag  Ag1       1.0  0.7839071467425381  0.7510272547192692  0.551591884152928  1.0000
+  Br  Br2       1.0  0.36791901739286903  0.7540731664065311  0.6409448383765148  1.0000

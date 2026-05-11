@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ISe2BrCoNi
+_chemical_formula_sum              "I1 Se2 Br1 Co1 Ni1"
+_cell_length_a       6.384243677438488
+_cell_length_b       3.5952987716618554
+_cell_length_c       17.971548166759757
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.00432610250533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5580338792892784  0.7517983044859282  0.5826656581817755  1.0000
+  Se  Se1       1.0  0.06940025879855583  0.2516707946545906  0.5615493412969554  1.0000
+  Se  Se2       1.0  0.22479683663901964  0.7518201958755568  0.42875020481163395  1.0000
+  Br  Br1       1.0  0.7057520686169342  0.2520851850082468  0.41733147457682723  1.0000
+  Co  Co1       1.0  0.3770514736295447  0.2518558044049193  0.49452219788721175  1.0000
+  Ni  Ni1       1.0  0.9061589030739559  0.7517740658411602  0.49598785582247196  1.0000

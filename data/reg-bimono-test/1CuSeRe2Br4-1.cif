@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2ReSeBrReCuBr
+_chemical_formula_sum              "Br4 Re2 Se1 Cu1"
+_cell_length_a       5.482800972506202
+_cell_length_b       6.1859206835426
+_cell_length_c       19.278311364254098
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.27466956899184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8645683667532538  0.4992977678835139  0.5848777799059176  1.0000
+  Br  Br2       1.0  0.23597197515473856  0.08774910537643058  0.6109531351473332  1.0000
+  Re  Re1       1.0  0.4914388312698905  0.23433721004062552  0.5000202731208623  1.0000
+  Se  Se1       1.0  0.6536810146577269  0.9068351926283049  0.500110879728077  1.0000
+  Br  Br3       1.0  0.23637446822767375  0.08736345272600558  0.38902204323723527  1.0000
+  Re  Re2       1.0  0.07029524541552752  0.8571164042659336  0.5000063135525863  1.0000
+  Cu  Cu1       1.0  0.296124655844457  0.5434182361048149  0.4994352021777529  1.0000
+  Br  Br4       1.0  0.8651979558537037  0.4989134390830567  0.41521964777567416  1.0000

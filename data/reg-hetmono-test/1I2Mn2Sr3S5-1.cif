@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2S4Sr2I2SrS
+_chemical_formula_sum              "Mn2 S5 Sr3 I2"
+_cell_length_a       4.697404035539063
+_cell_length_b       4.697404035539032
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  1.5212691195052593e-19  1.609310880561867e-16  0.4422033830773043  1.0000
+  Mn  Mn2       1.0  0.0  9.985246289318538e-17  0.5577966169226959  1.0000
+  S   S1        1.0  0.0  0.500000000000001  0.5636474899926958  1.0000
+  S   S2        1.0  0.4999999999999951  0.0  0.5636474899926958  1.0000
+  S   S3        1.0  0.0  0.500000000000001  0.4363525100073043  1.0000
+  S   S4        1.0  0.4999999999999951  7.758963369031977e-19  0.4363525100073043  1.0000
+  Sr  Sr1       1.0  0.4999999999999951  0.500000000000001  0.6099323134319906  1.0000
+  Sr  Sr2       1.0  0.4999999999999951  0.500000000000001  0.3900676865680094  1.0000
+  I   I1        1.0  0.0  2.6293367732658393e-19  0.3546273089057913  1.0000
+  I   I2        1.0  0.0  4.478069170262513e-18  0.6453726910942058  1.0000
+  Sr  Sr3       1.0  0.4999999999999951  0.500000000000001  0.5  1.0000
+  S   S5        1.0  1.756141745490332e-18  0.0  0.5  1.0000

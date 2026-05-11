@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FSOSb
+_chemical_formula_sum              "F1 S1 O1 Sb1"
+_cell_length_a       3.4711117998242043
+_cell_length_b       3.669574378896545
+_cell_length_c       17.99077847511411
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9867553169835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.2525048383019356  0.2548249808959946  0.5831197626954033  1.0000
+  S   S1        1.0  0.2488291429823084  0.25450605604285503  0.4168802373045967  1.0000
+  O   O1        1.0  0.7536935987435501  0.7546075408197185  0.5479486331814962  1.0000
+  Sb  Sb1       1.0  0.7482734674408865  0.2546402921229356  0.5117331756620997  1.0000

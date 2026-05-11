@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NiSeI
+_chemical_formula_sum              "Ni1 Se1 I1"
+_cell_length_a       3.671552719309576
+_cell_length_b       3.67126013563372
+_cell_length_c       17.870221004220042
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97203227192156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.16618648545036638  0.8300137825705867  0.5125742379907033  1.0000
+  Se  Se1       1.0  0.8334811271780452  0.1632936703927893  0.5802696835350108  1.0000
+  I   I1        1.0  0.497982825069919  0.4971671140095695  0.4197012361887412  1.0000

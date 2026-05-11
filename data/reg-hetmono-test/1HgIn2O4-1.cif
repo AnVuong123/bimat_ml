@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgIn2O4
+_chemical_formula_sum              "Hg1 In2 O4"
+_cell_length_a       3.514231068190873
+_cell_length_b       3.514228711067071
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997781221032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999986232992583  0.9999993116496292  0.5000066356848596  1.0000
+  In  In1       1.0  0.666665223363932  0.33333261168196826  0.4163897527310764  1.0000
+  In  In2       1.0  0.3333370176365029  0.6666685088182538  0.5836000776715493  1.0000
+  O   O1        1.0  0.6666655901468991  0.3333327950734515  0.46810673402300157  1.0000
+  O   O2        1.0  0.3333314692210833  0.6666657346105462  0.5318713512744112  1.0000
+  O   O3        1.0  0.3333314439687141  0.6666657219843583  0.39959134540452623  1.0000
+  O   O4        1.0  0.6666705843538187  0.3333352921769113  0.6004310206354126  1.0000

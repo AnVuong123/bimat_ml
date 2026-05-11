@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbCl2NbCl2
+_chemical_formula_sum              "Nb2 Cl4"
+_cell_length_a       3.2948715393615164
+_cell_length_b       5.917750303044831
+_cell_length_c       18.503262906509057
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  1.5242818124870836e-17  0.054647427401335984  0.5038972400452502  1.0000
+  Cl  Cl1       1.0  0.4999999999999999  0.17807174773991594  0.5970257064658975  1.0000
+  Cl  Cl2       1.0  3.8786899654843645e-16  0.3219281619921331  0.40297425226609085  1.0000
+  Nb  Nb2       1.0  0.5  0.4453525179989716  0.49610272222702045  1.0000
+  Cl  Cl3       1.0  0.9999999999999998  0.6752097561628627  0.5781940724108191  1.0000
+  Cl  Cl4       1.0  0.5000000000000003  0.8247901492669047  0.42180588894444243  1.0000

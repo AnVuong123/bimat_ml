@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GaF2
+_chemical_formula_sum              "Ga1 F2"
+_cell_length_a       3.5426914530439797
+_cell_length_b       3.5426914428612246
+_cell_length_c       17.53144227664784
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  2.2626963017184414e-26  0.9999999999999999  0.49999999852744  1.0000
+  F   F1        1.0  2.0616401962379046e-16  0.5  0.5543376340861639  1.0000
+  F   F2        1.0  0.5  0.0  0.4456623655829633  1.0000

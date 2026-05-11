@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IPtClIn2O3
+_chemical_formula_sum              "I1 Pt1 Cl1 In2 O3"
+_cell_length_a       3.9290308561500735
+_cell_length_b       5.927818188023849
+_cell_length_c       21.085070594991716
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    106.63645372826308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.19507078545481527  0.7382458439111041  0.644325172402096  1.0000
+  Pt  Pt1       1.0  0.7296018488495177  0.5928688713868367  0.4212014724755788  1.0000
+  Cl  Cl1       1.0  0.5817083670570997  0.25912081518064806  0.35569893523017415  1.0000
+  In  In1       1.0  0.5370886630401897  0.3759290859171339  0.5982820155056524  1.0000
+  In  In2       1.0  0.4128167351349169  0.019282546570907  0.4576310560329789  1.0000
+  O   O1        1.0  0.5538966549992685  0.36136116724068623  0.49855251705239717  1.0000
+  O   O2        1.0  0.2545778773302309  0.6672610142071512  0.4122297590459381  1.0000
+  O   O3        1.0  0.8562282879205295  0.8874703924330019  0.4740160993020095  1.0000

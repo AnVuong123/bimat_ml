@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgOHCl
+_chemical_formula_sum              "Hg1 O1 H1 Cl1"
+_cell_length_a       3.848470352957723
+_cell_length_b       3.8482615846374824
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99963199127768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.33329606893487734  0.6666247627240197  0.49428267921151453  1.0000
+  O   O1        1.0  0.6666208595621741  0.3333053821953111  0.5252324721219265  1.0000
+  H   H1        1.0  0.66661176076728  0.33329469456787314  0.5543704436783553  1.0000
+  Cl  Cl1       1.0  0.9999739245090666  0.9999725701494183  0.44871246730366326  1.0000

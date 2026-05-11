@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaNiBr3Se2NiBrSe
+_chemical_formula_sum              "Ga1 Ni2 Br4 Se3"
+_cell_length_a       6.541080462662351
+_cell_length_b       6.444063614767934
+_cell_length_c       19.131569984081878
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.97346694548392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9510869217726586  0.6961339030046326  0.4937146991323255  1.0000
+  Ni  Ni1       1.0  0.6722654692718525  0.08864461847617393  0.4976103596209516  1.0000
+  Br  Br1       1.0  0.7349449233007573  0.9671382929947339  0.6079767643396372  1.0000
+  Br  Br2       1.0  0.11952992660568901  0.5606002567902754  0.3920218691528925  1.0000
+  Br  Br3       1.0  0.4952627736168093  0.20378513575815174  0.402150578936855  1.0000
+  Se  Se1       1.0  0.038203253383579876  0.09245959668940446  0.46928002758616105  1.0000
+  Se  Se2       1.0  0.6328008934851354  0.768964838795728  0.4319409333798965  1.0000
+  Ni  Ni2       1.0  0.3712953374589769  0.4546481328387011  0.47633599471865623  1.0000
+  Br  Br4       1.0  0.21306592609616662  0.6007136769856869  0.5748256119620757  1.0000
+  Se  Se3       1.0  0.6434330703696425  0.4055766585962323  0.5509954127957801  1.0000

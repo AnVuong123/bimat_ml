@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiIOISHfBrI
+_chemical_formula_sum              "Ti1 I3 O1 S1 Hf1 Br1"
+_cell_length_a       5.8676907369057485
+_cell_length_b       5.906044163478049
+_cell_length_c       19.165533804405598
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    94.52192646077029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.2506971110388267  0.8785813547579397  0.49917001133906314  1.0000
+  I   I1        1.0  0.002236709144565619  0.6304204175960882  0.3913274775720553  1.0000
+  O   O1        1.0  0.480334486800576  0.6565095357188373  0.5023088107071876  1.0000
+  I   I2        1.0  0.5060056445909987  0.1330277106746155  0.39403436338783965  1.0000
+  S   S1        1.0  0.0031219208722259584  0.13224908362448506  0.5010301279962365  1.0000
+  Hf  Hf1       1.0  0.7051286449473875  0.4386783117540159  0.5026801297434668  1.0000
+  Br  Br1       1.0  0.0003904399172851569  0.6333255018311267  0.5945357254891572  1.0000
+  I   I3        1.0  0.5041317433307052  0.13479287424173228  0.6086725224279447  1.0000

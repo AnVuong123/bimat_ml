@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeSFeBiSBrBiS2Br
+_chemical_formula_sum              "Fe2 S4 Bi2 Br2"
+_cell_length_a       3.5843462760171327
+_cell_length_b       9.05654008412963
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5000000000000068  0.5667164096938939  0.4999999621377752  1.0000
+  S   S1        1.0  0.9999999999999998  0.5220223642502645  0.5420374234630888  1.0000
+  Fe  Fe2       1.0  0.5000000000000069  0.06671661406867599  0.5000000712869257  1.0000
+  Bi  Bi1       1.0  0.0  0.7813453428586483  0.5738358918031005  1.0000
+  S   S2        1.0  0.5000000000000068  0.8109924337344674  0.5179214822282922  1.0000
+  Br  Br1       1.0  0.0  0.11416509994565263  0.5529629509329715  1.0000
+  Bi  Bi2       1.0  1.3536369569435752e-18  0.3520885790070073  0.42616448041198424  1.0000
+  S   S3        1.0  0.5000000000000068  0.32244111028097505  0.48207831158389025  1.0000
+  S   S4        1.0  1.1824894993107815e-18  0.6114089895429221  0.457962490607967  1.0000
+  Br  Br2       1.0  6.455799261943358e-18  0.019267801765654142  0.44703709062725594  1.0000

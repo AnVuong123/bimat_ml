@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NCrIClCrN2Cr
+_chemical_formula_sum              "N3 Cr3 I1 Cl1"
+_cell_length_a       3.8916561434874604
+_cell_length_b       5.043346757285828
+_cell_length_c       19.827332646083082
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.72452999500919
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.25145948249760514  0.5019739451154991  0.5096757418384433  1.0000
+  Cr  Cr1       1.0  0.7452416683567484  0.48971701191090533  0.5155814554888651  1.0000
+  I   I1        1.0  0.8549224247677925  0.7089512718413435  0.3783617929642553  1.0000
+  Cl  Cl1       1.0  0.6390687131352376  0.27691530821885135  0.6225732069028406  1.0000
+  Cr  Cr2       1.0  0.0645613585489124  0.12728305610229224  0.4764986574229545  1.0000
+  N   N2        1.0  0.5533021733872859  0.10545225647973774  0.46746232384878744  1.0000
+  N   N3        1.0  0.9455354456118755  0.889772725550903  0.5515114511973791  1.0000
+  Cr  Cr3       1.0  0.4375913562317337  0.8741968807650534  0.543423540451875  1.0000

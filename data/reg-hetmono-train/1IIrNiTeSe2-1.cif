@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ITeNiSe2Ir
+_chemical_formula_sum              "I1 Te1 Ni1 Se2 Ir1"
+_cell_length_a       3.830797247529779
+_cell_length_b       6.4894391142033765
+_cell_length_c       18.192959040262487
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98857450239254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4891311297737789  0.3574518105893918  0.4122711843467456  1.0000
+  Te  Te1       1.0  0.9894085557582869  0.6006592243440766  0.5782909212213055  1.0000
+  Ni  Ni1       1.0  0.4893221234490487  0.7943138369384862  0.5193896820195167  1.0000
+  Se  Se1       1.0  0.989304741133629  0.8896818832973273  0.45166701814981963  1.0000
+  Se  Se2       1.0  0.48927523048330884  0.11763047107874282  0.5877232879856833  1.0000
+  Ir  Ir1       1.0  0.9892347579847691  0.23690684402612466  0.512028638894982  1.0000

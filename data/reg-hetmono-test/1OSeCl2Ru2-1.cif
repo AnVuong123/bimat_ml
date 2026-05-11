@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuClSeClRuO
+_chemical_formula_sum              "Ru2 Cl2 Se1 O1"
+_cell_length_a       3.4391133850161504
+_cell_length_b       4.956514314940366
+_cell_length_c       20.18345868944362
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.28657203068754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.19048366542913536  0.1421265898002181  0.542825654606627  1.0000
+  Cl  Cl1       1.0  0.3131267112524727  0.7898485600837758  0.3715914162879656  1.0000
+  Se  Se1       1.0  0.7135797287780963  0.3006255722295075  0.4687817055916686  1.0000
+  Cl  Cl2       1.0  0.6755042565028678  0.15488620249908377  0.6284085837120345  1.0000
+  Ru  Ru2       1.0  0.8153791545500649  0.7963603969408277  0.45447629471051854  1.0000
+  O   O1        1.0  0.3061943126116631  0.7933395615395659  0.5127249298865423  1.0000

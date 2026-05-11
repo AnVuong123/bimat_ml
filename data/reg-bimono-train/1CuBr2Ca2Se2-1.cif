@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuSe2CaBrCaBr
+_chemical_formula_sum              "Cu1 Se2 Ca2 Br2"
+_cell_length_a       4.762303565523781
+_cell_length_b       4.762303565523807
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    83.36818568725099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9570302095381149  0.9570302095381052  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.4589462763601308  0.9386418255241964  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9386418255242144  0.45894627636012564  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.42211707416460675  0.4221170741645996  0.40798402299298303  1.0000
+  Br  Br1       1.0  0.059776771446623356  0.059776771446622204  0.34483644128034524  1.0000
+  Ca  Ca2       1.0  0.4221170741725629  0.4221170741725537  0.5920159769881181  1.0000
+  Br  Br2       1.0  0.05977677146567833  0.059776771465676885  0.6551635587119775  1.0000

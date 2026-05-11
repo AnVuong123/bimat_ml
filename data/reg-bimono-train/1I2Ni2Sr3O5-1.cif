@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2O4Sr2I2SrO
+_chemical_formula_sum              "Ni2 O5 Sr3 I2"
+_cell_length_a       3.8949899855771806
+_cell_length_b       3.894989985577177
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.45279266584162514  1.0000
+  Ni  Ni2       1.0  0.9999999999999999  2.1649996818848423e-17  0.547207334158375  1.0000
+  O   O1        1.0  7.296604777735433e-18  0.4999999999999962  0.5544713164323463  1.0000
+  O   O2        1.0  0.5000000000000019  0.0  0.5544713164323463  1.0000
+  O   O3        1.0  4.3578300517773354e-18  0.4999999999999962  0.44552868356765374  1.0000
+  O   O4        1.0  0.5000000000000019  3.492537238232184e-18  0.44552868356765374  1.0000
+  Sr  Sr1       1.0  0.5000000000000019  0.4999999999999962  0.5938411092153124  1.0000
+  Sr  Sr2       1.0  0.5000000000000019  0.4999999999999962  0.40615889078468764  1.0000
+  I   I1        1.0  6.612990613494503e-19  0.0  0.35736296407219925  1.0000
+  I   I2        1.0  0.0  3.9331484539013724e-19  0.6426370359277975  1.0000
+  Sr  Sr3       1.0  0.5000000000000019  0.4999999999999962  0.5  1.0000
+  O   O5        1.0  0.0  0.0  0.5  1.0000

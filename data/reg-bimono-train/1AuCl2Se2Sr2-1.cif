@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuSe2SrClSrCl
+_chemical_formula_sum              "Au1 Se2 Sr2 Cl2"
+_cell_length_a       5.079490721391956
+_cell_length_b       5.079490721391942
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    84.68432202303386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9487913246969102  0.9487913246969087  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.450711577840936  0.9224394175541255  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9224394175541341  0.45071157784093696  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.4130586137495038  0.4130586137494999  0.4027643680633678  1.0000
+  Cl  Cl1       1.0  0.0851390743728261  0.08513907437282617  0.3405074064641076  1.0000
+  Sr  Sr2       1.0  0.41305861375746195  0.41305861375746233  0.5972356319177333  1.0000
+  Cl  Cl2       1.0  0.08513907439188109  0.08513907439188127  0.6594925935282107  1.0000

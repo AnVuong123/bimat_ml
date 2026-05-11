@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClNiBrNi
+_chemical_formula_sum              "Cl1 Ni2 Br1"
+_cell_length_a       3.7277134607006803
+_cell_length_b       3.4803862935563172
+_cell_length_c       18.408776940207137
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.95998042903882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6593295515942109  0.7497953350642292  0.40741435589993136  1.0000
+  Ni  Ni1       1.0  0.3513492944045372  0.7486133098827946  0.512242990572124  1.0000
+  Br  Br1       1.0  0.1504407403846919  0.2487945006456078  0.5925856441000686  1.0000
+  Ni  Ni2       1.0  0.8480243870116233  0.24910908449842029  0.47782177572661166  1.0000

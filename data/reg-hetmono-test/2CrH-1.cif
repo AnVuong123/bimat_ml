@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Cr2
+_chemical_formula_sum              "H2 Cr2"
+_cell_length_a       2.525706605962209
+_cell_length_b       2.525627865822611
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00472644586311
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9999840740910513  0.9998568036223204  0.38841668894308495  1.0000
+  H   H2        1.0  0.33334905504450646  0.6668101032344432  0.6116525804317783  1.0000
+  Cr  Cr1       1.0  1.4707988221198103e-05  0.00011636738760271637  0.5555007474260893  1.0000
+  Cr  Cr2       1.0  0.3333184190953328  0.6665505408723393  0.444568502595975  1.0000

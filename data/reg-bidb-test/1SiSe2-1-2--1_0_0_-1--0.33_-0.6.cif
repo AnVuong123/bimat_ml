@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiSe2SiSe2
+_chemical_formula_sum              "Si2 Se4"
+_cell_length_a       3.5082389880030598
+_cell_length_b       3.5090636483328264
+_cell_length_c       27.124772663961174
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98499224445462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  3.1092430320508854e-05  0.03273007312187119  0.33632421672314067  1.0000
+  Se  Se1       1.0  0.6667133202283427  0.3657955253634832  0.283249926374793  1.0000
+  Se  Se2       1.0  0.33325648737156194  0.6991503507236149  0.38939839536548304  1.0000
+  Si  Si2       1.0  0.6667133202283424  0.365795525363483  0.5656034621954154  1.0000
+  Se  Se3       1.0  3.1092430320399465e-05  0.03273007312187109  0.5125291718470677  1.0000
+  Se  Se4       1.0  0.33348792516358317  0.6993752472525899  0.618677640469091  1.0000

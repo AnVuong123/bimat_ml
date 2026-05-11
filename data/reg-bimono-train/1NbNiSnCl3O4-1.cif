@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ONiNbO3ClSnCl2
+_chemical_formula_sum              "O4 Ni1 Nb1 Cl3 Sn1"
+_cell_length_a       5.4417914554749025
+_cell_length_b       5.92685812520702
+_cell_length_c       20.79565689968591
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.84767554945645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3896528915081406  0.37161135840943244  0.4716494843301267  1.0000
+  Ni  Ni1       1.0  0.296004369757365  0.6660320305583205  0.48851682039220395  1.0000
+  Nb  Nb1       1.0  0.028533155361923444  0.0898279764342322  0.4634434294144581  1.0000
+  O   O2        1.0  0.9646941219764243  0.37138588916872983  0.5066689904875598  1.0000
+  O   O3        1.0  0.1998861981857772  0.9419718577818748  0.5251861111165957  1.0000
+  O   O4        1.0  0.6747042961871742  0.927832767386035  0.49798207341704653  1.0000
+  Cl  Cl1       1.0  0.9190685793474417  0.17425274203554836  0.36065222830798277  1.0000
+  Sn  Sn1       1.0  0.5776954535618473  0.2208050364036926  0.5324406822602343  1.0000
+  Cl  Cl2       1.0  0.1596278443116969  0.7951234969837905  0.39575810007087553  1.0000
+  Cl  Cl3       1.0  0.5820664971994315  0.3371513249477254  0.6393477716920172  1.0000

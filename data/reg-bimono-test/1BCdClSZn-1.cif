@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BZnCdClS
+_chemical_formula_sum              "B1 Zn1 Cd1 Cl1 S1"
+_cell_length_a       6.584551017498866
+_cell_length_b       3.708511516639121
+_cell_length_c       19.92768424066601
+_cell_angle_alpha    89.99999999999996
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    145.40165444604332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.6536672912947648  0.27572910824134506  0.4491213073192538  1.0000
+  Zn  Zn1       1.0  0.1156339049331744  0.3840941341435198  0.4462976194741811  1.0000
+  Cd  Cd1       1.0  0.7087992268556408  0.7080410789073363  0.553634261175491  1.0000
+  Cl  Cl1       1.0  0.12683349346586922  0.8298146537654676  0.6236391589999752  1.0000
+  S   S1        1.0  0.9222161524772758  0.6203384381084669  0.37636084100002476  1.0000

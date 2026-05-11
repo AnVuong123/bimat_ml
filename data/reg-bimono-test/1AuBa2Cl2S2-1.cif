@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuS2BaClBaCl
+_chemical_formula_sum              "Au1 S2 Ba2 Cl2"
+_cell_length_a       4.855367943640867
+_cell_length_b       4.855367943640853
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    84.65312114348767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9558961527269003  0.9558961527268991  0.5000000000419801  1.0000
+  S   S1        1.0  0.4573861704565039  0.9489609512414594  0.4999999999929247  1.0000
+  S   S2        1.0  0.9489609512414582  0.45738617045650676  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.44379345646016605  0.44379345646016466  0.3976189721021904  1.0000
+  Cl  Cl1       1.0  0.034266258867704395  0.034266258867704444  0.34256056433774046  1.0000
+  Ba  Ba2       1.0  0.44379345646812407  0.44379345646812407  0.6023810278789108  1.0000
+  Cl  Cl2       1.0  0.03426625888675926  0.034266258886759375  0.6574394356545813  1.0000

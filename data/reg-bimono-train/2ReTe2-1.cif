@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ReTe2ReTe2
+_chemical_formula_sum              "Re2 Te4"
+_cell_length_a       3.458419014522723
+_cell_length_b       6.310749738894056
+_cell_length_c       18.806187691475067
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  1.101256275772454e-19  0.06339665141079802  0.5030279922368265  1.0000
+  Te  Te1       1.0  0.5  0.17789691278700423  0.6063723033141009  1.0000
+  Te  Te2       1.0  0.0  0.3221030872141477  0.39362769668570136  1.0000
+  Re  Re2       1.0  0.5  0.43660334859035616  0.49697200776298284  1.0000
+  Te  Te3       1.0  0.0  0.680538298140395  0.5777615896656402  1.0000
+  Te  Te4       1.0  0.5  0.819461701860742  0.42223841033416376  1.0000

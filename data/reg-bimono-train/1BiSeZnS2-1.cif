@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiZnS2Se
+_chemical_formula_sum              "Bi1 Zn1 S2 Se1"
+_cell_length_a       3.953938077540084
+_cell_length_b       3.9476086175161096
+_cell_length_c       21.35315737436722
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.18703318275982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.503139949344082  0.16833205796727352  0.43233174830855264  1.0000
+  Zn  Zn1       1.0  0.8304010560445297  0.8252076499873995  0.6268709188815327  1.0000
+  S   S1        1.0  0.4971836360497377  0.15744878174750332  0.6487638868337494  1.0000
+  S   S2        1.0  0.835571641837868  0.8351237425407717  0.5084502658136875  1.0000
+  Se  Se1       1.0  0.16945685597631238  0.5008404577480163  0.3512361131662505  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ITiSI2NiSI
+_chemical_formula_sum              "I4 Ti1 S2 Ni1"
+_cell_length_a       6.044858824254844
+_cell_length_b       6.0607697086243775
+_cell_length_c       18.923306821183317
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    97.78290337202141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8872195712173079  0.8549785985750183  0.6036633517137567  1.0000
+  Ti  Ti1       1.0  0.5999436513242242  0.6478226804932873  0.5000122834277569  1.0000
+  S   S1        1.0  0.8782914080836254  0.36093579210589877  0.49984986433664874  1.0000
+  I   I2        1.0  0.38723929288711023  0.36299630348648804  0.6033524934147627  1.0000
+  I   I3        1.0  0.3861574392923712  0.36306218077688457  0.3967495106234605  1.0000
+  Ni  Ni1       1.0  0.1168262199863723  0.12735837964392108  0.5000884165339909  1.0000
+  S   S2        1.0  0.3684427915440858  0.8832527651824273  0.5000049586846972  1.0000
+  I   I4        1.0  0.8868471925974449  0.854721288977057  0.3963366482862432  1.0000

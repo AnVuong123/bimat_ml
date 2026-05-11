@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeCuAuSe
+_chemical_formula_sum              "Se2 Cu1 Au1"
+_cell_length_a       2.893174733110397
+_cell_length_b       3.969380858583329
+_cell_length_c       33.843125
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  5.2841481518923616e-21  2.791817903365881e-17  0.5615654670594395  1.0000
+  Cu  Cu1       1.0  0.0  0.49999999999999994  0.5219765542938339  1.0000
+  Au  Au1       1.0  0.49999999999999983  4.202308029309857e-18  0.4825688315985808  1.0000
+  Se  Se2       1.0  0.49999999999999983  0.49999999999999994  0.4342959758966513  1.0000

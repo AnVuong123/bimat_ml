@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VI2Ti
+_chemical_formula_sum              "V1 I2 Ti1"
+_cell_length_a       3.8209308085229186
+_cell_length_b       3.8592033971231774
+_cell_length_c       18.998267481541237
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00153532739341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.24804058722311026  0.2456567292018355  0.5001855123406572  1.0000
+  I   I1        1.0  0.7480575290131836  0.24609228075061074  0.39477283953850095  1.0000
+  I   I2        1.0  0.24842371124204463  0.7452385507203967  0.605227160461499  1.0000
+  Ti  Ti1       1.0  0.7482522089446204  0.745841507252628  0.4996716777570135  1.0000

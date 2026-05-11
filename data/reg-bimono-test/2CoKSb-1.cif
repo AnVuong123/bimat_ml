@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbKSbCo2K
+_chemical_formula_sum              "Sb2 K2 Co2"
+_cell_length_a       4.2863151370162225
+_cell_length_b       4.286315137016262
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99956795217058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9914538593247271  0.9914538593247322  0.43071968813333916  1.0000
+  K   K1        1.0  0.4905492583802258  0.490549258380225  0.34508031521533483  1.0000
+  Sb  Sb2       1.0  0.49100249624943587  0.49100249624943904  0.5692796767602268  1.0000
+  Co  Co1       1.0  0.491638932416782  0.9908170784143036  0.4999996195340181  1.0000
+  Co  Co2       1.0  0.9908170784143167  0.4916389324167815  0.4999996195340181  1.0000
+  K   K2        1.0  0.9919048701579092  0.9919048701579134  0.6549207310900972  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaBr2TaBr2
+_chemical_formula_sum              "Ta2 Br4"
+_cell_length_a       3.4966064131209893
+_cell_length_b       6.157129477857452
+_cell_length_c       18.802396034937914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  5.127273290227714e-17  0.07952393069572018  0.5074069897273855  1.0000
+  Br  Br1       1.0  0.5000000000000003  0.18350161421236696  0.6078674990144564  1.0000
+  Br  Br2       1.0  2.966980916324951e-16  0.3164983859774922  0.39213250093728474  1.0000
+  Ta  Ta2       1.0  0.5000000000000001  0.4204760694826147  0.49259301026318625  1.0000
+  Br  Br3       1.0  4.440892098500626e-16  0.6861712944955205  0.5801391802495188  1.0000
+  Br  Br4       1.0  0.5000000000000003  0.8138287056985796  0.41986081971513006  1.0000

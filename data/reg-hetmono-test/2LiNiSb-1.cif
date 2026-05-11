@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbLiSbNi2Li
+_chemical_formula_sum              "Sb2 Li2 Ni2"
+_cell_length_a       4.172726895053564
+_cell_length_b       4.172726895053564
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9894986623006898  0.9894986623006896  0.42217138243956237  1.0000
+  Li  Li1       1.0  0.4926345607332223  0.4926345607332222  0.4131660914096855  1.0000
+  Sb  Sb2       1.0  0.4952663418076778  0.4952663418076777  0.5778286029639086  1.0000
+  Ni  Ni1       1.0  0.48919804837694303  0.995567017206842  0.49999997821723885  1.0000
+  Ni  Ni2       1.0  0.995567017206842  0.48919804837694303  0.49999997821723885  1.0000
+  Li  Li2       1.0  0.9921303166705316  0.9921303166705316  0.5868338977835982  1.0000

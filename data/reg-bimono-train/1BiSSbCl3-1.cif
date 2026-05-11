@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SClSbCl2Bi
+_chemical_formula_sum              "S1 Cl3 Sb1 Bi1"
+_cell_length_a       3.9787341587228715
+_cell_length_b       8.424178207315677
+_cell_length_c       18.54576384468955
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.10497014502599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.45902674154395207  0.9866205782759864  0.5632772732859852  1.0000
+  Cl  Cl1       1.0  0.9626015483041108  0.361593583727709  0.5955945134651207  1.0000
+  Sb  Sb1       1.0  0.9602833603766023  0.8228582277201671  0.5087861005763749  1.0000
+  Cl  Cl2       1.0  0.9621662036707329  0.19334714953393986  0.4044072788837233  1.0000
+  Cl  Cl3       1.0  0.4557718786737104  0.6026093845584851  0.4472479279276958  1.0000
+  Bi  Bi1       1.0  0.46040099147044716  0.2811038638534767  0.4996324218200975  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdBaOInBaAuO4
+_chemical_formula_sum              "Cd1 Ba2 O5 In1 Au1"
+_cell_length_a       3.8644846555623382
+_cell_length_b       3.864484655562279
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  5.986968492021221e-17  0.3657433745023369  1.0000
+  Ba  Ba1       1.0  0.49999999999999545  0.4999999999999972  0.4402419980181896  1.0000
+  O   O1        1.0  0.0  1.2379301363879011e-17  0.41948806899867025  1.0000
+  In  In1       1.0  1.414896416514488e-17  4.836798795869097e-18  0.6316268982504646  1.0000
+  Ba  Ba2       1.0  0.4999999999999954  0.4999999999999972  0.5637462766458669  1.0000
+  Au  Au1       1.0  0.0  0.0  0.5037877862187794  1.0000
+  O   O2        1.0  0.4999999999999954  0.4999999999999972  0.6324245939782359  1.0000
+  O   O3        1.0  0.0  4.5915639443079625e-18  0.5785099791205703  1.0000
+  O   O4        1.0  0.49999999999999545  0.0  0.4918086257357673  1.0000
+  O   O5        1.0  3.799500149036186e-18  0.4999999999999972  0.4918086257357673  1.0000

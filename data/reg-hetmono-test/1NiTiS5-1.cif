@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SNiS4Ti
+_chemical_formula_sum              "S5 Ni1 Ti1"
+_cell_length_a       6.418580331930375
+_cell_length_b       6.570327622743746
+_cell_length_c       18.58119924710004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    136.30256450247563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7153389769987744  0.6650101676927463  0.5963662032648126  1.0000
+  Ni  Ni1       1.0  0.8213603450046476  0.94533925283192  0.5000489046753227  1.0000
+  S   S2        1.0  0.5253505563385268  0.009519379007322488  0.4999536035732305  1.0000
+  S   S3        1.0  0.7166469169220627  0.6652680379520836  0.4036337967351878  1.0000
+  S   S4        1.0  0.11525213379732267  0.12919947365183873  0.5960770407405883  1.0000
+  S   S5        1.0  0.11520681277837527  0.12946026955211715  0.4040407504553804  1.0000
+  Ti  Ti1       1.0  0.46829558435688223  0.29321532498725394  0.5000515198381312  1.0000

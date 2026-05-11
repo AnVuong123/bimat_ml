@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ITiHfTe
+_chemical_formula_sum              "I1 Ti1 Hf1 Te1"
+_cell_length_a       3.8664998854434365
+_cell_length_b       4.232336347284197
+_cell_length_c       19.20108952388654
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99933803648132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7527491772125269  0.7494314684229737  0.39121610732481815  1.0000
+  Ti  Ti1       1.0  0.7527365637683663  0.24947037637948205  0.4972203609966715  1.0000
+  Hf  Hf1       1.0  0.2527317164581013  0.7494635351737475  0.5098403140193629  1.0000
+  Te  Te1       1.0  0.25275594892077075  0.2493950891899845  0.608508488371189  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Y2NO2H2
+_chemical_formula_sum              "Y2 N1 O2 H2"
+_cell_length_a       3.484290186986323
+_cell_length_b       3.48429018698632
+_cell_length_c       22.185021294189212
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.33333333333333426  0.6666666666666671  0.43966479886457116  1.0000
+  Y   Y2        1.0  0.6666666666666676  0.33333333333333387  0.5603370471904024  1.0000
+  N   N1        1.0  3.897033286597667e-16  3.899555983050104e-16  0.5000000327847272  1.0000
+  O   O1        1.0  0.33333333333333437  0.6666666666666673  0.6187139672769282  1.0000
+  O   O2        1.0  0.6666666666666675  0.3333333333333337  0.38128757808491304  1.0000
+  H   H1        1.0  0.33333333333333454  0.6666666666666674  0.6626079221091247  1.0000
+  H   H2        1.0  0.6666666666666675  0.3333333333333337  0.33739332085528984  1.0000

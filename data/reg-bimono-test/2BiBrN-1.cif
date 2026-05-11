@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2N2Br2
+_chemical_formula_sum              "Bi2 N2 Br2"
+_cell_length_a       4.4407440349983665
+_cell_length_b       3.744572073317192
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.49999999999999983  0.9999999999999999  0.4494907944707387  1.0000
+  Bi  Bi2       1.0  3.313684759581549e-17  0.49999999999999994  0.5505090262407357  1.0000
+  N   N1        1.0  0.49999999999999983  0.49999999999999994  0.5154131060031185  1.0000
+  N   N2        1.0  1.245126163384429e-18  0.0  0.4845871984647977  1.0000
+  Br  Br1       1.0  0.49999999999999983  0.49999999999999994  0.34202665204770033  1.0000
+  Br  Br2       1.0  1.3679152466211423e-18  0.0  0.6579730262383637  1.0000

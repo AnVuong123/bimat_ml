@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeSAgI
+_chemical_formula_sum              "Ge1 S1 Ag1 I1"
+_cell_length_a       4.361309719709118
+_cell_length_b       4.359445916579477
+_cell_length_c       18.82579285487864
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.93480745758072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7683362181289352  0.5739534083444214  0.49487303209467814  1.0000
+  S   S1        1.0  0.5480318137651187  0.7955666262056653  0.5871651239257313  1.0000
+  Ag  Ag1       1.0  0.21747296024070623  0.1249914796691196  0.6016088919206586  1.0000
+  I   I1        1.0  0.1578666002479141  0.18417563912139087  0.3983887961824255  1.0000

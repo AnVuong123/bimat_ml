@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuSe2SrClSrCl
+_chemical_formula_sum              "Cu1 Se2 Sr2 Cl2"
+_cell_length_a       4.797379343962355
+_cell_length_b       4.79737934396232
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    79.56367812323305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9529519311624726  0.9529519311624575  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.4545059680795533  0.9415863761002607  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9415863761002581  0.45450596807954713  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.42877105129533233  0.4287710512953303  0.3996869281157092  1.0000
+  Cl  Cl1       1.0  0.055894920796935144  0.05589492079693478  0.3454704379589085  1.0000
+  Sr  Sr2       1.0  0.42877105130328846  0.4287710513032851  0.600313071865392  1.0000
+  Cl  Cl2       1.0  0.055894920815989804  0.05589492081599  0.654529562033414  1.0000

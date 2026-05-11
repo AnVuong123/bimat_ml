@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2BaClBaCl
+_chemical_formula_sum              "Cu1 Te2 Ba2 Cl2"
+_cell_length_a       5.192342962735333
+_cell_length_b       5.1923429627354025
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    78.2906749248549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9449240377760426  0.9449240377760271  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4459393535582217  0.9394658513474534  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9394658513474596  0.44593935355821357  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.42954737922994113  0.4295473792299316  0.3848888992029322  1.0000
+  Cl  Cl1       1.0  0.06444481434858737  0.06444481434858683  0.33426450027346244  1.0000
+  Ba  Ba2       1.0  0.42954737923790315  0.429547379237893  0.615111100778169  1.0000
+  Cl  Cl2       1.0  0.06444481436764223  0.06444481436764268  0.6657354997188606  1.0000

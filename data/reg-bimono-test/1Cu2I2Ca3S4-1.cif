@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca2CuS2ICaCuS2I
+_chemical_formula_sum              "Ca3 Cu2 S4 I2"
+_cell_length_a       4.555370734557924
+_cell_length_b       4.555370734557797
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  1.3088969531676925e-31  6.69811399403347e-17  0.5  1.0000
+  Ca  Ca2       1.0  0.9999999999999999  2.552791598594389e-17  0.5961218105790448  1.0000
+  Cu  Cu1       1.0  0.5000000000000039  0.49999999999999956  0.54197114964307  1.0000
+  S   S1        1.0  0.0  0.5000000000000049  0.5485967178899064  1.0000
+  S   S2        1.0  0.5000000000000039  0.0  0.5485967178899064  1.0000
+  I   I1        1.0  0.5000000000000039  0.5000000000000049  0.6332036540346958  1.0000
+  Ca  Ca3       1.0  5.523706628377766e-19  1.549896846421495e-18  0.40387818942095655  1.0000
+  Cu  Cu2       1.0  0.5000000000000039  0.5000000000000049  0.45802885035693  1.0000
+  S   S3        1.0  9.802031536471858e-18  0.5000000000000049  0.45140328211009373  1.0000
+  S   S4        1.0  0.5000000000000039  6.5411105180579495e-19  0.45140328211009373  1.0000
+  I   I2        1.0  0.5000000000000039  0.5000000000000049  0.3667963459653047  1.0000

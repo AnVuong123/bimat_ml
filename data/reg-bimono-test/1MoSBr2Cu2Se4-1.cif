@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CuSe2MoBrSCuSeBrSe
+_chemical_formula_sum              "Cu2 Se4 Mo1 Br2 S1"
+_cell_length_a       5.19814519093011
+_cell_length_b       6.77028829827467
+_cell_length_c       20.194245481442362
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    98.10764947196354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.99577629625822  0.3286468730778703  0.5479614111914067  1.0000
+  Se  Se1       1.0  0.33457894615574363  0.8051841886881643  0.5583102505020247  1.0000
+  Se  Se2       1.0  0.7777138392407383  0.5525571889003655  0.3827313713350996  1.0000
+  Mo  Mo1       1.0  0.6206077436102815  0.7958171833659619  0.4581020649770388  1.0000
+  Br  Br1       1.0  0.32214982070454173  0.28423816520426437  0.6286070699253321  1.0000
+  S   S1        1.0  0.8456277040677548  0.09841832266429607  0.47507946587916194  1.0000
+  Cu  Cu2       1.0  0.46295243513738027  0.1617802887240321  0.5220563896844986  1.0000
+  Se  Se3       1.0  0.3921355376256533  0.41857018010027625  0.43803086644125994  1.0000
+  Br  Br2       1.0  0.3128468181070138  0.8992386571797825  0.3713929300746678  1.0000
+  Se  Se4       1.0  0.883661629817615  0.6585162034434722  0.5555231965932895  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tl4Te2
+_chemical_formula_sum              "Tl4 Te2"
+_cell_length_a       4.528836764063259
+_cell_length_b       7.836279426313794
+_cell_length_c       18.86069919
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9999992600000004  0.005969697826470308  0.6015403601722837  1.0000
+  Tl  Tl2       1.0  7.400000000021332e-07  0.005969697826470308  0.3984599598277169  1.0000
+  Tl  Tl3       1.0  0.5000006300000001  0.50597027782647  0.6015405201722838  1.0000
+  Tl  Tl4       1.0  0.49999937000000005  0.50597027782647  0.3984597998277169  1.0000
+  Te  Te1       1.0  0.0  0.6726468097175852  0.49999968  1.0000
+  Te  Te2       1.0  0.5  0.17264718971758486  0.49999968  1.0000

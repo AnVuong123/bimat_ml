@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AlCuS6As2
+_chemical_formula_sum              "Al1 Cu1 S6 As2"
+_cell_length_a       6.09059009520227
+_cell_length_b       6.09059009520226
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99603449751108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9999947988534363  5.2011465635981015e-06  0.5  1.0000
+  Cu  Cu1       1.0  0.6667066437344797  0.3332933562655193  0.5  1.0000
+  S   S1        1.0  0.7008863662386828  0.6859401817268506  0.5476060465710954  1.0000
+  S   S2        1.0  0.9850229762828838  0.2991108202965495  0.5476057263652134  1.0000
+  S   S3        1.0  0.3140766198334866  0.014983814155089759  0.5476042910657565  1.0000
+  S   S4        1.0  0.3140598182731471  0.29911363376131533  0.45239395342890387  1.0000
+  S   S5        1.0  0.9850161858449086  0.6859233801665093  0.452395708934244  1.0000
+  S   S6        1.0  0.7008891797034482  0.014977023717112292  0.45239427363478685  1.0000
+  As  As1       1.0  0.3333259946973133  0.6666787298770289  0.5360438445432315  1.0000
+  As  As2       1.0  0.3333212701229688  0.6666740053026845  0.4639561554567691  1.0000

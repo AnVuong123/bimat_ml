@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H3AuH3Ge
+_chemical_formula_sum              "H6 Au1 Ge1"
+_cell_length_a       5.034248945921635
+_cell_length_b       5.033618133351824
+_cell_length_c       33.53662102856909
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.99188398315863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.43526130601871293  0.5504845615536395  0.5002484834224347  1.0000
+  H   H2        1.0  0.17563342974160195  0.2932160055778709  0.45361334420123695  1.0000
+  H   H3        1.0  0.4357113434235377  0.03982680228056069  0.49986648112220994  1.0000
+  Au  Au1       1.0  0.6797684558500581  0.7958100062004688  0.500027665976837  1.0000
+  H   H4        1.0  0.9222077075071736  0.039063996746869244  0.49998725465758  1.0000
+  H   H5        1.0  0.1749207366937735  0.2920534806119046  0.5462561676057356  1.0000
+  H   H6        1.0  0.9243953733638484  0.5528258072663934  0.5000461258321025  1.0000
+  Ge  Ge1       1.0  0.18127368485908993  0.2971627185531315  0.4999443585313579  1.0000

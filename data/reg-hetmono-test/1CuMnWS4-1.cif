@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnSWS3Cu
+_chemical_formula_sum              "Mn1 S4 W1 Cu1"
+_cell_length_a       6.562772488530263
+_cell_length_b       3.664123562510207
+_cell_length_c       18.42606077283297
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99899398617649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8594141749846922  0.24874919243371874  0.5515820853767229  1.0000
+  S   S1        1.0  0.8368577962411926  0.24869383397655617  0.4219293469254728  1.0000
+  W   W1        1.0  0.17240899250063144  0.24874229206495524  0.4557663271364727  1.0000
+  S   S2        1.0  0.197392835987734  0.24877240223750344  0.5753666780732524  1.0000
+  S   S3        1.0  0.34263066101523926  0.7487364015611713  0.40862703804697503  1.0000
+  S   S4        1.0  0.6852845364214488  0.7487756863850311  0.592716504046124  1.0000
+  Cu  Cu1       1.0  0.6490633686455166  0.7486963956378533  0.4690405998954085  1.0000

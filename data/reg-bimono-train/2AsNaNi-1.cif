@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsNaAsNi2Na
+_chemical_formula_sum              "As2 Na2 Ni2"
+_cell_length_a       4.033253776995543
+_cell_length_b       4.033253776995543
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9841462267995259  0.9841462267995257  0.432639333933287  1.0000
+  Na  Na1       1.0  0.4833046420952917  0.4833046420952917  0.38059244967688777  1.0000
+  As  As2       1.0  0.4840025205452908  0.4840025205452908  0.5673609357609793  1.0000
+  Ni  Ni1       1.0  0.4842768684807753  0.983871933661224  0.5000000845976094  1.0000
+  Ni  Ni2       1.0  0.983871933661224  0.4842768684807753  0.5000000845976094  1.0000
+  Na  Na2       1.0  0.9848412154382997  0.9848412154382997  0.6194076998485639  1.0000

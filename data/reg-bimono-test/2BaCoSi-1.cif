@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaCo2SiBaSi
+_chemical_formula_sum              "Ba2 Co2 Si2"
+_cell_length_a       3.970512193435422
+_cell_length_b       3.9705121934350625
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999773848788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9957586327937785  0.9957586327937822  0.6417596005483482  1.0000
+  Co  Co1       1.0  0.4957762445316592  0.9958213117682198  0.49986983239963984  1.0000
+  Co  Co2       1.0  0.995821311768219  0.49577624453165775  0.49986983239958244  1.0000
+  Si  Si1       1.0  0.4958552482360568  0.49585524823605887  0.5566088699601734  1.0000
+  Ba  Ba2       1.0  0.4958382998381536  0.4958382998381553  0.3579753597751797  1.0000
+  Si  Si2       1.0  0.9957415122366458  0.9957415122366481  0.44311393700068363  1.0000

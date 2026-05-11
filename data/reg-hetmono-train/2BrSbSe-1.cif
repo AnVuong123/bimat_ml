@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sb2Se2Br2
+_chemical_formula_sum              "Sb2 Se2 Br2"
+_cell_length_a       5.78324153398458
+_cell_length_b       4.076468933933828
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.4999999999999999  0.9999999999999996  0.4521752536789661  1.0000
+  Sb  Sb2       1.0  0.9999999999999999  0.4999999999999999  0.5478268274777611  1.0000
+  Se  Se1       1.0  0.4999999999999999  0.4999999999999999  0.5459401166791057  1.0000
+  Se  Se2       1.0  6.226063905363271e-17  0.0  0.4540613786602042  1.0000
+  Br  Br1       1.0  0.4999999999999999  0.4999999999999999  0.35692374057459136  1.0000
+  Br  Br2       1.0  1.0517765181421696e-17  3.550906554853913e-18  0.6430776494276635  1.0000

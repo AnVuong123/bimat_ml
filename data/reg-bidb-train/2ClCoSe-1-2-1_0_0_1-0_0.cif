@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Se2Cl2Co2Se2Cl2
+_chemical_formula_sum              "Co4 Se4 Cl4"
+_cell_length_a       4.751773432690472
+_cell_length_b       3.4039832574962356
+_cell_length_c       32.58316772306478
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000007691369  2.493367311916398e-19  0.2941755350943029  1.0000
+  Co  Co2       1.0  1.697491289172905e-20  0.5000000003677698  0.36081931013962715  1.0000
+  Se  Se1       1.0  0.5000000007691369  0.5000000003677698  0.3430880295314795  1.0000
+  Se  Se2       1.0  0.0  0.0  0.311906715957698  1.0000
+  Cl  Cl1       1.0  0.5000000007691369  0.5000000003677698  0.24706681616782944  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.40792784123905895  1.0000
+  Co  Co3       1.0  0.5000000007691369  2.493367311916398e-19  0.5181246097214043  1.0000
+  Co  Co4       1.0  1.697491289172905e-20  0.5000000003677698  0.5847683844598217  1.0000
+  Se  Se3       1.0  0.5000000007691369  0.5000000003677698  0.5670371041585811  1.0000
+  Se  Se4       1.0  0.0  0.0  0.5358557902778927  1.0000
+  Cl  Cl3       1.0  0.5000000007691369  0.5000000003677698  0.471015890488024  1.0000
+  Cl  Cl4       1.0  0.0  0.0  0.6318769155592535  1.0000

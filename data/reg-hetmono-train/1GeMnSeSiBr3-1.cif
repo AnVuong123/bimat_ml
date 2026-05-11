@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrMnBrSiBrGeSe
+_chemical_formula_sum              "Br3 Mn1 Si1 Ge1 Se1"
+_cell_length_a       4.530674386692709
+_cell_length_b       7.024574270074259
+_cell_length_c       19.438553196502156
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    86.66269936420183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.12835704099417147  0.8697171696914736  0.3858311842544731  1.0000
+  Mn  Mn1       1.0  0.7913747404161005  0.6194384308655008  0.5234470800816359  1.0000
+  Br  Br2       1.0  0.6039177696196977  0.3813714678505895  0.614168815745527  1.0000
+  Si  Si1       1.0  0.2724728441337738  0.7465657313644218  0.4913346609761754  1.0000
+  Br  Br3       1.0  0.9238912702808365  0.35475715751042647  0.44212185101696116  1.0000
+  Ge  Ge1       1.0  0.6025697730149736  0.12443607536300229  0.5166226308464789  1.0000
+  Se  Se1       1.0  0.9919819688847283  0.9075914948998288  0.5796737988335331  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2BaS7
+_chemical_formula_sum              "Ta2 Ba1 S7"
+_cell_length_a       4.815013171961927
+_cell_length_b       4.815013171961935
+_cell_length_c       37.85731800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  0.9999999999999999  0.4247241439543769  1.0000
+  Ta  Ta2       1.0  1.9147766801304468e-17  1.1099854583726794e-16  0.5721841059796087  1.0000
+  Ba  Ba1       1.0  0.5000000000000017  0.49999999999999944  0.4984546117640582  1.0000
+  S   S1        1.0  0.0  0.4999999999999997  0.43681573536610524  1.0000
+  S   S2        1.0  0.5000000000000017  5.888972027270389e-18  0.43681573536610524  1.0000
+  S   S3        1.0  1.4626873883475853e-17  0.4999999999999997  0.560091902634885  1.0000
+  S   S4        1.0  0.5000000000000017  0.0  0.560091902634885  1.0000
+  S   S5        1.0  0.0  0.0  0.36725974346953866  1.0000
+  S   S6        1.0  2.7735470572287465e-18  0.0  0.6296474046970542  1.0000
+  S   S7        1.0  3.6902072437681533e-19  0.0  0.4984459501318651  1.0000

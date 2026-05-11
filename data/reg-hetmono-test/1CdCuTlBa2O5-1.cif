@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdBaOTlBaCuO4
+_chemical_formula_sum              "Cd1 Ba2 O5 Tl1 Cu1"
+_cell_length_a       3.7606976786598887
+_cell_length_b       3.7606976786598887
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  1.950060068818001e-21  9.997563973691111e-17  0.3700352360006718  1.0000
+  Ba  Ba1       1.0  0.49999999999999456  0.49999999999999456  0.44685599085873007  1.0000
+  O   O1        1.0  0.0  6.472921230687935e-18  0.42310210324257264  1.0000
+  Tl  Tl1       1.0  5.041312975767521e-18  2.3827647386687777e-18  0.626192854893749  1.0000
+  Ba  Ba2       1.0  0.49999999999999456  0.49999999999999456  0.5542845571782928  1.0000
+  Cu  Cu1       1.0  6.910243333556533e-19  7.06579772277497e-19  0.5029705699081582  1.0000
+  O   O2        1.0  0.49999999999999456  0.49999999999999456  0.6287391195868759  1.0000
+  O   O3        1.0  0.0  0.0  0.5702494247889525  1.0000
+  O   O4        1.0  0.49999999999999456  0.0  0.4983657162929467  1.0000
+  O   O5        1.0  5.013674646383216e-18  0.49999999999999456  0.4983657162929467  1.0000

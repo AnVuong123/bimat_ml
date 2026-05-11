@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiSeAuSe3
+_chemical_formula_sum              "Ni1 Se4 Au1"
+_cell_length_a       3.646723855495715
+_cell_length_b       6.458391441284586
+_cell_length_c       17.70524118535066
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00381908026617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7459663116560209  0.7517760058010352  0.4999946946441432  1.0000
+  Se  Se1       1.0  0.24597442846741033  0.6309169851232805  0.5763966205551885  1.0000
+  Au  Au1       1.0  0.24598966629703334  0.25176504274362593  0.4999911111663881  1.0000
+  Se  Se2       1.0  0.7458668825618558  0.054936914934225915  0.5745628214307742  1.0000
+  Se  Se3       1.0  0.24599656185798507  0.8725815643912397  0.4236033794448116  1.0000
+  Se  Se4       1.0  0.7460525569637041  0.44857331347587415  0.42542765844865627  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnOMn2SeNO
+_chemical_formula_sum              "Mn3 O2 Se1 N1"
+_cell_length_a       3.7946749861366667
+_cell_length_b       3.794892440380071
+_cell_length_c       18.624498883117905
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999419193657
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24988285107764982  0.24886111816487985  0.48762842307601184  1.0000
+  O   O1        1.0  0.2494748755319459  0.24878044725397255  0.5913049950023184  1.0000
+  Mn  Mn2       1.0  0.24945899418897285  0.7487767738537798  0.5972934529035266  1.0000
+  Mn  Mn3       1.0  0.7495670735453697  0.7488973948782087  0.4875947100561651  1.0000
+  Se  Se1       1.0  0.7499908784708714  0.2489557576052431  0.4028577232237921  1.0000
+  N   N1        1.0  0.2496461828458343  0.7488830584400779  0.48690462670520146  1.0000
+  O   O2        1.0  0.7495031258365127  0.7487422284422839  0.5912963054889127  1.0000

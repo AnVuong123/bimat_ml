@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Te2Nb2Sn
+_chemical_formula_sum              "Te2 Nb2 Sn1"
+_cell_length_a       3.4365263270332713
+_cell_length_b       5.1638265617099295
+_cell_length_c       19.67983081379422
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.42405040777413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7207726270152612  0.4516681727596474  0.617903823708819  1.0000
+  Te  Te2       1.0  0.5699477834524647  0.1508167001061355  0.3817914590206902  1.0000
+  Nb  Nb1       1.0  0.1633375889190891  0.3376541487867641  0.4967411700559413  1.0000
+  Nb  Nb2       1.0  0.8473399077092304  0.7056370497595064  0.42651970860247185  1.0000
+  Sn  Sn1       1.0  0.4366597979215116  0.8840961505459031  0.5431969957622255  1.0000

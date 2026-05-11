@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ScSI2SBiI2
+_chemical_formula_sum              "Sc1 S2 I4 Bi1"
+_cell_length_a       5.26039761603358
+_cell_length_b       8.111764242033338
+_cell_length_c       22.118925785584047
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    120.79718529106208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.16480317962873373  0.5191584892506317  0.5293653279157298  1.0000
+  S   S1        1.0  0.4387161633686314  0.8718356926506333  0.4998005411264315  1.0000
+  I   I1        1.0  0.13722014661335377  0.46253226059499597  0.660924276848765  1.0000
+  I   I2        1.0  0.8582282570102735  0.7623199088114462  0.33907481653034843  1.0000
+  S   S2        1.0  0.7124277644943555  0.5790247636307725  0.5266749406120882  1.0000
+  Bi  Bi1       1.0  0.9464761042146004  0.8935510510783192  0.46019643900524976  1.0000
+  I   I3        1.0  0.7291296788935019  0.11953027193927418  0.5851322540718433  1.0000
+  I   I4        1.0  0.03303227287353512  0.33519905067628997  0.4183978365220382  1.0000

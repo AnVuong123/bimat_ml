@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlGeS3
+_chemical_formula_sum              "Al1 Ge1 S3"
+_cell_length_a       6.374326998834442
+_cell_length_b       6.373265454456979
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00628073276417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  9.996121134183738e-05  0.9999782867479237  0.5105689465597169  1.0000
+  Ge  Ge1       1.0  0.6666970646839079  0.3333397902330977  0.5318088222279709  1.0000
+  S   S1        1.0  0.013228739518970722  0.3507599347905664  0.5077672711944858  1.0000
+  S   S2        1.0  0.3375718341965926  0.9867292100615804  0.5077683201147836  1.0000
+  S   S3        1.0  0.6492129622596176  0.6623946805173203  0.5077623814386415  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HfTiSTiNSeSBrClBr
+_chemical_formula_sum              "Hf1 Ti2 S2 N1 Se1 Br2 Cl1"
+_cell_length_a       4.991887913732354
+_cell_length_b       6.268446683815215
+_cell_length_c       22.167799044760432
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.10556462440218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.17642806502921113  0.9240587515636877  0.44672909354950757  1.0000
+  Ti  Ti1       1.0  0.7695847341846004  0.2888424968070309  0.5017929988183836  1.0000
+  S   S1        1.0  0.6568086416488285  0.8843151540631975  0.46375986498577443  1.0000
+  Ti  Ti2       1.0  0.581329874306561  0.7529580915470827  0.5722099184186832  1.0000
+  N   N1        1.0  0.3992161874945604  0.23158333968284148  0.4911505130503519  1.0000
+  Se  Se1       1.0  0.7702641207106368  0.12505484889780424  0.6106495871554407  1.0000
+  S   S2        1.0  0.03913541810486636  0.6799558125982295  0.5508505245005199  1.0000
+  Br  Br1       1.0  0.22666303617696568  0.04180268527915564  0.3383285812387719  1.0000
+  Cl  Cl1       1.0  0.9831842030274495  0.48133473145723904  0.4085301716413656  1.0000
+  Br  Br2       1.0  0.4641502735140378  0.5227958653413292  0.6616714187612283  1.0000

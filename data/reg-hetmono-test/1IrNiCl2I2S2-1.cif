@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IrClIS2IClNi
+_chemical_formula_sum              "Ir1 Cl2 I2 S2 Ni1"
+_cell_length_a       4.581001794036596
+_cell_length_b       6.348440457055459
+_cell_length_c       20.741551426259512
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.1721150585761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.3338842510766319  0.6881785010065692  0.48391934542730347  1.0000
+  Cl  Cl1       1.0  0.1466225292897182  0.3131865115523815  0.43371444050198277  1.0000
+  I   I1        1.0  0.9503263222456532  0.9195742536808243  0.638406990592577  1.0000
+  S   S1        1.0  0.5014865705502038  0.022823542215832902  0.5371353037126281  1.0000
+  S   S2        1.0  0.876772760168233  0.7740324168474816  0.47717787134308387  1.0000
+  I   I2        1.0  0.410419451973738  0.8415140307557885  0.36159300940742284  1.0000
+  Cl  Cl2       1.0  0.2196417600501944  0.46003181010529276  0.5782088895459963  1.0000
+  Ni  Ni1       1.0  0.042363388872874774  0.10463892576232725  0.5278516271938966  1.0000

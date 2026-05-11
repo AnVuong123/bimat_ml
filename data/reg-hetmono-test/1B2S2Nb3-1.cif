@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb3B2S2
+_chemical_formula_sum              "Nb3 B2 S2"
+_cell_length_a       3.3205850615094876
+_cell_length_b       3.3205850615094885
+_cell_length_c       22.26287682217761
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  2.379628421384534e-17  3.923787183174758e-17  0.4999999875007129  1.0000
+  Nb  Nb2       1.0  0.6666666666666666  0.33333333333333254  0.6144361590830572  1.0000
+  Nb  Nb3       1.0  0.6666666666666664  0.33333333333333215  0.3855637951081081  1.0000
+  B   B1        1.0  0.3333333333333331  0.6666666666666624  0.5575140027820307  1.0000
+  B   B2        1.0  0.3333333333333331  0.6666666666666624  0.44248599941100164  1.0000
+  S   S1        1.0  6.822017596053356e-18  3.86132358528575e-18  0.6859421419811719  1.0000
+  S   S2        1.0  8.311907956073264e-18  1.888459131425888e-18  0.314057858423212  1.0000

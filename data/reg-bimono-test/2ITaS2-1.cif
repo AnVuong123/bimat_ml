@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaSISTaSIS
+_chemical_formula_sum              "Ta2 S4 I2"
+_cell_length_a       4.325024647651801
+_cell_length_b       4.835817474506496
+_cell_length_c       37.332757300000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5000000000000028  0.9127805793664044  0.4520029271144211  1.0000
+  S   S1        1.0  0.5000000000000028  0.4570189144388851  0.4447508717029592  1.0000
+  I   I1        1.0  1.4370623582784465e-17  0.9707661557051349  0.39554826737641263  1.0000
+  S   S2        1.0  8.74309427818127e-18  0.021975537453501115  0.4809993566032481  1.0000
+  Ta  Ta2       1.0  0.0  0.977424938986966  0.5479973408855637  1.0000
+  S   S3        1.0  6.481121740094159e-18  0.4331854905430163  0.5552495423803795  1.0000
+  I   I2        1.0  0.5  0.9194382100784914  0.6044521038344333  1.0000
+  S   S4        1.0  0.5  0.8682301368300425  0.5190009596537059  1.0000

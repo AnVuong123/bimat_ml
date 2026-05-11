@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgCuGaI2FNF
+_chemical_formula_sum              "Ag1 Cu1 Ga1 I2 F2 N1"
+_cell_length_a       3.834125628006333
+_cell_length_b       5.346555494443748
+_cell_length_c       20.302111387373603
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.0605893761913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9741667011893103  0.47085265447387725  0.39556467298012155  1.0000
+  Cu  Cu1       1.0  0.10348866684167791  0.04425396825234427  0.4981138480307368  1.0000
+  Ga  Ga1       1.0  0.574329587232469  0.6623633827122285  0.560474734780492  1.0000
+  I   I1        1.0  0.15020967527859794  0.984729298653729  0.36941970501966803  1.0000
+  I   I2        1.0  0.5385963016458006  0.20653260653578534  0.630580294980332  1.0000
+  F   F1        1.0  0.07635097116182978  0.6493263724022657  0.590994054427892  1.0000
+  N   N1        1.0  0.6236438588076333  0.01454227155316342  0.5335701569192858  1.0000
+  F   F2        1.0  0.515498676768135  0.49603137650759255  0.47871139524274586  1.0000

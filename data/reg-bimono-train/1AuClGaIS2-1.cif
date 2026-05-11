@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SAuGaClSI
+_chemical_formula_sum              "S2 Au1 Ga1 Cl1 I1"
+_cell_length_a       3.922889632336483
+_cell_length_b       4.7710499485880655
+_cell_length_c       21.399585972214393
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.94611031889445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.29775150620183705  0.7488329532542367  0.4626600804805272  1.0000
+  Au  Au1       1.0  0.32207111397193927  0.248784652540705  0.43617742395432396  1.0000
+  Ga  Ga1       1.0  0.8087644389130246  0.7492117271368971  0.5316624565963981  1.0000
+  Cl  Cl1       1.0  0.9460711078881822  0.24873379921904545  0.35048234165706765  1.0000
+  S   S2        1.0  0.636095107219499  0.24885942641589398  0.5298368996213267  1.0000
+  I   I1        1.0  0.9853298888425408  0.7462937931086125  0.6494665426969175  1.0000

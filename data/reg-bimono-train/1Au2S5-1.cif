@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Au2S5
+_chemical_formula_sum              "Au2 S5"
+_cell_length_a       5.40509854123141
+_cell_length_b       7.192416858620343
+_cell_length_c       31.731040000000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.07066327278027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.9999999999999999  0.5246877462139282  1.0000
+  Au  Au2       1.0  0.5  0.0  0.4753122537860711  1.0000
+  S   S1        1.0  0.5000000000000059  0.5  0.5  1.0000
+  S   S2        1.0  0.21699796158297593  0.33273669051288357  0.5428706951262222  1.0000
+  S   S3        1.0  0.3842612710700956  0.6672633094871165  0.4571293048737771  1.0000
+  S   S4        1.0  0.7830020384170346  0.667263309487117  0.5428706951262222  1.0000
+  S   S5        1.0  0.6157387289299125  0.33273669051288407  0.4571293048737771  1.0000

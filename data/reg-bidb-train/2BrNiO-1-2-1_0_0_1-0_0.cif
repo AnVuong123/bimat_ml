@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2O2Br2Ni2O2Br2
+_chemical_formula_sum              "Ni4 O4 Br4"
+_cell_length_a       3.795038368672854
+_cell_length_b       3.2412538292919093
+_cell_length_c       32.602907137036
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.499999998857343  0.0  0.3013637682278551  1.0000
+  Ni  Ni2       1.0  9.568450691488223e-20  0.4999999985666181  0.3532345018066689  1.0000
+  O   O1        1.0  0.499999998857343  0.4999999985666181  0.3395978623459211  1.0000
+  O   O2        1.0  0.0  0.0  0.3150001690595761  1.0000
+  Br  Br1       1.0  0.499999998857343  0.4999999985666181  0.24661445883353103  1.0000
+  Br  Br2       1.0  0.0  0.0  0.407983540059528  1.0000
+  Ni  Ni3       1.0  0.499999998857343  0.0  0.5512755670669306  1.0000
+  Ni  Ni4       1.0  9.568450691488223e-20  0.4999999985666181  0.6031463006457444  1.0000
+  O   O3        1.0  0.499999998857343  0.4999999985666181  0.5895096614917178  1.0000
+  O   O4        1.0  0.0  0.0  0.5649119678986516  1.0000
+  Br  Br3       1.0  0.499999998857343  0.4999999985666181  0.49652625767260655  1.0000
+  Br  Br4       1.0  0.0  0.0  0.6578953392053247  1.0000

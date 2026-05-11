@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2WGeI3Cl
+_chemical_formula_sum              "I5 W1 Ge1 Cl1"
+_cell_length_a       7.250402606457924
+_cell_length_b       7.1635190547772085
+_cell_length_c       18.312857910915547
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.63872101067555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.804875397039711  0.8332115897399731  0.5844493074208659  1.0000
+  I   I2        1.0  0.8014478246012431  0.13406234356341137  0.41216180565909977  1.0000
+  W   W1        1.0  0.4905217248020042  0.8357466150358901  0.49949304466561767  1.0000
+  Ge  Ge1       1.0  0.15909300845021584  0.16640028694462877  0.501055706967416  1.0000
+  I   I3        1.0  0.1873669729750004  0.5165190968874362  0.5871149277921165  1.0000
+  I   I4        1.0  0.4823097459961067  0.14041006577192486  0.59045809575272  1.0000
+  I   I5        1.0  0.46814377896796067  0.5152838660787183  0.40954655540075624  1.0000
+  Cl  Cl1       1.0  0.22580774969173353  0.8616287490092098  0.43005297545482923  1.0000

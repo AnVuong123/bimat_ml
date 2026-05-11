@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SINiS2NiTeNi
+_chemical_formula_sum              "S3 I1 Ni3 Te1"
+_cell_length_a       4.307368165160727
+_cell_length_b       6.313470636367879
+_cell_length_c       19.816774346052433
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.7088358664341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5872869108039749  0.8910379231040361  0.5639675974937537  1.0000
+  I   I1        1.0  0.8579654031499456  0.4376495194355624  0.6220241703536491  1.0000
+  Ni  Ni1       1.0  0.08204041893882842  0.8885163200603202  0.4123284991296746  1.0000
+  S   S2        1.0  0.9265655529971687  0.5560633800647322  0.44834499106756237  1.0000
+  S   S3        1.0  0.1984251678176611  0.11722839785278873  0.4994362404350893  1.0000
+  Ni  Ni2       1.0  0.03284463530573123  0.7810086085815987  0.543196735894063  1.0000
+  Te  Te1       1.0  0.6690982739812708  0.0650734161231967  0.37856963013573514  1.0000
+  Ni  Ni3       1.0  0.7518273979723595  0.22650218508225822  0.5016955288664029  1.0000

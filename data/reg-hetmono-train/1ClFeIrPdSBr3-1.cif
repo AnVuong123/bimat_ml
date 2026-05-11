@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FePdIrBr2ClBrS
+_chemical_formula_sum              "Fe1 Pd1 Ir1 Br3 Cl1 S1"
+_cell_length_a       4.735315962901189
+_cell_length_b       7.1755072030906595
+_cell_length_c       18.640754494083197
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.76919706987876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.08979937895305833  0.3415299504372019  0.4978197520325872  1.0000
+  Pd  Pd1       1.0  0.5906017229184743  0.47995757107487996  0.5022343275938934  1.0000
+  Ir  Ir1       1.0  0.0673184249498275  0.8422758279874346  0.5009059838480768  1.0000
+  Br  Br1       1.0  0.016408418292799487  0.5832721035870146  0.4023465933299946  1.0000
+  Br  Br2       1.0  0.017215223896690057  0.5837969565647858  0.5976525930914846  1.0000
+  Cl  Cl1       1.0  0.11455757134231949  0.09151604193516358  0.4163456384675363  1.0000
+  Br  Br3       1.0  0.13300676792422672  0.09868498027237434  0.5926327656679455  1.0000
+  S   S1        1.0  0.5538737218520975  0.8016823447363953  0.5001075377093906  1.0000

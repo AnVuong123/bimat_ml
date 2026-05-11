@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OGeBrVOIGe
+_chemical_formula_sum              "O2 Ge2 Br1 V1 I1"
+_cell_length_a       3.437061120021602
+_cell_length_b       6.24444299593165
+_cell_length_c       20.29941251455532
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    123.46015671013396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7504315890512856  0.9175202907816259  0.4930699016738487  1.0000
+  Ge  Ge1       1.0  0.5035722007504858  0.6703787970510048  0.5684132815331218  1.0000
+  Br  Br1       1.0  0.5025525368205891  0.1706358042718869  0.36937812700545686  1.0000
+  V   V1        1.0  0.5033766872240584  0.17013335010200945  0.49394468373293454  1.0000
+  O   O2        1.0  0.25645138337264645  0.42305164456050914  0.4930996792526795  1.0000
+  I   I1        1.0  0.5049363855872583  0.17073437917998546  0.6306199808899154  1.0000
+  Ge  Ge2       1.0  0.5023150429788665  0.6700715782986839  0.4166112052961311  1.0000

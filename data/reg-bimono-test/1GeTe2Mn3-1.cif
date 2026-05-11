@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2GeMn3
+_chemical_formula_sum              "Te2 Ge1 Mn3"
+_cell_length_a       4.079750358254674
+_cell_length_b       4.079711023190464
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00027377167453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8333273642259812  0.5000562312268724  0.6275742896072485  1.0000
+  Te  Te2       1.0  0.8333273631726976  0.5000562181987763  0.37242825735227164  1.0000
+  Ge  Ge1       1.0  0.49999277268781045  0.8333849833716477  0.5000009755668983  1.0000
+  Mn  Mn1       1.0  0.1666614725114438  0.16672249228798378  0.5610119546807278  1.0000
+  Mn  Mn2       1.0  0.16666147367048448  0.16672248681773152  0.4389896671393483  1.0000
+  Mn  Mn3       1.0  0.8333292361401314  0.5000571920239026  0.5000013173310213  1.0000

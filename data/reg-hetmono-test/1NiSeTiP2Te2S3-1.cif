@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       PTeSNiSeSPTeSTi
+_chemical_formula_sum              "P2 Te2 S3 Ni1 Se1 Ti1"
+_cell_length_a       6.289176008892811
+_cell_length_b       6.386184279969646
+_cell_length_c       18.347932318893463
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.70292232897202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4635664657751697  0.8077155837488722  0.4476302409053879  1.0000
+  Te  Te1       1.0  0.11011998954970001  0.4539132637308115  0.41527698631650306  1.0000
+  S   S1        1.0  0.16009921035765917  0.8195596524266267  0.5912345941958261  1.0000
+  Ni  Ni1       1.0  0.8750605382317329  0.562757552581886  0.5103916295124464  1.0000
+  Se  Se1       1.0  0.41282896948502623  0.11320945178262161  0.4087654058041737  1.0000
+  S   S2        1.0  0.9037093172032062  0.2722301273904117  0.5715897912298148  1.0000
+  P   P2        1.0  0.48740206370426264  0.8066301123909785  0.5687648866384409  1.0000
+  Te  Te2       1.0  0.8623665608414885  0.8406168046166869  0.4132473629475914  1.0000
+  S   S3        1.0  0.5058447063329679  0.4737158733943483  0.5653464017459996  1.0000
+  Ti  Ti1       1.0  0.15690127068239665  0.14921337324803707  0.52154928937511  1.0000

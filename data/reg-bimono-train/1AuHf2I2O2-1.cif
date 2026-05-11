@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfAuIHfOIO
+_chemical_formula_sum              "Hf2 Au1 I2 O2"
+_cell_length_a       6.352021789427612
+_cell_length_b       3.7761518041151456
+_cell_length_c       20.530374957891897
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    107.28026503655603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.48833881080443514  0.09619432567954421  0.5427099282320587  1.0000
+  Au  Au1       1.0  0.7039551876545782  0.7042400050607166  0.4590402615261221  1.0000
+  I   I1        1.0  0.8480485195028414  0.27619707541224614  0.6347131457669605  1.0000
+  Hf  Hf2       1.0  0.05546357183207128  0.3799228349426192  0.5007439631488733  1.0000
+  O   O1        1.0  0.3599085903811881  0.5321204062243136  0.5648375711186062  1.0000
+  I   I2        1.0  0.04956506336267896  0.37715008093992114  0.3653501803373902  1.0000
+  O   O2        1.0  0.1851188235000049  0.9446771935772672  0.497970765740311  1.0000

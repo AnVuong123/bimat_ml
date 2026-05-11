@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br3Ag3
+_chemical_formula_sum              "Br3 Ag3"
+_cell_length_a       6.895325196600103
+_cell_length_b       4.263094403656101
+_cell_length_c       19.6283644
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.5963741141990282  0.02385142724308045  0.6154339803034451  1.0000
+  Br  Br2       1.0  0.5963741141990282  0.5441456627569181  0.3845708596965595  1.0000
+  Br  Br3       1.0  0.07600863663198543  0.7840007800000072  0.5000006  1.0000
+  Ag  Ag1       1.0  0.8091913388986071  0.46361933726648613  0.564465553727481  1.0000
+  Ag  Ag2       1.0  0.8091913388986071  0.10439004273351314  0.43552839627251905  1.0000
+  Ag  Ag3       1.0  0.4784057725423832  0.7840007800000072  0.5000006  1.0000

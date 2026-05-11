@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2Ga2S5
+_chemical_formula_sum              "Ni2 Ga2 S5"
+_cell_length_a       3.6146771264182678
+_cell_length_b       3.6146992981561263
+_cell_length_c       43.3341712
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99979709669485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  1.475541435303379e-06  2.9510828706067597e-06  0.5435079547068083  1.0000
+  Ni  Ni2       1.0  0.33335822626285605  0.6667164525257123  0.4671202527115482  1.0000
+  Ga  Ga1       1.0  0.6666940331382476  0.3333880662764797  0.6135406329856179  1.0000
+  Ga  Ga2       1.0  0.6666999001935457  0.33339980038707584  0.38874960227384114  1.0000
+  S   S1        1.0  2.6056965414571754e-05  5.211393082914802e-05  0.6386399481524649  1.0000
+  S   S2        1.0  1.723333358150424e-05  3.446666716301802e-05  0.4937778209874372  1.0000
+  S   S3        1.0  3.217723634528115e-05  6.435447269056314e-05  0.36352869006902644  1.0000
+  S   S4        1.0  0.6666691911153344  0.33333838223065315  0.5605398063955094  1.0000
+  S   S5        1.0  0.6667002702500379  0.3334005405000601  0.4417827967036867  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClAlOAlClO2
+_chemical_formula_sum              "Cl2 Al2 O3"
+_cell_length_a       3.8209135475099654
+_cell_length_b       3.729799112822332
+_cell_length_c       20.328159118942658
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    99.01979881927808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7793699727046035  0.7913661670346513  0.6310493763846285  1.0000
+  Al  Al1       1.0  0.8316698003596615  0.3071882720282938  0.4414555542100277  1.0000
+  O   O1        1.0  0.15917882924978036  0.41322007805303  0.5157194904251359  1.0000
+  Al  Al2       1.0  0.5388051336127598  0.7556302273475408  0.5378416864694892  1.0000
+  Cl  Cl2       1.0  0.3024505663647384  0.2983962829722769  0.3689496400487611  1.0000
+  O   O2        1.0  0.7908791085932559  0.8017393287534433  0.46037521627108874  1.0000
+  O   O3        1.0  0.4744110066873433  0.22379717632739385  0.5165154887207726  1.0000

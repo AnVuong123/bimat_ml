@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrSeCuTeIAu
+_chemical_formula_sum              "Br1 Se1 Cu1 Te1 I1 Au1"
+_cell_length_a       7.04610456715385
+_cell_length_b       4.123253013418197
+_cell_length_c       20.497658902471716
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    129.2255461493343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.4786169969353278  0.598649580296075  0.3656466917675269  1.0000
+  Se  Se1       1.0  0.3392861931416129  0.003436882438152353  0.5504201780647955  1.0000
+  Cu  Cu1       1.0  0.4519603842989587  0.059321671064694215  0.43541391238466776  1.0000
+  Te  Te1       1.0  0.9384519820708388  0.5410252569635453  0.44180340836202  1.0000
+  I   I1        1.0  0.694105558443612  0.6383458237064379  0.6335499586590372  1.0000
+  Au  Au1       1.0  0.06626428843456345  0.1891980592224133  0.518299113121667  1.0000

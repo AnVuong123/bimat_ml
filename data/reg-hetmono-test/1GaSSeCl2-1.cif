@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaClSeSCl
+_chemical_formula_sum              "Ga1 Cl2 Se1 S1"
+_cell_length_a       4.013211729132308
+_cell_length_b       4.958986025440401
+_cell_length_c       20.24191659246636
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    106.83644619419822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.41460448356047874  0.4313868696671771  0.48597481796612785  1.0000
+  Cl  Cl1       1.0  0.14513291125166475  0.6666000007316536  0.6294817259156501  1.0000
+  Se  Se1       1.0  0.8712224540286605  0.3095584457019939  0.5627872890663039  1.0000
+  S   S1        1.0  0.41601977508089166  0.9308005139136076  0.46140530800313495  1.0000
+  Cl  Cl2       1.0  0.6522410457484159  0.9812965978625194  0.37051827408434984  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeTlHgS
+_chemical_formula_sum              "Se1 Tl1 Hg1 S1"
+_cell_length_a       4.419267314682532
+_cell_length_b       4.419947707878623
+_cell_length_c       18.369779394265503
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.14953761229765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.6776333490428833  0.319629891142375  0.592001652049393  1.0000
+  Tl  Tl1       1.0  0.6949818409185409  0.3021866368369842  0.4250485771245004  1.0000
+  Hg  Hg1       1.0  0.31735406885259154  0.6800129642756171  0.5655935893908725  1.0000
+  S   S1        1.0  0.3109482782445102  0.6863355993024343  0.4083039354861824  1.0000

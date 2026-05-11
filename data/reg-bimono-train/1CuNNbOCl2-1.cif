@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClCuNClONb
+_chemical_formula_sum              "Cl2 Cu1 N1 O1 Nb1"
+_cell_length_a       3.955170154327298
+_cell_length_b       5.900042232626186
+_cell_length_c       19.18499042861739
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.60089203263931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5061540387895581  0.5147342269928119  0.39093060942123714  1.0000
+  Cu  Cu1       1.0  0.6893572464806506  0.8808795843110356  0.4452871618065449  1.0000
+  N   N1        1.0  0.205498679545438  0.9130507945605612  0.4525523559351253  1.0000
+  Cl  Cl2       1.0  0.34723702225501857  0.1964490025580396  0.6090693905787626  1.0000
+  O   O1        1.0  0.8651042966616734  0.23236957434432856  0.48238225590431627  1.0000
+  Nb  Nb1       1.0  0.35589796805207696  0.21361664154772736  0.48830303550514975  1.0000

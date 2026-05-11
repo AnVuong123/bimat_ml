@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlClNiOBrO
+_chemical_formula_sum              "Al1 Cl1 Ni1 O2 Br1"
+_cell_length_a       3.1934173598419626
+_cell_length_b       3.7632205268144276
+_cell_length_c       20.157213565247055
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99962165987499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7482544697263632  0.7493527483924842  0.45617510128518235  1.0000
+  Cl  Cl1       1.0  0.2472153584926126  0.7490200360807234  0.3720662383277708  1.0000
+  Ni  Ni1       1.0  0.2498376899140893  0.24965582684744023  0.5372773064774652  1.0000
+  O   O1        1.0  0.24882850970580814  0.7495712303584289  0.5143129837405762  1.0000
+  Br  Br1       1.0  0.7513655783354155  0.25087194995568457  0.6279178330799821  1.0000
+  O   O2        1.0  0.7480706481277634  0.2493723791391275  0.4742851540704194  1.0000

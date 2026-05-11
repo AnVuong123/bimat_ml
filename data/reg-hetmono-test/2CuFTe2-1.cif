@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Te4Cu2
+_chemical_formula_sum              "F2 Te4 Cu2"
+_cell_length_a       5.050366931991769
+_cell_length_b       7.854739662956483
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99857850456104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9331713732917718  0.9564178582769882  0.45347887823082567  1.0000
+  F   F2        1.0  0.4331616113446479  0.05353836710272162  0.5464876028363317  1.0000
+  Te  Te1       1.0  0.6351545209502902  0.6874750505583096  0.43912518945081896  1.0000
+  Te  Te2       1.0  0.13520357451030682  0.32246159392086504  0.560853867770645  1.0000
+  Te  Te3       1.0  0.9456855682716886  0.6471658558467529  0.5712132533279756  1.0000
+  Te  Te4       1.0  0.4456947768128505  0.3627837872612563  0.42876714595043763  1.0000
+  Cu  Cu1       1.0  0.7737633081665719  0.17224242957164568  0.4923060293132937  1.0000
+  Cu  Cu2       1.0  0.27374747310500175  0.8376868653194902  0.507669878071773  1.0000

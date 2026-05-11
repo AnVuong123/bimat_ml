@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2GeCr
+_chemical_formula_sum              "Te2 Ge1 Cr1"
+_cell_length_a       4.395867122322709
+_cell_length_b       4.0088021807057785
+_cell_length_c       18.82727625951064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.5699832294551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.19068029449682336  0.5351735567922777  0.3983582062865497  1.0000
+  Te  Te2       1.0  0.39627607474365684  0.14326867377884817  0.6016417937134503  1.0000
+  Ge  Ge1       1.0  0.8442236618555319  0.8663810275174968  0.5228219499604073  1.0000
+  Cr  Cr1       1.0  0.5665326836706821  0.2252006424113741  0.4609753166362474  1.0000

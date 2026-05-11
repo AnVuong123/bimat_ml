@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeTeNaTeSbTe3SbTe
+_chemical_formula_sum              "Fe1 Te6 Na1 Sb2"
+_cell_length_a       7.365795250022242
+_cell_length_b       7.3647343389577875
+_cell_length_c       33.22614168318993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00359871647943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6831617764660274  0.009859239295731292  0.500002395748361  1.0000
+  Te  Te1       1.0  0.685859087959298  0.7479649202460346  0.5547953175826952  1.0000
+  Na  Na1       1.0  0.009009829508197086  0.6616540543715453  0.5000008081271946  1.0000
+  Te  Te2       1.0  0.9260813594333476  0.25313110136919736  0.5563792805758399  1.0000
+  Sb  Sb1       1.0  0.3447498881324165  0.3310014357276154  0.5420044935332717  1.0000
+  Te  Te3       1.0  0.42294968037744524  0.991032773810875  0.5552715851458451  1.0000
+  Te  Te4       1.0  0.4185436130705422  0.7479902042562967  0.44521422722819676  1.0000
+  Te  Te5       1.0  0.6834963793968722  0.2531734802947693  0.4436297729282879  1.0000
+  Sb  Sb2       1.0  0.3426870547365413  0.33103763820602555  0.45800583684984614  1.0000
+  Te  Te6       1.0  0.9245372729224416  0.9910898341783755  0.44472581096440633  1.0000

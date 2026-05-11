@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Se2B2N2
+_chemical_formula_sum              "K2 Se2 B2 N2"
+_cell_length_a       4.419187113547564
+_cell_length_b       7.002564514606074
+_cell_length_c       34.3578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  2.0567618894675955e-19  0.9604225344524175  0.5629066050992559  1.0000
+  K   K2        1.0  0.5000000000000042  0.4604225344524128  0.4370933949007384  1.0000
+  Se  Se1       1.0  0.0  0.819693035288504  0.4656063008155873  1.0000
+  Se  Se2       1.0  0.5000000000000042  0.3196930352885122  0.5343936991844126  1.0000
+  B   B1        1.0  0.0  0.06722694885727182  0.4459871228703137  1.0000
+  B   B2        1.0  0.5000000000000042  0.567226948857266  0.5540128771296859  1.0000
+  N   N1        1.0  8.468982973956641e-18  0.24302219116945123  0.43344314648959786  1.0000
+  N   N2        1.0  0.5000000000000042  0.7430221911694472  0.5665568535104041  1.0000

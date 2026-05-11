@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuS2SrISrI
+_chemical_formula_sum              "Cu1 S2 Sr2 I2"
+_cell_length_a       4.59948707608813
+_cell_length_b       4.59948707608813
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9601614218774366  0.9601614218774364  0.4999999999999591  1.0000
+  S   S1        1.0  0.46007813138585857  0.9598975326171763  0.5000000000000105  1.0000
+  S   S2        1.0  0.9598975326171763  0.46007813138585857  0.5000000000000105  1.0000
+  Sr  Sr1       1.0  0.460496347259294  0.4604963472592936  0.4046535149124388  1.0000
+  I   I1        1.0  0.9611225084181704  0.9611225084181704  0.33385850907630915  1.0000
+  Sr  Sr2       1.0  0.46049634725930294  0.4604963472593029  0.5953464850875819  1.0000
+  I   I2        1.0  0.9611225084181978  0.9611225084181978  0.6661414909237034  1.0000

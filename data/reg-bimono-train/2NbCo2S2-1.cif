@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co4S4Nb2
+_chemical_formula_sum              "Co4 S4 Nb2"
+_cell_length_a       3.3978193027520094
+_cell_length_b       6.323987620721824
+_cell_length_c       35.39616024
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0025073381451318384  0.533922111684518  1.0000
+  Co  Co2       1.0  0.9999999999999999  0.5025073381451318  0.46607788831548175  1.0000
+  Co  Co3       1.0  1.1075131814056673e-17  0.8860962791726856  0.46607700559533044  1.0000
+  Co  Co4       1.0  0.0  0.38609627917268363  0.5339229944046693  1.0000
+  S   S1        1.0  0.4999999999999969  0.19430366417982478  0.56015692608896  1.0000
+  S   S2        1.0  0.4999999999999969  0.6943036641798241  0.43984307391103916  1.0000
+  S   S3        1.0  0.0  0.1943027048330068  0.4354349359219908  1.0000
+  S   S4        1.0  2.8248943439409767e-18  0.6943027048330026  0.5645650640780087  1.0000
+  Nb  Nb1       1.0  0.4999999999999969  0.19430303586848321  0.48793777654532833  1.0000
+  Nb  Nb2       1.0  0.4999999999999969  0.6943030358684816  0.5120622234546713  1.0000

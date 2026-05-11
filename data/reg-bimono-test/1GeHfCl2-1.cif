@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeHfCl2
+_chemical_formula_sum              "Ge1 Hf1 Cl2"
+_cell_length_a       3.361771348530249
+_cell_length_b       3.3600415135215855
+_cell_length_c       20.912975044225565
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    121.22921014232283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7292939698738513  0.9481710255997517  0.46042180556911827  1.0000
+  Hf  Hf1       1.0  0.09799877164996777  0.5762983354154555  0.5572535265110463  1.0000
+  Cl  Cl1       1.0  0.42595682880954466  0.249004268769472  0.6419917097832464  1.0000
+  Cl  Cl2       1.0  0.7597519240882649  0.9098148995628862  0.35794808900538727  1.0000

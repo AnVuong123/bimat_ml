@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LiSePdNiSe
+_chemical_formula_sum              "Li1 Se2 Pd1 Ni1"
+_cell_length_a       4.190256767333221
+_cell_length_b       4.190012759623233
+_cell_length_c       18.01552987837642
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97304287455508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.831060975069354  0.5027230277369333  0.49446375058779013  1.0000
+  Se  Se1       1.0  0.16362020379478992  0.16954913581944986  0.41630748862968825  1.0000
+  Pd  Pd1       1.0  0.16573209012070053  0.16901890563214747  0.5598865365532774  1.0000
+  Ni  Ni1       1.0  0.4968520681205665  0.836200780783992  0.44681405121889956  1.0000
+  Se  Se2       1.0  0.4989039855833723  0.8355759195553043  0.5836925113703118  1.0000

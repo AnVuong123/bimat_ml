@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Te2PbBrIPb2
+_chemical_formula_sum              "Te2 Pb3 Br1 I1"
+_cell_length_a       4.41051505069909
+_cell_length_b       6.315178101172427
+_cell_length_c       23.048136978056014
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    110.42412678268154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.1973632916173487  0.7228868065244557  0.4563508664109173  1.0000
+  Te  Te2       1.0  0.4871093481967606  0.29827473312415187  0.5742768043623775  1.0000
+  Pb  Pb1       1.0  0.44856656947956597  0.22430625078191183  0.41617690277009983  1.0000
+  Br  Br1       1.0  0.22740489868108815  0.7762217381089787  0.6746084647172771  1.0000
+  I   I1        1.0  0.9038199470109082  0.13480024353012185  0.32539998727382646  1.0000
+  Pb  Pb2       1.0  0.7367732446348348  0.8029137514104465  0.5475558499503158  1.0000
+  Pb  Pb3       1.0  0.9871118149196652  0.29737806093927155  0.6651031628826215  1.0000

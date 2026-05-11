@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHScOH
+_chemical_formula_sum              "O2 H2 Sc1"
+_cell_length_a       3.2479651094629336
+_cell_length_b       3.2487736138022525
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99176797083894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.333265232810391  0.6665304656207816  0.561618427050298  1.0000
+  H   H1        1.0  0.3333018653265006  0.666603730653001  0.6137463830050893  1.0000
+  Sc  Sc1       1.0  2.5784290583704523e-13  5.154195695847664e-13  0.5000000000000139  1.0000
+  O   O2        1.0  0.6667347671903007  0.3334695343806006  0.43838157294972663  1.0000
+  H   H2        1.0  0.6666981346735978  0.3333962693471953  0.38625361699493305  1.0000

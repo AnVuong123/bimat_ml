@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Te2WSCu
+_chemical_formula_sum              "Te2 W1 S1 Cu1"
+_cell_length_a       3.318406136935951
+_cell_length_b       6.3274126300425175
+_cell_length_c       19.022418626264486
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99966540553177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9272221914929821  0.8193236166475237  0.3942033863872823  1.0000
+  Te  Te2       1.0  0.4272665642700898  0.7616958015974064  0.606922102573178  1.0000
+  W   W1        1.0  0.4272184809306125  0.9916904862545057  0.4908620880250856  1.0000
+  S   S1        1.0  0.9272201025149958  0.251075434533693  0.5012543170368747  1.0000
+  Cu  Cu1       1.0  0.9272824633394392  0.6067168316643912  0.5102519550625318  1.0000

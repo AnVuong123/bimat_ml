@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sn2SO2IOI
+_chemical_formula_sum              "Sn2 S1 O3 I2"
+_cell_length_a       4.128234195849093
+_cell_length_b       5.732227628132211
+_cell_length_c       21.96542162090178
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    111.29773486354537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.5639219924423698  0.5628876047912654  0.4633270784770312  1.0000
+  Sn  Sn2       1.0  0.8798576286269119  0.19745887323277117  0.538329777791493  1.0000
+  S   S1        1.0  0.5696070452443112  0.5753901519954225  0.3517864323898386  1.0000
+  O   O1        1.0  0.7030003353983877  0.8425525969154464  0.5194304288302615  1.0000
+  O   O2        1.0  0.018096306489336262  0.4720190195530621  0.47222292060004084  1.0000
+  I   I1        1.0  0.3290044171634652  0.11150076731227772  0.34144575640028596  1.0000
+  O   O3        1.0  0.4097367594935815  0.256605959117353  0.5195309547814473  1.0000
+  I   I2        1.0  0.921870051610491  0.2808970858212668  0.6585542435997142  1.0000

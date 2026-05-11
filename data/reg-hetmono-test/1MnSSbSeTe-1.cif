@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnSbSeTeS
+_chemical_formula_sum              "Mn1 Sb1 Se1 Te1 S1"
+_cell_length_a       3.8488781812894874
+_cell_length_b       3.848943942401887
+_cell_length_c       21.519147686884775
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00364234107818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.172423802158011  0.8341689728614732  0.42331271353295785  1.0000
+  Sb  Sb1       1.0  0.8380325046701014  0.16650617164689038  0.5754123109494651  1.0000
+  Se  Se1       1.0  0.1711576704256616  0.833649343474597  0.6514731852241991  1.0000
+  Te  Te1       1.0  0.8390197974027226  0.16729070481599262  0.34852681477580116  1.0000
+  S   S1        1.0  0.5050713431020756  0.500662118162553  0.4851319189538858  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SNbBrS2MnBr
+_chemical_formula_sum              "S3 Nb1 Br2 Mn1"
+_cell_length_a       4.518393597228605
+_cell_length_b       4.519346307338523
+_cell_length_c       22.431516495191126
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.84594500125877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8425558652116671  0.4612644346334178  0.4577625095207908  1.0000
+  Nb  Nb1       1.0  0.5238804229043471  0.7794796766629543  0.44362382171300846  1.0000
+  Br  Br1       1.0  0.475665743376651  0.8307718871950115  0.334270566301686  1.0000
+  S   S2        1.0  0.17261901141854274  0.13142955437960221  0.44074925334701476  1.0000
+  S   S3        1.0  0.4858576040725975  0.8222756149401282  0.5539347532621315  1.0000
+  Mn  Mn1       1.0  0.8151744474934721  0.4955183584327987  0.5632873619989585  1.0000
+  Br  Br2       1.0  0.8113109359321767  0.5035555490111414  0.6662403959510675  1.0000

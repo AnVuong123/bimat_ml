@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoO3SnO
+_chemical_formula_sum              "Mo1 O4 Sn1"
+_cell_length_a       5.065401706507874
+_cell_length_b       5.058653724864861
+_cell_length_c       30.33936
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    80.36477702435833
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.15095416364338785  0.27896852456655297  0.4950964564105468  1.0000
+  O   O1        1.0  0.3362881610882669  0.46231314845960925  0.5286130658669378  1.0000
+  O   O2        1.0  0.9091141038230431  0.5229257836129823  0.4664321173788688  1.0000
+  O   O3        1.0  0.3930381358006726  0.03557709119564938  0.46637853703219695  1.0000
+  Sn  Sn1       1.0  0.6512121166888639  0.7794163859330419  0.5144563591779393  1.0000
+  O   O4        1.0  0.9653530790334103  0.09490505557958201  0.5284982205516985  1.0000

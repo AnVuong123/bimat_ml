@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SPtIPtSCl
+_chemical_formula_sum              "S2 Pt2 I1 Cl1"
+_cell_length_a       3.564295594942422
+_cell_length_b       5.2503918919523445
+_cell_length_c       20.42980369110119
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00060644567544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7479026041057989  0.7497191521722443  0.47994873848520175  1.0000
+  Pt  Pt1       1.0  0.2479084818705639  0.749843418504184  0.554438650958369  1.0000
+  I   I1        1.0  0.24791266845157722  0.24932697757615965  0.3646510943790928  1.0000
+  Pt  Pt2       1.0  0.7478962746314762  0.24967048464853145  0.46447085565521495  1.0000
+  S   S2        1.0  0.24790475627256636  0.24984090065266495  0.5405048779292867  1.0000
+  Cl  Cl1       1.0  0.7479040289073456  0.7500872559372007  0.6354645662859653  1.0000

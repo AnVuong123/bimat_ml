@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnBr4Sn
+_chemical_formula_sum              "Sn2 Br4"
+_cell_length_a       7.583486388565244
+_cell_length_b       7.583486388564622
+_cell_length_c       33.2232
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    133.41015065095897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.15864097157543028  0.841359028424296  0.4799332034776549  1.0000
+  Br  Br1       1.0  0.3478455150134015  0.6521544849867391  0.5220530677186458  1.0000
+  Br  Br2       1.0  0.6821624140750665  0.3178375859249943  0.47794570478756  1.0000
+  Br  Br3       1.0  0.9550362825969719  0.04496371740299771  0.447397472665546  1.0000
+  Br  Br4       1.0  0.07496318146927437  0.9250368185307016  0.5526016294449643  1.0000
+  Sn  Sn2       1.0  0.8713714767481355  0.1286285232518436  0.5200652545511814  1.0000

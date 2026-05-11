@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co2BiSe2
+_chemical_formula_sum              "Co2 Bi1 Se2"
+_cell_length_a       3.6418035583303494
+_cell_length_b       3.6416668286735714
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00128710112847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  4.356129192788523e-06  9.217051305300748e-06  0.45023413895695746  1.0000
+  Co  Co2       1.0  3.1632464743524503e-06  9.19214685658141e-06  0.5497583851805307  1.0000
+  Bi  Bi1       1.0  0.6666414078964192  0.33328441290506117  0.49999700751251014  1.0000
+  Se  Se1       1.0  0.33334115790481395  0.666683561855319  0.42091618377747214  1.0000
+  Se  Se2       1.0  0.33333972464989636  0.6666835491956642  0.5790770256461564  1.0000

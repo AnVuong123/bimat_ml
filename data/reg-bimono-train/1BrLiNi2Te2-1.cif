@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeNi2TeBrLi
+_chemical_formula_sum              "Te2 Ni2 Br1 Li1"
+_cell_length_a       3.759555150770593
+_cell_length_b       5.514594266585106
+_cell_length_c       19.01892136357982
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99993065834413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7479242830501683  0.24104759245878266  0.6057313026845015  1.0000
+  Ni  Ni1       1.0  0.2478873675160331  0.0739741083568765  0.5296684279714137  1.0000
+  Ni  Ni2       1.0  0.7478786974234449  0.34260672866763137  0.47342946147360465  1.0000
+  Te  Te2       1.0  0.7479520938940126  0.8632585769610241  0.4653462497740066  1.0000
+  Br  Br1       1.0  0.24794192274258725  0.39826708546027456  0.39440118132362784  1.0000
+  Li  Li1       1.0  0.24794890164508518  0.5919436913949389  0.5531649441032505  1.0000

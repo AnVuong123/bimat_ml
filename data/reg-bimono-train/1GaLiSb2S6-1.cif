@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SGaSb2LiS5
+_chemical_formula_sum              "S6 Ga1 Sb2 Li1"
+_cell_length_a       6.7624827978601605
+_cell_length_b       6.762482797860402
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.09282794461618
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3122644702057418  0.052671016015720946  0.4541302160179793  1.0000
+  Ga  Ga1       1.0  0.0029367839949649087  0.9970632160050359  0.5  1.0000
+  Sb  Sb1       1.0  0.4945477423593024  0.8530219121668889  0.48527755831225444  1.0000
+  Sb  Sb2       1.0  0.1469780878330794  0.5054522576406688  0.5147224416877471  1.0000
+  Li  Li1       1.0  0.6387188172087315  0.3612811827912453  0.5  1.0000
+  S   S2        1.0  0.7400382564848338  0.7495316319066712  0.44955289923206077  1.0000
+  S   S3        1.0  0.2504683680932982  0.259961743515137  0.5504471007679426  1.0000
+  S   S4        1.0  0.6948086477575462  0.028085709395709646  0.5417801482144126  1.0000
+  S   S5        1.0  0.9719142906042602  0.30519135224242877  0.45821985178559155  1.0000
+  S   S6        1.0  0.947328983984255  0.6877355297942284  0.5458697839820197  1.0000

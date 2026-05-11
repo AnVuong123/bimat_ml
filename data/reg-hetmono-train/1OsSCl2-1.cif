@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OsClSCl
+_chemical_formula_sum              "Os1 Cl2 S1"
+_cell_length_a       3.668692809546527
+_cell_length_b       4.410178567714868
+_cell_length_c       33.14100722
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Os  Os1       1.0  0.5  0.0  0.5  1.0000
+  Cl  Cl1       1.0  1.1819045412102238e-18  9.407395270277377e-19  0.5479728844516685  1.0000
+  S   S1        1.0  0.5  0.5  0.5  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.45202711554833186  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgS2SrISrI
+_chemical_formula_sum              "Ag1 S2 Sr2 I2"
+_cell_length_a       4.82708150909845
+_cell_length_b       4.82708150909845
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9586353298004113  0.9586353298004113  0.49999999998558115  1.0000
+  S   S1        1.0  0.4586436228122432  0.957566312259493  0.5000000000032367  1.0000
+  S   S2        1.0  0.9575663122594933  0.4586436228122432  0.5000000000032367  1.0000
+  Sr  Sr1       1.0  0.45665952569977186  0.4566595256997773  0.40765608377222273  1.0000
+  I   I1        1.0  0.9593636949437557  0.9593636949437561  0.3373620362115426  1.0000
+  Sr  Sr2       1.0  0.456659525699709  0.45665952569970947  0.5923439162342713  1.0000
+  I   I2        1.0  0.9593636949393756  0.9593636949393756  0.6626379637859946  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OVMoO5
+_chemical_formula_sum              "O6 V1 Mo1"
+_cell_length_a       5.095327687181004
+_cell_length_b       5.087800034376807
+_cell_length_c       19.28679208886858
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.3400989812973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3157452036643275  0.5768660708017449  0.4991419265677072  1.0000
+  V   V1        1.0  0.06784892855649637  0.8249027148334994  0.4699819957462129  1.0000
+  Mo  Mo1       1.0  0.5684604716939204  0.3255797440534174  0.5250429254928625  1.0000
+  O   O2        1.0  0.8245455433481945  0.5814381467808964  0.510423904407857  1.0000
+  O   O3        1.0  0.3207634629912707  0.07765994677778706  0.48596560225166413  1.0000
+  O   O4        1.0  0.5414158242425667  0.292804134018424  0.6111862438106812  1.0000
+  O   O5        1.0  0.04109020233927008  0.7925807976530238  0.3888681591013569  1.0000
+  O   O6        1.0  0.8190122224058598  0.07355253324199572  0.4968846991473562  1.0000

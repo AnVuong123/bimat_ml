@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ICd3SOI
+_chemical_formula_sum              "I2 Cd3 S1 O1"
+_cell_length_a       4.320675082440493
+_cell_length_b       7.760031788646323
+_cell_length_c       19.606886214301
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.10937379823221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5938029181839002  0.22044964327432898  0.6174813319144167  1.0000
+  Cd  Cd1       1.0  0.3979168754310558  0.8260138288765617  0.45821531971633844  1.0000
+  Cd  Cd2       1.0  0.0562418206497977  0.14698302165664937  0.5095711793128083  1.0000
+  Cd  Cd3       1.0  0.7681607194284471  0.5668331911417979  0.538582670085363  1.0000
+  S   S1        1.0  0.2307173106527617  0.49147925727634756  0.4789651481359442  1.0000
+  O   O1        1.0  0.9128200074106898  0.8548419623928889  0.5030495276882235  1.0000
+  I   I2        1.0  0.5574587060178536  0.13452755868377522  0.3825186680855831  1.0000

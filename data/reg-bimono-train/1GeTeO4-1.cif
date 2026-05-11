@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O2TeO2Ge
+_chemical_formula_sum              "O4 Te1 Ge1"
+_cell_length_a       4.659477282799623
+_cell_length_b       4.660221430520864
+_cell_length_c       16.718588527292052
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.84231724289401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4013527507606872  0.9495949077574038  0.5512364542052463  1.0000
+  O   O2        1.0  0.8251410622441064  0.525597676303701  0.5513975364752405  1.0000
+  Te  Te1       1.0  0.11313345259256669  0.2373392800714631  0.5322332638206232  1.0000
+  O   O3        1.0  0.8882844949994542  0.012271508253854257  0.44865184871434866  1.0000
+  O   O4        1.0  0.33806344185877274  0.4623860091720941  0.4486024635247598  1.0000
+  Ge  Ge1       1.0  0.6131854950385253  0.7372880681465982  0.49557844515469734  1.0000

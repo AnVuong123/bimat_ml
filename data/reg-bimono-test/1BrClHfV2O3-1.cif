@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       V2O2ClOHfBr
+_chemical_formula_sum              "V2 O3 Cl1 Hf1 Br1"
+_cell_length_a       5.541154977937304
+_cell_length_b       5.541494207923199
+_cell_length_c       18.934105650554915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    126.66405060400903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.544805303862833  0.8126765642605764  0.5013113942288522  1.0000
+  V   V2        1.0  0.15059638929396368  0.20234439777410732  0.5079561039290096  1.0000
+  O   O1        1.0  0.8680283287927981  0.8414188857983206  0.4517038806249827  1.0000
+  O   O2        1.0  0.4455408093978953  0.10603989605308117  0.5059793992633809  1.0000
+  Cl  Cl1       1.0  0.8546833994735353  0.8399328142013338  0.6038893973436664  1.0000
+  O   O3        1.0  0.18103393212545213  0.526829786733296  0.5570895481045919  1.0000
+  Hf  Hf1       1.0  0.8468749122844172  0.5081199281152798  0.5050112742243451  1.0000
+  Br  Br1       1.0  0.17971890897093357  0.5151342519037045  0.39611060265633374  1.0000

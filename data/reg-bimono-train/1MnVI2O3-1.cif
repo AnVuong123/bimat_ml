@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IOMnIOVO
+_chemical_formula_sum              "I2 O3 Mn1 V1"
+_cell_length_a       3.701901617409573
+_cell_length_b       5.403461434703866
+_cell_length_c       21.59798799922156
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    110.02564974752104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8742947180405832  0.4277789874381135  0.6527370348654162  1.0000
+  O   O1        1.0  0.7194910319301849  0.12025726323512427  0.5093736476413272  1.0000
+  Mn  Mn1       1.0  0.5450988669317762  0.7710916860630254  0.46069577626001695  1.0000
+  I   I2        1.0  0.62128016887497  0.9242079656869436  0.3472525544748468  1.0000
+  O   O2        1.0  0.41758860057492697  0.5156611664862905  0.5313103298464994  1.0000
+  V   V1        1.0  0.8735630129677228  0.4278420200436823  0.5322591191097417  1.0000
+  O   O3        1.0  0.000995291186274335  0.6827781886916101  0.46591465897017514  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsKAsNi2K
+_chemical_formula_sum              "As2 K2 Ni2"
+_cell_length_a       4.114201304613786
+_cell_length_b       4.114201304613769
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00126816318115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9915250924800394  0.9915250924800424  0.4375702997729802  1.0000
+  K   K1        1.0  0.4910264782737643  0.4910264782737623  0.35266703468330013  1.0000
+  As  As2       1.0  0.4909320051857935  0.4909320051857924  0.5624304285450664  1.0000
+  Ni  Ni1       1.0  0.4918425462044284  0.9906142554881899  0.5000005290474706  1.0000
+  Ni  Ni2       1.0  0.9906142554881894  0.49184254620442375  0.5000005290474706  1.0000
+  K   K2        1.0  0.9914300313291309  0.991430031329136  0.6473323417277014  1.0000

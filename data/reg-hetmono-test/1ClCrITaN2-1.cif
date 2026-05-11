@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaINClNCr
+_chemical_formula_sum              "Ta1 I1 N2 Cl1 Cr1"
+_cell_length_a       3.408745009247054
+_cell_length_b       4.077245731592219
+_cell_length_c       20.49457116076852
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.00107524544681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6815676589322106  0.27331040828036873  0.5398863396375144  1.0000
+  I   I1        1.0  0.6822900922925391  0.7733652462460765  0.36595057008837467  1.0000
+  N   N1        1.0  0.18187930584864162  0.2734477867831785  0.4873836491895652  1.0000
+  Cl  Cl1       1.0  0.1822153101942754  0.27341629608277873  0.6340494299116256  1.0000
+  N   N2        1.0  0.6822407510134324  0.7733950022970716  0.5299549108130099  1.0000
+  Cr  Cr1       1.0  0.18224574954084338  0.7734252217962054  0.46846757405304074  1.0000

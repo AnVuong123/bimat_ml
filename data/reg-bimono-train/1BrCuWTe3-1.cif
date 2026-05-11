@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuTe3WBr
+_chemical_formula_sum              "Cu1 Te3 W1 Br1"
+_cell_length_a       3.70709299627581
+_cell_length_b       5.631259291157157
+_cell_length_c       19.408100900325763
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99728433747697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.2494018867870247  0.7976794789495225  0.5199814807988746  1.0000
+  Te  Te1       1.0  0.7493577887806787  0.6459187299381731  0.43296752208562755  1.0000
+  Te  Te2       1.0  0.24933868235733458  0.35953025623640716  0.5699192664615113  1.0000
+  Te  Te3       1.0  0.7494414061206766  0.9167817384730831  0.6143013439309554  1.0000
+  W   W1        1.0  0.7493367958129427  0.13495488663789096  0.48565578486252325  1.0000
+  Br  Br1       1.0  0.24938421833161958  0.1566346294225519  0.38571816161327005  1.0000

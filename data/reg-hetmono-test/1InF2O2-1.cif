@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OFInOF
+_chemical_formula_sum              "O2 F2 In1"
+_cell_length_a       3.4683756723293366
+_cell_length_b       3.4686866335756847
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99703450826479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.333309805101498  0.6666196102030004  0.5534733915083767  1.0000
+  F   F1        1.0  0.3332328500191996  0.6664657000384036  0.6410085778500803  1.0000
+  In  In1       1.0  0.9999999988099648  0.9999999976199294  0.49999999510374005  1.0000
+  O   O2        1.0  0.6666901962366895  0.333380392473384  0.44652660767475016  1.0000
+  F   F2        1.0  0.6667671495691847  0.33353429913837435  0.3589914215755043  1.0000

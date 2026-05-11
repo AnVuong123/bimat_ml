@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeInTeAlS
+_chemical_formula_sum              "Te2 In1 Al1 S1"
+_cell_length_a       3.238973927581414
+_cell_length_b       6.767608490378784
+_cell_length_c       19.93332136797456
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.4589833210822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8604243912863497  0.7354136098889664  0.6054059006915116  1.0000
+  In  In1       1.0  0.14115428713396078  0.2484172525464135  0.6157353281351223  1.0000
+  Te  Te2       1.0  0.9183113765568275  0.8097035983461554  0.3818216002272508  1.0000
+  Al  Al1       1.0  0.7716400579871923  0.5565439553597309  0.48191984778874813  1.0000
+  S   S1        1.0  0.14053178383926723  0.32073472525308455  0.48183959890533196  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnCaNMgBr2O
+_chemical_formula_sum              "Mn1 Ca1 N1 Mg1 Br2 O1"
+_cell_length_a       3.2164705847855792
+_cell_length_b       3.6899690725367322
+_cell_length_c       23.403448222877444
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    115.85463146628132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8389035655154532  0.8323661415560489  0.48805438377810506  1.0000
+  Ca  Ca1       1.0  0.1015048407956801  0.3571962845888892  0.5977974948876648  1.0000
+  N   N1        1.0  0.2093685772317005  0.573627840329796  0.44793018943955026  1.0000
+  Mg  Mg1       1.0  0.6031285469979178  0.36067832546923756  0.38941660172787684  1.0000
+  Br  Br1       1.0  0.9147778628460815  0.9842527413035047  0.32046559671786173  1.0000
+  Br  Br2       1.0  0.7890167182747023  0.7313842475975182  0.6795344032821384  1.0000
+  O   O1        1.0  0.4194687980270646  0.9930751154557947  0.5442097031018476  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V2Te2Cl2
+_chemical_formula_sum              "V2 Te2 Cl2"
+_cell_length_a       9.511069242691669
+_cell_length_b       3.577959014877132
+_cell_length_c       18.58963398
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    138.79829682205772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6092903656304258  0.22001458081139882  0.5000257841467082  1.0000
+  V   V2        1.0  0.10929483563042512  0.2200335708113987  0.49997472585329183  1.0000
+  Te  Te1       1.0  0.8593272665121838  0.2201071979190705  0.5772039151358092  1.0000
+  Te  Te2       1.0  0.3593281065121831  0.22011048791907017  0.4227943548641907  1.0000
+  Cl  Cl1       1.0  0.3592690905510294  0.7195935618916178  0.5966654102445074  1.0000
+  Cl  Cl2       1.0  0.8592703105510296  0.7196104718916165  0.4033358197554927  1.0000

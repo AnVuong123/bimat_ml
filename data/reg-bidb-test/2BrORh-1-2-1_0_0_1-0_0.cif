@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rh2O2Br2Rh2O2Br2
+_chemical_formula_sum              "Rh4 O4 Br4"
+_cell_length_a       4.045552174834638
+_cell_length_b       3.391359284578124
+_cell_length_c       32.69476412566129
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.5000000006384  0.0  0.2988274196580517  1.0000
+  Rh  Rh2       1.0  0.0  0.49999999932503114  0.3539317104575059  1.0000
+  O   O1        1.0  0.5000000006384  0.49999999932503114  0.33972612701255706  1.0000
+  O   O2        1.0  7.67618352466004e-20  0.0  0.3130330905787807  1.0000
+  Br  Br1       1.0  0.5000000006384  0.49999999932503114  0.2445169455657697  1.0000
+  Br  Br2       1.0  1.0010896767483968e-19  0.0  0.4082421876083816  1.0000
+  Rh  Rh3       1.0  0.5000000006384  0.0  0.5457278389109381  1.0000
+  Rh  Rh4       1.0  0.0  0.49999999932503114  0.6008321297103921  1.0000
+  O   O3        1.0  0.5000000006384  0.49999999932503114  0.5866265462654434  1.0000
+  O   O4        1.0  1.3730664631894673e-19  0.0  0.5599335101375265  1.0000
+  Br  Br3       1.0  0.5000000006384  0.49999999932503114  0.4914173651245154  1.0000
+  Br  Br4       1.0  1.6065377867218333e-19  0.0  0.655142606861268  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnSiSeO
+_chemical_formula_sum              "Mn1 Si1 Se1 O1"
+_cell_length_a       3.4539169998200787
+_cell_length_b       4.193059006032276
+_cell_length_c       17.574600900971205
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    93.65401283741826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.5924544714324327  0.1245898586165785  0.5406393812543945  1.0000
+  Si  Si1       1.0  0.9333457931350989  0.643864342821141  0.5161647045917156  1.0000
+  Se  Se1       1.0  0.3909533714137421  0.8205911437404662  0.42675222283912784  1.0000
+  O   O1        1.0  0.1158791460988856  0.360968549679525  0.5732477771608724  1.0000

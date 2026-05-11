@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       HgO2
+_chemical_formula_sum              "Hg1 O2"
+_cell_length_a       3.247023468448625
+_cell_length_b       3.3899571970431537
+_cell_length_c       16.965933424532636
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.99431297561112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9902873335604586  6.038357236750157e-05  0.5000053829942008  1.0000
+  O   O1        1.0  0.5674050349970704  0.21085162940036636  0.5639812956213343  1.0000
+  O   O2        1.0  0.413162446972093  0.7895135368134517  0.4360136088194452  1.0000

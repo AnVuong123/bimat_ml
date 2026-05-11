@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PtSeClZrClBr3
+_chemical_formula_sum              "Pt1 Se1 Cl2 Zr1 Br3"
+_cell_length_a       6.3103764251004035
+_cell_length_b       7.007223925597975
+_cell_length_c       18.805132310906327
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    119.96956959175812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8365332062353071  0.14438469271727133  0.5211842306624226  1.0000
+  Se  Se1       1.0  0.5153769988085033  0.880265534744949  0.5910917716817655  1.0000
+  Cl  Cl1       1.0  0.150209386005774  0.4922466996190828  0.46645586817439105  1.0000
+  Zr  Zr1       1.0  0.10541058351427497  0.815759444051712  0.5143369563054098  1.0000
+  Cl  Cl2       1.0  0.8295673904696602  0.5784358236743425  0.6011727077479665  1.0000
+  Br  Br1       1.0  0.8985238697687811  0.816606678935845  0.39882729225203367  1.0000
+  Br  Br2       1.0  0.5190087598056968  0.12220075491375838  0.4403962623288849  1.0000
+  Br  Br3       1.0  0.1599054501064331  0.15364258455589205  0.5987611419087134  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2SrBrSrBr
+_chemical_formula_sum              "Cu1 Te2 Sr2 Br2"
+_cell_length_a       5.15423069229866
+_cell_length_b       5.154230692298569
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.30565904319768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.001405941391598109  0.001405941391578569  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4886252299401066  0.9321149133982166  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9321149133981893  0.4886252299401001  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.42165944567213653  0.42165944567213554  0.39539760409229696  1.0000
+  Br  Br1       1.0  0.026484461443576055  0.026484461443576596  0.33688286915220883  1.0000
+  Sr  Sr2       1.0  0.4216594456800898  0.4216594456800923  0.6046023958888042  1.0000
+  Br  Br2       1.0  0.026484461462631042  0.026484461462631108  0.6631171308401086  1.0000

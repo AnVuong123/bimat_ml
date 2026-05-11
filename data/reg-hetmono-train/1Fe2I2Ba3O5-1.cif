@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2O4Ba2I2BaO
+_chemical_formula_sum              "Fe2 O5 Ba3 I2"
+_cell_length_a       4.093550273681485
+_cell_length_b       4.0935502736814
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  7.266236653863658e-21  7.595847760630271e-17  0.45173060291545913  1.0000
+  Fe  Fe2       1.0  4.43846301984351e-19  0.0  0.5482693970845409  1.0000
+  O   O1        1.0  0.0  0.4999999999999948  0.5544591490516145  1.0000
+  O   O2        1.0  0.49999999999999956  0.0  0.5544591490516145  1.0000
+  O   O3        1.0  2.9782614631942886e-18  0.4999999999999948  0.4455408509483855  1.0000
+  O   O4        1.0  0.49999999999999956  0.0  0.4455408509483855  1.0000
+  Ba  Ba1       1.0  0.49999999999999956  0.4999999999999948  0.5992697158949427  1.0000
+  Ba  Ba2       1.0  0.49999999999999956  0.4999999999999948  0.40073028410505734  1.0000
+  I   I1        1.0  0.0  2.3691302649525086e-18  0.3528894131429632  1.0000
+  I   I2        1.0  0.0  0.0  0.6471105868570339  1.0000
+  Ba  Ba3       1.0  0.49999999999999956  0.4999999999999948  0.5  1.0000
+  O   O5        1.0  0.0  6.894948195273137e-19  0.5  1.0000

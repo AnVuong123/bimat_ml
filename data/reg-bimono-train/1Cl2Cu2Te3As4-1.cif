@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       As4Cu2Cl2Te3
+_chemical_formula_sum              "As4 Cu2 Cl2 Te3"
+_cell_length_a       7.00827137213334
+_cell_length_b       7.701357051647199
+_cell_length_c       34.12562733334072
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.011426676729506284  0.0  0.5477894852727369  1.0000
+  As  As2       1.0  0.8222181068128861  0.0  0.43499418946262275  1.0000
+  As  As3       1.0  0.12791265298391372  0.8381526710559039  0.437987462908243  1.0000
+  As  As4       1.0  0.12791265298391433  0.16184732894408788  0.437987462908243  1.0000
+  Cu  Cu1       1.0  0.5335583615048352  0.7003239541913813  0.512485818628276  1.0000
+  Cu  Cu2       1.0  0.5335583615048352  0.2996760458086088  0.512485818628276  1.0000
+  Cl  Cl1       1.0  0.6077659669671857  0.4999999999999916  0.5609649201363175  1.0000
+  Cl  Cl2       1.0  0.547691627546574  0.4999999999999916  0.4596032719882553  1.0000
+  Te  Te1       1.0  0.6844914115465466  0.0  0.5074564841720614  1.0000
+  Te  Te2       1.0  0.16342087754089724  0.7399044146239364  0.5108389812758803  1.0000
+  Te  Te3       1.0  0.16342087754089724  0.26009558537604277  0.5108389812758803  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HSeClHf
+_chemical_formula_sum              "H1 Se1 Cl1 Hf1"
+_cell_length_a       3.5183088371711086
+_cell_length_b       3.518495545600003
+_cell_length_c       19.979321335367054
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00281667352262
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.1722701342450595  0.49104337285810257  0.3753881262585045  1.0000
+  Se  Se1       1.0  0.17285166721254205  0.4914941593077912  0.4539229680561995  1.0000
+  Cl  Cl1       1.0  0.5062789756437052  0.15811293844185306  0.6246118737414955  1.0000
+  Hf  Hf1       1.0  0.8396320716362224  0.8248404244802048  0.5376616669667391  1.0000

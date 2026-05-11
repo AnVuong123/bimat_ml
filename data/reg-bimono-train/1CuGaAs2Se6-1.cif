@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Se6CuGaAs2
+_chemical_formula_sum              "Se6 Cu1 Ga1 As2"
+_cell_length_a       6.4560833862033125
+_cell_length_b       6.45614657478495
+_cell_length_c       33.524452
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99975737015234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.046346017838273044  0.042558343423871686  0.44985947384379554  1.0000
+  Se  Se2       1.0  0.3231152106442503  0.6929643884922363  0.4498600107942695  1.0000
+  Se  Se3       1.0  0.6727278721560461  0.3193346407890919  0.44986123550331475  1.0000
+  Se  Se4       1.0  0.6727122509981268  0.04255839140918744  0.550140524339777  1.0000
+  Se  Se5       1.0  0.3231069791422639  0.31933478487042255  0.5501387664224713  1.0000
+  Se  Se6       1.0  0.046349206110020046  0.692964245602832  0.5501399757218545  1.0000
+  Cu  Cu1       1.0  0.014092997742827667  0.3516874598433946  0.49999999715045845  1.0000
+  Ga  Ga1       1.0  0.34739659592868166  0.018293367067316567  0.4999999974457551  1.0000
+  As  As1       1.0  0.6807258621422457  0.6849521168024328  0.46316108515404736  1.0000
+  As  As2       1.0  0.6807262375946664  0.6849520029092816  0.5368389120068633  1.0000

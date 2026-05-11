@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ScBiZnScOClOCl2O
+_chemical_formula_sum              "Sc2 Bi1 Zn1 O3 Cl3"
+_cell_length_a       6.0633561465496815
+_cell_length_b       5.858299602711165
+_cell_length_c       19.747016199841394
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.18321854155907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.19503540981581263  0.8817462065137067  0.4715265841359277  1.0000
+  Bi  Bi1       1.0  0.25247146123464387  0.5347358105918939  0.6201957843099233  1.0000
+  Zn  Zn1       1.0  0.588941639536795  0.530639217440933  0.4579736133360814  1.0000
+  Sc  Sc2       1.0  0.8440607673974805  0.1797680684168475  0.4715833752931674  1.0000
+  O   O1        1.0  0.8730814761131135  0.8724332787513042  0.5052094078477471  1.0000
+  Cl  Cl1       1.0  0.5227262224508712  0.8494713164474268  0.386913368879116  1.0000
+  O   O2        1.0  0.5313473757443705  0.18907327421680684  0.5051748974262822  1.0000
+  Cl  Cl2       1.0  0.8880191803208181  0.5305114169193514  0.3798042156900767  1.0000
+  Cl  Cl3       1.0  0.20377757324278356  0.21140454401830827  0.38685150239596916  1.0000
+  O   O3        1.0  0.1392509178344754  0.5307712771193708  0.5185514009747716  1.0000

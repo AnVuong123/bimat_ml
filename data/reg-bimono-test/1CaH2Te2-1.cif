@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeHCaTeH
+_chemical_formula_sum              "Te2 H2 Ca1"
+_cell_length_a       4.97794487267772
+_cell_length_b       4.982005764281134
+_cell_length_c       19.208510457334267
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00828330349165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7343027300981743  0.3335820977113317  0.5753103397527602  1.0000
+  H   H1        1.0  0.7355308007229047  0.33333708810931506  0.6623883124851419  1.0000
+  Ca  Ca1       1.0  0.0671081851061981  0.999946674431657  0.5000002458378968  1.0000
+  Te  Te2       1.0  0.40085144992087773  0.6663356870791105  0.4246960770129308  1.0000
+  H   H2        1.0  0.4021257365276123  0.666765977819025  0.33761821027201516  1.0000

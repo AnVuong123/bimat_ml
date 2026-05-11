@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NbO2NbOF2O
+_chemical_formula_sum              "Nb2 O4 F2"
+_cell_length_a       5.498114425849718
+_cell_length_b       5.445722217426126
+_cell_length_c       17.500243791024424
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    121.0416380371922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.9579954512070534  0.8352549841375604  0.4941604281505314  1.0000
+  O   O1        1.0  0.018607171480785376  0.5697868653057765  0.5692056807587863  1.0000
+  O   O2        1.0  0.2324412168030095  0.767857858362553  0.44123266181579607  1.0000
+  Nb  Nb2       1.0  0.2643542124651978  0.5228258361212841  0.5115114222660041  1.0000
+  O   O3        1.0  0.0411041523903235  0.17399873165160595  0.44729405374797726  1.0000
+  F   F1        1.0  0.6520746889560057  0.5588288911682948  0.4285654582621656  1.0000
+  F   F2        1.0  0.225798964172922  0.1528058256457083  0.5714345417378345  1.0000
+  O   O4        1.0  0.6263693255565527  0.7519264317282061  0.555343418965876  1.0000

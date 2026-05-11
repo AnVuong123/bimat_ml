@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlSeAlSe2
+_chemical_formula_sum              "Al2 Se3"
+_cell_length_a       3.697098033929763
+_cell_length_b       3.697033672490954
+_cell_length_c       36.36696
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00057588478329
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  2.5491936615831155e-05  5.098387323166232e-05  0.548941619030407  1.0000
+  Se  Se1       1.0  0.3333759404162539  0.6667518808325084  0.5828440297869277  1.0000
+  Al  Al2       1.0  0.3333745082688523  0.6667490165377057  0.45105843025276  1.0000
+  Se  Se2       1.0  0.6666999991991878  0.33339999839837575  0.5000000635484486  1.0000
+  Se  Se3       1.0  2.405940073486953e-05  4.811880146974619e-05  0.417156059781176  1.0000

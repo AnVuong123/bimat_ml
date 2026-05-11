@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfMnCl6
+_chemical_formula_sum              "Hf1 Mn1 Cl6"
+_cell_length_a       6.486266738459075
+_cell_length_b       6.4843700089522835
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97520341773121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.13217094629652235  0.8678374444723952  0.5000282333857823  1.0000
+  Mn  Mn1       1.0  0.4657543945922342  0.5346198266482189  0.49998706031198054  1.0000
+  Cl  Cl1       1.0  0.16119447410466076  0.5720049106383659  0.5804582805096332  1.0000
+  Cl  Cl2       1.0  0.8077475684865052  0.8396548805905042  0.5803681192812766  1.0000
+  Cl  Cl3       1.0  0.4286168294759104  0.19256491545589288  0.5803269813155645  1.0000
+  Cl  Cl4       1.0  0.8076952310005767  0.5714516232002403  0.4197223162252841  1.0000
+  Cl  Cl5       1.0  0.1607382685713122  0.1924509864478405  0.4196133740552305  1.0000
+  Cl  Cl6       1.0  0.4281983765132733  0.8390721174311968  0.4195736688085963  1.0000

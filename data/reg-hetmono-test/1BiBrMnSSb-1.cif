@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SBiBrMnSb
+_chemical_formula_sum              "S1 Bi1 Br1 Mn1 Sb1"
+_cell_length_a       3.5199924182361406
+_cell_length_b       5.580637756879029
+_cell_length_c       19.87680220392278
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.55867843869358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.1724897654715407  0.5135314325262135  0.3769722928270232  1.0000
+  Bi  Bi1       1.0  0.1329453906247938  0.4379285554042017  0.5057558461815648  1.0000
+  Br  Br1       1.0  0.42131289896618884  0.9788296144573053  0.6226528261508386  1.0000
+  Mn  Mn1       1.0  0.8742726523980202  0.8930402516147545  0.5316134078548055  1.0000
+  Sb  Sb1       1.0  0.8888264463666509  0.9028986322751776  0.39435538181370294  1.0000

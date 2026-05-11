@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeNiTeBr
+_chemical_formula_sum              "Fe1 Ni1 Te1 Br1"
+_cell_length_a       3.6941853753993783
+_cell_length_b       3.684685201393019
+_cell_length_c       18.59549644790145
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00732765473907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2483107733706191  0.7510510692359892  0.5033912124779855  1.0000
+  Ni  Ni1       1.0  0.749627434141972  0.25117698474652256  0.49322877744585447  1.0000
+  Te  Te1       1.0  0.24981639479629217  0.2509060405036553  0.4033781166868574  1.0000
+  Br  Br1       1.0  0.7477169053847542  0.7494511576873435  0.5966057878591149  1.0000

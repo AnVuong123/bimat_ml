@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2NBa2N
+_chemical_formula_sum              "Ba4 N2"
+_cell_length_a       3.999755785236153
+_cell_length_b       3.999755785236154
+_cell_length_c       42.01947111157945
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  3.564135492201034e-20  0.0  0.3567176012329533  1.0000
+  Ba  Ba2       1.0  0.6666666660627112  0.3333333334345408  0.4286045274624362  1.0000
+  N   N1        1.0  0.3333333334345407  0.6666666668690816  0.39266106434769477  1.0000
+  Ba  Ba3       1.0  5.350614416517426e-20  0.0  0.5355178959832028  1.0000
+  Ba  Ba4       1.0  0.3333333334345407  0.6666666668690816  0.6074048219747008  1.0000
+  N   N2        1.0  0.6666666660627112  0.3333333334345408  0.5714613590979443  1.0000

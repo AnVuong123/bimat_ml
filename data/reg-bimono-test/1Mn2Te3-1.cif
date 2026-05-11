@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Te3Mn2
+_chemical_formula_sum              "Te3 Mn2"
+_cell_length_a       4.020074982168565
+_cell_length_b       4.019576159157494
+_cell_length_c       21.06540369
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0070116692283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.907252007965969  0.3397342447093641  0.6428925108598428  1.0000
+  Te  Te2       1.0  0.9073568547234977  0.33976989810130287  0.3571106610269905  1.0000
+  Te  Te3       1.0  0.24057662454249562  0.006149328872096376  0.4999985268914117  1.0000
+  Mn  Mn1       1.0  0.5738912584022469  0.6729344424272931  0.5765129392464229  1.0000
+  Mn  Mn2       1.0  0.5739796665231075  0.6729682435098736  0.4234862442474155  1.0000

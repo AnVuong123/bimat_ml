@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RhSCuBr2S
+_chemical_formula_sum              "Rh1 S2 Cu1 Br2"
+_cell_length_a       3.579459897101591
+_cell_length_b       4.605186592729579
+_cell_length_c       20.768669456623943
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00523368226902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.7511732336114707  0.2530405701138743  0.4484500675533232  1.0000
+  S   S1        1.0  0.25094336906612064  0.2526692517344029  0.5229759690280954  1.0000
+  Cu  Cu1       1.0  0.250536365780672  0.7525824568735668  0.555343141861875  1.0000
+  Br  Br1       1.0  0.2514389611604438  0.2539836294174297  0.36111533269094137  1.0000
+  Br  Br2       1.0  0.7501271326953569  0.7513341501521014  0.6388764870825565  1.0000
+  S   S2        1.0  0.7512964010871541  0.7530141151822903  0.4785405280484646  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnClNMnIS
+_chemical_formula_sum              "Mn2 Cl1 N1 I1 S1"
+_cell_length_a       6.242363695451251
+_cell_length_b       3.6786121371022507
+_cell_length_c       18.454235371471473
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.09749038768398
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.584725289295181  0.341522561631956  0.47311879782083965  1.0000
+  Cl  Cl1       1.0  0.9334184164187318  0.5147836260413257  0.4063262278768775  1.0000
+  N   N1        1.0  0.306947786762022  0.202851025694963  0.5149924962103446  1.0000
+  Mn  Mn2       1.0  0.20980085520437228  0.654502230499381  0.4974202671372065  1.0000
+  I   I1        1.0  0.8532756926168544  0.4766618471907695  0.5935168014396505  1.0000
+  S   S1        1.0  0.4810810367967038  0.7897608659594236  0.4067948858101696  1.0000

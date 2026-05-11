@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mo2SBrTeI
+_chemical_formula_sum              "Mo2 S1 Br1 Te1 I1"
+_cell_length_a       5.712770182537091
+_cell_length_b       3.47144963481895
+_cell_length_c       20.64836771119173
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.99208330236654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.6624642163142245  0.53448210488317  0.4697288284553952  1.0000
+  Mo  Mo2       1.0  0.37203381376341094  0.034748427072978975  0.5373597063540618  1.0000
+  S   S1        1.0  0.2563646771844418  0.5345360819420731  0.4633319718929827  1.0000
+  Br  Br1       1.0  0.3393786313405646  0.5349340007384209  0.6367128341234647  1.0000
+  Te  Te1       1.0  0.8419787868364338  0.03452130141872556  0.5562701296621548  1.0000
+  I   I1        1.0  0.727930556470688  0.034039755008685474  0.363271726063771  1.0000

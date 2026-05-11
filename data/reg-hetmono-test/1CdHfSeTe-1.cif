@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeHfSeCd
+_chemical_formula_sum              "Te1 Hf1 Se1 Cd1"
+_cell_length_a       3.7894467812947488
+_cell_length_b       6.081170160445369
+_cell_length_c       18.588155873409605
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.75462491848188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.49920569377231977  0.2360493369040481  0.5965172634081058  1.0000
+  Hf  Hf1       1.0  0.9985384299549218  0.4265867075421704  0.49469582545672164  1.0000
+  Se  Se1       1.0  0.4977251028333837  0.46085395715524413  0.40348273659189426  1.0000
+  Cd  Cd1       1.0  0.009785270500475502  0.8759796682110793  0.54660547110923  1.0000

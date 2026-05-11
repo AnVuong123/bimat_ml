@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al2Zn2Se5
+_chemical_formula_sum              "Al2 Zn2 Se5"
+_cell_length_a       3.9068235673028346
+_cell_length_b       3.9068213964815075
+_cell_length_c       42.49425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00001838072306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  2.3144125016937273e-07  4.628825003387902e-07  0.4602191554754068  1.0000
+  Al  Al2       1.0  0.6666659846148866  0.33333196922977393  0.6309809873058788  1.0000
+  Zn  Zn1       1.0  0.6666679768224613  0.33333595364492336  0.36782167306638197  1.0000
+  Zn  Zn2       1.0  0.33333259473761345  0.6666651894752212  0.5497913528208189  1.0000
+  Se  Se1       1.0  0.3333345727305908  0.666669145461176  0.34816821607219123  1.0000
+  Se  Se2       1.0  0.6666670805898655  0.33333416117973147  0.4308523891265098  1.0000
+  Se  Se3       1.0  0.33333309766868296  0.6666661953373603  0.49417462988115524  1.0000
+  Se  Se4       1.0  0.6666657868058672  0.33333157361173515  0.5747524907595464  1.0000
+  Se  Se5       1.0  0.3333327969000173  0.666665593800029  0.6544873623487534  1.0000

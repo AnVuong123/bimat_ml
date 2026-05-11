@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2CuSFeZnS2
+_chemical_formula_sum              "S5 Cu1 Fe1 Zn1"
+_cell_length_a       5.894874516730013
+_cell_length_b       5.6920087235241965
+_cell_length_c       18.081122328430997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.88942041371905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5248393096116587  0.8299648269445038  0.41479726002444556  1.0000
+  S   S2        1.0  0.8002829186279672  0.48994603899969097  0.4165638989293336  1.0000
+  Cu  Cu1       1.0  0.7477517232740601  0.16639147884929675  0.5003187877066319  1.0000
+  S   S3        1.0  0.18151958940550514  0.2060101134379754  0.4987360176036509  1.0000
+  Fe  Fe1       1.0  0.5614351309882176  0.564378981297081  0.49956244547350076  1.0000
+  Zn  Zn1       1.0  0.170730526908499  0.7842493823363799  0.5007821202071308  1.0000
+  S   S4        1.0  0.5231802834849174  0.82856809775356  0.5852027399755546  1.0000
+  S   S5        1.0  0.7962510507397677  0.48903999248790275  0.5839122927085751  1.0000

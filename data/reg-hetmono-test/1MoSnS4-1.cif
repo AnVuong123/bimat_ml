@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoS3SnS
+_chemical_formula_sum              "Mo1 S4 Sn1"
+_cell_length_a       5.795992773336015
+_cell_length_b       5.801278238993439
+_cell_length_c       30.33936
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    79.58704339391598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.1509627277928123  0.27903392756655504  0.4960894984136466  1.0000
+  S   S1        1.0  0.34493184701349466  0.4689901138591631  0.5406833302488349  1.0000
+  S   S2        1.0  0.9058541734272629  0.5279710015202306  0.454100245638278  1.0000
+  S   S3        1.0  0.3960786022984546  0.030232518039907442  0.45404842284700264  1.0000
+  Sn  Sn1       1.0  0.6508655574704638  0.7791724652435229  0.5139205736123059  1.0000
+  S   S4        1.0  0.9571750734557352  0.08882520812605876  0.5406708518973907  1.0000

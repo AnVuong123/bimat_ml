@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SVCrBrSI
+_chemical_formula_sum              "S2 V1 Cr1 Br1 I1"
+_cell_length_a       3.634443457834708
+_cell_length_b       4.776431971214262
+_cell_length_c       20.864597626274275
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9791464971411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.2520292337399577  0.24903294202331333  0.4788352378691516  1.0000
+  V   V1        1.0  0.2518883176683303  0.7491392115522559  0.4584946961064833  1.0000
+  Cr  Cr1       1.0  0.7519828030660469  0.24904604482170972  0.5555680981082743  1.0000
+  Br  Br1       1.0  0.25178224734198656  0.24965366112380402  0.6405394374557489  1.0000
+  S   S2        1.0  0.7519450427485384  0.7489939917256505  0.5346792861637617  1.0000
+  I   I1        1.0  0.7517279112489353  0.7489010545185816  0.35946056254425124  1.0000

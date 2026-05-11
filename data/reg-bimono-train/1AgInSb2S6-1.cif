@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InAgS6Sb2
+_chemical_formula_sum              "In1 Ag1 S6 Sb2"
+_cell_length_a       6.551179608684125
+_cell_length_b       6.551179608684136
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00651154156344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.99999517144494  4.828555060134999e-06  0.5  1.0000
+  Ag  Ag1       1.0  0.6666802251431657  0.3333197748568385  0.5  1.0000
+  S   S1        1.0  0.7000039072330678  0.6874342142688037  0.5537712942143611  1.0000
+  S   S2        1.0  0.9874086189273267  0.29999118804673613  0.5537716360521906  1.0000
+  S   S3        1.0  0.3125742288275648  0.012597986372895997  0.5537711094510099  1.0000
+  S   S4        1.0  0.3125657857312011  0.29999609276693867  0.4462287057856384  1.0000
+  S   S5        1.0  0.9874020136271068  0.6874257711724414  0.4462288905489892  1.0000
+  S   S6        1.0  0.7000088119532714  0.01259138107267388  0.4462283639478088  1.0000
+  Sb  Sb1       1.0  0.33333633461260354  0.666675159694921  0.5413498520137575  1.0000
+  Sb  Sb2       1.0  0.33332484030508414  0.6666636653874026  0.4586501479862447  1.0000

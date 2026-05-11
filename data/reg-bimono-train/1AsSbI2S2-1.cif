@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbSAsSI2
+_chemical_formula_sum              "Sb1 S2 As1 I2"
+_cell_length_a       5.565834197677141
+_cell_length_b       6.09799154800647
+_cell_length_c       19.8285750042617
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    83.61164195374926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9880954961300664  0.9928464357127206  0.5749634096107273  1.0000
+  S   S1        1.0  0.4276381891930919  0.9093573544487787  0.5439111340056811  1.0000
+  As  As1       1.0  0.333318436943451  0.9870385847084421  0.4338251752546053  1.0000
+  S   S2        1.0  0.9220702105837449  0.0459373245970609  0.45392617503125  1.0000
+  I   I1        1.0  0.973572992324558  0.43588811436107416  0.6215892231922926  1.0000
+  I   I2        1.0  0.38233051995626344  0.5924434293995672  0.3780865022246319  1.0000

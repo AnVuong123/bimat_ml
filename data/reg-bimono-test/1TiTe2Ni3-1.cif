@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiNi2Te2Ni
+_chemical_formula_sum              "Ti1 Ni3 Te2"
+_cell_length_a       3.7479167381453533
+_cell_length_b       4.346914234828032
+_cell_length_c       19.565489324103382
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.54700427584037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5200344507669683  0.10026440215165532  0.4803614077867608  1.0000
+  Ni  Ni1       1.0  0.8086511351692591  0.6774692514003687  0.5274362250595688  1.0000
+  Ni  Ni2       1.0  0.21131251805387796  0.4831298270310308  0.44337378416461715  1.0000
+  Te  Te1       1.0  0.4122906786858954  0.8855164687171482  0.6166719944611609  1.0000
+  Te  Te2       1.0  0.8936072980777614  0.8476116154450151  0.3833280055388393  1.0000
+  Ni  Ni3       1.0  0.11085212798825912  0.2819768315241605  0.5681043932826734  1.0000

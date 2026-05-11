@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbCuMnSBrSBr
+_chemical_formula_sum              "Nb1 Cu1 Mn1 S2 Br2"
+_cell_length_a       4.354861907259505
+_cell_length_b       4.353714971752176
+_cell_length_c       20.77410378981133
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.05555104391192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.8275441463103015  0.5066181737708797  0.4974052844233291  1.0000
+  Cu  Cu1       1.0  0.1624234309654447  0.17511328859616168  0.5831518182773581  1.0000
+  Mn  Mn1       1.0  0.49413815247230336  0.8400353512647339  0.4259948943039522  1.0000
+  S   S1        1.0  0.4942687951229633  0.8398259978700499  0.5360801243981341  1.0000
+  Br  Br1       1.0  0.8272886217324877  0.5078289117221748  0.6389727421065627  1.0000
+  S   S2        1.0  0.16079903766239861  0.17293882240584912  0.4630325689080588  1.0000
+  Br  Br2       1.0  0.8279197549589123  0.5050351723861274  0.3610271135765841  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ISeNiTe
+_chemical_formula_sum              "I1 Se1 Ni1 Te1"
+_cell_length_a       3.8071576853570663
+_cell_length_b       4.899114719015517
+_cell_length_c       18.435328861836147
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.41201139310036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.831681233819596  0.2924787896228025  0.40682756766688916  1.0000
+  Se  Se1       1.0  0.3020708263390323  0.74785229511466  0.5401070324282063  1.0000
+  Ni  Ni1       1.0  0.3125090346145949  0.2596570313641257  0.5044032766176405  1.0000
+  Te  Te1       1.0  0.7843278140259983  0.17156293525215868  0.5931724323331108  1.0000

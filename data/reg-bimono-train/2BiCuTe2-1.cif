@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2Bi2Te4
+_chemical_formula_sum              "Cu2 Bi2 Te4"
+_cell_length_a       4.378252771552471
+_cell_length_b       7.0272665051568595
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  8.445360477445893e-20  0.006822899695249828  0.46221269000444226  1.0000
+  Cu  Cu2       1.0  3.228354573773133e-17  0.506822899695249  0.5377873099955577  1.0000
+  Bi  Bi1       1.0  0.5  0.5108275174745265  0.4180533756533993  1.0000
+  Bi  Bi2       1.0  0.5  0.010827517474525702  0.5819466243466033  1.0000
+  Te  Te1       1.0  0.5  0.10846098004736535  0.4301296011321079  1.0000
+  Te  Te2       1.0  0.5  0.6084609800473644  0.5698703988678887  1.0000
+  Te  Te3       1.0  2.007570409746511e-18  0.6398082561178683  0.46925372433068496  1.0000
+  Te  Te4       1.0  1.5979698770177374e-18  0.13980825611787442  0.5307462756693149  1.0000

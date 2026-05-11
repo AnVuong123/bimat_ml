@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo2Cl6
+_chemical_formula_sum              "Mo2 Cl6"
+_cell_length_a       6.350164573415081
+_cell_length_b       6.350164573412595
+_cell_length_c       18.30687531561697
+_cell_angle_alpha    89.99999999999994
+_cell_angle_beta     90.00000000000009
+_cell_angle_gamma    120.00000000007259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.6666666666677099  0.33333333333333803  0.4999811267474776  1.0000
+  Mo  Mo2       1.0  0.3333333333340552  0.6666666666666689  0.4999785799681646  1.0000
+  Cl  Cl1       1.0  0.6423363392314844  0.9999489433124225  0.42465908413244025  1.0000
+  Cl  Cl2       1.0  0.3576126040807576  0.35766366076822875  0.42465908413243697  1.0000
+  Cl  Cl3       1.0  5.105668836793209e-05  0.6423873959195956  0.42465908413244874  1.0000
+  Cl  Cl4       1.0  0.35761241592596155  0.9999539660134219  0.5753228357477524  1.0000
+  Cl  Cl5       1.0  0.6423415500870393  0.6423875840737923  0.5753228357477524  1.0000
+  Cl  Cl6       1.0  4.6033986481341585e-05  0.357658449912383  0.5753228357477524  1.0000

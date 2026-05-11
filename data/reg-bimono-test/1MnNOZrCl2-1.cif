@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnNCl2ZrO
+_chemical_formula_sum              "Mn1 N1 Cl2 Zr1 O1"
+_cell_length_a       3.760124808718287
+_cell_length_b       6.094754891919226
+_cell_length_c       18.50795728609533
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    108.01959035897299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6659568762971272  0.417265030489219  0.5117999667483007  1.0000
+  N   N1        1.0  0.20184000263879567  0.4889704612667592  0.5282138244164635  1.0000
+  Cl  Cl1       1.0  0.49525013848407584  0.07964590390970303  0.594768894045665  1.0000
+  Cl  Cl2       1.0  0.5449224641807264  0.1723477309498372  0.4052311059543347  1.0000
+  Zr  Zr1       1.0  0.36380889484193446  0.8121929662699761  0.4910172995264939  1.0000
+  O   O1        1.0  0.8241287303801177  0.7327174133892501  0.46025815759703925  1.0000

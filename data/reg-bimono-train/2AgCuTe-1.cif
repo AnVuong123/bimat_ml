@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2Ag2Te2
+_chemical_formula_sum              "Cu2 Ag2 Te2"
+_cell_length_a       4.277929404574515
+_cell_length_b       6.462004344799326
+_cell_length_c       19.29696184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    132.07524684973558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.5931106099783883  0.5192254722498322  0.5334124911467704  1.0000
+  Cu  Cu2       1.0  0.09311034997838695  0.5192253422498265  0.46658751885322963  1.0000
+  Ag  Ag1       1.0  0.44183408244556516  0.020908616360627953  0.5508445590560215  1.0000
+  Ag  Ag2       1.0  0.9418320024455683  0.02090734636063465  0.4491554909439786  1.0000
+  Te  Te1       1.0  0.10360995195914408  0.5226862529631223  0.6113423509213648  1.0000
+  Te  Te2       1.0  0.603608631959155  0.5226852529631334  0.3886575890786352  1.0000

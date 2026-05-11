@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdIn2Te4
+_chemical_formula_sum              "Pd1 In2 Te4"
+_cell_length_a       4.323562895515557
+_cell_length_b       4.324172727183697
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99533492384448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  4.2069271210370125e-17  8.41385424573211e-17  0.5000000000000001  1.0000
+  In  In1       1.0  0.6666342246413748  0.33326844928275  0.3939654851831041  1.0000
+  In  In2       1.0  0.3333657753586226  0.6667315507172491  0.6060345148168937  1.0000
+  Te  Te1       1.0  0.6666279456837804  0.33325589136756134  0.6422089460631684  1.0000
+  Te  Te2       1.0  0.3333720543162161  0.6667441086324359  0.35779105393682953  1.0000
+  Te  Te3       1.0  0.6668103880494088  0.33362077609881685  0.4671287737165039  1.0000
+  Te  Te4       1.0  0.3331896119505899  0.6663792239011835  0.5328712262834961  1.0000

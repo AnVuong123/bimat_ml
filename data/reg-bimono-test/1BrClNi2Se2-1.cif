@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrNi2SeClSe
+_chemical_formula_sum              "Br1 Ni2 Se2 Cl1"
+_cell_length_a       3.6971598954297282
+_cell_length_b       6.601613593272384
+_cell_length_c       18.317059405170404
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.26439269880856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.2465494356798542  0.17613083306752336  0.4094855791695068  1.0000
+  Ni  Ni1       1.0  0.3684940434575608  0.42040562354491356  0.5155023692633529  1.0000
+  Ni  Ni2       1.0  0.10315551542929344  0.8896314606480502  0.4959048423825667  1.0000
+  Se  Se1       1.0  0.5193378510720248  0.7221124706259318  0.4449911983389527  1.0000
+  Cl  Cl1       1.0  0.22702977717576417  0.13713084398113295  0.590614029357209  1.0000
+  Se  Se2       1.0  0.9524229809961839  0.588280169816577  0.5674191008099732  1.0000

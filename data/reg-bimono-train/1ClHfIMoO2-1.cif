@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoHfClO2I
+_chemical_formula_sum              "Mo1 Hf1 Cl1 O2 I1"
+_cell_length_a       3.5571722452987906
+_cell_length_b       4.225746672106182
+_cell_length_c       20.48721580850755
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    93.69325165665421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.21609627240502707  0.72896670199628  0.5303105886605697  1.0000
+  Hf  Hf1       1.0  0.785413219924064  0.27663977997329703  0.4582580746191355  1.0000
+  Cl  Cl1       1.0  0.2639468776270976  0.2809814276459206  0.3660843858233631  1.0000
+  O   O1        1.0  0.7215657950263707  0.7710509937970209  0.4630270250458864  1.0000
+  O   O2        1.0  0.2817309578399221  0.22997674762800294  0.5144942841347482  1.0000
+  I   I1        1.0  0.7248927940326504  0.7086107685345525  0.6339216944184572  1.0000

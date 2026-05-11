@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SCdSV
+_chemical_formula_sum              "S2 Cd1 V1"
+_cell_length_a       4.18985245300957
+_cell_length_b       4.188897723041864
+_cell_length_c       18.084032904066785
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97005123857936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.32817847032200886  0.6709085825557702  0.5852695004600782  1.0000
+  Cd  Cd1       1.0  0.6617747370583357  0.33766439278989874  0.5617442474556217  1.0000
+  S   S2        1.0  0.6618184400623885  0.3390746253888349  0.4147304995399218  1.0000
+  V   V1        1.0  0.3287299831439307  0.6724909535571549  0.4441734473361085  1.0000

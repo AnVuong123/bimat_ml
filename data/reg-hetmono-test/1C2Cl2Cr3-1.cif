@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cr3C2Cl2
+_chemical_formula_sum              "Cr3 C2 Cl2"
+_cell_length_a       3.1774002125563783
+_cell_length_b       3.1774002125563836
+_cell_length_c       22.06709171923381
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  1.2192845152142196e-17  3.4968535118179237e-17  0.49999873092070624  1.0000
+  Cr  Cr2       1.0  0.6666666666666684  0.3333333333333323  0.5895377680656815  1.0000
+  Cr  Cr3       1.0  0.6666666666666684  0.3333333333333323  0.41044808880464534  1.0000
+  C   C1        1.0  0.3333333333333354  0.6666666666666666  0.5499106590581098  1.0000
+  C   C2        1.0  0.3333333333333357  0.6666666666666671  0.45008480401547857  1.0000
+  Cl  Cl1       1.0  1.006190661527717e-17  6.34886067476991e-17  0.6641831805094646  1.0000
+  Cl  Cl2       1.0  0.9999999999999999  2.884850025130198e-17  0.335788897565375  1.0000

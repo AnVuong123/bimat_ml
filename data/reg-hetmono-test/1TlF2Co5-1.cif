@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co5TlF2
+_chemical_formula_sum              "Co5 Tl1 F2"
+_cell_length_a       3.587137294260627
+_cell_length_b       3.587137294260627
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000079146898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.02576850477125798  0.025768504771257954  0.4999767873993679  1.0000
+  Co  Co2       1.0  0.5257488733017042  0.025692587713707186  0.40731993467745403  1.0000
+  Co  Co3       1.0  0.025692587713707127  0.5257488733017045  0.40731993467745403  1.0000
+  Co  Co4       1.0  0.5257528430602827  0.025688943656171432  0.5926452479503719  1.0000
+  Co  Co5       1.0  0.025688943656171383  0.525752843060281  0.5926452479503719  1.0000
+  Tl  Tl1       1.0  0.525753471405556  0.525753471405555  0.49997518642794625  1.0000
+  F   F1        1.0  0.025733328738476693  0.025733328738476717  0.3499296392240205  1.0000
+  F   F2        1.0  0.02573879046843539  0.025738790468435295  0.6500352272954077  1.0000

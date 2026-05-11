@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NSeZn2S
+_chemical_formula_sum              "N1 Se1 Zn2 S1"
+_cell_length_a       3.403305699948155
+_cell_length_b       4.402825253932958
+_cell_length_c       18.677900450431242
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    79.06607264386331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.6757829504827908  0.6235743165470358  0.5254207721444545  1.0000
+  Se  Se1       1.0  0.7902568460199206  0.335992823029698  0.5983317084006411  1.0000
+  Zn  Zn1       1.0  0.11561580045978306  0.8872187863547998  0.5196070175551085  1.0000
+  Zn  Zn2       1.0  0.6202641401999532  0.39196933309963006  0.43504427624703607  1.0000
+  S   S1        1.0  0.20144016900458364  0.07691941457607564  0.4011227201204629  1.0000

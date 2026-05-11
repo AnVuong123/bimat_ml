@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfOMnClOCl
+_chemical_formula_sum              "Hf1 O2 Mn1 Cl2"
+_cell_length_a       3.696360004617912
+_cell_length_b       6.435096256183207
+_cell_length_c       18.367882631175956
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.74402124408837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9041500389968479  0.45107124544045546  0.5186533987660622  1.0000
+  O   O1        1.0  0.4324660879223589  0.5081226790865273  0.5539997765792894  1.0000
+  Mn  Mn1       1.0  0.6149607772209564  0.8726545136498908  0.48261676911875595  1.0000
+  Cl  Cl1       1.0  0.721326094078145  0.09061894842823273  0.5916785755550186  1.0000
+  O   O2        1.0  0.048386087722628576  0.7399613942577867  0.46926792326190203  1.0000
+  Cl  Cl2       1.0  0.7970977097196893  0.22736724081960982  0.40832142444498143  1.0000

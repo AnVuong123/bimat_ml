@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2GeS4
+_chemical_formula_sum              "Cd2 Ge1 S4"
+_cell_length_a       6.6897118346724245
+_cell_length_b       7.471769457147639
+_cell_length_c       32.267544
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.59402472099207
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5  4.6321378723013245e-18  0.5313471332236286  1.0000
+  Cd  Cd2       1.0  0.0  1.831367071526847e-17  0.46865286677638424  1.0000
+  Ge  Ge1       1.0  0.4999999999999981  0.49999999999999617  0.5  1.0000
+  S   S1        1.0  0.6088096389650592  0.33745935210909567  0.5464973812205992  1.0000
+  S   S2        1.0  0.7713502868559254  0.662540647890828  0.45350261877942066  1.0000
+  S   S3        1.0  0.39119036103489885  0.662540647890828  0.5464973812205992  1.0000
+  S   S4        1.0  0.2286497131440331  0.3374593521091102  0.45350261877942066  1.0000

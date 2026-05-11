@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CrCoSe2
+_chemical_formula_sum              "Cr1 Co1 Se2"
+_cell_length_a       3.747992802583809
+_cell_length_b       3.794938029362014
+_cell_length_c       33.4116696855398
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.66970092091495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.6395384274510438  0.5699580517978705  0.510694308868453  1.0000
+  Co  Co1       1.0  0.9667033025887993  0.22604294855282428  0.4790116517667289  1.0000
+  Se  Se1       1.0  0.2973239418233166  0.8878857272767913  0.4532130776552564  1.0000
+  Se  Se2       1.0  0.9721516569849005  0.23566090612695442  0.5488366543475413  1.0000

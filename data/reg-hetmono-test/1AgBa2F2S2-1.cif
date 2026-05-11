@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgS2BaFBaF
+_chemical_formula_sum              "Ag1 S2 Ba2 F2"
+_cell_length_a       4.860807133437899
+_cell_length_b       4.860807133437929
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    87.10647599182484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.942982873338905  0.9429828733389046  0.5000000000419801  1.0000
+  S   S1        1.0  0.44400088176783203  0.9246240871873492  0.4999999999929247  1.0000
+  S   S2        1.0  0.9246240871873457  0.444000881767831  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.40887448714225716  0.4088744871422595  0.39895414774468  1.0000
+  F   F1        1.0  0.09456400090620684  0.09456400090620692  0.3537974009547172  1.0000
+  Ba  Ba2       1.0  0.4088744871502147  0.4088744871502146  0.6010458522364212  1.0000
+  F   F2        1.0  0.0945640009252618  0.09456400092526199  0.6462025990376054  1.0000

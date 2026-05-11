@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2Tl2P2
+_chemical_formula_sum              "Ni2 Tl2 P2"
+_cell_length_a       4.074137698963108
+_cell_length_b       3.979957733764381
+_cell_length_c       20.29349941
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    78.93356986021064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.19133786797807092  0.26473755183458303  0.4953565195710719  1.0000
+  Ni  Ni2       1.0  0.6005799467533762  0.6660811459974103  0.5046495230761293  1.0000
+  Tl  Tl1       1.0  0.5316798653641027  0.1839748558351394  0.6300914885957327  1.0000
+  Tl  Tl2       1.0  0.26055216315004315  0.7479504382906983  0.3698837937282802  1.0000
+  P   P1        1.0  0.07890888240449835  0.7821805903166982  0.5452025122542181  1.0000
+  P   P2        1.0  0.7129817608400741  0.14871929762151279  0.45481618761733383  1.0000

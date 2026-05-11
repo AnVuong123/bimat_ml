@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHSbOH
+_chemical_formula_sum              "O2 H2 Sb1"
+_cell_length_a       4.016037530356582
+_cell_length_b       4.01781698595608
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98535035969921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3331829422684905  0.6663658845369804  0.5444368177323512  1.0000
+  H   H1        1.0  0.3332263693538985  0.6664527387077965  0.5960510539718682  1.0000
+  Sb  Sb1       1.0  1.3114278768694374e-14  2.5891432819620155e-14  0.5000000000000048  1.0000
+  O   O2        1.0  0.6668170577314934  0.33363411546298594  0.4555631822676464  1.0000
+  H   H2        1.0  0.6667736306460921  0.33354726129218365  0.4039489460281282  1.0000

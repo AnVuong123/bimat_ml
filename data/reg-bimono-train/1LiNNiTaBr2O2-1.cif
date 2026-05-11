@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OBrLiTaNiBrNO
+_chemical_formula_sum              "O2 Br2 Li1 Ta1 Ni1 N1"
+_cell_length_a       5.401870498355931
+_cell_length_b       3.9331012428098844
+_cell_length_c       20.720890752073977
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    111.35714424280616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9390660654356234  0.1355932848236511  0.5476826638256029  1.0000
+  Br  Br1       1.0  0.40191942723993984  0.8707587081811461  0.6380464484013886  1.0000
+  Li  Li1       1.0  0.9106987225273141  0.6218438522503429  0.5818844121741986  1.0000
+  Ta  Ta1       1.0  0.19343954761680873  0.2634117938443089  0.4792752704938682  1.0000
+  Ni  Ni1       1.0  0.568935479376043  0.9505393913573366  0.5265736435936618  1.0000
+  Br  Br2       1.0  0.09757366526618094  0.2150441807416561  0.3619535515986116  1.0000
+  N   N1        1.0  0.5585908354760559  0.44550618150616433  0.509037417688749  1.0000
+  O   O2        1.0  0.21350759723285764  0.7731854317890396  0.4813349996399194  1.0000

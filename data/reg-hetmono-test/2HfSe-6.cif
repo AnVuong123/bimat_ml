@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfSe2Hf
+_chemical_formula_sum              "Hf2 Se2"
+_cell_length_a       3.6263914564088617
+_cell_length_b       3.626383539744145
+_cell_length_c       21.035211417548936
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000722155429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.3333039118203391  0.666550374903302  0.5692205959956231  1.0000
+  Se  Se1       1.0  0.6666841458996134  0.33340203427112575  0.35655616533230294  1.0000
+  Se  Se2       1.0  0.9999993324409293  0.9999650704208228  0.6434436035981145  1.0000
+  Hf  Hf2       1.0  0.3334032102738885  0.6668638427570109  0.4307789796530974  1.0000

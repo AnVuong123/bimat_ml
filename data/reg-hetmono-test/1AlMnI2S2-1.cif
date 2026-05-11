@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlMnI2S2
+_chemical_formula_sum              "Al1 Mn1 I2 S2"
+_cell_length_a       3.708945775648395
+_cell_length_b       4.868127795107874
+_cell_length_c       21.009085574445894
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00445632562125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7541470504017149  0.24785895048386739  0.453602050460061  1.0000
+  Mn  Mn1       1.0  0.25305425662500286  0.7479026851887486  0.5456768713832899  1.0000
+  I   I1        1.0  0.25424477455579647  0.24734571023070406  0.35698840739277676  1.0000
+  I   I2        1.0  0.7532353271133552  0.7480494638345294  0.6430115926072233  1.0000
+  S   S1        1.0  0.7528676015254063  0.7479929409511321  0.4707252017211046  1.0000
+  S   S2        1.0  0.25384692790287067  0.24801691386824787  0.5284956737694153  1.0000

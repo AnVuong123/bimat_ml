@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2In2I2In2
+_chemical_formula_sum              "I4 In4"
+_cell_length_a       4.4787170842823505
+_cell_length_b       4.481253179927358
+_cell_length_c       31.208267503519636
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98128076579138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  2.9833741411335565e-05  7.23720138969812e-05  0.20034899596060063  1.0000
+  I   I2        1.0  0.33330408474749973  0.6665937643454726  0.4038996922395138  1.0000
+  In  In1       1.0  0.9999228463107808  0.0001863143971603912  0.34434257649156713  1.0000
+  In  In2       1.0  0.33341116173467533  0.6664799404697074  0.25993202150952893  1.0000
+  I   I3        1.0  0.6667555819861755  0.3335509802826136  0.5126707763638461  1.0000
+  I   I4        1.0  2.9833741411333305e-05  7.23720138969812e-05  0.7162214726427591  1.0000
+  In  In3       1.0  0.6666485955117003  0.33366492266587705  0.6566643568948125  1.0000
+  In  In4       1.0  0.00013691093559505934  0.999958548738424  0.5722538022332022  1.0000

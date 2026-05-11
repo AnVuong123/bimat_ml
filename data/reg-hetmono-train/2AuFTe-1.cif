@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2Te2F2
+_chemical_formula_sum              "Au2 Te2 F2"
+_cell_length_a       5.834032042083597
+_cell_length_b       3.4998672638901196
+_cell_length_c       20.734704670177464
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.4999999999999998  0.0  0.4497155567926408  1.0000
+  Au  Au2       1.0  0.0  0.49999999999999983  0.5502998833023585  1.0000
+  Te  Te1       1.0  0.4999999999999998  0.49999999999999983  0.5497887444717247  1.0000
+  Te  Te2       1.0  1.0658282089208249e-18  2.3458554278353327e-18  0.45022805508839225  1.0000
+  F   F1        1.0  0.4999999999999998  0.49999999999999983  0.38143232851573916  1.0000
+  F   F2        1.0  7.562590454155503e-18  7.494534336651741e-18  0.6185821195880409  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ZrTeZrTePZrTeZrTeP
+_chemical_formula_sum              "Zr4 Te4 P2"
+_cell_length_a       3.8338464720857868
+_cell_length_b       3.833858265131227
+_cell_length_c       49.308707625479244
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00010175446674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6666962149261546  0.33334810906040674  0.3424402431767423  1.0000
+  Te  Te1       1.0  7.293350407551802e-05  3.64676273675148e-05  0.3039367323076203  1.0000
+  Zr  Zr2       1.0  0.00010378404267182151  5.189137363800215e-05  0.4006553073760061  1.0000
+  Te  Te2       1.0  0.6667270654647509  0.3333635328066773  0.43915881925914774  1.0000
+  P   P1        1.0  0.33339999890697924  0.6666999983929581  0.37154777487076635  1.0000
+  Zr  Zr3       1.0  0.9999924323988113  0.9999962160797323  0.5404280266763736  1.0000
+  Te  Te3       1.0  0.33336914836838294  0.6666845746466876  0.5019245158072515  1.0000
+  Zr  Zr4       1.0  0.3334000004129104  0.6667000014048111  0.5986430908756373  1.0000
+  Te  Te4       1.0  2.328071300482918e-05  1.1640847354224051e-05  0.637146602758779  1.0000
+  P   P2        1.0  0.6666962149261546  0.33334810906040674  0.5695355583703975  1.0000

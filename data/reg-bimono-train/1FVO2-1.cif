@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FOVO
+_chemical_formula_sum              "F1 O2 V1"
+_cell_length_a       4.434512073294482
+_cell_length_b       3.141401678655838
+_cell_length_c       17.422458809268463
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.00235935906619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.04422733539879434  0.03823587807229121  0.5695211518588799  1.0000
+  O   O1        1.0  0.05290130486295519  0.5380567998767765  0.4304788481411202  1.0000
+  V   V1        1.0  0.9455797332178417  0.03806681116775773  0.4729877539283645  1.0000
+  O   O2        1.0  0.5871174458537539  0.038045346476291986  0.47285519335463366  1.0000

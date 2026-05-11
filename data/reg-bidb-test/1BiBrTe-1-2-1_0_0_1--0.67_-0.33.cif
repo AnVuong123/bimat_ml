@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiTeBrBiTeBr
+_chemical_formula_sum              "Bi2 Te2 Br2"
+_cell_length_a       4.343247070580492
+_cell_length_b       4.343247070580492
+_cell_length_c       29.06475407422137
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  1.1877730058094111e-18  0.0  0.3362604890804266  1.0000
+  Te  Te1       1.0  0.6666666673950175  0.3333333326212641  0.3963890766314231  1.0000
+  Br  Br1       1.0  0.3333333339505697  0.6666666679011394  0.273740384304736  1.0000
+  Bi  Bi2       1.0  0.3333333339505697  0.6666666679011394  0.5928307084931561  1.0000
+  Te  Te2       1.0  2.306448277210649e-18  0.0  0.6529592960441525  1.0000
+  Br  Br2       1.0  0.6666666673950175  0.3333333326212641  0.5303106037174655  1.0000

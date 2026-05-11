@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiF2TiF2
+_chemical_formula_sum              "Ti2 F4"
+_cell_length_a       2.7827791305463765
+_cell_length_b       5.177234530365491
+_cell_length_c       18.18583806941806
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.0  0.04326075788581588  0.5020342847622705  1.0000
+  F   F1        1.0  0.4999999999999998  0.1636536117118915  0.5808689542656442  1.0000
+  F   F2        1.0  4.218330471568802e-18  0.3363463500571743  0.41913105298517733  1.0000
+  Ti  Ti2       1.0  0.49999999999999994  0.4567392076636448  0.49796571958525315  1.0000
+  F   F3        1.0  0.9999999999999999  0.676391935042121  0.5584471132520471  1.0000
+  F   F4        1.0  0.5  0.823608048919309  0.44155288312610963  1.0000

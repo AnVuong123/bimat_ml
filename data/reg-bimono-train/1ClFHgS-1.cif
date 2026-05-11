@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgSFCl
+_chemical_formula_sum              "Hg1 S1 F1 Cl1"
+_cell_length_a       4.199700185697686
+_cell_length_b       4.200132632857612
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.95756484837734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.33326976888552057  0.6666846464889613  0.4868762021377885  1.0000
+  S   S1        1.0  0.6666520957224824  0.3332630270147446  0.521862101693348  1.0000
+  F   F1        1.0  0.666584730504845  0.3333496799990796  0.5710888417919641  1.0000
+  Cl  Cl1       1.0  0.9999957496273564  0.9999000229492806  0.44275690992736344  1.0000

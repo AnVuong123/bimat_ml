@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VRuO2Cl2
+_chemical_formula_sum              "V1 Ru1 O2 Cl2"
+_cell_length_a       3.2322104850995297
+_cell_length_b       4.096431656708815
+_cell_length_c       19.83855496355305
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98727614845593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.7484562235732133  0.8241418208027597  0.5338087876226836  1.0000
+  Ru  Ru1       1.0  0.2487658758402456  0.20669706199997775  0.46326811600893464  1.0000
+  O   O1        1.0  0.7487010064771128  0.28034727350542726  0.5303499139379027  1.0000
+  O   O2        1.0  0.24836933368723127  0.7085025627763868  0.47714996993538833  1.0000
+  Cl  Cl1       1.0  0.2483455076986255  0.7877917294523376  0.6219482712436045  1.0000
+  Cl  Cl2       1.0  0.7488202800225681  0.1920690840503716  0.3780517287563954  1.0000

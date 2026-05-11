@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       PbSSeHg
+_chemical_formula_sum              "Pb1 S1 Se1 Hg1"
+_cell_length_a       4.3203581209998285
+_cell_length_b       4.326653413449882
+_cell_length_c       20.002727246962756
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00984291786777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.33261678019234137  0.6642111040923386  0.6250511289084935  1.0000
+  S   S1        1.0  0.6659446800024796  0.3307399474602248  0.5649181224714634  1.0000
+  Se  Se1       1.0  0.3512583606261912  0.6611135196473563  0.3749488710915063  1.0000
+  Hg  Hg1       1.0  0.6844398199322276  0.3274637429029438  0.40902145000200296  1.0000

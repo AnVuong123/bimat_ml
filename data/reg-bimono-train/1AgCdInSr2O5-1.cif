@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdSrOInSrAgO4
+_chemical_formula_sum              "Cd1 Sr2 O5 In1 Ag1"
+_cell_length_a       3.799370900278842
+_cell_length_b       3.799370900278842
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  8.298100668265573e-20  9.125518259605994e-17  0.3770430592520804  1.0000
+  Sr  Sr1       1.0  0.49999999999999595  0.499999999999996  0.4503420188317979  1.0000
+  O   O1        1.0  0.0  0.0  0.4304470833035739  1.0000
+  In  In1       1.0  1.7913288940015626e-17  4.54817470380546e-18  0.6208923403665817  1.0000
+  Sr  Sr2       1.0  0.49999999999999595  0.499999999999996  0.5552955904782425  1.0000
+  Ag  Ag1       1.0  6.700535393180929e-19  0.0  0.5044340238241771  1.0000
+  O   O2        1.0  0.49999999999999595  0.499999999999996  0.6211502044749855  1.0000
+  O   O3        1.0  0.0  1.3014409816790432e-18  0.5681530696888771  1.0000
+  O   O4        1.0  0.49999999999999595  2.3984686871658644e-19  0.4956804761018051  1.0000
+  O   O5        1.0  5.019384928279607e-18  0.49999999999999595  0.4956804761018051  1.0000

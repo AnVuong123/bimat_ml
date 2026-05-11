@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiSCoSeI2
+_chemical_formula_sum              "Ti1 S1 Co1 Se1 I2"
+_cell_length_a       6.530550001259153
+_cell_length_b       3.9070811269425323
+_cell_length_c       18.496173606149725
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    103.50745443279814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8240120676895856  0.41684814895386124  0.5107994366363998  1.0000
+  S   S1        1.0  0.08554158017535037  0.5354500186256252  0.4288746855071943  1.0000
+  Co  Co1       1.0  0.17129723933997265  0.07093408732770412  0.4864468936172315  1.0000
+  Se  Se1       1.0  0.924565772420198  0.958030694942336  0.5834220554064051  1.0000
+  I   I1        1.0  0.5251098485503498  0.17886813333993493  0.4055477187545913  1.0000
+  I   I2        1.0  0.43972005241929996  0.2852601857047636  0.594504746433464  1.0000

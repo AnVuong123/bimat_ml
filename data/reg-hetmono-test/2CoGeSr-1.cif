@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCo2GeSrGe
+_chemical_formula_sum              "Sr2 Co2 Ge2"
+_cell_length_a       4.022336425495522
+_cell_length_b       4.022336425495219
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000205654123
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9957897403762989  0.9957897403763076  0.6309291308309847  1.0000
+  Co  Co1       1.0  0.495772468696409  0.9958252473487292  0.4998678825877303  1.0000
+  Co  Co2       1.0  0.9958252473487267  0.4957724686964058  0.4998678825876729  1.0000
+  Ge  Ge1       1.0  0.4958253152984142  0.4958253152984156  0.5627135908338015  1.0000
+  Sr  Sr2       1.0  0.4958067134230895  0.49580671342309046  0.3688037327053102  1.0000
+  Ge  Ge2       1.0  0.9957724241655448  0.9957724241655435  0.43701021531065437  1.0000

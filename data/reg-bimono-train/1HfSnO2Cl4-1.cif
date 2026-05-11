@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCl2OClSnHfCl
+_chemical_formula_sum              "O2 Cl4 Sn1 Hf1"
+_cell_length_a       5.417216635714162
+_cell_length_b       5.416993426348763
+_cell_length_c       18.53004938911635
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.31264834228108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6234947307565111  0.8727153182470958  0.5001132921301903  1.0000
+  Cl  Cl1       1.0  0.1225817922188628  0.8685013438014985  0.5952520232134334  1.0000
+  Cl  Cl2       1.0  0.12294829966198975  0.8682355399599075  0.40474797678656677  1.0000
+  O   O2        1.0  0.12750590998896888  0.36913775539925653  0.5001663253563974  1.0000
+  Cl  Cl3       1.0  0.6281566587004396  0.37400608670114954  0.5952471293946451  1.0000
+  Sn  Sn1       1.0  0.37557679253095944  0.12101374233235823  0.5000956387700767  1.0000
+  Hf  Hf1       1.0  0.875587101189842  0.6210046216363252  0.4999628519974922  1.0000
+  Cl  Cl4       1.0  0.6288418722381578  0.3728876579853339  0.40476326150310843  1.0000

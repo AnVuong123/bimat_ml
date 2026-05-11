@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuSbSeISeI
+_chemical_formula_sum              "Cu1 Sb1 Se2 I2"
+_cell_length_a       3.8726709112069897
+_cell_length_b       5.524573177209156
+_cell_length_c       21.52209164370344
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.05881193513964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7511484421141856  0.24917247263937542  0.4385761706217928  1.0000
+  Sb  Sb1       1.0  0.25085121977553315  0.7510790875469519  0.5384966711241745  1.0000
+  Se  Se1       1.0  0.7507284895040055  0.7503072467433202  0.44891391645717343  1.0000
+  I   I1        1.0  0.2510421658994491  0.2494810789661855  0.3498872799755711  1.0000
+  Se  Se2       1.0  0.25134269709764223  0.2500149926767137  0.5136846062114716  1.0000
+  I   I2        1.0  0.7504813722306821  0.7556892901618372  0.6492712729083299  1.0000

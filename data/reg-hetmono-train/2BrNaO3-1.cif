@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrNaO3BrNaO3
+_chemical_formula_sum              "Br2 Na2 O6"
+_cell_length_a       4.161620564857933
+_cell_length_b       5.702219292942336
+_cell_length_c       33.864000000000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.027914482210039226  4.621079384869207e-19  0.4630843092812834  1.0000
+  Na  Na1       1.0  0.5397631691659847  0.5000000000000109  0.44175295886218285  1.0000
+  O   O1        1.0  0.3908787835426414  0.9999999999999999  0.4863560562056185  1.0000
+  O   O2        1.0  0.039088222440663234  0.7571586278617151  0.4336743086701085  1.0000
+  O   O3        1.0  0.039088222440663234  0.24284137213830098  0.43367430867010853  1.0000
+  Br  Br2       1.0  0.9720855177900415  0.5000000000000164  0.5369156907187177  1.0000
+  Na  Na2       1.0  0.4602368308340574  0.0  0.5582470411378151  1.0000
+  O   O4        1.0  0.6091212164573913  0.5000000000000164  0.5136439437943815  1.0000
+  O   O5        1.0  0.9609117775593449  0.2571586278617148  0.5663256913298845  1.0000
+  O   O6        1.0  0.9609117775593449  0.7428413721382863  0.5663256913298845  1.0000

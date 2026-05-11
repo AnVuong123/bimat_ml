@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgBrCuS
+_chemical_formula_sum              "Mg1 Br1 Cu1 S1"
+_cell_length_a       4.12420445927717
+_cell_length_b       4.18792650301742
+_cell_length_c       17.950660242829343
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99471779598588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25160351008810217  0.7529684946365199  0.5078585625152245  1.0000
+  Br  Br1       1.0  0.7512343374791186  0.7533005376112563  0.4178119299537178  1.0000
+  Cu  Cu1       1.0  0.7509947405165176  0.2526470237833341  0.5411921074009636  1.0000
+  S   S1        1.0  0.25106140613677325  0.2532934587826211  0.5821880700462823  1.0000

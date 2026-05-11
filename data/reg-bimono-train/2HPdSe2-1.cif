@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2Se4H2
+_chemical_formula_sum              "Pd2 Se4 H2"
+_cell_length_a       3.7096966405202423
+_cell_length_b       5.399434762524344
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99055722107333
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.9230445297163741  0.9557171607444018  0.549505848358165  1.0000
+  Pd  Pd2       1.0  0.42254579994892916  0.4547613507013969  0.4504906892737917  1.0000
+  Se  Se1       1.0  0.9227032095998904  0.4541075800192949  0.5318578991941543  1.0000
+  Se  Se2       1.0  0.4228847570776506  0.9563554142378632  0.46813798588181854  1.0000
+  Se  Se3       1.0  0.9225670506118087  0.46900330295184683  0.3676685454364152  1.0000
+  Se  Se4       1.0  0.4230261302129519  0.9414919314000673  0.6323283459085525  1.0000
+  H   H1        1.0  0.42266955474422746  0.21006738649656956  0.6491637323110603  1.0000
+  H   H2        1.0  0.9229276415092386  0.20042244549877009  0.35084167080439255  1.0000

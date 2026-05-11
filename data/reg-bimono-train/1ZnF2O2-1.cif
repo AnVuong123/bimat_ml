@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OFZnOF
+_chemical_formula_sum              "O2 F2 Zn1"
+_cell_length_a       3.2837643581337046
+_cell_length_b       3.283863036947525
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99900597177755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3332902378153268  0.6665804756306527  0.5505486387882577  1.0000
+  F   F1        1.0  0.3333013937681678  0.6666027875363347  0.6276972616000833  1.0000
+  Zn  Zn1       1.0  0.9999999999686104  0.9999999999372204  0.5000000001145016  1.0000
+  O   O2        1.0  0.6667097621177701  0.33341952423553955  0.44945136156728327  1.0000
+  F   F2        1.0  0.6666986062264564  0.33339721245291243  0.3723027383357564  1.0000

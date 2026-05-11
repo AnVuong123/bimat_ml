@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       STi2NBr2S
+_chemical_formula_sum              "S2 Ti2 N1 Br2"
+_cell_length_a       3.369898904974923
+_cell_length_b       5.151493396578687
+_cell_length_c       20.92199936473252
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00861198043509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.25225559005733594  0.34237991046852234  0.43934227484912447  1.0000
+  Ti  Ti1       1.0  0.25223301352293487  0.8612663967977648  0.45817493662457076  1.0000
+  Ti  Ti2       1.0  0.7524972209724532  0.3981758396042182  0.5252440400305599  1.0000
+  N   N1        1.0  0.7520733002685813  0.7566321406273236  0.4977992373987372  1.0000
+  Br  Br1       1.0  0.7526152211307795  0.8609519191697437  0.35851699710176743  1.0000
+  Br  Br2       1.0  0.7556212669379491  0.5568918636048449  0.6414078219650053  1.0000
+  S   S2        1.0  0.2526109353005474  0.11506663815787165  0.5688362984662182  1.0000

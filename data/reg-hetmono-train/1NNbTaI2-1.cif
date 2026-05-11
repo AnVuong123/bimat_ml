@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NbITaNI
+_chemical_formula_sum              "Nb1 I2 Ta1 N1"
+_cell_length_a       3.5767845808642007
+_cell_length_b       3.578271153792768
+_cell_length_c       21.102783367404577
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.03389811846722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.49593284162812395  0.8346239400195326  0.5434640274798832  1.0000
+  I   I1        1.0  0.4940199989879956  0.8346495655019261  0.3551648706910982  1.0000
+  Ta  Ta1       1.0  0.1616838754256251  0.16774490935826936  0.4574516979478456  1.0000
+  N   N1        1.0  0.828755450463146  0.5012491634990439  0.49721627853120376  1.0000
+  I   I2        1.0  0.1639800514312138  0.16792315424491205  0.6448316833197147  1.0000

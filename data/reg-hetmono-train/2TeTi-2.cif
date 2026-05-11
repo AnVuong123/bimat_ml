@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2Ti2
+_chemical_formula_sum              "Te2 Ti2"
+_cell_length_a       4.207597933825749
+_cell_length_b       4.2117241192582435
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.96759735485529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.00011776315025326696  0.00015777210693704657  0.3908113396682108  1.0000
+  Te  Te2       1.0  0.3332157049597674  0.6665087454132064  0.6092573552971012  1.0000
+  Ti  Ti1       1.0  3.9469386698097254e-05  0.0002586178842956756  0.5420120825906003  1.0000
+  Ti  Ti2       1.0  0.33329400374018237  0.666407906790924  0.4580565007609828  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrMnCl6
+_chemical_formula_sum              "Zr1 Mn1 Cl6"
+_cell_length_a       5.974891584394671
+_cell_length_b       5.974891584394671
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.02138370311903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.982814804050402  0.017234315364812774  0.500001967729472  1.0000
+  Mn  Mn1       1.0  0.6825329653339312  0.3175764220943505  0.5000041899027675  1.0000
+  Cl  Cl1       1.0  0.3526299849756739  0.32387414090648986  0.5756089323959094  1.0000
+  Cl  Cl2       1.0  0.9837683533625707  0.6469340061815901  0.5740348354552282  1.0000
+  Cl  Cl3       1.0  0.6774874242833427  0.026858335263174007  0.5886705333377098  1.0000
+  Cl  Cl4       1.0  0.9732469867989846  0.3226154744582006  0.4113482145604863  1.0000
+  Cl  Cl5       1.0  0.3531511384198281  0.01631488856493317  0.4259823473740844  1.0000
+  Cl  Cl6       1.0  0.6762142797296646  0.6474557361839355  0.42439140197460157  1.0000

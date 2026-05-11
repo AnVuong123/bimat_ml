@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiClTeONiO4Ni
+_chemical_formula_sum              "Ni3 Cl1 Te1 O5"
+_cell_length_a       5.350541807176859
+_cell_length_b       5.245290345656727
+_cell_length_c       18.65714389271335
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.67956651672542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9542181052951639  0.32658604238014055  0.5076601556445183  1.0000
+  Cl  Cl1       1.0  0.8219558524594273  0.46617316964457417  0.40199000430090065  1.0000
+  Te  Te1       1.0  0.8266406740934781  0.7914980324294366  0.5980140824789008  1.0000
+  O   O1        1.0  0.6515679408416141  0.8936904276593639  0.5145269634913932  1.0000
+  Ni  Ni2       1.0  0.49358188890565735  0.5485211539936184  0.46864583725806597  1.0000
+  O   O2        1.0  0.1250754690136363  0.707383093598718  0.5579161426433077  1.0000
+  O   O3        1.0  0.04794175295214545  0.15779199122905793  0.5937681968586127  1.0000
+  O   O4        1.0  0.23051131832543936  0.241820806275984  0.4636150959120061  1.0000
+  O   O5        1.0  0.6556382982826325  0.4058599284519555  0.5531838903081879  1.0000
+  Ni  Ni3       1.0  0.3596860661361879  0.06574537266431711  0.5433263527657527  1.0000

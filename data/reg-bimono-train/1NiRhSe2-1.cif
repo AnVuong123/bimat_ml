@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiRhSe2
+_chemical_formula_sum              "Ni1 Rh1 Se2"
+_cell_length_a       3.891042792057633
+_cell_length_b       3.8915763953468088
+_cell_length_c       18.24855302558895
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.96943613834286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.16595327414870098  0.3321189821809251  0.5441661924650105  1.0000
+  Rh  Rh1       1.0  0.8322912673797876  0.6659072030664921  0.4557246527538259  1.0000
+  Se  Se1       1.0  0.8325495657762563  0.6654379739576757  0.5890085099085304  1.0000
+  Se  Se2       1.0  0.16567696320754358  0.3323896518193492  0.4109914900914697  1.0000

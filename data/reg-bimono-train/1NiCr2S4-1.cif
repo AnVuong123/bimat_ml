@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SCrSNiCrS2
+_chemical_formula_sum              "S4 Cr2 Ni1"
+_cell_length_a       3.415294532242479
+_cell_length_b       3.415161826531538
+_cell_length_c       38.37088052501407
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00128541434792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7252142446737943  0.4504284893475847  0.6076260979097229  1.0000
+  Cr  Cr1       1.0  0.05834992824479223  0.116699856489584  0.42478618580347965  1.0000
+  S   S2        1.0  0.7250516344148228  0.4501032688296419  0.4649725291991775  1.0000
+  Ni  Ni1       1.0  0.058459292792643516  0.11691858558528667  0.5000014443881444  1.0000
+  Cr  Cr2       1.0  0.058568193725506396  0.11713638745101257  0.5752159935281514  1.0000
+  S   S3        1.0  0.39186680562987947  0.7837336112597564  0.5350299278681069  1.0000
+  S   S4        1.0  0.3917038125469665  0.7834076250939305  0.39237612014903706  1.0000

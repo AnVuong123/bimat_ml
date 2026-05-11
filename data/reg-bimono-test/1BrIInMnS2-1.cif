@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InS2IMnBr
+_chemical_formula_sum              "In1 S2 I1 Mn1 Br1"
+_cell_length_a       3.7841728741605607
+_cell_length_b       5.16134554243074
+_cell_length_c       21.028362672297
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9762099870063
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2522944614309718  0.2510145654257389  0.5380177133279611  1.0000
+  S   S1        1.0  0.7522514937600184  0.2512298310916643  0.4531136399023111  1.0000
+  S   S2        1.0  0.25215934879855606  0.7511365370838419  0.5142843682413407  1.0000
+  I   I1        1.0  0.751461253517069  0.25224828164762086  0.6433388506333598  1.0000
+  Mn  Mn1       1.0  0.752297388914189  0.7503502921541494  0.4403149745971755  1.0000
+  Br  Br1       1.0  0.25248729122079805  0.7506266046145845  0.3566611493666401  1.0000

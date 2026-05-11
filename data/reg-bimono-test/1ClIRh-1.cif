@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ClRhI
+_chemical_formula_sum              "Cl1 Rh1 I1"
+_cell_length_a       4.1010821977734615
+_cell_length_b       3.735652941705312
+_cell_length_c       17.76120200219013
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.06034944745838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5793078438293675  0.5363607632127133  0.42226871802230365  1.0000
+  Rh  Rh1       1.0  0.8072666896289324  0.15023975518568017  0.49807309478375156  1.0000
+  I   I1        1.0  0.1324337286096282  0.8127048345694252  0.5777312819776963  1.0000

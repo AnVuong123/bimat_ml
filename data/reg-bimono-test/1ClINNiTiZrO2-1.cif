@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiZrTiONIOCl
+_chemical_formula_sum              "Ni1 Zr1 Ti1 O2 N1 I1 Cl1"
+_cell_length_a       3.6597878617290873
+_cell_length_b       4.048130971370233
+_cell_length_c       21.577204923972985
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.93329702851658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6378279988415656  0.27619822061082433  0.41500664083226557  1.0000
+  Zr  Zr1       1.0  0.8213177235044028  0.2212838720364841  0.5443236066276194  1.0000
+  Ti  Ti1       1.0  0.17059160734360207  0.6999962457075601  0.4523327897551733  1.0000
+  O   O1        1.0  0.9116853939235684  0.7229886765514437  0.5342143180714715  1.0000
+  N   N1        1.0  0.3275097669307987  0.24230931775627865  0.4883664761222611  1.0000
+  I   I1        1.0  0.338978831122184  0.22986534809645043  0.6524109574698784  1.0000
+  O   O2        1.0  0.6728964909012064  0.7852425877733641  0.42007848958137506  1.0000
+  Cl  Cl1       1.0  0.11142768029336361  0.3435845148063771  0.34758904253012185  1.0000

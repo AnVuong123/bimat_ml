@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2Al2Se5
+_chemical_formula_sum              "Ni2 Al2 Se5"
+_cell_length_a       3.747671145795219
+_cell_length_b       3.7476711457951795
+_cell_length_c       42.16152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99035352326558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999545719489412  4.542805105863447e-05  0.4648395953191053  1.0000
+  Ni  Ni2       1.0  0.6666453326259986  0.3333546673740127  0.5351612366662497  1.0000
+  Al  Al1       1.0  0.9999678599533411  3.214004665883117e-05  0.6164556103339681  1.0000
+  Al  Al2       1.0  0.6666321741241195  0.33336782587588304  0.38354325319617977  1.0000
+  Se  Se1       1.0  0.3332999026968437  0.666700097303144  0.499999945532917  1.0000
+  Se  Se2       1.0  0.9999757053240845  2.4294675915484093e-05  0.5600424832780514  1.0000
+  Se  Se3       1.0  0.6666242438215111  0.33337575617847837  0.4399566069230639  1.0000
+  Se  Se4       1.0  0.9999677616583611  3.2238341638869665e-05  0.35599534272472205  1.0000
+  Se  Se5       1.0  0.6666322810571934  0.3333677189428028  0.6440044938522835  1.0000

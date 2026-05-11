@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SMnGeSI2
+_chemical_formula_sum              "S2 Mn1 Ge1 I2"
+_cell_length_a       3.737396726752988
+_cell_length_b       4.929996953331732
+_cell_length_c       21.20789607439227
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02390369750405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.25280072500601  0.24946272795763882  0.5372095819916752  1.0000
+  Mn  Mn1       1.0  0.25313850264946436  0.748971535471552  0.5512203853687903  1.0000
+  Ge  Ge1       1.0  0.7525993486836365  0.25058268953202717  0.45568132490796776  1.0000
+  S   S2        1.0  0.7530309373168063  0.7497437244593341  0.4820295777371866  1.0000
+  I   I1        1.0  0.753265581885475  0.7492266658065878  0.6463832090005195  1.0000
+  I   I2        1.0  0.2525989788997787  0.2526804593851187  0.35363583033926677  1.0000

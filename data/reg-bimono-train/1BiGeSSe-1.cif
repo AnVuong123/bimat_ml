@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BiGeSeS
+_chemical_formula_sum              "Bi1 Ge1 Se1 S1"
+_cell_length_a       3.8658238115108348
+_cell_length_b       4.752713611050384
+_cell_length_c       17.77189844301981
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01013032628192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7494016140405875  0.7013160238141414  0.5589708325697085  1.0000
+  Ge  Ge1       1.0  0.24851358274141985  0.23092754747869845  0.43539489089618755  1.0000
+  Se  Se1       1.0  0.24914782584753423  0.1861919751616973  0.5791246205485215  1.0000
+  S   S1        1.0  0.7481277031189416  0.8835633074652326  0.42113836401978494  1.0000

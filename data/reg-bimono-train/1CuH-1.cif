@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CuH
+_chemical_formula_sum              "Cu1 H1"
+_cell_length_a       2.8231458340251843
+_cell_length_b       2.821690374108417
+_cell_length_c       15.039537842090096
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9172441496868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6669370450997973  0.8332921464804043  0.5013144633334226  1.0000
+  H   H1        1.0  0.33306889394149053  0.16671138341624434  0.49868553666657744  1.0000

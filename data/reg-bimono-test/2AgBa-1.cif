@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ba2Ag2
+_chemical_formula_sum              "Ba2 Ag2"
+_cell_length_a       4.8681420753138225
+_cell_length_b       4.867925658560529
+_cell_length_c       33.984896
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00147065960365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9999720600513377  0.9999441201026752  0.5613828272025502  1.0000
+  Ba  Ba2       1.0  0.9999720600513377  0.9999441201026752  0.43861717279744966  1.0000
+  Ag  Ag1       1.0  0.33331319279817645  0.6666263855963529  0.5  1.0000
+  Ag  Ag2       1.0  0.6666427112205253  0.333285422441051  0.5  1.0000

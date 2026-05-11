@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ni4Te4Ta2
+_chemical_formula_sum              "Ni4 Te4 Ta2"
+_cell_length_a       3.562473670830146
+_cell_length_b       6.496791540564655
+_cell_length_c       35.39616024
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.9989626849947035  0.5326019523651334  1.0000
+  Ni  Ni2       1.0  5.401400628001177e-18  0.49896268499470386  0.4673980476348665  1.0000
+  Ni  Ni3       1.0  1.2238345315009921e-18  0.8896858942850407  0.4673998757495036  1.0000
+  Ni  Ni4       1.0  0.0  0.38968589428503947  0.5326001242504963  1.0000
+  Te  Te1       1.0  0.49999999999999906  0.19440166730455177  0.5707003927621259  1.0000
+  Te  Te2       1.0  0.49999999999999906  0.6944016673045517  0.42929960723787397  1.0000
+  Te  Te3       1.0  1.7522717393010985e-18  0.19418527227987548  0.42254195511160175  1.0000
+  Te  Te4       1.0  8.253223734071009e-19  0.6941852722798754  0.5774580448883981  1.0000
+  Ta  Ta1       1.0  0.49999999999999906  0.1942741184958813  0.4872538458036098  1.0000
+  Ta  Ta2       1.0  0.49999999999999906  0.6942741184958806  0.51274615419639  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Br2Fe2
+_chemical_formula_sum              "Br2 Fe2"
+_cell_length_a       3.6180046936080577
+_cell_length_b       3.6171216738037275
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.49595442962605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9942665821985835  0.005731288610686524  0.394833197141065  1.0000
+  Br  Br2       1.0  0.3390596006851704  0.6609395135293772  0.6052128093790736  1.0000
+  Fe  Fe1       1.0  0.9800163631020651  0.020049577134175402  0.5287274406052164  1.0000
+  Fe  Fe2       1.0  0.3533228496882561  0.6466104304299264  0.47133921031387  1.0000

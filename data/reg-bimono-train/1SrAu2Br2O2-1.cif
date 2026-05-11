@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SrAu2OBr2O
+_chemical_formula_sum              "Sr1 Au2 O2 Br2"
+_cell_length_a       4.080528076911377
+_cell_length_b       4.2884610499844715
+_cell_length_c       21.706529253853244
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.01144865484042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.8261916180062722  0.7409356241085722  0.5877324243562737  1.0000
+  Au  Au1       1.0  0.32006262269316405  0.24149685069413798  0.500422112164566  1.0000
+  Au  Au2       1.0  0.5547576907263366  0.7422447971447277  0.41726582405404233  1.0000
+  O   O1        1.0  0.8225347897145625  0.24120316777871126  0.5239974257543489  1.0000
+  Br  Br1       1.0  0.013735435689990723  0.7433425634488207  0.34548355198660136  1.0000
+  Br  Br2       1.0  0.32557288919239646  0.2392369846372066  0.6544949465409711  1.0000
+  O   O2        1.0  0.33078959621738363  0.7413953769777462  0.5122823094964837  1.0000

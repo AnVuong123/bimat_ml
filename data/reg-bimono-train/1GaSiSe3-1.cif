@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaSiSe3
+_chemical_formula_sum              "Ga1 Si1 Se3"
+_cell_length_a       6.789393542353022
+_cell_length_b       6.789866012545172
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99892782221153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  2.6256608499465494e-05  0.9999649204360348  0.5127571990822738  1.0000
+  Si  Si1       1.0  0.6666801422490765  0.3333056263304755  0.5131957576761625  1.0000
+  Se  Se1       1.0  0.020781084523030516  0.399939076351728  0.5132072202801496  1.0000
+  Se  Se2       1.0  0.3792411183921908  0.9792308419543663  0.5132131783177782  1.0000
+  Se  Se3       1.0  0.6000715176903403  0.6207594197585439  0.5132099731969645  1.0000

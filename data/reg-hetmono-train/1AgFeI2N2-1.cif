@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgFeNI2N
+_chemical_formula_sum              "Ag1 Fe1 N2 I2"
+_cell_length_a       3.229617243625097
+_cell_length_b       4.836773339864569
+_cell_length_c       21.682629742791807
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    89.56733993435688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7638093442142527  0.3006847406745707  0.527209513783895  1.0000
+  Fe  Fe1       1.0  0.2582249283105929  0.8701216632971918  0.45478509854537436  1.0000
+  N   N1        1.0  0.26155236059595444  0.611430952025557  0.5013261164335824  1.0000
+  I   I1        1.0  0.2612839373295217  0.6744821214407719  0.34625572097286267  1.0000
+  I   I2        1.0  0.7715447471997791  0.2717403133004303  0.6555441259586626  1.0000
+  N   N2        1.0  0.7564130706404355  0.016647181921808807  0.45025648024312576  1.0000

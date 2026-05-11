@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeBrFeOFeO2SeCl2
+_chemical_formula_sum              "Fe3 Br1 O3 Se1 Cl2"
+_cell_length_a       5.6082356537430815
+_cell_length_b       5.127886212829148
+_cell_length_c       19.819390491943636
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.63777568300324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.08055175550719501  0.04079784566482481  0.5261894926467487  1.0000
+  Br  Br1       1.0  0.5324278635619522  0.46702386635285675  0.37841728801138796  1.0000
+  Fe  Fe2       1.0  0.4924765052323662  0.7717379709888799  0.5432648244501066  1.0000
+  O   O1        1.0  0.3617762011257679  0.9680905958247389  0.4806043782946025  1.0000
+  Fe  Fe3       1.0  0.609929224040586  0.3352384926851209  0.48804362065813767  1.0000
+  O   O2        1.0  0.7952739278316053  0.7109247593420881  0.5160202521702297  1.0000
+  O   O3        1.0  0.34925142367932765  0.37804247128890517  0.5428031174759039  1.0000
+  Se  Se1       1.0  0.784476557614856  0.18642674042743876  0.5898915642242102  1.0000
+  Cl  Cl1       1.0  0.1931937436186623  0.8342167114644806  0.6215827119886121  1.0000
+  Cl  Cl2       1.0  0.9410976166755672  0.23576049834694457  0.438806861070501  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AuFAuFBOBO
+_chemical_formula_sum              "Au2 F2 B2 O2"
+_cell_length_a       2.91055797306543
+_cell_length_b       4.679756787097931
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.6937974503711576  0.4556764205147954  1.0000
+  F   F1        1.0  0.5000000000000013  0.3690886009167619  0.4829113815449133  1.0000
+  Au  Au2       1.0  0.5000000000000097  0.19379745037117266  0.5443235794852046  1.0000
+  F   F2        1.0  0.0  0.8690886009167684  0.5170886184550867  1.0000
+  B   B1        1.0  0.5000000000000097  0.5510877547306883  0.572185652397107  1.0000
+  O   O1        1.0  0.5000000000000098  0.7778926152789231  0.5888445129782174  1.0000
+  B   B2        1.0  6.02089424489845e-18  0.051087754730687746  0.42781434760288867  1.0000
+  O   O2        1.0  6.3025229542551815e-19  0.27789261527892656  0.41115548702178073  1.0000

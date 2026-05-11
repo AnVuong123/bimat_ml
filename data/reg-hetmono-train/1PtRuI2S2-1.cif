@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2SRuSPt
+_chemical_formula_sum              "I2 S2 Ru1 Pt1"
+_cell_length_a       3.7361251747915887
+_cell_length_b       4.695039830828314
+_cell_length_c       21.0601924598284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00557129531803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7473060401957756  0.7501255923160111  0.6438684148345902  1.0000
+  I   I2        1.0  0.24820246278299476  0.2508009816199404  0.3561241474160587  1.0000
+  S   S1        1.0  0.747509404296358  0.75026187384473  0.4801320493857302  1.0000
+  Ru  Ru1       1.0  0.24742514358472573  0.7503684844467557  0.5495153349022429  1.0000
+  S   S2        1.0  0.24770496160178238  0.2500197809742541  0.5244613857823465  1.0000
+  Pt  Pt1       1.0  0.7479152517782898  0.2503567523894548  0.4515361301825289  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ge2As2Se6
+_chemical_formula_sum              "Ge2 As2 Se6"
+_cell_length_a       6.754075373490679
+_cell_length_b       6.754620712937825
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99988954318219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  5.723781435992551e-06  8.941102513327266e-06  0.5000319022747611  1.0000
+  Ge  Ge2       1.0  0.333334520479928  0.6666716152960322  0.49998173900063125  1.0000
+  As  As1       1.0  0.6666871818833181  0.3333433979403027  0.4330429486381202  1.0000
+  As  As2       1.0  0.6666527416591781  0.3333364515791521  0.5669549403203794  1.0000
+  Se  Se1       1.0  0.32888358313740257  0.9967574346946609  0.40141371749481375  1.0000
+  Se  Se2       1.0  0.003336845255659915  0.33215443423061725  0.4014345663133712  1.0000
+  Se  Se3       1.0  0.6678457296869141  0.6711053566531535  0.4014150316680439  1.0000
+  Se  Se4       1.0  0.0044602645155091825  0.6699044784591658  0.5985935666208502  1.0000
+  Se  Se5       1.0  0.3300213931759804  0.3345480572867239  0.5985726988907724  1.0000
+  Se  Se6       1.0  0.665472183082783  0.9955704678458532  0.5985922254331724  1.0000

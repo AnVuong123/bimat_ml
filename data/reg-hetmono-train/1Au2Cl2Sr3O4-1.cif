@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sr2AuO2ClSrAuO2Cl
+_chemical_formula_sum              "Sr3 Au2 O4 Cl2"
+_cell_length_a       4.235743749302058
+_cell_length_b       4.235743749302046
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.0  2.6555089593402034e-17  0.5  1.0000
+  Sr  Sr2       1.0  2.0636014886078832e-17  0.0  0.5894804354490789  1.0000
+  Au  Au1       1.0  0.5000000000000007  0.5000000000000011  0.5399197888717405  1.0000
+  O   O1        1.0  0.0  0.5000000000000011  0.5464366794088312  1.0000
+  O   O2        1.0  0.5000000000000007  1.0488626569558948e-18  0.5464366794088312  1.0000
+  Cl  Cl1       1.0  0.5000000000000007  0.5000000000000011  0.621276659244827  1.0000
+  Sr  Sr3       1.0  3.5839458196794816e-18  6.2659497486276485e-18  0.4105195645509208  1.0000
+  Au  Au2       1.0  0.5000000000000008  0.5000000000000011  0.4600802111282596  1.0000
+  O   O3        1.0  2.217841117983568e-18  0.5000000000000011  0.45356332059116883  1.0000
+  O   O4        1.0  0.5000000000000008  0.0  0.45356332059116883  1.0000
+  Cl  Cl2       1.0  0.5000000000000008  0.5000000000000011  0.378723340755172  1.0000

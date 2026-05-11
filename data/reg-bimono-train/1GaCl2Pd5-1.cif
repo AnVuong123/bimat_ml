@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd5GaCl2
+_chemical_formula_sum              "Pd5 Ga1 Cl2"
+_cell_length_a       3.993370594662137
+_cell_length_b       3.993370594662137
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.014908324407468582  0.014908324407468556  0.5000155947442979  1.0000
+  Pd  Pd2       1.0  0.5148979370490266  0.014859365605155312  0.4178382328249595  1.0000
+  Pd  Pd3       1.0  0.014859365605155364  0.5148979370490266  0.4178382328249595  1.0000
+  Pd  Pd4       1.0  0.5149106876170356  0.014855774959189681  0.5821712102344969  1.0000
+  Pd  Pd5       1.0  0.014855774959189577  0.5149106876170356  0.5821712102344969  1.0000
+  Ga  Ga1       1.0  0.5146682370146196  0.5146682370146196  0.5000083321670795  1.0000
+  Cl  Cl1       1.0  0.014880563521140226  0.014880563521140247  0.3440666538237323  1.0000
+  Cl  Cl2       1.0  0.014880952915739036  0.014880952915738986  0.6559513216706927  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mn2F8
+_chemical_formula_sum              "Mn2 F8"
+_cell_length_a       7.212341355375006
+_cell_length_b       3.7825108852785267
+_cell_length_c       18.4143124
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000015264759
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9999999899999915  0.413997409244656  0.49999998  1.0000
+  Mn  Mn2       1.0  0.5000000199999967  0.41399741924465294  0.49999998  1.0000
+  F   F1        1.0  0.5649081093382857  0.4137844625434215  0.5916676717590439  1.0000
+  F   F2        1.0  0.4350918606617214  0.413784432543153  0.40833234824095754  1.0000
+  F   F3        1.0  0.0649081193382865  0.41378445254341856  0.40833234824095754  1.0000
+  F   F4        1.0  0.93509187066172  0.413784472543153  0.5916676817590438  1.0000
+  F   F5        1.0  0.2500000099999955  0.41384798522333216  0.532689941464916  1.0000
+  F   F6        1.0  0.7500000099999913  0.4138479552233323  0.4673100685350841  1.0000
+  F   F7        1.0  9.999997611081128e-09  0.9139779343553022  0.49999999  1.0000
+  F   F8        1.0  0.4999999999999967  0.9139779343552988  0.49999999  1.0000

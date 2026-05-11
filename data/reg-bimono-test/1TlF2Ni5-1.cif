@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5TlF2
+_chemical_formula_sum              "Ni5 Tl1 F2"
+_cell_length_a       3.6548891311762155
+_cell_length_b       3.654889131176227
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99925087478293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.010352824352213406  0.010352824352213413  0.4999973500887436  1.0000
+  Ni  Ni2       1.0  0.5106084243223624  0.010022648042126015  0.41217699253623413  1.0000
+  Ni  Ni3       1.0  0.01002264804212603  0.5106084243223624  0.41217699253623413  1.0000
+  Ni  Ni4       1.0  0.5106078683063848  0.01002158062628223  0.5878207659404716  1.0000
+  Ni  Ni5       1.0  0.010021580626282191  0.510607868306383  0.5878207659404716  1.0000
+  Tl  Tl1       1.0  0.5103353036828709  0.5103353036828713  0.499998783622623  1.0000
+  F   F1        1.0  0.013303228109640734  0.013303228109640696  0.35708700517004477  1.0000
+  F   F2        1.0  0.013304105523096564  0.013304105523096452  0.642908972991046  1.0000

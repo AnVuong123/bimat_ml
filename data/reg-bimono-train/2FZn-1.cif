@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       F2Zn2
+_chemical_formula_sum              "F2 Zn2"
+_cell_length_a       3.052701070126418
+_cell_length_b       3.049975550196727
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02956508755965
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0002142256990262394  0.0003733107485541693  0.38550191380040866  1.0000
+  F   F2        1.0  0.3331181420729459  0.666293666339664  0.6145679206624802  1.0000
+  Zn  Zn1       1.0  0.9996751393751684  0.9997383533229734  0.5545274654231287  1.0000
+  Zn  Zn2       1.0  0.33365829803948255  0.6669311380808379  0.4455392911062367  1.0000

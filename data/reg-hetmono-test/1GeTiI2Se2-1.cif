@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeSeTiSeI2
+_chemical_formula_sum              "Ge1 Se2 Ti1 I2"
+_cell_length_a       3.815375086574799
+_cell_length_b       4.93655869482335
+_cell_length_c       22.511192423149993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.73389399385053
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.8061061455048519  0.4432092731970665  0.41953693206064063  1.0000
+  Se  Se1       1.0  0.5605870776388235  0.9497633480902156  0.47433779118374025  1.0000
+  Ti  Ti1       1.0  0.14477965471843973  0.11819523527820454  0.5516079593487755  1.0000
+  Se  Se2       1.0  0.8385006603205734  0.505967271493917  0.5517915245260014  1.0000
+  I   I1        1.0  0.11812337123120956  0.06825641068534406  0.6668323979014471  1.0000
+  I   I2        1.0  0.21226799742250066  0.2564428337961953  0.3331676020985531  1.0000

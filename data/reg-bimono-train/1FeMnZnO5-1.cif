@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OMnO2FeO2Zn
+_chemical_formula_sum              "O5 Mn1 Fe1 Zn1"
+_cell_length_a       5.3575757488860605
+_cell_length_b       5.26926813639301
+_cell_length_c       17.12880673692427
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    123.27752538928091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8775122885990476  0.1569745654108636  0.5621411277977476  1.0000
+  Mn  Mn1       1.0  0.17294165084684884  0.4711751649452832  0.5003173590984241  1.0000
+  O   O2        1.0  0.879161262300722  0.5511776206743857  0.462243174189707  1.0000
+  O   O3        1.0  0.4847590741642036  0.5467311024164346  0.56061666283663  1.0000
+  Fe  Fe1       1.0  0.801491152268447  0.8368226531699898  0.5037248015390644  1.0000
+  O   O4        1.0  0.47287979010403375  0.7987071298382306  0.4378588722022522  1.0000
+  O   O5        1.0  0.13724738550975246  0.15780488231267883  0.4436234222112278  1.0000
+  Zn  Zn1       1.0  0.5066562452374673  0.17290027180144543  0.44708755988524085  1.0000

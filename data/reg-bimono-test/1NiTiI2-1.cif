@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiITiI
+_chemical_formula_sum              "Ni1 I2 Ti1"
+_cell_length_a       4.277819136954379
+_cell_length_b       3.6978432955916753
+_cell_length_c       18.746470578272145
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.97264570463564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7056112431737398  0.7494235554595353  0.5101561633182078  1.0000
+  I   I1        1.0  0.05975253639376906  0.7499722845541199  0.400075308505953  1.0000
+  Ti  Ti1       1.0  0.3423808518633551  0.24970908086026802  0.49530147009648595  1.0000
+  I   I2        1.0  0.9044104262453423  0.24905740374780036  0.599924691494047  1.0000

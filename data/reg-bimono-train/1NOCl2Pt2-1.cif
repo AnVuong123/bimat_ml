@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pt2NClOCl
+_chemical_formula_sum              "Pt2 N1 Cl2 O1"
+_cell_length_a       3.3158459806541156
+_cell_length_b       4.182325303358374
+_cell_length_c       20.248191094628908
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00353207719347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.24741323639314386  0.25078151195566417  0.4563710652537028  1.0000
+  Pt  Pt2       1.0  0.7474195804738762  0.7507128382055615  0.5465220414224332  1.0000
+  N   N1        1.0  0.747577485027437  0.25075244006849445  0.5208811231571779  1.0000
+  Cl  Cl1       1.0  0.2472493589099885  0.7502506051707  0.6295978128963615  1.0000
+  O   O1        1.0  0.24746121969607773  0.7508062091725746  0.47945053673808724  1.0000
+  Cl  Cl2       1.0  0.7472667796780892  0.25056209736999435  0.370401123824127  1.0000

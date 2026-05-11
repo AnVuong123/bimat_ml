@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2Al2Te5
+_chemical_formula_sum              "Fe2 Al2 Te5"
+_cell_length_a       4.091207589216385
+_cell_length_b       4.0911111846237285
+_cell_length_c       43.3341712
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00077950723778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.0002551199548973978  0.0005102399097947953  0.5480214938359039  1.0000
+  Fe  Fe2       1.0  0.333275855876823  0.6665517117536506  0.4601053254753804  1.0000
+  Al  Al1       1.0  0.666595676881214  0.3331913537624194  0.6316257371549494  1.0000
+  Al  Al2       1.0  0.6666393433666229  0.33327868673323685  0.3728541455577177  1.0000
+  Te  Te1       1.0  0.9999322628321822  0.9998645256643643  0.6609998337848281  1.0000
+  Te  Te2       1.0  0.9999264389134722  0.9998528778269443  0.4894740637270022  1.0000
+  Te  Te3       1.0  0.9999761982085746  0.9999523964171493  0.34357634020403605  1.0000
+  Te  Te4       1.0  0.6669688893130412  0.3339377786260736  0.5711097789014458  1.0000
+  Te  Te5       1.0  0.6666303146879904  0.333260629375972  0.4334120071051424  1.0000

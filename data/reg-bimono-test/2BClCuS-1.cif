@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuClCuClBSBS
+_chemical_formula_sum              "Cu2 Cl2 B2 S2"
+_cell_length_a       3.9890565472876403
+_cell_length_b       5.31765993761954
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.7658222716509374  0.47288538208456377  1.0000
+  Cl  Cl1       1.0  0.5  0.5342334928561145  0.47615400326261664  1.0000
+  Cu  Cu2       1.0  0.5  0.26582227165094596  0.5271146179154362  1.0000
+  Cl  Cl2       1.0  0.0  0.03423349285610522  0.5238459967373833  1.0000
+  B   B1        1.0  0.5  0.4581815353179819  0.5718498643773307  1.0000
+  S   S1        1.0  0.5  0.6330154204349402  0.6076809126372932  1.0000
+  B   B2        1.0  0.0  0.9581815353179842  0.4281501356226708  1.0000
+  S   S2        1.0  8.08986914676577e-19  0.1330154204349516  0.39231908736269766  1.0000

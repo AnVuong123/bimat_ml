@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TiTeI
+_chemical_formula_sum              "Ti1 Te1 I1"
+_cell_length_a       3.9089251436496943
+_cell_length_b       3.909542416728878
+_cell_length_c       33.44074465162138
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02952783613969
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.005424564366595378  0.0048386550017165495  0.4967312678456956  1.0000
+  Te  Te1       1.0  0.6723829024488315  0.33813073810907285  0.44888366425559284  1.0000
+  I   I1        1.0  0.33963084129848903  0.6713593790147608  0.5514017698786632  1.0000

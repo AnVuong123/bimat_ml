@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrRuClO2Cl
+_chemical_formula_sum              "Cr1 Ru1 Cl2 O2"
+_cell_length_a       3.302976459068663
+_cell_length_b       3.9158597963565316
+_cell_length_c       20.063960620871853
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00097269288261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.7533980312221995  0.7579302262545272  0.4566942253756916  1.0000
+  Ru  Ru1       1.0  0.2534500873460507  0.25803540173985123  0.5456358916461407  1.0000
+  Cl  Cl1       1.0  0.7534532104483946  0.2580536501619042  0.6262432879170723  1.0000
+  O   O1        1.0  0.7534149406479754  0.25799840269565777  0.4773740689348341  1.0000
+  O   O2        1.0  0.25338576348950154  0.7580420574197816  0.5201037359885059  1.0000
+  Cl  Cl2       1.0  0.2533510080928389  0.7576059329027615  0.37378762910515045  1.0000

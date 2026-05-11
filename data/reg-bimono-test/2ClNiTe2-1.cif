@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2Te4Cl2
+_chemical_formula_sum              "Ni2 Te4 Cl2"
+_cell_length_a       3.8092657036714557
+_cell_length_b       5.407218105900056
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99160789724483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9229530412425129  0.9589351643746968  0.5541636280004824  1.0000
+  Ni  Ni2       1.0  0.42271081627159035  0.45146464608370374  0.4458353310813072  1.0000
+  Te  Te1       1.0  0.9227217375588898  0.4557975340189568  0.528603424489733  1.0000
+  Te  Te2       1.0  0.4229351579478715  0.9548209572673934  0.47139613745579656  1.0000
+  Te  Te3       1.0  0.9227083805158238  0.4696411634163403  0.36564127610956687  1.0000
+  Te  Te4       1.0  0.422933445461104  0.9407651135333979  0.6343712710388739  1.0000
+  Cl  Cl1       1.0  0.4225349503823667  0.3493334012329124  0.6835512826995608  1.0000
+  Cl  Cl2       1.0  0.923124339497424  0.06109339756076268  0.3164325654319903  1.0000

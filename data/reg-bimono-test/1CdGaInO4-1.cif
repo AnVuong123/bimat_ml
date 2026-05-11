@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdGaInO4
+_chemical_formula_sum              "Cd1 Ga1 In1 O4"
+_cell_length_a       3.355896135585506
+_cell_length_b       3.3558927444454367
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9999665728648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999972247995497  0.999998612399775  0.4978309600409846  1.0000
+  Ga  Ga1       1.0  0.6666641628533466  0.33333208142667264  0.4193269411167152  1.0000
+  In  In1       1.0  0.3333393331582161  0.6666696665791041  0.5810151365199043  1.0000
+  O   O1        1.0  0.6666627894559122  0.33333139472795403  0.4662081664960879  1.0000
+  O   O2        1.0  0.3333323251094169  0.6666661625547056  0.5297474509581331  1.0000
+  O   O3        1.0  0.33333139227570024  0.6666656961378489  0.40470601564758407  1.0000
+  O   O4        1.0  0.6666727409320653  0.33333637046603026  0.6011518247592662  1.0000

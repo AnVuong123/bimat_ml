@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       VOVTe2
+_chemical_formula_sum              "V2 O1 Te2"
+_cell_length_a       3.8145979615566907
+_cell_length_b       3.8157509349962493
+_cell_length_c       19.39874123785254
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02598239191998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.5009988294941311  0.8254016393847013  0.5310701303087697  1.0000
+  O   O1        1.0  0.16720237726057002  0.1588348002880187  0.49998867749305814  1.0000
+  V   V2        1.0  0.8336580426651459  0.49190199488327585  0.4689740391832964  1.0000
+  Te  Te1       1.0  0.8344395329351499  0.4921473101324623  0.6133834925397814  1.0000
+  Te  Te2       1.0  0.5000842557796261  0.8249638484076484  0.38662168292012433  1.0000

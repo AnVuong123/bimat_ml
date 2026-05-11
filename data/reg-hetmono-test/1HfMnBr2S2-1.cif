@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfS2Br2Mn
+_chemical_formula_sum              "Hf1 S2 Br2 Mn1"
+_cell_length_a       4.984934964430479
+_cell_length_b       4.999367035629739
+_cell_length_c       21.645593870799743
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    136.54182674638432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8760926139410625  0.7716508319668095  0.4607707539988555  1.0000
+  S   S1        1.0  0.17310520144509398  0.4726231068897743  0.45970913464726804  1.0000
+  S   S2        1.0  0.45053412087363404  0.19847112491528462  0.5360753265186402  1.0000
+  Br  Br1       1.0  0.8970288917127559  0.7471140845699923  0.346490839880241  1.0000
+  Br  Br2       1.0  0.7047433389021848  0.9307848432347251  0.653509160119759  1.0000
+  Mn  Mn1       1.0  0.18968015804203966  0.4467468652283075  0.5738599465985509  1.0000

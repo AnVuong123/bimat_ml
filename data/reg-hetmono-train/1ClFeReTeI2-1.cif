@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IReClFeITe
+_chemical_formula_sum              "I2 Re1 Cl1 Fe1 Te1"
+_cell_length_a       6.2070150534634925
+_cell_length_b       4.149366823904174
+_cell_length_c       18.933236611430768
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    86.06496424664745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.04616966911997192  0.2182884053908885  0.5688637020614248  1.0000
+  Re  Re1       1.0  0.29968017570098726  0.6846891167124125  0.49963262743995523  1.0000
+  Cl  Cl1       1.0  0.5220108318511403  0.6971730043015341  0.6038752178842173  1.0000
+  Fe  Fe1       1.0  0.6910277003158811  0.5515332535749808  0.49792822439512474  1.0000
+  I   I2        1.0  0.9753792676846135  0.6972648600077379  0.3961280943614179  1.0000
+  Te  Te1       1.0  0.4554803709402491  0.1636324770961365  0.42860273400201127  1.0000

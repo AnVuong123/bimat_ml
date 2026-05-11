@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHAuOH
+_chemical_formula_sum              "O2 H2 Au1"
+_cell_length_a       4.102625014986372
+_cell_length_b       3.741501154092368
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.00000000000007
+_cell_angle_beta     89.99999999999986
+_cell_angle_gamma    123.24767002219734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2944973399619356  0.5889946799238759  0.5503102766667352  1.0000
+  H   H1        1.0  0.2749807308199572  0.5499614616399199  0.6017405743788604  1.0000
+  Au  Au1       1.0  6.785157883837379e-12  1.3569896331753588e-11  0.4999999999470875  1.0000
+  O   O2        1.0  0.705502660072312  0.41100532014462576  0.4496897232743941  1.0000
+  H   H2        1.0  0.7250192691548071  0.4500385383096249  0.3982594253977076  1.0000

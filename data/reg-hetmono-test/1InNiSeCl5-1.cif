@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl3SeInCl2Ni
+_chemical_formula_sum              "Cl5 Se1 In1 Ni1"
+_cell_length_a       6.250150299922296
+_cell_length_b       6.3737615580988445
+_cell_length_c       17.8581270327283
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.17122704436106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.16171890258345634  0.8165366945940042  0.5800231465340753  1.0000
+  Cl  Cl2       1.0  0.8476705906668381  0.21386587345160865  0.5790517926836469  1.0000
+  Cl  Cl3       1.0  0.4392661083413033  0.7891001085821179  0.42532747515654407  1.0000
+  Se  Se1       1.0  0.8540951880288166  0.48905644928976855  0.4230090259054112  1.0000
+  In  In1       1.0  0.47159519330219074  0.15190270916984633  0.5020717323492715  1.0000
+  Cl  Cl4       1.0  0.1501286792824502  0.18870296552482085  0.41997685346592445  1.0000
+  Cl  Cl5       1.0  0.43856804067313204  0.4803647401034515  0.5768615846995397  1.0000
+  Ni  Ni1       1.0  0.14523691545969655  0.4939970624052536  0.5025230671175887  1.0000

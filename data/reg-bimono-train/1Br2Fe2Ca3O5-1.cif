@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2O4Ca2Br2CaO
+_chemical_formula_sum              "Fe2 O5 Ca3 Br2"
+_cell_length_a       3.855591319820243
+_cell_length_b       3.855591319820176
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.0  0.9999999999999999  0.4519834513031481  1.0000
+  Fe  Fe2       1.0  3.623663387113817e-17  2.0752116517958645e-17  0.548016548696852  1.0000
+  O   O1        1.0  6.7501148169453065e-18  0.4999999999999989  0.5526214585908482  1.0000
+  O   O2        1.0  0.49999999999999833  0.0  0.5526214585908482  1.0000
+  O   O3        1.0  0.0  0.4999999999999989  0.44737854140915184  1.0000
+  O   O4        1.0  0.4999999999999984  2.1094905534465488e-18  0.44737854140915184  1.0000
+  Ca  Ca1       1.0  0.49999999999999833  0.4999999999999989  0.5886196185921128  1.0000
+  Ca  Ca2       1.0  0.4999999999999984  0.4999999999999989  0.4113803814078873  1.0000
+  Br  Br1       1.0  2.3280366802662614e-18  8.280935855863908e-19  0.37513473116000734  1.0000
+  Br  Br2       1.0  0.0  0.0  0.6248652688399908  1.0000
+  Ca  Ca3       1.0  0.49999999999999833  0.4999999999999989  0.5  1.0000
+  O   O5        1.0  0.0  0.0  0.5  1.0000

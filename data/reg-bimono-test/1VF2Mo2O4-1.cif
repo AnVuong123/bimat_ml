@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       VMoFOMoO3F
+_chemical_formula_sum              "V1 Mo2 F2 O4"
+_cell_length_a       5.510228626883831
+_cell_length_b       5.526878512075078
+_cell_length_c       16.9091919032374
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.90220741159875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.8563644321577543  0.15776990175353858  0.5099532804508291  1.0000
+  Mo  Mo1       1.0  0.4827361797283872  0.47216791779583656  0.509606382683021  1.0000
+  F   F1        1.0  0.8350583634441209  0.48645188152529134  0.4435457378991639  1.0000
+  O   O1        1.0  0.16275056737017118  0.15761135101870147  0.4469472758744131  1.0000
+  Mo  Mo2       1.0  0.16825160478797033  0.8431874876284794  0.5096862787042051  1.0000
+  O   O2        1.0  0.8245026352089535  0.815347622987807  0.5563918783975786  1.0000
+  O   O3        1.0  0.5149410337853297  0.15778761375638198  0.5562801099628341  1.0000
+  O   O4        1.0  0.16706724536540363  0.49995947579834854  0.5564542621008364  1.0000
+  F   F2        1.0  0.5061369446633076  0.8290696473487359  0.44357710941114886  1.0000

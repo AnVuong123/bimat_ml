@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ni3S4
+_chemical_formula_sum              "Ni3 S4"
+_cell_length_a       3.419907412822124
+_cell_length_b       3.419907412822141
+_cell_length_c       38.4272
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  3.049374600211573e-17  6.09874920032107e-17  0.5  1.0000
+  Ni  Ni2       1.0  0.0  0.0  0.4306998647697908  1.0000
+  Ni  Ni3       1.0  4.682740207146013e-18  1.3582387880432779e-17  0.5693001352302093  1.0000
+  S   S1        1.0  0.3333333333333315  0.6666666666666667  0.5983826170345828  1.0000
+  S   S2        1.0  0.6666666666666633  0.33333333333333337  0.4016173829654188  1.0000
+  S   S3        1.0  0.3333333333333315  0.6666666666666667  0.4655737235412136  1.0000
+  S   S4        1.0  0.6666666666666633  0.33333333333333337  0.5344262764587863  1.0000

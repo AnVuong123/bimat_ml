@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2Se2I2
+_chemical_formula_sum              "Pb2 Se2 I2"
+_cell_length_a       4.468768020556062
+_cell_length_b       4.505646117733761
+_cell_length_c       22.567356041997854
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.4999999999999998  0.9999999999999997  0.40120507964534347  1.0000
+  Pb  Pb2       1.0  0.9999999999999999  0.5  0.5988492071053653  1.0000
+  Se  Se1       1.0  0.4999999999999998  0.5  0.5042966274022301  1.0000
+  Se  Se2       1.0  2.7951152420135696e-17  8.620845457937003e-18  0.49570136387908903  1.0000
+  I   I1        1.0  0.4999999999999998  0.5  0.30507039774951633  1.0000
+  I   I2        1.0  5.412614010820729e-18  0.0  0.6949216539177305  1.0000

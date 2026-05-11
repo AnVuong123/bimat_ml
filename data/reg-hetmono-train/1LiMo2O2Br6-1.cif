@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Mo2Br3LiO2Br3
+_chemical_formula_sum              "Mo2 Br6 Li1 O2"
+_cell_length_a       3.7672480677284397
+_cell_length_b       10.398637185916481
+_cell_length_c       34.131624959999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  2.9553862300682694e-21  0.5344617213148216  0.5  1.0000
+  Mo  Mo2       1.0  1.1684365381033155e-17  0.82036940698893  0.5  1.0000
+  Br  Br1       1.0  7.963610027641651e-19  0.6774158026025414  0.5608693440959641  1.0000
+  Br  Br2       1.0  3.489603633871743e-18  0.007086060131048015  0.5495658277834583  1.0000
+  Br  Br3       1.0  9.158169166558342e-19  0.34774551352511474  0.549565637462881  1.0000
+  Li  Li1       1.0  0.5000000000000002  0.17741049488461907  0.5  1.0000
+  O   O1        1.0  0.5000000000000002  0.5368096295380629  0.5  1.0000
+  O   O2        1.0  0.5000000000000002  0.8180226386637192  0.5  1.0000
+  Br  Br4       1.0  2.2476158398703684e-18  0.6774158026025414  0.4391306559040357  1.0000
+  Br  Br5       1.0  0.0  0.34774551352511524  0.4504343625371188  1.0000
+  Br  Br6       1.0  0.0  0.007086060131048025  0.4504341722165429  1.0000

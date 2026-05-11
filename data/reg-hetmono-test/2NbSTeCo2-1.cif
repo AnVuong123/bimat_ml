@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Co4Te2S2
+_chemical_formula_sum              "Nb2 Co4 Te2 S2"
+_cell_length_a       3.412350718845876
+_cell_length_b       6.42461047876736
+_cell_length_c       35.04820008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.002941935751175984  0.5104656127716145  1.0000
+  Nb  Nb2       1.0  0.0  0.5029419357511755  0.4895343872283854  1.0000
+  Co  Co1       1.0  0.49999999999999944  0.6948103949626673  0.5339516649140188  1.0000
+  Co  Co2       1.0  0.49999999999999944  0.19481039496266686  0.4660483350859812  1.0000
+  Co  Co3       1.0  0.49999999999999944  0.8110581013051404  0.46604653559335946  1.0000
+  Co  Co4       1.0  0.49999999999999944  0.31105810130514255  0.5339534644066407  1.0000
+  Te  Te1       1.0  0.0  0.0029350660832011778  0.4243345155041668  1.0000
+  Te  Te2       1.0  1.0192858728617041e-18  0.502935066083201  0.5756654844958328  1.0000
+  S   S1        1.0  0.49999999999999944  0.0029361453398562797  0.5639462006024835  1.0000
+  S   S2        1.0  0.49999999999999944  0.5029361453398559  0.4360537993975165  1.0000

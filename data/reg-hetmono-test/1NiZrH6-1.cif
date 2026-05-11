@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrNiH6
+_chemical_formula_sum              "Zr1 Ni1 H6"
+_cell_length_a       3.0880989412126505
+_cell_length_b       5.651760013532218
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    89.9999999999999
+_cell_angle_beta     90.00000000000021
+_cell_angle_gamma    123.1326832149987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.27579884280656486  0.9279335951209988  0.47510902798259935  1.0000
+  Ni  Ni1       1.0  0.26797054082919386  0.4197047805531299  0.4741427612098567  1.0000
+  H   H1        1.0  0.3535326694809148  0.8767459573317612  0.591124224716832  1.0000
+  H   H2        1.0  0.09376466852317411  0.8762530474830009  0.5909838877576988  1.0000
+  H   H3        1.0  0.987283264744691  0.13936766842492795  0.5316645558825562  1.0000
+  H   H4        1.0  0.844568082640948  0.49618947562618626  0.5015954795393837  1.0000
+  H   H5        1.0  0.012009272369705781  0.16509386008779095  0.4130979195695396  1.0000
+  H   H6        1.0  0.5568061854614472  0.7093383801029766  0.4224444758404118  1.0000

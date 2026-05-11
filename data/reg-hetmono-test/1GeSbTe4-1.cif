@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeTe2SbTe2
+_chemical_formula_sum              "Ge1 Te4 Sb1"
+_cell_length_a       7.259084787980598
+_cell_length_b       4.072255509466573
+_cell_length_c       19.46558501567331
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    124.03594851477875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7534397087841946  0.7465331462001578  0.4998218737914759  1.0000
+  Te  Te1       1.0  0.7534144273870154  0.22931519659636676  0.6085780197090435  1.0000
+  Te  Te2       1.0  0.2555073554237232  0.7722677970003117  0.6147046187432257  1.0000
+  Sb  Sb1       1.0  0.2508804804003671  0.25006997722015795  0.5000075585693639  1.0000
+  Te  Te3       1.0  0.2548719445245556  0.7714759694521288  0.38529538125677426  1.0000
+  Te  Te4       1.0  0.75310888815404  0.22889247896250603  0.3910049752618716  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlSiTe3
+_chemical_formula_sum              "Al1 Si1 Te3"
+_cell_length_a       7.240865274311621
+_cell_length_b       7.241206564064545
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99412750151753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  1.655876762373126e-06  0.9999558982119984  0.5129733806069052  1.0000
+  Si  Si1       1.0  0.6666765014805679  0.3333017689762957  0.5131404121158072  1.0000
+  Te  Te1       1.0  0.042446771968143754  0.3756481432598238  0.5131533317096408  1.0000
+  Te  Te2       1.0  0.33331106552078665  0.9575886065530398  0.5131588376425381  1.0000
+  Te  Te3       1.0  0.6243642076267252  0.6667054463191405  0.5131558310008552  1.0000

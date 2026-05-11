@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClAgBrSCl2Ag
+_chemical_formula_sum              "Cl3 Ag2 Br1 S1"
+_cell_length_a       4.303602033891093
+_cell_length_b       8.463825881123142
+_cell_length_c       18.213156916032272
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    115.19829920418334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7024022203437492  0.17490851713287556  0.411790225855797  1.0000
+  Ag  Ag1       1.0  0.18934695389421133  0.9237024131597406  0.471813672100091  1.0000
+  Br  Br1       1.0  0.8807729100246898  0.626305437646425  0.4121910173629874  1.0000
+  S   S1        1.0  0.385570021511141  0.4969430097887584  0.5882097741442031  1.0000
+  Cl  Cl2       1.0  0.5876124475104006  0.7610760009026827  0.5823093304340108  1.0000
+  Cl  Cl3       1.0  0.3124867334210073  0.13331080002431617  0.581088862928731  1.0000
+  Ag  Ag2       1.0  0.6011563391938863  0.36954634016232235  0.4965088438335882  1.0000

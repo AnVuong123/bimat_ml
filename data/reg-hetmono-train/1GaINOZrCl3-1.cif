@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClOClGaZrClNI
+_chemical_formula_sum              "Cl3 O1 Ga1 Zr1 N1 I1"
+_cell_length_a       5.605447142346139
+_cell_length_b       5.389604789532337
+_cell_length_c       19.089787115000533
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.82776922222187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.11469473064931843  0.1541348888634462  0.5815271054964337  1.0000
+  O   O1        1.0  0.1555339510157042  0.6425486837934365  0.48942931045057136  1.0000
+  Cl  Cl2       1.0  0.6476614592020216  0.6589709623936466  0.4040667353913982  1.0000
+  Ga  Ga1       1.0  0.3807219832280648  0.4138107494252777  0.5193160511814496  1.0000
+  Zr  Zr1       1.0  0.9307462071544458  0.8894076476914511  0.4748444110661191  1.0000
+  Cl  Cl3       1.0  0.134915071353683  0.14903420115731075  0.39294620280181364  1.0000
+  N   N1        1.0  0.6207003450323793  0.16980864001883017  0.492930560212412  1.0000
+  I   I1        1.0  0.6404210685117353  0.6885993086705793  0.6070314594271098  1.0000

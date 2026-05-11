@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OWBrSe
+_chemical_formula_sum              "O1 W1 Br1 Se1"
+_cell_length_a       3.374110655713952
+_cell_length_b       3.7918158995318225
+_cell_length_c       18.885696636710716
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99622549192868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7480882002765324  0.24635389788748632  0.4996682183968108  1.0000
+  W   W1        1.0  0.7478569080054678  0.7462275370345084  0.5051842866683884  1.0000
+  Br  Br1       1.0  0.24771002335656567  0.7464753067475105  0.3971259384428119  1.0000
+  Se  Se1       1.0  0.2482777210511558  0.7462249521566975  0.602874061557188  1.0000

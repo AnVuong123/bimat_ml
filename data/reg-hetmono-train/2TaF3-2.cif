@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ta2F6
+_chemical_formula_sum              "Ta2 F6"
+_cell_length_a       4.845803423913313
+_cell_length_b       4.845803423913319
+_cell_length_c       18.033922524988256
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6666666666666669  0.33333333333333276  0.500000044995599  1.0000
+  Ta  Ta2       1.0  0.3333333333333308  0.6666666666666655  0.4999999550040583  1.0000
+  F   F1        1.0  0.6645004089262739  2.269991242291798e-11  0.4253385738032383  1.0000
+  F   F2        1.0  0.335499591096422  0.3354995910737233  0.4253385738032383  1.0000
+  F   F3        1.0  0.9999999999772967  0.6645004089035745  0.4253385738032383  1.0000
+  F   F4        1.0  0.335499591074377  0.9999999999771916  0.5746614261966466  1.0000
+  F   F5        1.0  0.6645004089028124  0.6645004089256218  0.5746614261966466  1.0000
+  F   F6        1.0  2.280669061518143e-11  0.3354995910971825  0.5746614261966466  1.0000

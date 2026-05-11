@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2O4
+_chemical_formula_sum              "Au2 O4"
+_cell_length_a       4.7022843490788695
+_cell_length_b       5.044678797019972
+_cell_length_c       16.309110924348285
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99799269236397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.5000000000000133  6.3022155343183004e-15  0.4999999999999922  1.0000
+  Au  Au2       1.0  0.9999999999999997  0.5000000000000068  0.5000000000000036  1.0000
+  O   O1        1.0  0.12892015978002247  0.14455939972826717  0.4586995062305434  1.0000
+  O   O2        1.0  0.6289216933811695  0.3554394404588717  0.5413005021296319  1.0000
+  O   O3        1.0  0.8710798402199986  0.855440600271759  0.5413004937694362  1.0000
+  O   O4        1.0  0.3710783066188148  0.6445605595411301  0.4586994978703698  1.0000

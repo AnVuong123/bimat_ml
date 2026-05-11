@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SOInClInCl
+_chemical_formula_sum              "S1 O1 In2 Cl2"
+_cell_length_a       6.075697125300123
+_cell_length_b       3.528647636772315
+_cell_length_c       20.183881181690204
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00627635669501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.07063992426202038  0.2694518703979853  0.5468868061436681  1.0000
+  O   O1        1.0  0.6022424942369187  0.7696279701300743  0.4782376726573395  1.0000
+  In  In1       1.0  0.36128624670484144  0.7695742288624139  0.5522248691618966  1.0000
+  Cl  Cl1       1.0  0.5427198527785408  0.26947787732281686  0.6284163619233142  1.0000
+  In  In2       1.0  0.7941297195709138  0.2695616804820128  0.4546772511878569  1.0000
+  Cl  Cl2       1.0  0.9401965287025802  0.7692080363754049  0.3715836380766857  1.0000

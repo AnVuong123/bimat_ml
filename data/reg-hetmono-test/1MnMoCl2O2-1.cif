@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClMoMnClO2
+_chemical_formula_sum              "Cl2 Mo1 Mn1 O2"
+_cell_length_a       3.4714500714959815
+_cell_length_b       3.472929107255585
+_cell_length_c       21.46974742168427
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.89092092870987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.16420963408183128  0.8121881410171746  0.3493287486197933  1.0000
+  Mo  Mo1       1.0  0.49754026283867847  0.4794983932442266  0.43079275369536085  1.0000
+  Mn  Mn1       1.0  0.16428234455494112  0.8137233170770892  0.5505949176175882  1.0000
+  Cl  Cl2       1.0  0.1538057066475395  0.8317837284410106  0.6506712513802065  1.0000
+  O   O1        1.0  0.4975690198067599  0.4800505375094659  0.5241347819165896  1.0000
+  O   O2        1.0  0.8310364089850562  0.14577425878938938  0.447231978296447  1.0000

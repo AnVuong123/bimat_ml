@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgFAgFNONO
+_chemical_formula_sum              "Ag2 F2 N2 O2"
+_cell_length_a       3.4789068443849667
+_cell_length_b       3.307827959077653
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.7231190642434847  0.4580929194994874  1.0000
+  F   F1        1.0  0.5000000000000001  0.22143444703264137  0.47757684265473055  1.0000
+  Ag  Ag2       1.0  0.5000000000000001  0.22311906424348588  0.5419070805005126  1.0000
+  F   F2        1.0  0.9999999999999998  0.7214344470326188  0.5224231573452695  1.0000
+  N   N1        1.0  0.5000000000000001  0.7235495990540224  0.580628182050332  1.0000
+  O   O1        1.0  0.5000000000000001  0.7237833840783472  0.6122215434806135  1.0000
+  N   N2        1.0  0.0  0.2235495990539981  0.41937181794965983  1.0000
+  O   O2        1.0  2.196034397542447e-18  0.22378338407834883  0.3877784565193656  1.0000

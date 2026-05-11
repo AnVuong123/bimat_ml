@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnHgSeO
+_chemical_formula_sum              "Zn1 Hg1 Se1 O1"
+_cell_length_a       4.178234057123692
+_cell_length_b       3.5653529041793655
+_cell_length_c       17.82076820145152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99953949959273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5432016379789127  0.24840976321690147  0.43046096649396826  1.0000
+  Hg  Hg1       1.0  0.24816908803871346  0.7482631430851668  0.5607781845429939  1.0000
+  Se  Se1       1.0  0.7586082568872476  0.24828448213529997  0.5781595848218011  1.0000
+  O   O1        1.0  0.43105326877911726  0.7484112912548339  0.42173698482813216  1.0000

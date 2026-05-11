@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfTe2HfTe2
+_chemical_formula_sum              "Hf2 Te4"
+_cell_length_a       3.909330474795616
+_cell_length_b       3.909330474795616
+_cell_length_c       28.39052567819177
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  5.248812878507779e-21  0.0  0.32918815790646  1.0000
+  Te  Te1       1.0  0.6666666671865039  0.3333333330417353  0.3943309492363384  1.0000
+  Te  Te2       1.0  0.6666666671865039  0.3333333330417353  0.2640453686899627  1.0000
+  Hf  Hf2       1.0  0.3333333330417353  0.6666666660834706  0.5767561849894887  1.0000
+  Te  Te3       1.0  1.0234899198784136e-20  0.0  0.641898976319367  1.0000
+  Te  Te4       1.0  8.157532147050776e-21  0.0  0.5116133957729914  1.0000

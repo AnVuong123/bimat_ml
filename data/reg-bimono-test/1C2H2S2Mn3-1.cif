@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mn3C2S2H2
+_chemical_formula_sum              "Mn3 C2 S2 H2"
+_cell_length_a       3.3248151763376637
+_cell_length_b       3.3248151763376605
+_cell_length_c       24.12466716060847
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  4.2657840391598576e-16  3.58246720464383e-16  0.5001400158051569  1.0000
+  Mn  Mn2       1.0  0.6666666666666734  0.33333333333334114  0.5777119976937429  1.0000
+  Mn  Mn3       1.0  0.666666666666676  0.33333333333333676  0.4225411297823724  1.0000
+  C   C1        1.0  0.3333333333333245  0.6666666666666561  0.5310372846522772  1.0000
+  C   C2        1.0  0.3333333333333243  0.6666666666666562  0.46922442316432394  1.0000
+  S   S1        1.0  5.904198752978822e-16  6.123754593957911e-16  0.6352239961096021  1.0000
+  S   S2        1.0  2.547273105220425e-16  2.9458514596255477e-16  0.36502335842640266  1.0000
+  H   H1        1.0  6.543011472959033e-16  6.618474277236036e-16  0.6920064192634915  1.0000
+  H   H2        1.0  2.9691602041419026e-16  3.0117020536816773e-16  0.30824584972922564  1.0000

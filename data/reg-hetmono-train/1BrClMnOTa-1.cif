@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TaBrMnOCl
+_chemical_formula_sum              "Ta1 Br1 Mn1 O1 Cl1"
+_cell_length_a       3.7378181669813877
+_cell_length_b       3.271341599864774
+_cell_length_c       20.34222975746648
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    115.93991835350649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6420573860076965  0.39524809486297663  0.5363454350818425  1.0000
+  Br  Br1       1.0  0.2873667104614731  0.7179549276144959  0.6313088540725399  1.0000
+  Mn  Mn1       1.0  0.7156773708707632  0.9324076829309229  0.43433336471679906  1.0000
+  O   O1        1.0  0.034943757085221565  0.09158730207228226  0.5144780540353827  1.0000
+  Cl  Cl1       1.0  0.15678988385963977  0.652587095681264  0.36869114592746033  1.0000

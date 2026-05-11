@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SeAuNiI2
+_chemical_formula_sum              "Se1 Au1 Ni1 I2"
+_cell_length_a       4.676534934552991
+_cell_length_b       3.9709535181898468
+_cell_length_c       19.846760897752226
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    96.88676109345593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8234668955936536  0.7087458147353423  0.46431801767688813  1.0000
+  Au  Au1       1.0  0.2130312424042627  0.6191262983043923  0.5432387480772842  1.0000
+  Ni  Ni1       1.0  0.5612466706605173  0.17290833767295252  0.4931014435230133  1.0000
+  I   I1        1.0  0.3354470897955476  0.15271826310166245  0.3777646559004682  1.0000
+  I   I2        1.0  0.5729173839601597  0.2734909883601957  0.6222794445441916  1.0000

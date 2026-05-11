@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrIrOIrOTe
+_chemical_formula_sum              "Br1 Ir2 O2 Te1"
+_cell_length_a       4.450959036124688
+_cell_length_b       3.356225038781841
+_cell_length_c       20.33263242526844
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.83166256265466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.07545542037391213  0.8452155429237347  0.36910820142094025  1.0000
+  Ir  Ir1       1.0  0.14039095189754916  0.8771902677476391  0.4899845554114339  1.0000
+  O   O1        1.0  0.4187846269734943  0.5034644963322855  0.48340403455989484  1.0000
+  Ir  Ir2       1.0  0.6155549592988683  0.39112165113754926  0.5668054500333644  1.0000
+  O   O2        1.0  0.8629752781637913  0.24799408781990762  0.49170400457270175  1.0000
+  Te  Te1       1.0  0.22723930096156383  0.7158095378781942  0.6309699474713282  1.0000

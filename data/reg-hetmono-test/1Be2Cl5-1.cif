@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Be2Cl5
+_chemical_formula_sum              "Be2 Cl5"
+_cell_length_a       5.862123467651376
+_cell_length_b       5.862123469655673
+_cell_length_c       17.76252769
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000004493988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3333333300000008  0.6666666700000005  0.48598983977970367  1.0000
+  Be  Be2       1.0  0.66666667  0.3333333299999998  0.4859898497797036  1.0000
+  Cl  Cl1       1.0  0.6467930645021791  0.9999999999999989  0.44314740623777366  1.0000
+  Cl  Cl2       1.0  4.93278212510517e-16  0.6467930545021797  0.44314740623777366  1.0000
+  Cl  Cl3       1.0  0.3532069354978228  0.3532069054978218  0.4431473962377736  1.0000
+  Cl  Cl4       1.0  0.3333333300000008  0.6666666700000005  0.5992899629344389  1.0000
+  Cl  Cl5       1.0  0.66666667  0.3333333299999998  0.599289932934439  1.0000

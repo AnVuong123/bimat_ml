@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OCsGeO
+_chemical_formula_sum              "O2 Cs1 Ge1"
+_cell_length_a       3.433052728249817
+_cell_length_b       3.4330527282498844
+_cell_length_c       33.892799999999994
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  1.3766765505351941e-14  5.807060309587824e-17  0.4447584755366403  1.0000
+  Cs  Cs1       1.0  0.9999999999999999  0.9999999999999999  0.5553217471023217  1.0000
+  Ge  Ge1       1.0  0.666666666666674  0.3333333333333285  0.46325076228993617  1.0000
+  O   O2        1.0  0.3333333333333367  0.666666666666661  0.5008073674395574  1.0000

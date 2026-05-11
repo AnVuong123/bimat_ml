@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoTeCuTe3
+_chemical_formula_sum              "Co1 Te4 Cu1"
+_cell_length_a       4.684596124419592
+_cell_length_b       4.691005460822718
+_cell_length_c       18.36726899745902
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    83.40224748020267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.36132577452408965  0.1383682619441534  0.5210440137267158  1.0000
+  Te  Te1       1.0  0.3509376574297296  0.652689888578657  0.5933071429064828  1.0000
+  Cu  Cu1       1.0  0.950729847315397  0.548061003142877  0.4981868647392451  1.0000
+  Te  Te2       1.0  0.1475982658242291  0.905696563122076  0.4093517645060473  1.0000
+  Te  Te3       1.0  0.847688868002564  0.14922471788969707  0.5936207779365941  1.0000
+  Te  Te4       1.0  0.593344221857282  0.35066009329858233  0.4090369258299596  1.0000

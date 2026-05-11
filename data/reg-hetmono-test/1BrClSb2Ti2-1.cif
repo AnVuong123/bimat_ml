@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrSbClTi2Sb
+_chemical_formula_sum              "Br1 Sb2 Cl1 Ti2"
+_cell_length_a       3.4634190263644182
+_cell_length_b       6.792014082098626
+_cell_length_c       18.437277750350116
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.8267621871514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.909366895214415  0.5153452633863032  0.5909010647151454  1.0000
+  Sb  Sb1       1.0  0.37286438829216634  0.4428723507804511  0.40973124398613125  1.0000
+  Cl  Cl1       1.0  0.626778355314233  0.9501728971305562  0.40680724259026824  1.0000
+  Ti  Ti1       1.0  0.7601137050986312  0.21915584560022383  0.4986315610512559  1.0000
+  Ti  Ti2       1.0  0.017225080439579363  0.731200475665751  0.47506313016377205  1.0000
+  Sb  Sb2       1.0  0.1586305582978546  0.018629034713566566  0.5933482816806689  1.0000

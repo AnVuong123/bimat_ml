@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeOHfClO2Cl
+_chemical_formula_sum              "Ge1 O3 Hf1 Cl2"
+_cell_length_a       3.8921042592726205
+_cell_length_b       5.835658318039418
+_cell_length_c       20.925625153615602
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    109.44181957723235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9998343741742315  0.4435697391740645  0.4610077013134544  1.0000
+  O   O1        1.0  0.14269304973609903  0.7303669016120706  0.5098208825969486  1.0000
+  Hf  Hf1       1.0  0.6897412881405326  0.8247331104851658  0.5299374069431292  1.0000
+  Cl  Cl1       1.0  0.6784577782584913  0.8047497827633543  0.6415877688268672  1.0000
+  O   O2        1.0  0.5321443042131337  0.5087249212146359  0.473037479101648  1.0000
+  O   O3        1.0  0.8562322568840682  0.15664869887239885  0.4993746441511963  1.0000
+  Cl  Cl2       1.0  0.001568662947179611  0.44581709567657807  0.3584122311731329  1.0000

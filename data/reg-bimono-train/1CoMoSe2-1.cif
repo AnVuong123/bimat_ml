@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MoSe2Co
+_chemical_formula_sum              "Mo1 Se2 Co1"
+_cell_length_a       3.744710443621924
+_cell_length_b       3.74020081549448
+_cell_length_c       18.20369934006678
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00080430733381
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2531844468460919  0.7534900109902253  0.5000695262335235  1.0000
+  Se  Se1       1.0  0.7530862831847318  0.7542326425148177  0.5879958320618754  1.0000
+  Se  Se2       1.0  0.25306212656020105  0.25329490898824103  0.4120041679381245  1.0000
+  Co  Co1       1.0  0.7531011854116261  0.2540607149937453  0.5000036703122924  1.0000

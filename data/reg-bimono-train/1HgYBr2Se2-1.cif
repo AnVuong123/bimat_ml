@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeHgYBr2Se
+_chemical_formula_sum              "Se2 Hg1 Y1 Br2"
+_cell_length_a       8.024390257752405
+_cell_length_b       4.203231711991337
+_cell_length_c       18.450958825045802
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    102.35937952672347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.5970744050500757  0.06337649693252964  0.41845514431831504  1.0000
+  Hg  Hg1       1.0  0.30194810751390344  0.7262677925505514  0.48565119634944137  1.0000
+  Y   Y1        1.0  0.7448442930503448  0.6179988409921188  0.5028400794380564  1.0000
+  Br  Br1       1.0  0.022532954508949373  0.7089377803264707  0.40648294059489787  1.0000
+  Br  Br2       1.0  0.873091634320661  0.161222355968768  0.5935170594051022  1.0000
+  Se  Se2       1.0  0.4135430545308893  0.2985513536725681  0.5610607365227884  1.0000

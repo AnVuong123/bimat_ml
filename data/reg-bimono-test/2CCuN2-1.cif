@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       N4C2Cu2
+_chemical_formula_sum              "N4 C2 Cu2"
+_cell_length_a       2.9738634264783186
+_cell_length_b       9.36534533185377
+_cell_length_c       31.450643708000005
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  1.657332144515109e-21  0.9997576202062095  0.5231251723479591  1.0000
+  N   N2        1.0  0.0  0.49975762020620956  0.47687482765204114  1.0000
+  N   N3        1.0  0.0  0.7632410523181248  0.47687478627782426  1.0000
+  N   N4        1.0  0.0  0.2632410523181249  0.5231252137221757  1.0000
+  C   C1        1.0  0.0  0.13150263455652023  0.5216064667735402  1.0000
+  C   C2        1.0  0.0  0.6315026345565204  0.47839353322645967  1.0000
+  Cu  Cu1       1.0  0.5000000000000002  0.38150005288808725  0.4999999931918766  1.0000
+  Cu  Cu2       1.0  0.5000000000000002  0.8815000528880867  0.5000000068081233  1.0000

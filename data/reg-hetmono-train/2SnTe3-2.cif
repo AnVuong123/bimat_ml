@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sn2Te6
+_chemical_formula_sum              "Sn2 Te6"
+_cell_length_a       6.30405949675306
+_cell_length_b       4.612776176451301
+_cell_length_c       21.815286632929954
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01360604327009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8472795492732249  0.13839712814655922  0.5830167540582442  1.0000
+  Sn  Sn2       1.0  0.20338644763995992  0.6385220051176834  0.4170296947776111  1.0000
+  Te  Te1       1.0  0.2629597147738619  0.19669358511632418  0.5241303893975816  1.0000
+  Te  Te2       1.0  0.7877948306247554  0.6967349222526008  0.475864425733629  1.0000
+  Te  Te3       1.0  0.03859539580854283  0.1870341762309439  0.32859599371831766  1.0000
+  Te  Te4       1.0  0.012182982295957157  0.6870629699620601  0.6713907130984725  1.0000
+  Te  Te5       1.0  0.6503096909440862  0.05236037509661466  0.3754209795915425  1.0000
+  Te  Te6       1.0  0.4004179324763335  0.5524790206287945  0.624584859959263  1.0000

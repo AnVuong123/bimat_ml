@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si2F2Si2F2
+_chemical_formula_sum              "Si4 F4"
+_cell_length_a       3.944303659438116
+_cell_length_b       3.9443036594337886
+_cell_length_c       27.756685131300447
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999995656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.9999999999999998  0.9999999999999998  0.3073885238687455  1.0000
+  Si  Si2       1.0  0.333333333399757  0.6666666668011213  0.33274555251501975  1.0000
+  F   F1        1.0  0.9999999999999999  0.9999999999999999  0.24821614675560533  1.0000
+  F   F2        1.0  0.3333333333997569  0.6666666668011211  0.39191792962815986  1.0000
+  Si  Si3       1.0  0.33333333339975685  0.6666666668011211  0.5568119033987794  1.0000
+  Si  Si4       1.0  0.6666666667711055  0.33333333340056037  0.5821689320450536  1.0000
+  F   F3        1.0  0.3333333333997569  0.6666666668011211  0.49763952628563923  1.0000
+  F   F4        1.0  0.6666666667711055  0.33333333340056037  0.6413413087979203  1.0000

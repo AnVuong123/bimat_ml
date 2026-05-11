@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrCrSISSi
+_chemical_formula_sum              "Br1 Cr1 S2 I1 Si1"
+_cell_length_a       3.6081001832050044
+_cell_length_b       4.773690476436592
+_cell_length_c       20.80719920364344
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9936854384976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7455860934669744  0.746745071734847  0.36045216497406884  1.0000
+  Cr  Cr1       1.0  0.7479565819003299  0.2468098451879843  0.5419268174122872  1.0000
+  S   S1        1.0  0.24779880807863305  0.24696207266071887  0.4661848825442351  1.0000
+  I   I1        1.0  0.24772883028935094  0.24705171174840726  0.639547835025931  1.0000
+  S   S2        1.0  0.7492188537411916  0.7469290623030398  0.5249642380183295  1.0000
+  Si  Si1       1.0  0.2534495519947515  0.7471429992766196  0.44946212474853775  1.0000

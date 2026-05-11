@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       ReAg2Br6
+_chemical_formula_sum              "Re1 Ag2 Br6"
+_cell_length_a       7.08634739794116
+_cell_length_b       7.086974341912213
+_cell_length_c       17.735847576319763
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99707366883783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.9542922329140835  0.9542926714450155  0.5000272667912865  1.0000
+  Ag  Ag1       1.0  0.2873457679744402  0.620927460410738  0.5006222771567085  1.0000
+  Ag  Ag2       1.0  0.6212761973971915  0.28778459049513666  0.49931316746688886  1.0000
+  Br  Br1       1.0  0.6625581415402129  0.9549186826883707  0.582933120511178  1.0000
+  Br  Br2       1.0  0.24664329295122517  0.245881870156322  0.5829417161678065  1.0000
+  Br  Br3       1.0  0.9533711095589514  0.6619446438449161  0.582997366728477  1.0000
+  Br  Br4       1.0  0.24605553986388115  0.9537076131972116  0.41708928956058916  1.0000
+  Br  Br5       1.0  0.6620382200842212  0.6628332908208124  0.4170460020906457  1.0000
+  Br  Br6       1.0  0.9552126018384127  0.24669199694647273  0.41703521559542855  1.0000

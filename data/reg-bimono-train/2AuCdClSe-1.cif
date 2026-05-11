@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2Se2Au2Cl2
+_chemical_formula_sum              "Cd2 Se2 Au2 Cl2"
+_cell_length_a       4.5848243288711945
+_cell_length_b       7.225659738936589
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.49999999999999994  0.12006918872684746  0.528879331990447  1.0000
+  Cd  Cd2       1.0  0.49999999999999994  0.6200691887268253  0.4711206680095531  1.0000
+  Se  Se1       1.0  0.5000000000000001  0.2510989205095775  0.46608650954203823  1.0000
+  Se  Se2       1.0  0.49999999999999994  0.7510989205095777  0.5339134904579546  1.0000
+  Au  Au1       1.0  0.0  0.1657634403824177  0.4528388512799975  1.0000
+  Au  Au2       1.0  0.0  0.665763440382429  0.5471611487200024  1.0000
+  Cl  Cl1       1.0  2.768043515237214e-17  0.22012146042188688  0.555761537871394  1.0000
+  Cl  Cl2       1.0  5.1209519220144636e-17  0.7201214604218533  0.4442384621286064  1.0000

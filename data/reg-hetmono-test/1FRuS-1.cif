@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       FRuS
+_chemical_formula_sum              "F1 Ru1 S1"
+_cell_length_a       3.3862661490238906
+_cell_length_b       3.219511888589815
+_cell_length_c       17.495709139398915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.9238918045674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4963809306820657  0.17241315752857178  0.4288426279167432  1.0000
+  Ru  Ru1       1.0  0.8369810988367583  0.8504431567596964  0.5009299005873894  1.0000
+  S   S1        1.0  0.18163384218323567  0.5419502851932975  0.5712208292240254  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgTlAlSe4
+_chemical_formula_sum              "Hg1 Tl1 Al1 Se4"
+_cell_length_a       4.132012826116138
+_cell_length_b       4.1320093098442845
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997184971903
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  4.019456455622034e-07  2.0097282279782674e-07  0.5028961877792572  1.0000
+  Tl  Tl1       1.0  0.6666611092216025  0.33333055461080535  0.3984613722401276  1.0000
+  Al  Al1       1.0  0.33333958290157034  0.6666697914507901  0.601021676644174  1.0000
+  Se  Se1       1.0  0.6666607786516774  0.33333038932584275  0.4651384006548121  1.0000
+  Se  Se2       1.0  0.3333386850809528  0.6666693425404793  0.5416961392917804  1.0000
+  Se  Se3       1.0  0.3333274327122683  0.666663716356137  0.3648255488156161  1.0000
+  Se  Se4       1.0  0.6666720026925931  0.3333360013462968  0.6259536195103186  1.0000

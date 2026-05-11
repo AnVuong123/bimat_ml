@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HgBaOInBaAgO4
+_chemical_formula_sum              "Hg1 Ba2 O5 In1 Ag1"
+_cell_length_a       3.9379498353226734
+_cell_length_b       3.9379498353226734
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  3.9329942048518026e-20  1.4641974113880729e-16  0.3731048840157559  1.0000
+  Ba  Ba1       1.0  0.4999999999999919  0.4999999999999919  0.44743888955011224  1.0000
+  O   O1        1.0  7.26835707797551e-18  1.0054259027700562e-17  0.4304703478875348  1.0000
+  In  In1       1.0  4.659772430301498e-18  0.0  0.6220410859552031  1.0000
+  Ba  Ba2       1.0  0.4999999999999919  0.4999999999999919  0.5534425932182423  1.0000
+  Ag  Ag1       1.0  1.2627624923881678e-18  2.4086654016041047e-18  0.5019230751193527  1.0000
+  O   O2        1.0  0.4999999999999919  0.4999999999999919  0.6244670089884745  1.0000
+  O   O3        1.0  0.0  0.0  0.5700525616812818  1.0000
+  O   O4        1.0  0.4999999999999919  0.0  0.49795407619494153  1.0000
+  O   O5        1.0  1.4152667916656385e-18  0.4999999999999919  0.49795407619494153  1.0000

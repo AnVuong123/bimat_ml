@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaTe2GaTeBr
+_chemical_formula_sum              "Ta1 Te3 Ga1 Br1"
+_cell_length_a       3.699367652343138
+_cell_length_b       7.343056078580513
+_cell_length_c       18.400038056439378
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00347663490228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.75432892647636  0.5521400041542796  0.5057197915873507  1.0000
+  Te  Te1       1.0  0.7536859031514594  0.8674804107098463  0.421244141920052  1.0000
+  Te  Te2       1.0  0.25431329901240346  0.4099604559751243  0.40760881221741047  1.0000
+  Ga  Ga1       1.0  0.2535024695045066  0.10031493654367617  0.49227074555746975  1.0000
+  Te  Te3       1.0  0.7537037367965109  0.24696384001975008  0.5924109759652716  1.0000
+  Br  Br1       1.0  0.25439152832635725  0.7056068597981848  0.5910004311633936  1.0000

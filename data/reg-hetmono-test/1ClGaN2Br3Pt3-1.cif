@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaPt2BrPtBrNClNBr
+_chemical_formula_sum              "Ga1 Pt3 Br3 N2 Cl1"
+_cell_length_a       4.977964524320141
+_cell_length_b       4.976949607087624
+_cell_length_c       21.116981895759906
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    87.68947535686125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.14993372294701895  0.8603230270995825  0.5493720669916755  1.0000
+  Pt  Pt1       1.0  0.19438510459385464  0.39049063335664885  0.43725405807367396  1.0000
+  Pt  Pt2       1.0  0.6216554549505463  0.3886824708416864  0.5103154076729689  1.0000
+  Br  Br1       1.0  0.8344695655193917  0.1752829630861312  0.6051861729890166  1.0000
+  Pt  Pt3       1.0  0.6199100596184041  0.8163363142396962  0.4373778697895773  1.0000
+  Br  Br2       1.0  0.8179104216526777  0.1925182032761788  0.3707881227670711  1.0000
+  N   N1        1.0  0.9002508035076665  0.6583469407784767  0.4945223645248573  1.0000
+  Cl  Cl1       1.0  0.2803372060896382  0.7307061876465606  0.35516141789352024  1.0000
+  N   N2        1.0  0.35185837574614903  0.1102230441187782  0.49452608747582355  1.0000
+  Br  Br3       1.0  0.3250275656586436  0.684526538775088  0.6448371803498987  1.0000

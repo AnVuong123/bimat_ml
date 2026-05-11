@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiLiBiNi2Li
+_chemical_formula_sum              "Bi2 Li2 Ni2"
+_cell_length_a       4.262624197585103
+_cell_length_b       4.262624197585166
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99795551238672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9883189747701541  0.9883189747701523  0.41580928666912464  1.0000
+  Li  Li1       1.0  0.48708455702962966  0.4870845570296273  0.41874112372911626  1.0000
+  Bi  Bi2       1.0  0.4864480610908829  0.48644806109088184  0.584190030567634  1.0000
+  Ni  Ni1       1.0  0.48843177273014027  0.986336306163842  0.4999990911332766  1.0000
+  Ni  Ni2       1.0  0.9863363061638493  0.4884317727301374  0.4999990911332766  1.0000
+  Li  Li2       1.0  0.9876841044223478  0.9876841044223346  0.5812576329911553  1.0000

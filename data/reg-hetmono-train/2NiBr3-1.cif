@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2Br6
+_chemical_formula_sum              "Ni2 Br6"
+_cell_length_a       6.333535402334343
+_cell_length_b       6.333535402334344
+_cell_length_c       17.796867164560688
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6666666666666669  0.3333333333333335  0.49999965542481334  1.0000
+  Ni  Ni2       1.0  0.33333333333333376  0.666666666666667  0.5000002856172576  1.0000
+  Br  Br1       1.0  0.6343387962056288  0.9999987331779961  0.42088047880566803  1.0000
+  Br  Br2       1.0  0.36565993697236926  0.36566120379437117  0.42088047880566803  1.0000
+  Br  Br3       1.0  1.2668220015750475e-06  0.6343400630276282  0.42088047880566803  1.0000
+  Br  Br4       1.0  0.36566120348899267  1.2494319081433023e-06  0.5791194980635459  1.0000
+  Br  Br5       1.0  0.6343400459429174  0.6343387965110096  0.5791194980635459  1.0000
+  Br  Br6       1.0  0.9999987505680926  0.3656599540570876  0.5791194980635459  1.0000

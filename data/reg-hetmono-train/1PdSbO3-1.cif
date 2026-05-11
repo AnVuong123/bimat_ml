@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbOPdO2
+_chemical_formula_sum              "Sb1 O3 Pd1"
+_cell_length_a       4.026649778906289
+_cell_length_b       5.858340888285975
+_cell_length_c       30.854999999999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.09423499127139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.4318135127341584  0.01249948534560641  0.4753240856024607  1.0000
+  O   O1        1.0  0.2582590527103952  0.6654191207743001  0.5016511438944771  1.0000
+  Pd  Pd1       1.0  0.7210995572857829  0.5912370013735382  0.5052492245074661  1.0000
+  O   O2        1.0  0.5510755198961411  0.2514433926116453  0.5219715994028931  1.0000
+  O   O3        1.0  0.8937544399009341  0.9364696144816532  0.4892790002560865  1.0000

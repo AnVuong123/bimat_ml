@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoSeCoSbSeISbSe2I
+_chemical_formula_sum              "Co2 Se4 Sb2 I2"
+_cell_length_a       3.7978927041709074
+_cell_length_b       9.381025583363826
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000000000066  0.566715868499303  0.5000000520183612  1.0000
+  Se  Se1       1.0  0.9999999999999998  0.5242649344811262  0.5431573784791772  1.0000
+  Co  Co2       1.0  0.5000000000000067  0.06671750884503919  0.500000114145288  1.0000
+  Sb  Sb1       1.0  0.0  0.785129431929616  0.5732704469790204  1.0000
+  Se  Se2       1.0  0.5000000000000064  0.8173493517684893  0.5198249637632417  1.0000
+  I   I1        1.0  0.0  0.12243309697274982  0.5531521984389988  1.0000
+  Sb  Sb2       1.0  1.241780681390183e-18  0.34830347265218586  0.42672939338086135  1.0000
+  Se  Se3       1.0  0.5000000000000066  0.31608385768570546  0.48017484035498326  1.0000
+  Se  Se4       1.0  1.340463965817392e-18  0.6091672432573678  0.4568427716373466  1.0000
+  I   I2        1.0  6.7810743184081726e-18  0.011000479791942188  0.4468479987605083  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeIn2BrSI
+_chemical_formula_sum              "Te1 In2 Br1 S1 I1"
+_cell_length_a       5.6384414928999185
+_cell_length_b       4.4954941675625415
+_cell_length_c       21.013439409500805
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    79.93326386641388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8053570844131356  0.4147698360859854  0.42969075582539384  1.0000
+  In  In1       1.0  0.010448304105408424  0.2793240874970447  0.6430855580639014  1.0000
+  In  In2       1.0  0.4936899698588871  0.9931020849643741  0.46129585445970833  1.0000
+  Br  Br1       1.0  0.31971488004654147  0.7936214954800701  0.35691444193609856  1.0000
+  S   S1        1.0  0.10970457222011791  0.28017234616564224  0.5119299630121542  1.0000
+  I   I1        1.0  0.5975004153386391  0.8800642973686075  0.6087149795880819  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnCrSe2
+_chemical_formula_sum              "Mn1 Cr1 Se2"
+_cell_length_a       4.117249875740785
+_cell_length_b       4.116556154966995
+_cell_length_c       33.680710425900095
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02933912085189
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3959407919617737  0.8440179582092134  0.5273325676833718  1.0000
+  Cr  Cr1       1.0  0.7289820354562069  0.5108323545187481  0.4733378234399874  1.0000
+  Se  Se1       1.0  0.3956288486549637  0.8440783173200704  0.45058250274293027  1.0000
+  Se  Se2       1.0  0.7292934745672383  0.5107632321606783  0.5496614687317681  1.0000

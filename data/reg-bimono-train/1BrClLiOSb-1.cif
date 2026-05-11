@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbLiOClBr
+_chemical_formula_sum              "Sb1 Li1 O1 Cl1 Br1"
+_cell_length_a       5.8646427165536625
+_cell_length_b       3.913322775141449
+_cell_length_c       18.216981583068943
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    91.62390013839686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.4245313663653126  0.2850244794157599  0.47407307248469616  1.0000
+  Li  Li1       1.0  0.903861915540744  0.6884942350043839  0.5269264924931106  1.0000
+  O   O1        1.0  0.5883615609819564  0.6708133175635966  0.5122651311607243  1.0000
+  Cl  Cl1       1.0  0.10295670441426052  0.6185703049024358  0.411703770232198  1.0000
+  Br  Br1       1.0  0.13365072557370652  0.1930536427885795  0.5882962297678017  1.0000

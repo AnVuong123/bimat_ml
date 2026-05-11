@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SInAsCl
+_chemical_formula_sum              "S1 In1 As1 Cl1"
+_cell_length_a       3.4498163062164404
+_cell_length_b       6.637050361301058
+_cell_length_c       19.109619976934965
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.4013319758293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.24942147801466866  0.7500022410022014  0.39294402515528504  1.0000
+  In  In1       1.0  0.2490954745835615  0.2495972160405585  0.5052388900460217  1.0000
+  As  As1       1.0  0.7489807110605363  0.7496190203098949  0.4737531297030597  1.0000
+  Cl  Cl1       1.0  0.7505112935853562  0.25128519313698655  0.6070511516840135  1.0000

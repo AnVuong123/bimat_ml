@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiAlTe2AlTe2
+_chemical_formula_sum              "Ni1 Al2 Te4"
+_cell_length_a       4.069574121332694
+_cell_length_b       4.069574121332699
+_cell_length_c       38.822593
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6666666666666659  0.33333333333333287  0.49994790663590316  1.0000
+  Al  Al1       1.0  0.3333333333333331  0.666666666666667  0.3987525064349848  1.0000
+  Te  Te1       1.0  0.6666666666666659  0.33333333333333287  0.3655215143820727  1.0000
+  Te  Te2       1.0  0.33333333333333304  0.666666666666667  0.4667497296161875  1.0000
+  Al  Al2       1.0  0.9999999999999998  0.0  0.6011103667619452  1.0000
+  Te  Te3       1.0  0.6666666666666656  0.33333333333333287  0.6343295792576309  1.0000
+  Te  Te4       1.0  0.9999999999999998  3.615903234886312e-18  0.5331272085748704  1.0000

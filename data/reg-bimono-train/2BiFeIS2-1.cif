@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Fe2S3I2S
+_chemical_formula_sum              "Bi2 Fe2 S4 I2"
+_cell_length_a       3.6911035179944807
+_cell_length_b       11.899062612690695
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.0  0.2577155038902115  0.4452108370328967  1.0000
+  Bi  Bi2       1.0  0.9999999999999997  0.7577155038902061  0.554789162967085  1.0000
+  Fe  Fe1       1.0  0.500000000000022  0.5146692090796814  0.49537333524250204  1.0000
+  Fe  Fe2       1.0  0.5000000000000261  0.014669209079666791  0.5046266647574984  1.0000
+  S   S1        1.0  0.5000000000000309  0.32152445135970026  0.49442894726616116  1.0000
+  S   S2        1.0  0.500000000000022  0.8215244513597096  0.5055710527338392  1.0000
+  S   S3        1.0  0.0  0.5489383705681955  0.536925279830562  1.0000
+  I   I1        1.0  0.0  0.5581413035336543  0.43633399297969677  1.0000
+  I   I2        1.0  6.32014131009838e-18  0.05814130353364169  0.5636660070203148  1.0000
+  S   S4        1.0  0.0  0.04893837056818959  0.463074720169422  1.0000

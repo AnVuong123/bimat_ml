@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZrTe2Sb
+_chemical_formula_sum              "Zr1 Te2 Sb1"
+_cell_length_a       4.058917758693633
+_cell_length_b       4.060697008953859
+_cell_length_c       19.72834517863954
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99946397150893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7497307972014188  0.7526923907957943  0.5000354644427335  1.0000
+  Te  Te1       1.0  0.2496120635180569  0.7526152030555106  0.3801636646200042  1.0000
+  Te  Te2       1.0  0.7496249979889703  0.2525005087684238  0.6198363353799959  1.0000
+  Sb  Sb1       1.0  0.24970759078550214  0.25264408781554404  0.49992697650600076  1.0000

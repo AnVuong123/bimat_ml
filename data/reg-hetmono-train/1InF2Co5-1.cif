@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co5InF2
+_chemical_formula_sum              "Co5 In1 F2"
+_cell_length_a       3.559593428573568
+_cell_length_b       3.5595934285735518
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00002272020878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.02996549839759914  0.029965498397599023  0.4999903807221779  1.0000
+  Co  Co2       1.0  0.5301604271409011  0.029859027377356556  0.40921616377186193  1.0000
+  Co  Co3       1.0  0.02985902737735651  0.5301604271409004  0.40921616377186193  1.0000
+  Co  Co4       1.0  0.5301630882190079  0.029856304214323094  0.5907670458159755  1.0000
+  Co  Co5       1.0  0.029856304214323122  0.5301630882190089  0.5907670458159755  1.0000
+  In  In1       1.0  0.5299515736974563  0.529951573697458  0.4999876299771158  1.0000
+  F   F1        1.0  0.030295761633901932  0.030295761633901862  0.3511961447022887  1.0000
+  F   F2        1.0  0.030300790865480834  0.03030079086548075  0.648782897345656  1.0000

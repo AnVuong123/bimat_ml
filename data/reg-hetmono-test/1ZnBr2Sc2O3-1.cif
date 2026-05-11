@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ScOScBrZnBrO2
+_chemical_formula_sum              "Sc2 O3 Br2 Zn1"
+_cell_length_a       3.98154726522195
+_cell_length_b       5.8763084474623275
+_cell_length_c       20.193835972381457
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.79623380529328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.9427464552767875  0.5046687461814737  0.5019602372609766  1.0000
+  O   O1        1.0  0.12803278866449336  0.8758522207251145  0.5337274330514598  1.0000
+  Sc  Sc2       1.0  0.6478208738741641  0.9155184524121388  0.5472471615759655  1.0000
+  Br  Br1       1.0  0.836719516307928  0.2900528930999706  0.6285995384800815  1.0000
+  Zn  Zn1       1.0  0.21509503661152216  0.05077540995791876  0.4427215632468002  1.0000
+  Br  Br2       1.0  0.044252347506146664  0.7060730270453279  0.37140046151991823  1.0000
+  O   O2        1.0  0.4729511752950944  0.5653261280001282  0.513288492522006  1.0000
+  O   O3        1.0  0.7650397675206141  0.15002356118373206  0.46615724910029255  1.0000

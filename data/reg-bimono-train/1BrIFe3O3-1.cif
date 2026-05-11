@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2IOBrFeO2
+_chemical_formula_sum              "Fe3 I1 O3 Br1"
+_cell_length_a       3.9349584523951138
+_cell_length_b       5.343682436384821
+_cell_length_c       20.727541645883658
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    111.62127447725717
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3599708822014665  0.5273938961310628  0.550344902434083  1.0000
+  Fe  Fe2       1.0  0.07116604929461824  0.9494499403223022  0.5295821909877442  1.0000
+  I   I1        1.0  0.8797115244652006  0.564106922787391  0.36154129547669867  1.0000
+  O   O1        1.0  0.5605956894859989  0.9284408420493442  0.5177882476824073  1.0000
+  Br  Br1       1.0  0.18836123589727122  0.18434577545142175  0.6380219333556625  1.0000
+  Fe  Fe3       1.0  0.7433472860647945  0.2935217106802111  0.46655559976593264  1.0000
+  O   O2        1.0  0.8770753291540243  0.5613038936095806  0.5438580584888479  1.0000
+  O   O3        1.0  0.22725325096813523  0.26132966124117996  0.47259157966151355  1.0000

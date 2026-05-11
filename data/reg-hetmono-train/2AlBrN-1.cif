@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2N2Br2
+_chemical_formula_sum              "Al2 N2 Br2"
+_cell_length_a       3.576537444019108
+_cell_length_b       3.3390505945352205
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4999999999999999  0.0  0.452046167978996  1.0000
+  Al  Al2       1.0  0.0  0.5  0.5479526929301065  1.0000
+  N   N1        1.0  0.4999999999999999  0.5  0.5089667626092899  1.0000
+  N   N2        1.0  3.471137348520022e-18  3.1338072488143234e-19  0.49103214081079  1.0000
+  Br  Br1       1.0  0.4999999999999999  0.5  0.364250748223193  1.0000
+  Br  Br2       1.0  0.0  3.674093914166272e-18  0.6357481020465174  1.0000

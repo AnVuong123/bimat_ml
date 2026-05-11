@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SBr2SiBrTeW2
+_chemical_formula_sum              "S1 Br3 Si1 Te1 W2"
+_cell_length_a       4.6194826222734
+_cell_length_b       7.270287449143027
+_cell_length_c       19.343312802164316
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    113.01478458699168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.08790092577502784  0.9190269811566841  0.49670922768752396  1.0000
+  Br  Br1       1.0  0.7007277344209246  0.06183397470548051  0.3877308957729737  1.0000
+  Br  Br2       1.0  0.6990377769383578  0.048599282004703766  0.6122691042270263  1.0000
+  Si  Si1       1.0  0.5550841909071226  0.33123723148209366  0.5229600473895647  1.0000
+  Br  Br3       1.0  0.28668948062883726  0.5360132784721564  0.4126986648089087  1.0000
+  Te  Te1       1.0  0.33939084682184784  0.533126096117339  0.5987604585027799  1.0000
+  W   W1        1.0  0.5345350159014481  0.8326028434065729  0.5006530431705151  1.0000
+  W   W2        1.0  0.9949217447966735  0.22492482616024137  0.5001940101179727  1.0000

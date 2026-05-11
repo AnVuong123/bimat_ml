@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OReOReO4
+_chemical_formula_sum              "O6 Re2"
+_cell_length_a       5.165080157890922
+_cell_length_b       5.356383355856913
+_cell_length_c       17.1254744756067
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    118.82426909081511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.16158275500105873  0.9058909844797414  0.43794407043629074  1.0000
+  Re  Re1       1.0  0.8283620120981836  0.8225200686703881  0.5000237481834349  1.0000
+  O   O2        1.0  0.5553329499969892  0.4980729497952321  0.4411211185309317  1.0000
+  Re  Re2       1.0  0.503767813517051  0.17354868628358025  0.5000567542922004  1.0000
+  O   O3        1.0  0.17019582803426042  0.09043329281691442  0.5620559295637091  1.0000
+  O   O4        1.0  0.7543073381903964  0.09069033606004226  0.4380645091403931  1.0000
+  O   O5        1.0  0.5772128028860185  0.904942597676514  0.5618918056204043  1.0000
+  O   O6        1.0  0.7768381380806719  0.49787390883158616  0.5589579382845229  1.0000

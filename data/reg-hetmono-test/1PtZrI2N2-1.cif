@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtZrN2I2
+_chemical_formula_sum              "Pt1 Zr1 N2 I2"
+_cell_length_a       3.6259529861510837
+_cell_length_b       4.204606900654795
+_cell_length_c       21.03257225921889
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98333231911478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.7364040327837512  0.24668369809164178  0.4513073215518664  1.0000
+  Zr  Zr1       1.0  0.2810998906940124  0.7460512144415401  0.5299565012107734  1.0000
+  N   N1        1.0  0.7635515519083623  0.7468351424664524  0.4763206865044234  1.0000
+  N   N2        1.0  0.2183792863079583  0.24640367599803306  0.5109840304305864  1.0000
+  I   I1        1.0  0.2324182927045884  0.24652305275552724  0.35658976503516526  1.0000
+  I   I2        1.0  0.7642140137582291  0.7420245537270742  0.6434102349648347  1.0000

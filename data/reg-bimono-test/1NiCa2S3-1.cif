@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiS3Ca2
+_chemical_formula_sum              "Ni1 S3 Ca2"
+_cell_length_a       3.8916926553855555
+_cell_length_b       3.891692655400105
+_cell_length_c       34.787520661806894
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.78623998230442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9322400179642064  0.06775998203544191  0.5000592287624004  1.0000
+  S   S1        1.0  0.5083363357337946  0.49166366426644226  0.5000461277411145  1.0000
+  S   S2        1.0  0.9604299409478214  0.03957005905243245  0.5696081804525311  1.0000
+  S   S3        1.0  0.9619299698109248  0.038070030189262194  0.4305115083761109  1.0000
+  Ca  Ca1       1.0  0.45893544107980094  0.5410645589201819  0.5732451327041702  1.0000
+  Ca  Ca2       1.0  0.4606667241726112  0.5393332758268535  0.42682155870235317  1.0000

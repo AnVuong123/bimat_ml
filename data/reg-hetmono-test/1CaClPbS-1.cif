@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClPbCaS
+_chemical_formula_sum              "Cl1 Pb1 Ca1 S1"
+_cell_length_a       5.807864417503303
+_cell_length_b       4.1792968953712455
+_cell_length_c       17.798758224137632
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.1654335743546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7817218846269619  0.8512880014921536  0.42157950179953824  1.0000
+  Pb  Pb1       1.0  0.28991720329995424  0.1469954536828405  0.42465790781550217  1.0000
+  Ca  Ca1       1.0  0.6121484492256316  0.82406168309557  0.5590968213770886  1.0000
+  S   S1        1.0  0.31310837971500827  0.16822613750496873  0.5784859788989468  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdGaInTe4
+_chemical_formula_sum              "Cd1 Ga1 In1 Te4"
+_cell_length_a       4.407871750039062
+_cell_length_b       4.407868887280444
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997851587193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999953483992496  0.9999976741996248  0.4979107643942394  1.0000
+  Ga  Ga1       1.0  0.666661955017271  0.3333309775086363  0.3930529228212323  1.0000
+  In  In1       1.0  0.3333430000020251  0.666671500001011  0.6072501391506853  1.0000
+  Te  Te1       1.0  0.6666607178995769  0.33333035894978974  0.45883514699258443  1.0000
+  Te  Te2       1.0  0.3333341551713391  0.666667077585672  0.5373740724516075  1.0000
+  Te  Te3       1.0  0.33332861152026894  0.6666643057601397  0.36398209393017006  1.0000
+  Te  Te4       1.0  0.6666762172696823  0.3333381086348421  0.6415889460042375  1.0000

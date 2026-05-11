@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2TlAgBrSe
+_chemical_formula_sum              "Se3 Tl1 Ag1 Br1"
+_cell_length_a       7.343514805019233
+_cell_length_b       7.03736926774115
+_cell_length_c       18.146092941939663
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    132.62835990167702
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.10893518572403693  0.46686691712368106  0.48777885286429556  1.0000
+  Se  Se2       1.0  0.37651206166923457  0.12828879745436433  0.5522370495031971  1.0000
+  Tl  Tl1       1.0  0.8595899619365084  0.9604662926960923  0.5658597064009563  1.0000
+  Ag  Ag1       1.0  0.7620171148815577  0.45643201384632726  0.4678262118915543  1.0000
+  Br  Br1       1.0  0.7129234237733338  0.7543781208659405  0.41335602965250184  1.0000
+  Se  Se3       1.0  0.3049425019907244  0.7653353805915473  0.5868503938102354  1.0000

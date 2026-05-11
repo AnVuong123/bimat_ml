@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeS2PdIBr
+_chemical_formula_sum              "Fe1 S2 Pd1 I1 Br1"
+_cell_length_a       3.5362645048223533
+_cell_length_b       4.697367003146792
+_cell_length_c       20.83938515893316
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01865636423423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7472926943199522  0.7316694043177555  0.5583820871033263  1.0000
+  S   S1        1.0  0.7473592691554318  0.26395243568653565  0.5376413860946826  1.0000
+  S   S2        1.0  0.24754760677430007  0.7515701286534497  0.49060084756810557  1.0000
+  Pd  Pd1       1.0  0.24746793511370227  0.24671496377470237  0.46048805159061795  1.0000
+  I   I1        1.0  0.7474575676254174  0.24393283944351252  0.3598977220658857  1.0000
+  Br  Br1       1.0  0.2470961312585742  0.7475867643708727  0.6401003530102396  1.0000

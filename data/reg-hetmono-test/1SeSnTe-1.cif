@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SnTeSe
+_chemical_formula_sum              "Sn1 Te1 Se1"
+_cell_length_a       3.9831292955265583
+_cell_length_b       3.983113008768044
+_cell_length_c       18.42157423001148
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02241185671441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.1710762994342001  0.8312592968448699  0.5078242485034304  1.0000
+  Te  Te1       1.0  0.8373583068562344  0.16405410948149432  0.40790398268347783  1.0000
+  Se  Se1       1.0  0.5044459511346729  0.49800198349420943  0.592535857831845  1.0000

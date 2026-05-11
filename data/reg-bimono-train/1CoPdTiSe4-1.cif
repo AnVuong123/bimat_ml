@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeTiPdSe3Co
+_chemical_formula_sum              "Se4 Ti1 Pd1 Co1"
+_cell_length_a       3.9399702247410118
+_cell_length_b       6.897089227979592
+_cell_length_c       18.37898333453569
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.57687963280033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9323353583686665  0.0738022365798783  0.5635601765727579  1.0000
+  Ti  Ti1       1.0  0.7462073047829948  0.7016241297779376  0.5018438294508787  1.0000
+  Pd  Pd1       1.0  0.08638908399053763  0.38217186527343155  0.48584389035541975  1.0000
+  Se  Se2       1.0  0.5005251569466227  0.20998073708480974  0.4309081570644234  1.0000
+  Se  Se3       1.0  0.2501693226712578  0.7087397260715073  0.40811819200461047  1.0000
+  Se  Se4       1.0  0.21726620041004072  0.643180337755136  0.5919945205097707  1.0000
+  Co  Co1       1.0  0.3619498949117185  0.9330361759718155  0.5088902600845044  1.0000

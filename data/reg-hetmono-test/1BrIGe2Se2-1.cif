@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ISe2Ge2Br
+_chemical_formula_sum              "I1 Se2 Ge2 Br1"
+_cell_length_a       3.7106050317089663
+_cell_length_b       5.607100056187567
+_cell_length_c       21.015301694123902
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00542877396516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.251962563727304  0.24313755708198131  0.6455110985073621  1.0000
+  Se  Se1       1.0  0.2515420209893942  0.2317580383141507  0.45453094326249843  1.0000
+  Se  Se2       1.0  0.7521147009076338  0.7303645161310999  0.5357378507750882  1.0000
+  Ge  Ge1       1.0  0.252162444137585  0.7675417459394059  0.4477853997455035  1.0000
+  Ge  Ge2       1.0  0.7514363467660737  0.2754889108645365  0.5412405140677015  1.0000
+  Br  Br1       1.0  0.7521965297161286  0.7533431112911764  0.353848531837809  1.0000

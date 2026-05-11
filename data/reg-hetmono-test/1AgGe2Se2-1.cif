@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeSeAgGeSe
+_chemical_formula_sum              "Ge2 Se2 Ag1"
+_cell_length_a       3.6730720913878234
+_cell_length_b       4.8066363510740375
+_cell_length_c       20.318956713337652
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.14660284135765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.15672772204805863  0.5366772263755172  0.5087998075457956  1.0000
+  Se  Se1       1.0  0.23221978518131606  0.40619202032781954  0.6261852261245886  1.0000
+  Ag  Ag1       1.0  0.9689569538846571  0.8305279204063126  0.62675283963381  1.0000
+  Ge  Ge2       1.0  0.8207894402419392  0.9865290455943813  0.45000404259312016  1.0000
+  Se  Se2       1.0  0.31517749683655777  0.9803507284160949  0.3703692709984314  1.0000

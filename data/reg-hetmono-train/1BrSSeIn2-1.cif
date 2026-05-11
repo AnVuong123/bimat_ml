@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InBrInSeS
+_chemical_formula_sum              "In2 Br1 Se1 S1"
+_cell_length_a       4.222080845584963
+_cell_length_b       4.186913836578563
+_cell_length_c       21.6618505459139
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.18439689015297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5005932713159352  0.33517923864264876  0.5758097324936762  1.0000
+  Br  Br1       1.0  0.1634124423074475  0.6622321759190429  0.6537691927980394  1.0000
+  In  In2       1.0  0.826211255562407  0.9925398706231603  0.39910741481122214  1.0000
+  Se  Se1       1.0  0.4912947427201185  0.3235876711558571  0.34623080720196053  1.0000
+  S   S1        1.0  0.8364579443430412  0.006549314641485605  0.5131267570660487  1.0000

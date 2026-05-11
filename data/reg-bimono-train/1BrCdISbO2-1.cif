@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IOCdOBrSb
+_chemical_formula_sum              "I1 O2 Cd1 Br1 Sb1"
+_cell_length_a       3.7267897247721105
+_cell_length_b       4.144544617521818
+_cell_length_c       21.53923061961171
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99969653073327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2486704345245803  0.758359666039651  0.34891987075848724  1.0000
+  O   O1        1.0  0.7471391188704272  0.2474447191289068  0.49519125404762954  1.0000
+  Cd  Cd1       1.0  0.7491290153260963  0.7469901250625108  0.45045499191124655  1.0000
+  O   O2        1.0  0.24843275392641428  0.7471179825471477  0.5304930531657638  1.0000
+  Br  Br1       1.0  0.7462665769649236  0.24454324039856398  0.6504462186129604  1.0000
+  Sb  Sb1       1.0  0.2509339573021742  0.24692299912957305  0.5502040370723986  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Ag2
+_chemical_formula_sum              "H2 Ag2"
+_cell_length_a       3.0378288724053375
+_cell_length_b       3.028918932605404
+_cell_length_c       18.85580293064
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    120.05047857472239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.16837931182268379  0.8321243017745197  0.3981852036158972  1.0000
+  H   H2        1.0  0.16577731528324566  0.834677597479137  0.6018882492085924  1.0000
+  Ag  Ag1       1.0  0.8315773353200473  0.16667270797873524  0.5682873876818525  1.0000
+  Ag  Ag2       1.0  0.5021479147056089  0.5001131332910558  0.43178753840248  1.0000

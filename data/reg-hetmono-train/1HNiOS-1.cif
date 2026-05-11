@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiHSO
+_chemical_formula_sum              "Ni1 H1 S1 O1"
+_cell_length_a       3.0367035640272446
+_cell_length_b       3.358799283826085
+_cell_length_c       33.068678086729605
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.863316811248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.19542010156231604  0.9473112576672438  0.48901961481077333  1.0000
+  H   H1        1.0  0.6425549749760697  0.8412097874431379  0.545923787365587  1.0000
+  S   S1        1.0  0.5288772050580086  0.6141881237288103  0.45436107182965324  1.0000
+  O   O1        1.0  0.7693713274772492  0.09501755223237271  0.527273007073182  1.0000

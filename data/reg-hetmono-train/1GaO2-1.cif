@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GaO2
+_chemical_formula_sum              "Ga1 O2"
+_cell_length_a       3.2002560983426758
+_cell_length_b       3.2000362115279204
+_cell_length_c       17.658721497261418
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0  4.0369478374712384e-17  0.4999940977744991  1.0000
+  O   O1        1.0  3.4426036880873e-17  0.5  0.5578372889219019  1.0000
+  O   O2        1.0  0.5  0.0  0.4421591785006593  1.0000

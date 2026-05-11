@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiSnS2
+_chemical_formula_sum              "Si1 Sn1 S2"
+_cell_length_a       4.804970569523627
+_cell_length_b       3.605363472712792
+_cell_length_c       17.70061894408604
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.91969243627142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6731078933104104  0.7498424686699048  0.5762860031227421  1.0000
+  Sn  Sn1       1.0  0.17935199904232876  0.248598321005958  0.4237139968772576  1.0000
+  S   S1        1.0  0.7987387172367412  0.7498112827468303  0.44962946477409027  1.0000
+  S   S2        1.0  0.3565012570683458  0.24987082643386238  0.5636252859013839  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbTeMnTeSb2
+_chemical_formula_sum              "Nb1 Te2 Mn1 Sb2"
+_cell_length_a       4.596368562848394
+_cell_length_b       4.5963665682981665
+_cell_length_c       18.535061846525043
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02780978516624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7483526995417247  0.749844943897339  0.4999795146529501  1.0000
+  Te  Te1       1.0  0.24807588670190991  0.7495941768810197  0.5880195501626495  1.0000
+  Mn  Mn1       1.0  0.24814640527788384  0.2497649511141858  0.5000106336315389  1.0000
+  Te  Te2       1.0  0.7484996736951804  0.2497858322744548  0.4119519363296938  1.0000
+  Sb  Sb1       1.0  0.7474035913964187  0.24974911573557199  0.5953614796593676  1.0000
+  Sb  Sb2       1.0  0.2486509518232977  0.7501037612729394  0.40463852034063225  1.0000

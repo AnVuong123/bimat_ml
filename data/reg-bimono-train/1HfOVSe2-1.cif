@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OSeVHfSe
+_chemical_formula_sum              "O1 Se2 V1 Hf1"
+_cell_length_a       3.508164689020887
+_cell_length_b       3.5080286467638033
+_cell_length_c       20.425027779645696
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00493001478884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.16784093489914242  0.8413886480961813  0.5001720465669409  1.0000
+  Se  Se1       1.0  0.8347463075779824  0.1747936242587179  0.6331227744843844  1.0000
+  V   V1        1.0  0.5014140644574756  0.5080828478450827  0.5639141152905788  1.0000
+  Hf  Hf1       1.0  0.8344479634484475  0.1747411166984693  0.45016201668297234  1.0000
+  Se  Se2       1.0  0.5012081764576715  0.5079879135083147  0.3668739279038201  1.0000

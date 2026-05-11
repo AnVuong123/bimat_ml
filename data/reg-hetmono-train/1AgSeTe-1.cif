@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AgSeTe
+_chemical_formula_sum              "Ag1 Se1 Te1"
+_cell_length_a       2.9257523070966514
+_cell_length_b       4.90849683691888
+_cell_length_c       18.58780587519659
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    125.77264953383471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.27526343902910944  0.7212713481944008  0.49318603291137464  1.0000
+  Se  Se1       1.0  0.7777723184112856  0.22120410403837118  0.4015728611532069  1.0000
+  Te  Te1       1.0  0.7731168396886662  0.22130976544801373  0.5990159963944456  1.0000

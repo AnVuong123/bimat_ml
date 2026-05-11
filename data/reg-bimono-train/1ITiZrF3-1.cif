@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FITiF2Zr
+_chemical_formula_sum              "F3 I1 Ti1 Zr1"
+_cell_length_a       4.56867907194554
+_cell_length_b       3.928395338056077
+_cell_length_c       20.047136596278282
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.43417034700263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6855129219124986  0.7757107491435068  0.44285523144990596  1.0000
+  I   I1        1.0  0.5647755228613224  0.2154549040162054  0.6258817330853942  1.0000
+  Ti  Ti1       1.0  0.7600280049734484  0.31305343869104957  0.4385992482536862  1.0000
+  F   F2        1.0  0.30293492336595695  0.08397776854805628  0.4663642363961039  1.0000
+  F   F3        1.0  0.06256234421730578  0.4622252103902861  0.3741182669146058  1.0000
+  Zr  Zr1       1.0  0.9524005834043561  0.9093656826288609  0.5412881711576681  1.0000

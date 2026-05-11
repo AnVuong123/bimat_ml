@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VSeCrTe
+_chemical_formula_sum              "V1 Se1 Cr1 Te1"
+_cell_length_a       4.216943384927804
+_cell_length_b       4.191569249832531
+_cell_length_c       17.93237175443744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00257768478346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.24970910609698066  0.7493856944400307  0.49119670218260514  1.0000
+  Se  Se1       1.0  0.249771875052767  0.24942568740334853  0.41831956666281533  1.0000
+  Cr  Cr1       1.0  0.7496865712220935  0.24948927960311099  0.4908509129114635  1.0000
+  Te  Te1       1.0  0.7498145179920785  0.7493770521564602  0.5816049084206409  1.0000

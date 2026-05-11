@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sr2AgS2ISrAgS2I
+_chemical_formula_sum              "Sr3 Ag2 S4 I2"
+_cell_length_a       4.860277000290505
+_cell_length_b       4.860277000290505
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  1.0468051106156361e-28  2.1942615038343696e-16  0.5  1.0000
+  Sr  Sr2       1.0  0.0  0.0  0.6005425545824487  1.0000
+  Ag  Ag1       1.0  0.499999999999998  0.5000000000000001  0.5428388684818339  1.0000
+  S   S1        1.0  2.5940067509673322e-18  0.5000000000000004  0.5510147324487762  1.0000
+  S   S2        1.0  0.499999999999998  3.2643676279715227e-18  0.5510147324487762  1.0000
+  I   I1        1.0  0.499999999999998  0.5000000000000001  0.6362999729555314  1.0000
+  Sr  Sr3       1.0  7.349739976358771e-19  7.492384621223145e-18  0.3994574454175526  1.0000
+  Ag  Ag2       1.0  0.499999999999998  0.5000000000000001  0.4571611315181662  1.0000
+  S   S3        1.0  3.6535326248299915e-18  0.5000000000000004  0.44898526755122387  1.0000
+  S   S4        1.0  0.499999999999998  1.8689845626113905e-18  0.44898526755122387  1.0000
+  I   I2        1.0  0.499999999999998  0.5000000000000001  0.3637000270444696  1.0000

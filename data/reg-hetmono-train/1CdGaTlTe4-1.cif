@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdTlGaTe4
+_chemical_formula_sum              "Cd1 Tl1 Ga1 Te4"
+_cell_length_a       4.43856767071746
+_cell_length_b       4.438561769517642
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99995601957849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999994559434355  0.9999997279717181  0.502473153441017  1.0000
+  Tl  Tl1       1.0  0.6666602274558964  0.3333301137279484  0.3922140864102597  1.0000
+  Ga  Ga1       1.0  0.3333411416375381  0.6666705708187639  0.6074410038752925  1.0000
+  Te  Te1       1.0  0.666661669717499  0.33333083485875004  0.46399871289111155  1.0000
+  Te  Te2       1.0  0.3333372937769047  0.6666686468884506  0.5415300825989934  1.0000
+  Te  Te3       1.0  0.3333260567974883  0.6666630283987425  0.35617457353239085  1.0000
+  Te  Te4       1.0  0.6666741444915576  0.3333370722457769  0.6361626850687816  1.0000

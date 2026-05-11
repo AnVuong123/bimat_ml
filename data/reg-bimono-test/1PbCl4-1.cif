@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PbCl4
+_chemical_formula_sum              "Pb1 Cl4"
+_cell_length_a       5.354962858871722
+_cell_length_b       5.354962821479247
+_cell_length_c       18.950664826136126
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00002264511836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.009171951605458178  0.0007083582554526848  0.49999999999999756  1.0000
+  Cl  Cl1       1.0  0.5088763944164165  0.0009071042568128888  0.49999999999999944  1.0000
+  Cl  Cl2       1.0  0.008943488648798105  0.5009835374862384  0.4999999999999984  1.0000
+  Cl  Cl3       1.0  0.0086839189158637  0.001159744783815057  0.6274427246764769  1.0000
+  Cl  Cl4       1.0  0.008683918915899815  0.001159744783805414  0.3725572753235191  1.0000

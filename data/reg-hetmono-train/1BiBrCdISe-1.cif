@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiCdSeIBr
+_chemical_formula_sum              "Bi1 Cd1 Se1 I1 Br1"
+_cell_length_a       4.2984358223869386
+_cell_length_b       4.618467137425409
+_cell_length_c       21.647836631697185
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    122.05644672470034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2275787603806668  0.5328677047683217  0.44066770663035393  1.0000
+  Cd  Cd1       1.0  0.7420062890493779  0.7896423754248341  0.5886488209435252  1.0000
+  Se  Se1       1.0  0.5298373964542016  0.18079497345971618  0.5085390543561781  1.0000
+  I   I1        1.0  0.9071139341390814  0.8765042122514256  0.3464549427086101  1.0000
+  Br  Br1       1.0  0.07706597171792101  0.46366260922787406  0.6535450572913899  1.0000

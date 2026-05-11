@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnAuBrCl3
+_chemical_formula_sum              "Mn1 Au1 Br1 Cl3"
+_cell_length_a       3.9547002150508317
+_cell_length_b       8.243841604251342
+_cell_length_c       18.84022373226804
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.8067132812574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2586414208192892  0.924177333172359  0.506699926088316  1.0000
+  Au  Au1       1.0  0.6437614953199846  0.29389214157560556  0.5046089008745952  1.0000
+  Br  Br1       1.0  0.9705366868013439  0.6343211505201248  0.5720166873640189  1.0000
+  Cl  Cl1       1.0  0.7086752006648591  0.8926931995980445  0.43933202564390283  1.0000
+  Cl  Cl2       1.0  0.9537134996421691  0.3902532939519455  0.3980844445681712  1.0000
+  Cl  Cl3       1.0  0.27074087879365066  0.10899468098455306  0.6019155554318288  1.0000

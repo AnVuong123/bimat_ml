@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbTiSeTiSe
+_chemical_formula_sum              "Sb1 Ti2 Se2"
+_cell_length_a       3.653289841928004
+_cell_length_b       3.65346819071515
+_cell_length_c       36.26805944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00161492206945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6666009249934093  0.33330046249670375  0.5000130152215059  1.0000
+  Ti  Ti1       1.0  0.33322436114780674  0.6666121805739007  0.5537973741043709  1.0000
+  Se  Se1       1.0  0.9999691440932741  0.9999845720466376  0.5923896367674824  1.0000
+  Ti  Ti2       1.0  0.9999692309142  0.9999846154570953  0.4462181827224273  1.0000
+  Se  Se2       1.0  0.33323666429550586  0.6666183321477487  0.40762080761266534  1.0000

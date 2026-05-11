@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeTeBrGeBr
+_chemical_formula_sum              "Ge2 Te1 Br2"
+_cell_length_a       4.14551123003227
+_cell_length_b       4.142291698858665
+_cell_length_c       21.816044421690997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98301242724332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.16819336060156992  0.834240763432944  0.5846022236934635  1.0000
+  Te  Te1       1.0  0.5002731232760435  0.5001412870901258  0.49987915443493824  1.0000
+  Br  Br1       1.0  0.8315213627113675  0.16539230666608382  0.6562163215737227  1.0000
+  Ge  Ge2       1.0  0.16928557148223025  0.8336922639122175  0.41529190168362995  1.0000
+  Br  Br2       1.0  0.8325313297983813  0.16657272142216104  0.3437836784262774  1.0000

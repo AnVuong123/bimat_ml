@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHMoOH
+_chemical_formula_sum              "O2 H2 Mo1"
+_cell_length_a       2.8587952505229954
+_cell_length_b       2.8586203569782787
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00202387521341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.33321007158296007  0.6664201431659198  0.5735562043789729  1.0000
+  H   H1        1.0  0.3332538031280387  0.6665076062560763  0.6257715061735825  1.0000
+  Mo  Mo1       1.0  1.1617735925356263e-09  2.3235468561166203e-09  0.5000002157305552  1.0000
+  O   O2        1.0  0.666789935336704  0.3335798706734079  0.4264442555474906  1.0000
+  H   H2        1.0  0.6667462028432857  0.3334924056865711  0.3742285794451316  1.0000

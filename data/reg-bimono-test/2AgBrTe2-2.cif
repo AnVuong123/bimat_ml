@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2Te4Ag2
+_chemical_formula_sum              "Br2 Te4 Ag2"
+_cell_length_a       5.568285494688242
+_cell_length_b       8.482297913472499
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99957574605936
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.0015436840223934662  0.9961214540970263  0.4006288968232137  1.0000
+  Br  Br2       1.0  0.5015433463639813  0.996691269230056  0.599371060194399  1.0000
+  Te  Te1       1.0  0.605639739602341  0.6417162487145185  0.4360494826240142  1.0000
+  Te  Te2       1.0  0.10563891229611702  0.3510964739728336  0.5639497454753317  1.0000
+  Te  Te3       1.0  0.8982699453849186  0.6415603343215718  0.5639765868681069  1.0000
+  Te  Te4       1.0  0.3982689639905131  0.3512520399804422  0.4360226624551242  1.0000
+  Ag  Ag1       1.0  0.7519316764769742  0.1642224959904544  0.49996111158044104  1.0000
+  Ag  Ag2       1.0  0.2519339131431054  0.8285900417588433  0.5000382680695049  1.0000

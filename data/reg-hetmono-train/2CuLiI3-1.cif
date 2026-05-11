@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       I6Cu2Li2
+_chemical_formula_sum              "I6 Cu2 Li2"
+_cell_length_a       7.052128281473482
+_cell_length_b       7.052128290188661
+_cell_length_c       18.80567388
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000590379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6459093435899834  0.9999999999999982  0.6010965311621305  1.0000
+  I   I2        1.0  0.3540906364100147  0.3540906464100128  0.6010965311621305  1.0000
+  I   I3        1.0  3.5222875844704007e-16  0.6459093535899905  0.6010965311621305  1.0000
+  I   I4        1.0  0.35409064641001586  1.8225827154821932e-15  0.3989034588378695  1.0000
+  I   I5        1.0  0.6459093535899848  0.6459093435899894  0.3989034588378695  1.0000
+  I   I6        1.0  0.999999999999998  0.3540906364100094  0.3989034588378695  1.0000
+  Cu  Cu1       1.0  0.0  0.0  0.5896497614678715  1.0000
+  Cu  Cu2       1.0  3.38528369635029e-20  1.927383723211411e-19  0.41035024853212854  1.0000
+  Li  Li1       1.0  0.333333329999999  0.66666667  0.5  1.0000
+  Li  Li2       1.0  0.6666666699999991  0.3333333300000002  0.5  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClOClTaAgNbO2
+_chemical_formula_sum              "Cl2 O3 Ta1 Ag1 Nb1"
+_cell_length_a       3.9127932152428606
+_cell_length_b       5.296642716729187
+_cell_length_c       20.041611426757314
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.5867919120846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.355314389840852  0.4078990765990903  0.6249352168433834  1.0000
+  O   O1        1.0  0.8886682687099329  0.46305362820445556  0.48731151599131256  1.0000
+  Cl  Cl2       1.0  0.5002949831855396  0.6843931052717296  0.37430923980969655  1.0000
+  Ta  Ta1       1.0  0.67769938026632  0.04003716800492613  0.4576322596204503  1.0000
+  Ag  Ag1       1.0  0.08883776736215591  0.8625210708593335  0.6257510638794863  1.0000
+  Nb  Nb1       1.0  0.4224880729488992  0.5309109127481966  0.4995831520456354  1.0000
+  O   O2        1.0  0.21133155727289335  0.10762354629729176  0.4469439943973411  1.0000
+  O   O3        1.0  0.6067168116554975  0.8972772007702398  0.5469895645156282  1.0000

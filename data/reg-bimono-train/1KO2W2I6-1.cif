@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       W2I3KO2I3
+_chemical_formula_sum              "W2 I6 K1 O2"
+_cell_length_a       3.8528015876335417
+_cell_length_b       11.953015836466577
+_cell_length_c       34.131624959999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.0  0.5499574012825102  0.5  1.0000
+  W   W2        1.0  3.329701384094672e-17  0.8048618222800504  0.5  1.0000
+  I   I1        1.0  0.0  0.677409378813622  0.5663024832936862  1.0000
+  I   I2        1.0  0.0  0.9807834259304796  0.5556128526316154  1.0000
+  I   I3        1.0  8.627224399524778e-18  0.3740352727109673  0.5556127814518516  1.0000
+  K   K1        1.0  0.4999999999999999  0.1774099715673394  0.5  1.0000
+  O   O1        1.0  0.4999999999999999  0.5503020324886169  0.5  1.0000
+  O   O2        1.0  0.4999999999999999  0.8045187582828969  0.5  1.0000
+  I   I4        1.0  1.6745701360811862e-18  0.677409378813622  0.43369751670631407  1.0000
+  I   I5        1.0  0.0  0.3740352727109673  0.44438721854814767  1.0000
+  I   I6        1.0  0.0  0.9807834259304796  0.44438714736838403  1.0000

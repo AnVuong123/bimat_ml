@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NHfBrCl
+_chemical_formula_sum              "N1 Hf1 Br1 Cl1"
+_cell_length_a       3.816071491512104
+_cell_length_b       3.9659489093548523
+_cell_length_c       18.740684058351235
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0362536281825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.17951672470566685  0.751077524551562  0.4984450968213726  1.0000
+  Hf  Hf1       1.0  0.29800697641759266  0.25115261272526385  0.5058626564802221  1.0000
+  Br  Br1       1.0  0.7531609258461583  0.2512417276346564  0.40019684147053397  1.0000
+  Cl  Cl1       1.0  0.7565902827034428  0.24998542850993377  0.5997981594055751  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Mn2Te3Cl2Te
+_chemical_formula_sum              "Bi2 Mn2 Te4 Cl2"
+_cell_length_a       3.8890173777173636
+_cell_length_b       13.026221367085643
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  6.052518749222099e-19  0.2757111035174158  0.4458139876428488  1.0000
+  Bi  Bi2       1.0  0.9999999999999997  0.7757111035174489  0.5541860123571598  1.0000
+  Mn  Mn1       1.0  0.5000000000000274  0.5249159793577927  0.4990537995264881  1.0000
+  Mn  Mn2       1.0  0.5000000000000256  0.0249159793577637  0.5009462004735123  1.0000
+  Te  Te1       1.0  0.5000000000000233  0.3068122909800041  0.5072727470106042  1.0000
+  Te  Te2       1.0  0.5000000000000274  0.8068122909800141  0.4927272529893962  1.0000
+  Te  Te3       1.0  0.0  0.5548528023848683  0.5561547808577529  1.0000
+  Cl  Cl1       1.0  0.0  0.5387182914659502  0.4539379598464222  1.0000
+  Cl  Cl2       1.0  3.0483370547103975e-18  0.03871829146592905  0.5460620401535737  1.0000
+  Te  Te4       1.0  0.0  0.054852802384856465  0.44384521914222963  1.0000

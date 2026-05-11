@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfCoH6
+_chemical_formula_sum              "Hf1 Co1 H6"
+_cell_length_a       4.5407331412579435
+_cell_length_b       4.541508008309282
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02745949446955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.13055239184282977  0.8698391895093696  0.5000506923391815  1.0000
+  Co  Co1       1.0  0.463660784109054  0.5366232778123492  0.5000216267913467  1.0000
+  H   H1        1.0  0.18725448609574272  0.5068073608368885  0.5567267086428155  1.0000
+  H   H2        1.0  0.7103974660870706  0.8137993956516593  0.5564898560397676  1.0000
+  H   H3        1.0  0.4938050512358396  0.29023487829410727  0.5566967696263786  1.0000
+  H   H4        1.0  0.7102359017493145  0.5065919691758974  0.44337850142929086  1.0000
+  H   H5        1.0  0.18669876339558458  0.2897353839398974  0.44353443399245335  1.0000
+  H   H6        1.0  0.4931415845321915  0.8127185131719542  0.44327196236345645  1.0000

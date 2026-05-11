@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2Zn2
+_chemical_formula_sum              "Cl2 Zn2"
+_cell_length_a       3.4590389773662396
+_cell_length_b       3.4589701296510533
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0006583869861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9999089302041578  8.926824933120668e-05  0.36637613564942983  1.0000
+  Cl  Cl2       1.0  0.333424303068222  0.6665775077428586  0.633692394418419  1.0000
+  Zn  Zn1       1.0  0.9998805821275814  0.00011621215360591761  0.5551538152403203  1.0000
+  Zn  Zn2       1.0  0.33345236428909225  0.6665508368914987  0.44491627930495387  1.0000

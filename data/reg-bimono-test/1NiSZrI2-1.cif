@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiI2SZr
+_chemical_formula_sum              "Ni1 I2 S1 Zr1"
+_cell_length_a       3.8288846073113505
+_cell_length_b       4.313780778141155
+_cell_length_c       20.292426904171585
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.8352638437443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.31117766339953823  0.9788577021623474  0.4468939295184194  1.0000
+  I   I1        1.0  0.3957323228477466  0.5228968887249686  0.36959600916232443  1.0000
+  I   I2        1.0  0.07936476708255284  0.6451083848812642  0.6304039908376755  1.0000
+  S   S1        1.0  0.8609840489478051  0.10517997156600728  0.49679633754782393  1.0000
+  Zr  Zr1       1.0  0.5180542985715094  0.5340329920121364  0.5195307163982327  1.0000

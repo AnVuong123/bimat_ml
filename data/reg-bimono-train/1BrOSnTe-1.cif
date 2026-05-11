@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnTeOBr
+_chemical_formula_sum              "Sn1 Te1 O1 Br1"
+_cell_length_a       3.4697923785436995
+_cell_length_b       3.355105539118073
+_cell_length_c       20.44280725795198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    102.95867088806307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.8806079139878078  0.10590622252126024  0.5119416186560202  1.0000
+  Te  Te1       1.0  0.9576030296548627  0.048791616334143084  0.3663419766428027  1.0000
+  O   O1        1.0  0.49799369124343157  0.494433819004169  0.505554042605793  1.0000
+  Br  Br1       1.0  0.977302672254227  0.022513026029834786  0.6333602409244318  1.0000

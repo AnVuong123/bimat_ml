@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiSeNiTeSe2Ni2
+_chemical_formula_sum              "Ni4 Se3 Te1"
+_cell_length_a       5.519017697500108
+_cell_length_b       5.522379683430119
+_cell_length_c       17.903454529665765
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01682751461354
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.11934407437712542  0.3741277167938962  0.5084191153319797  1.0000
+  Se  Se1       1.0  0.8685735530821658  0.12437529137255553  0.5808436067040417  1.0000
+  Ni  Ni2       1.0  0.6203255095224429  0.8741430505399246  0.5076264114609599  1.0000
+  Te  Te1       1.0  0.3685238259388128  0.12389648220544888  0.41904340732480533  1.0000
+  Se  Se2       1.0  0.8707586532313627  0.6240634256419313  0.4364261543570077  1.0000
+  Se  Se3       1.0  0.370700858555049  0.6242435680497854  0.5803744825376016  1.0000
+  Ni  Ni3       1.0  0.11903846708581645  0.8741913130455183  0.5085200402116047  1.0000
+  Ni  Ni4       1.0  0.6199484344384367  0.3741418045136715  0.5076117013256694  1.0000

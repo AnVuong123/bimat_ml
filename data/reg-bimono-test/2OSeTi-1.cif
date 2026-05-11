@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O2Se2Ti2
+_chemical_formula_sum              "O2 Se2 Ti2"
+_cell_length_a       3.3025202104186406
+_cell_length_b       5.632991628201024
+_cell_length_c       18.281522
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9999995815358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7727515119038145  0.36522379748570977  0.455519678070478  1.0000
+  O   O2        1.0  0.27275147349507045  0.5629982649014604  0.5444803314096845  1.0000
+  Se  Se1       1.0  0.7727360844279664  0.037724410410600005  0.5897215943008489  1.0000
+  Se  Se2       1.0  0.2727360960986516  0.8904981770688792  0.4102784054449261  1.0000
+  Ti  Ti1       1.0  0.772751045694332  0.6874729240408274  0.500773589208149  1.0000
+  Ti  Ti2       1.0  0.27275107258880205  0.24074918021663894  0.49922639787594403  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te2Ni2Te2Ni2
+_chemical_formula_sum              "Te4 Ni4"
+_cell_length_a       3.8991638340229766
+_cell_length_b       3.8997419483418283
+_cell_length_c       28.47094920934574
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99509620306235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  1.2891643121711197e-05  3.318487319291114e-05  0.26767842104464673  1.0000
+  Te  Te2       1.0  0.3333204102878492  0.6666334813020285  0.3946550895574517  1.0000
+  Ni  Ni1       1.0  0.9999998981275656  4.426426251195772e-05  0.35610972979685174  1.0000
+  Ni  Ni2       1.0  0.3333334112579445  0.6666224137559903  0.3062123582847817  1.0000
+  Te  Te3       1.0  1.2891643121711197e-05  3.318487319291114e-05  0.5017161818163439  1.0000
+  Te  Te4       1.0  0.6667053720848388  0.33343288622677936  0.6286928503291488  1.0000
+  Ni  Ni3       1.0  2.588669157661406e-05  2.210548387386461e-05  0.590147490568549  1.0000
+  Ni  Ni4       1.0  0.666692375159806  0.33344395673363764  0.540250119056479  1.0000

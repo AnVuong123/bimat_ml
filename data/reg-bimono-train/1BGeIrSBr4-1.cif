@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrIrBrBGeBrSBr
+_chemical_formula_sum              "Br4 Ir1 B1 Ge1 S1"
+_cell_length_a       5.438375527005323
+_cell_length_b       4.541494673396762
+_cell_length_c       20.426320573959856
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    73.0374507741231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.27978754304635406  0.28157637136146024  0.36798649157094687  1.0000
+  Ir  Ir1       1.0  0.7687400878949309  0.7939316578755753  0.5028369504676683  1.0000
+  Br  Br2       1.0  0.22389189828956232  0.24220370028876373  0.6319804156799023  1.0000
+  B   B1        1.0  0.1509206954961705  0.6766311988173144  0.5035583567428346  1.0000
+  Ge  Ge1       1.0  0.2620343246170309  0.16863773719977754  0.5007120045194579  1.0000
+  Br  Br3       1.0  0.7730105892103292  0.7893285330802905  0.37679594334638805  1.0000
+  S   S1        1.0  0.822795341383017  0.27690855578228757  0.4848099916285678  1.0000
+  Br  Br4       1.0  0.7323521128751702  0.7655121328920584  0.6227986499611147  1.0000

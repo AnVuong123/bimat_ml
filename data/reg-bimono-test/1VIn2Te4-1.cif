@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       VIn2Te4
+_chemical_formula_sum              "V1 In2 Te4"
+_cell_length_a       4.36589827450453
+_cell_length_b       4.365898274504534
+_cell_length_c       39.45524608
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.0  0.0  0.4999999999999997  1.0000
+  In  In1       1.0  0.666666666666667  0.3333333333333331  0.3962240374098543  1.0000
+  In  In2       1.0  0.33333333333333276  0.6666666666666667  0.6037759625901433  1.0000
+  Te  Te1       1.0  0.666666666666667  0.3333333333333331  0.46683576250258557  1.0000
+  Te  Te2       1.0  0.33333333333333276  0.6666666666666667  0.5331642374974139  1.0000
+  Te  Te3       1.0  0.666666666666667  0.3333333333333331  0.6383782909070789  1.0000
+  Te  Te4       1.0  0.33333333333333276  0.6666666666666667  0.3616217090929224  1.0000

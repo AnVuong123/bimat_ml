@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnSeBr
+_chemical_formula_sum              "Mn1 Se1 Br1"
+_cell_length_a       3.504940070252656
+_cell_length_b       3.8572106233210657
+_cell_length_c       33.16003910206656
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.18469293865124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.931182580306062  0.9417423959414325  0.4928566028567571  1.0000
+  Se  Se1       1.0  0.6021878530990811  0.2830717611051317  0.4538552259859257  1.0000
+  Br  Br1       1.0  0.34841633245287945  0.7756232577220211  0.5453962528481011  1.0000

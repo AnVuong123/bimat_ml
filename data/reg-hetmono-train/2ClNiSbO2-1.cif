@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiONiSbOClSbO2Cl
+_chemical_formula_sum              "Ni2 O4 Sb2 Cl2"
+_cell_length_a       3.338904180981923
+_cell_length_b       8.070281299669757
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5000000000000046  0.5667195599543992  0.5000001336729544  1.0000
+  O   O1        1.0  0.9999999999999999  0.5610428373014043  0.5363263280054149  1.0000
+  Ni  Ni2       1.0  0.5000000000000053  0.06671768858470312  0.4999998644858128  1.0000
+  Sb  Sb1       1.0  1.3498300021666327e-17  0.777183471542944  0.5594263054155069  1.0000
+  O   O2        1.0  0.5000000000000033  0.8249265749122626  0.5253732525260819  1.0000
+  Cl  Cl1       1.0  0.0  0.13784734193714326  0.5447758161320484  1.0000
+  Sb  Sb2       1.0  0.0  0.35625645748639523  0.4405739233991411  1.0000
+  O   O3        1.0  0.5000000000000046  0.30850850049198736  0.47462665719963815  1.0000
+  O   O4        1.0  2.1298519802870844e-18  0.5723989734093441  0.46367379476403264  1.0000
+  Cl  Cl2       1.0  6.095102414840584e-18  0.9955929067224789  0.4552238335489778  1.0000

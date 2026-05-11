@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2S4Ba2I2BaS
+_chemical_formula_sum              "Mn2 S5 Ba3 I2"
+_cell_length_a       4.764575670393413
+_cell_length_b       4.76457567039341
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  1.6425246337460582e-19  1.0598413495683445e-16  0.4423473178482785  1.0000
+  Mn  Mn2       1.0  5.958412332548747e-17  3.0127558833143176e-17  0.5576526821517216  1.0000
+  S   S1        1.0  0.0  0.4999999999999976  0.564727541935599  1.0000
+  S   S2        1.0  0.5000000000000009  0.0  0.564727541935599  1.0000
+  S   S3        1.0  5.19645535492717e-18  0.4999999999999976  0.435272458064401  1.0000
+  S   S4        1.0  0.5000000000000009  0.0  0.435272458064401  1.0000
+  Ba  Ba1       1.0  0.5000000000000009  0.4999999999999976  0.6162573960359351  1.0000
+  Ba  Ba2       1.0  0.5000000000000009  0.4999999999999976  0.38374260396406523  1.0000
+  I   I1        1.0  0.0  0.0  0.34823216873106316  1.0000
+  I   I2        1.0  0.0  0.0  0.6517678312689372  1.0000
+  Ba  Ba3       1.0  0.5000000000000009  0.4999999999999976  0.5  1.0000
+  S   S5        1.0  0.0  2.413816979741983e-19  0.5  1.0000

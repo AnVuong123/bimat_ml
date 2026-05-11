@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co2SbS2
+_chemical_formula_sum              "Co2 Sb1 S2"
+_cell_length_a       3.44849613826881
+_cell_length_b       3.4483439921391135
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00153495254042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  5.151251060459299e-06  9.875478552396276e-06  0.45062431334295794  1.0000
+  Co  Co2       1.0  4.445123519285204e-06  9.87469616427962e-06  0.5493739268298214  1.0000
+  Sb  Sb1       1.0  0.666638200171644  0.33327907305181487  0.49999902917722006  1.0000
+  S   S1        1.0  0.33334123446274777  0.6666858548156445  0.423094175089126  1.0000
+  S   S2        1.0  0.3333409246954509  0.6666857843448335  0.5769034946276492  1.0000

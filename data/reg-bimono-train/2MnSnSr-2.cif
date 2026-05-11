@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrMn2SnSrSn
+_chemical_formula_sum              "Sr2 Mn2 Sn2"
+_cell_length_a       4.1957202998659175
+_cell_length_b       4.195720299865586
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.031205468844466486  0.03120546884446657  0.6477222393143409  1.0000
+  Mn  Mn1       1.0  0.41082480376784397  0.04926912756907413  0.5000043680586125  1.0000
+  Mn  Mn2       1.0  0.049269127569074596  0.41082480376784675  0.5000043680585551  1.0000
+  Sn  Sn1       1.0  0.5433690364563678  0.5433690364563665  0.5789554126874911  1.0000
+  Sr  Sr2       1.0  0.42888951136275527  0.4288895113627558  0.3522859299562662  1.0000
+  Sn  Sn2       1.0  0.9167231778230414  0.9167231778230412  0.42105228294832625  1.0000

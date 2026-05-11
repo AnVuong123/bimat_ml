@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt5TlCl2
+_chemical_formula_sum              "Pt5 Tl1 Cl2"
+_cell_length_a       4.03976341260447
+_cell_length_b       4.03976341260453
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.86601126577138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.07780986714785465  0.07780986714785468  0.4999942026091003  1.0000
+  Pt  Pt2       1.0  0.5342790594010717  0.0528260861374359  0.4081133218356165  1.0000
+  Pt  Pt3       1.0  0.05282608613743592  0.5342790594010696  0.4081133218356165  1.0000
+  Pt  Pt4       1.0  0.5342846316334893  0.05282920839454075  0.5918752435291951  1.0000
+  Pt  Pt5       1.0  0.05282920839454073  0.5342846316335145  0.5918752435291951  1.0000
+  Tl  Tl1       1.0  0.5689574094356878  0.5689574094356842  0.4999943531452226  1.0000
+  Cl  Cl1       1.0  0.862660914534628  0.8626609145346276  0.3262964502763423  1.0000
+  Cl  Cl2       1.0  0.8626669150702833  0.8626669150702828  0.6736925684930709  1.0000

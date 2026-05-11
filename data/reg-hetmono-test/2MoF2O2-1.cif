@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       MoO2MoO2F4
+_chemical_formula_sum              "Mo2 O4 F4"
+_cell_length_a       3.988004578436075
+_cell_length_b       7.883561311980757
+_cell_length_c       34.4341
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99479914905518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.050206305953147755  0.45804076955235296  0.5  1.0000
+  O   O1        1.0  0.9965056539235632  0.24170280308165196  0.5  1.0000
+  O   O2        1.0  0.477359198911834  0.48117341721322754  0.5  1.0000
+  Mo  Mo2       1.0  0.9317708814577624  0.9580234368161126  0.5  1.0000
+  O   O3        1.0  0.5045849202455682  0.9811685206072654  0.5  1.0000
+  O   O4        1.0  0.9855397495084821  0.7417235765280717  0.5  1.0000
+  F   F1        1.0  0.9588593914376817  0.5030494280168524  0.5517438781193715  1.0000
+  F   F2        1.0  0.9588593914376836  0.5030494280168524  0.4482561218806304  1.0000
+  F   F3        1.0  0.023028056048772994  0.003054014736324964  0.44825429341896844  1.0000
+  F   F4        1.0  0.023028056048773036  0.00305401473632497  0.5517457065810311  1.0000

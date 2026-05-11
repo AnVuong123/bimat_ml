@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SHfINTi
+_chemical_formula_sum              "S1 Hf1 I1 N1 Ti1"
+_cell_length_a       3.4271264715366043
+_cell_length_b       3.4271866104659714
+_cell_length_c       20.87063053436012
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99449660101774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.001996015120267751  0.16668691744609934  0.6406046181989155  1.0000
+  Hf  Hf1       1.0  0.0017369913514180269  0.1672052075228966  0.4645397122931578  1.0000
+  I   I1        1.0  0.3349894603579667  0.8341659088434565  0.359437255289327  1.0000
+  N   N1        1.0  0.6684650796120118  0.5004741702211095  0.5144988969061629  1.0000
+  Ti  Ti1       1.0  0.33535535794389515  0.8333227481873935  0.5720103729878303  1.0000

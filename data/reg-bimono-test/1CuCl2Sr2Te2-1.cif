@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2SrClSrCl
+_chemical_formula_sum              "Cu1 Te2 Sr2 Cl2"
+_cell_length_a       5.184288098500464
+_cell_length_b       5.184288098500378
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    94.93767745109162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9901128817777896  0.9901128817777943  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.48094046670683555  0.9223665896441353  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9223665896441425  0.4809404667068303  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.4087437852821339  0.4087437852821349  0.3964185225142076  1.0000
+  Cl  Cl1       1.0  0.053717648441291725  0.0537176484412916  0.34009916544720414  1.0000
+  Sr  Sr2       1.0  0.4087437852900936  0.40874378529009053  0.6035814774668936  1.0000
+  Cl  Cl2       1.0  0.05371764846034656  0.05371764846034653  0.659900834545118  1.0000

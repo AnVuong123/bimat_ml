@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrS2BrReOs
+_chemical_formula_sum              "Br2 S2 Re1 Os1"
+_cell_length_a       3.6894565220595212
+_cell_length_b       4.679367363177331
+_cell_length_c       20.455645432306422
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.74084270572719
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.32038884076436797  0.7722017795393195  0.6333530503928785  1.0000
+  S   S1        1.0  0.30170837600819994  0.7248573776465893  0.47258092738876967  1.0000
+  S   S2        1.0  0.696424227979691  0.2745278691578822  0.5252643784869245  1.0000
+  Br  Br2       1.0  0.6780978667909999  0.21806390618074703  0.36664694960712163  1.0000
+  Re  Re1       1.0  0.8267608424588099  0.8035992311890999  0.5412129992684886  1.0000
+  Os  Os1       1.0  0.17827366434220973  0.20337192064897913  0.45710555157091953  1.0000

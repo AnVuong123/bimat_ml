@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CoSeNiSeO
+_chemical_formula_sum              "Co1 Se2 Ni1 O1"
+_cell_length_a       3.9461439682456305
+_cell_length_b       3.7569120189796767
+_cell_length_c       18.09935075959065
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99960415055959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7483909122936979  0.2532971808122727  0.5000583058478947  1.0000
+  Se  Se1       1.0  0.24848018059591628  0.2529027194736193  0.585412680291497  1.0000
+  Ni  Ni1       1.0  0.24838855748952587  0.7529674733944656  0.49997540077181646  1.0000
+  Se  Se2       1.0  0.2484521158864212  0.25286740612460995  0.4145929590073999  1.0000
+  O   O1        1.0  0.7483663394899912  0.7532302166348168  0.5000190209506525  1.0000

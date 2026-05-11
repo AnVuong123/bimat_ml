@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SFAlSF
+_chemical_formula_sum              "S2 F2 Al1"
+_cell_length_a       3.5390240615298163
+_cell_length_b       3.536493120878135
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02367679816493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3336659154442799  0.6673318308885625  0.5697150843257117  1.0000
+  F   F1        1.0  0.33317661566985673  0.6663532313397159  0.6602392947273206  1.0000
+  Al  Al1       1.0  9.11557196307317e-10  1.8231141464853904e-09  0.5000000001993585  1.0000
+  S   S2        1.0  0.6663340829399617  0.33266816587992176  0.4302849157415522  1.0000
+  F   F2        1.0  0.6668233849688191  0.3336467699376404  0.3397607052884928  1.0000

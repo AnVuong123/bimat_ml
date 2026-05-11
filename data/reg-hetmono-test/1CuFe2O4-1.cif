@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2CuFe2O2
+_chemical_formula_sum              "O4 Cu1 Fe2"
+_cell_length_a       2.8414216848768916
+_cell_length_b       2.8406225138777947
+_cell_length_c       38.2051074
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0086465495932
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  4.176253307076528e-05  0.0001164916644619587  0.39845312554556717  1.0000
+  O   O2        1.0  4.176253307070243e-05  0.00011649166446189752  0.6015468744544337  1.0000
+  Cu  Cu1       1.0  0.3333085668024516  0.6666559885043084  0.5  1.0000
+  Fe  Fe1       1.0  0.6666775796324388  0.33339685436763505  0.4227474930240423  1.0000
+  Fe  Fe2       1.0  0.6666775796324388  0.33339685436763505  0.577252506975957  1.0000
+  O   O3        1.0  0.33327999435683314  0.6666121065174085  0.5489983621991033  1.0000
+  O   O4        1.0  0.33327999435683314  0.6666121065174085  0.4510016378008967  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HS3Sn
+_chemical_formula_sum              "H1 S3 Sn1"
+_cell_length_a       4.4194103264258615
+_cell_length_b       5.402146874755765
+_cell_length_c       19.135991050359255
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.32311804211633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.8225198921896152  0.42725273580405054  0.6080683785719477  1.0000
+  S   S1        1.0  0.12023031669063258  0.8934080851170936  0.39193162142805227  1.0000
+  S   S2        1.0  0.05622721198317451  0.6639729361705741  0.5767421867555842  1.0000
+  S   S3        1.0  0.5461774860193633  0.10105873794668106  0.44975137623013034  1.0000
+  Sn  Sn1       1.0  0.6315569999276499  0.6148063325655965  0.48188640930869003  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2BrNiSPdSPd
+_chemical_formula_sum              "S4 Br1 Ni1 Pd2"
+_cell_length_a       4.804166619062309
+_cell_length_b       4.795987280685462
+_cell_length_c       20.169965402641758
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    92.11231487836102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7344565705415148  0.21938983225627093  0.5093056886835012  1.0000
+  S   S2        1.0  0.7532585699947976  0.7465519860711369  0.3718400032068319  1.0000
+  Br  Br1       1.0  0.30411036750297393  0.20479774803751058  0.6281599967931681  1.0000
+  Ni  Ni1       1.0  0.2093176036251409  0.29012285117792946  0.5162150744612839  1.0000
+  S   S3        1.0  0.23313980341664398  0.26688560949832735  0.4052248819737177  1.0000
+  Pd  Pd1       1.0  0.7358786687970049  0.24618753654207579  0.3921710158107797  1.0000
+  S   S4        1.0  0.2799340400349977  0.7659665540387184  0.5084841411513893  1.0000
+  Pd  Pd2       1.0  0.2535437026790946  0.764223692028528  0.39141401755078475  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClMnCl3OMoO
+_chemical_formula_sum              "Cl4 Mn1 O2 Mo1"
+_cell_length_a       5.156354524155902
+_cell_length_b       5.155943207289452
+_cell_length_c       18.359089644392554
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.04766949476821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.13187666437177312  0.6337521083247107  0.40858536423205616  1.0000
+  Mn  Mn1       1.0  0.8756289128222459  0.3768469298996117  0.49995163181260033  1.0000
+  Cl  Cl2       1.0  0.6190489015538202  0.12046998239631941  0.5914124374825797  1.0000
+  Cl  Cl3       1.0  0.13252906804578893  0.6333184920852787  0.5914830122151106  1.0000
+  Cl  Cl4       1.0  0.6189608078035211  0.12035490094093426  0.40851698778488915  1.0000
+  O   O1        1.0  0.12848902409206284  0.12421573516671505  0.4999586668058318  1.0000
+  Mo  Mo1       1.0  0.37559168726124864  0.8768587247512033  0.4999970428447862  1.0000
+  O   O2        1.0  0.6229393677334046  0.6297421564395328  0.4999484521124278  1.0000

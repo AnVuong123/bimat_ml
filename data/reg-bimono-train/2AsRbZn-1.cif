@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rb2Zn2As2
+_chemical_formula_sum              "Rb2 Zn2 As2"
+_cell_length_a       6.146339027949619
+_cell_length_b       4.34545806547365
+_cell_length_c       20.91750768
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    135.0021172977015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.7173049347737293  0.13275312056842342  0.6414305264456028  1.0000
+  Rb  Rb2       1.0  0.21730492477372934  0.1327531005684234  0.358569473554397  1.0000
+  Zn  Zn1       1.0  0.7175769354099203  0.6329475775720165  0.5000188205317708  1.0000
+  Zn  Zn2       1.0  0.21757693540991993  0.6329475475720162  0.4999811794682293  1.0000
+  As  As1       1.0  0.217508105575354  0.13292930605898684  0.5703112782074116  1.0000
+  As  As2       1.0  0.7175080755753542  0.13292928605898685  0.4296887117925885  1.0000

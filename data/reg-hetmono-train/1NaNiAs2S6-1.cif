@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiSNaSAsS3AsS
+_chemical_formula_sum              "Ni1 S6 Na1 As2"
+_cell_length_a       6.218089305552355
+_cell_length_b       6.215413565006641
+_cell_length_c       33.22614168318993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01535481679112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6773601860864441  0.998295744251732  0.499998767369431  1.0000
+  S   S1        1.0  0.6564258635402583  0.7153866424508937  0.5493725648997131  1.0000
+  Na  Na1       1.0  0.010604952470024088  0.6648142433010191  0.4999997865839673  1.0000
+  S   S2        1.0  0.9608531459380771  0.26003908872324055  0.5494517690129046  1.0000
+  As  As1       1.0  0.3442860155748044  0.3317013685724206  0.5364761594002564  1.0000
+  S   S3        1.0  0.416241786631203  0.020151616448080834  0.549471036688916  1.0000
+  S   S4        1.0  0.4154469284413838  0.7155138559397819  0.450645121939698  1.0000
+  S   S5        1.0  0.6556261922736134  0.2601130169949974  0.4505390542011227  1.0000
+  As  As2       1.0  0.34387406670198845  0.3317536514625602  0.46352440383811266  1.0000
+  S   S6        1.0  0.9603767883989844  0.020217243924334726  0.4505209844556955  1.0000

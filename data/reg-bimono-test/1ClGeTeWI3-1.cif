@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ITeGeI2WCl
+_chemical_formula_sum              "I3 Te1 Ge1 W1 Cl1"
+_cell_length_a       7.889784798220281
+_cell_length_b       5.371981302941548
+_cell_length_c       18.94781713508993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.37686619023283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.12341778332532334  0.06218410969665699  0.39589871234084106  1.0000
+  Te  Te1       1.0  0.8815210228957207  0.4231067044794766  0.49912446727844856  1.0000
+  Ge  Ge1       1.0  0.24921707580673327  0.4768418100107416  0.4985979896502768  1.0000
+  I   I2        1.0  0.5835622254980058  0.763098134042197  0.6045817308256463  1.0000
+  I   I3        1.0  0.13307427427055749  0.06835102699248125  0.5992093141359187  1.0000
+  W   W1        1.0  0.8357172423196225  0.8970870587538962  0.4994493029955264  1.0000
+  Cl  Cl1       1.0  0.6041611195755358  0.7665479244343819  0.4143850149221675  1.0000

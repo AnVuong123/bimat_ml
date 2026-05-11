@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfClHfCl2SeHfCl
+_chemical_formula_sum              "Hf3 Cl4 Se1"
+_cell_length_a       5.890562947142974
+_cell_length_b       5.88976794876233
+_cell_length_c       19.03554802993572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00256199999579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.4149411113991112  0.9205157108207863  0.5000025172851721  1.0000
+  Cl  Cl1       1.0  0.7482039265518359  0.08707055284925382  0.6059753929574374  1.0000
+  Hf  Hf2       1.0  0.9148365553336584  0.9202438774656175  0.49998434893961263  1.0000
+  Cl  Cl2       1.0  0.748139610841967  0.0870176403541182  0.39403816794240304  1.0000
+  Cl  Cl3       1.0  0.08169394448316164  0.7540394625560322  0.3939996888035657  1.0000
+  Se  Se1       1.0  0.4148607213471062  0.4203650057735198  0.4999909022611881  1.0000
+  Hf  Hf3       1.0  0.9150555854331031  0.42043624056755086  0.500011013143524  1.0000
+  Cl  Cl4       1.0  0.08165132329353124  0.7537831483599474  0.6060003111964342  1.0000

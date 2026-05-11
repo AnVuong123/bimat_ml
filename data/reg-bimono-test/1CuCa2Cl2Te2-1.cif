@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2CaClCaCl
+_chemical_formula_sum              "Cu1 Te2 Ca2 Cl2"
+_cell_length_a       5.2109926976758505
+_cell_length_b       5.2109926976758265
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.41183031870939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9894189305091886  0.9894189305091902  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.47296209083534224  0.9086906028903375  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9086906028903389  0.4729620908353492  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.39415019162094256  0.3941501916209409  0.4064058741769725  1.0000
+  Cl  Cl1       1.0  0.07948228755146242  0.07948228755146197  0.3428805540131685  1.0000
+  Ca  Ca2       1.0  0.3941501916289035  0.3941501916288972  0.5935941258041286  1.0000
+  Cl  Cl2       1.0  0.07948228757051733  0.07948228757051749  0.6571194459791506  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2Se4
+_chemical_formula_sum              "Au2 Se4"
+_cell_length_a       5.921027938275225
+_cell_length_b       6.616613453305304
+_cell_length_c       16.43925645483905
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.500000000005672  0.999999999993372  0.5000000000108897  1.0000
+  Au  Au2       1.0  5.217600490973058e-12  0.5000000000064181  0.4999999999891177  1.0000
+  Se  Se1       1.0  0.10870980810616071  0.11420416931098328  0.4603443368584305  1.0000
+  Se  Se2       1.0  0.6087099076313419  0.3857958866460019  0.5396556643681856  1.0000
+  Se  Se3       1.0  0.8912901918968791  0.8857958306630496  0.5396556631708417  1.0000
+  Se  Se4       1.0  0.3912900923712797  0.6142041133790219  0.46034433560263394  1.0000

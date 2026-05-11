@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2BaGeBaGe
+_chemical_formula_sum              "Fe2 Ba2 Ge2"
+_cell_length_a       3.9491373024437135
+_cell_length_b       3.9491373024436798
+_cell_length_c       34.933344
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5  0.9999999999999999  0.5  1.0000
+  Fe  Fe2       1.0  1.5182527907499305e-16  0.5  0.5  1.0000
+  Ba  Ba1       1.0  0.5  0.5  0.5881084343229823  1.0000
+  Ge  Ge1       1.0  0.9999999999999999  0.0  0.5411886103632939  1.0000
+  Ba  Ba2       1.0  1.4014880626598763e-17  1.3869067602678045e-17  0.4118915656770209  1.0000
+  Ge  Ge2       1.0  0.5  0.5  0.4588113896367066  1.0000

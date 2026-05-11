@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiGaBrSClS
+_chemical_formula_sum              "Ni1 Ga1 Br1 S2 Cl1"
+_cell_length_a       3.575035141211745
+_cell_length_b       8.055317621626237
+_cell_length_c       18.101036329375564
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    116.35507326819645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.10006593505033458  0.10586928785835757  0.5253970311700803  1.0000
+  Ga  Ga1       1.0  0.6639085574998042  0.6698117647617122  0.505131566802383  1.0000
+  Br  Br1       1.0  0.3689209861534103  0.37430369837469657  0.4439584530626301  1.0000
+  S   S1        1.0  0.5335087225789781  0.0393456740337422  0.5839116551312415  1.0000
+  Cl  Cl1       1.0  0.8728864773420516  0.8790247927340535  0.41467666408746384  1.0000
+  S   S2        1.0  0.2059056906065544  0.7118129539657793  0.5855470772450996  1.0000

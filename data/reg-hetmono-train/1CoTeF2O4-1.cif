@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CoF2OTeO3
+_chemical_formula_sum              "Co1 F2 O4 Te1"
+_cell_length_a       4.702761666443873
+_cell_length_b       4.710087687717091
+_cell_length_c       17.729594128151717
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.04875947268572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6034559210962125  0.3928591676012872  0.5415370646908645  1.0000
+  F   F1        1.0  0.3048524479811375  0.0902639623741668  0.42314961842234594  1.0000
+  F   F2        1.0  0.9028124508920753  0.6960003605543124  0.4230215280614471  1.0000
+  O   O1        1.0  0.830877307556684  0.1707323113582481  0.4954416387026397  1.0000
+  Te  Te1       1.0  0.10359639950091162  0.8929611545866987  0.5020213230754951  1.0000
+  O   O2        1.0  0.37560605370126765  0.6145026631258936  0.4954026988798058  1.0000
+  O   O3        1.0  0.8711686406461888  0.6642588321756143  0.5769006650626893  1.0000
+  O   O4        1.0  0.33565665327740707  0.12131381975647432  0.5769784719385529  1.0000

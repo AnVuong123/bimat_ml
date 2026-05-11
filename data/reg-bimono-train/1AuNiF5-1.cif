@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FAuFNiF3
+_chemical_formula_sum              "F5 Au1 Ni1"
+_cell_length_a       5.001148554802286
+_cell_length_b       5.31690642426905
+_cell_length_c       17.671007473502755
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    94.72607210422566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9182474124868385  0.9240013351190494  0.5485667335725078  1.0000
+  Au  Au1       1.0  0.13693367473460186  0.6239534783738233  0.5244188510537183  1.0000
+  F   F2        1.0  0.8319892580254158  0.290867601395073  0.42442401833885607  1.0000
+  Ni  Ni1       1.0  0.6654090203059589  0.1426786953738474  0.5061387730875161  1.0000
+  F   F3        1.0  0.8331834785128965  0.4038419245807581  0.5755759816611437  1.0000
+  F   F4        1.0  0.44563289759142494  0.8382158976849111  0.47320803732048433  1.0000
+  F   F5        1.0  0.3371374516941589  0.3040768349884812  0.5159548364059388  1.0000

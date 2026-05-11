@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeCuSeTe
+_chemical_formula_sum              "Ge1 Cu1 Se1 Te1"
+_cell_length_a       4.015672755493741
+_cell_length_b       3.994960126610577
+_cell_length_c       19.117104633090086
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.30659977938247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5048840243278102  0.17866216088209638  0.47276322354592015  1.0000
+  Cu  Cu1       1.0  0.16474808958250525  0.49121666667016495  0.6078470071912047  1.0000
+  Se  Se1       1.0  0.8303516632795191  0.8200820349030551  0.5884565459205994  1.0000
+  Te  Te1       1.0  0.17053963453601007  0.5077945860493684  0.3923886182164028  1.0000

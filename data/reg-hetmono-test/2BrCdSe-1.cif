@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2Se2Br2
+_chemical_formula_sum              "Cd2 Se2 Br2"
+_cell_length_a       4.608510505987608
+_cell_length_b       4.077118250696223
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5  1.1623986993538592e-16  0.409943313786696  1.0000
+  Cd  Cd2       1.0  6.353138098161287e-17  0.5  0.590056713153457  1.0000
+  Se  Se1       1.0  0.5  0.5  0.508388300572392  1.0000
+  Se  Se2       1.0  5.744804684156653e-17  0.0  0.4916117668432808  1.0000
+  Br  Br1       1.0  0.5  0.5  0.3289440469701995  1.0000
+  Br  Br2       1.0  0.0  0.0  0.6710559552544199  1.0000

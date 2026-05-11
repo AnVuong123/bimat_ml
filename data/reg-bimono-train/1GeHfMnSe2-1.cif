@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MnSeGeHfSe
+_chemical_formula_sum              "Mn1 Se2 Ge1 Hf1"
+_cell_length_a       3.7202748667420327
+_cell_length_b       3.7187592777447573
+_cell_length_c       20.81889570242413
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00556704886972
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.1664957761247529  0.8342683099499886  0.5771746921986651  1.0000
+  Se  Se1       1.0  0.16711758769976068  0.8352647647668259  0.3602492540901305  1.0000
+  Ge  Ge1       1.0  0.4999780415899363  0.5013361863686701  0.5181187775878416  1.0000
+  Hf  Hf1       1.0  0.8336184026097219  0.16850660505133283  0.4363128379645828  1.0000
+  Se  Se2       1.0  0.8330798354414418  0.16738761389655435  0.6397435328351184  1.0000

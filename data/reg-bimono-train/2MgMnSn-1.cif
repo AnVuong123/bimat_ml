@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2MgSnMgSn
+_chemical_formula_sum              "Mn2 Mg2 Sn2"
+_cell_length_a       4.205667307736655
+_cell_length_b       4.205667329514884
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  2.115625475855273e-16  2.1997705388385568e-16  0.4999999999902991  1.0000
+  Mn  Mn2       1.0  0.5000000000000004  0.5000000000000003  0.5000000004562354  1.0000
+  Mg  Mg1       1.0  0.5000000000000003  1.6509377528025336e-16  0.39968280308188214  1.0000
+  Sn  Sn1       1.0  1.5602407254826853e-16  0.5000000000000002  0.4059907427239983  1.0000
+  Mg  Mg2       1.0  2.5633442956110753e-16  0.5000000000000002  0.6003172016293465  1.0000
+  Sn  Sn2       1.0  0.5000000000000003  2.628969472925949e-16  0.5940092607545701  1.0000

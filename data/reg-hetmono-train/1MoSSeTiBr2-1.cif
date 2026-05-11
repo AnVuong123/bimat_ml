@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeTiMoBr2S
+_chemical_formula_sum              "Se1 Ti1 Mo1 Br2 S1"
+_cell_length_a       3.3828200170419414
+_cell_length_b       5.235510312737722
+_cell_length_c       20.442913551819785
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0030395212997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2513497914954836  0.7974079598412981  0.5490142566068438  1.0000
+  Ti  Ti1       1.0  0.7512438288538918  0.668520037670642  0.4615084103680442  1.0000
+  Mo  Mo1       1.0  0.25199848347664  0.32137434007643373  0.534917240768934  1.0000
+  Br  Br1       1.0  0.751817506640614  0.2960366868699662  0.6331332389491124  1.0000
+  Br  Br2       1.0  0.2516848961729271  0.712322316611292  0.3667838740662066  1.0000
+  S   S1        1.0  0.7519849439321378  0.21277115357200066  0.45563954027378517  1.0000

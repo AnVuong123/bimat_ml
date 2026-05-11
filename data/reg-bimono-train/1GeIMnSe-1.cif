@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnGeSeI
+_chemical_formula_sum              "Mn1 Ge1 Se1 I1"
+_cell_length_a       4.156925435238259
+_cell_length_b       4.863013811175036
+_cell_length_c       34.10474605416827
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.58283811199763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.6639845296244806  0.07673295766211158  0.48581650584615155  1.0000
+  Ge  Ge1       1.0  0.2819551359990667  0.50013293719669  0.49298109701683684  1.0000
+  Se  Se1       1.0  0.1696586873838226  0.10110545341009393  0.44408497423951415  1.0000
+  I   I1        1.0  0.48830023799798977  0.22261637952075303  0.5562217371327718  1.0000

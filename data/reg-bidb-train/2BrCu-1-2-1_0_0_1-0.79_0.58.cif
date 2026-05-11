@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Br2Cu2Br2Cu2
+_chemical_formula_sum              "Br4 Cu4"
+_cell_length_a       3.9526476619092326
+_cell_length_b       3.954057603268279
+_cell_length_c       28.488931163262052
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9882050623509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9999532560219824  0.00013861566097356237  0.26718787610452494  1.0000
+  Br  Br2       1.0  0.3333802888458692  0.6665279192134558  0.3947155888565255  1.0000
+  Cu  Cu1       1.0  0.9998986114887728  0.0002051378632886049  0.3544424759964842  1.0000
+  Cu  Cu2       1.0  0.3334345232673747  0.6664616393666316  0.30747294343200654  1.0000
+  Br  Br3       1.0  0.7885940904001326  0.5774202845937526  0.505354031974554  1.0000
+  Br  Br4       1.0  0.12202112384973361  0.24380958873825792  0.6328817447265546  1.0000
+  Cu  Cu3       1.0  0.7885394433369732  0.5774868067960677  0.5926086318665134  1.0000
+  Cu  Cu4       1.0  0.12207535827123915  0.2437433088914337  0.5456390993020356  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag3Cl3
+_chemical_formula_sum              "Ag3 Cl3"
+_cell_length_a       6.5653306897007635
+_cell_length_b       6.565330691143586
+_cell_length_c       17.70630847
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000000423819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.27515272854701517  1.735804612727657e-14  0.4997794965477698  1.0000
+  Ag  Ag2       1.0  1.088791349766385e-14  0.275152728547  0.4997794965477698  1.0000
+  Ag  Ag3       1.0  0.7248472714529742  0.7248472714529701  0.4997794965477698  1.0000
+  Cl  Cl1       1.0  0.3333333299999971  0.6666666699999914  0.45170128769599804  1.0000
+  Cl  Cl2       1.0  0.6666666699999989  0.333333329999997  0.45170128769599804  1.0000
+  Cl  Cl3       1.0  3.197486131029405e-19  5.92079172329359e-19  0.5972306579382176  1.0000

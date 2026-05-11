@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OBr2VAg
+_chemical_formula_sum              "O1 Br2 V1 Ag1"
+_cell_length_a       5.77568268027993
+_cell_length_b       3.4683471268736423
+_cell_length_c       18.85355622367975
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.84789673800614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.24736930027067236  0.7488830938868557  0.5003920163705241  1.0000
+  Br  Br1       1.0  0.6395679999918942  0.2411859387430108  0.3978029349486929  1.0000
+  Br  Br2       1.0  0.6419737314542611  0.2548262127108258  0.6021970650513071  1.0000
+  V   V1        1.0  0.37374969412489634  0.24842794655401879  0.5003146102314443  1.0000
+  Ag  Ag1       1.0  0.849437022988599  0.7466639847277792  0.499619629485297  1.0000

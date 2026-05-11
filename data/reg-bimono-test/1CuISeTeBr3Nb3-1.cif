@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NbTeBrNbCuBr2NbSeI
+_chemical_formula_sum              "Nb3 Te1 Br3 Cu1 Se1 I1"
+_cell_length_a       6.401931251363276
+_cell_length_b       6.024779397692115
+_cell_length_c       20.001987300509047
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.69262652566387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.21172563819338325  0.7230830418797286  0.4783014890271783  1.0000
+  Te  Te1       1.0  0.45767452676357  0.5111805591617028  0.5635844853854544  1.0000
+  Br  Br1       1.0  0.926359198004028  0.8225202761280911  0.39474649654098654  1.0000
+  Nb  Nb2       1.0  0.7901740101623429  0.9003391160753951  0.5166235232245301  1.0000
+  Cu  Cu1       1.0  0.8344467690257208  0.38834134269919884  0.5208812536273607  1.0000
+  Br  Br2       1.0  0.711111981658817  0.12288620884924446  0.6250372581823842  1.0000
+  Br  Br3       1.0  0.25032014011502274  0.4541983799273419  0.3749627418176156  1.0000
+  Nb  Nb3       1.0  0.19407253860650683  0.1685914438403248  0.4777066227859694  1.0000
+  Se  Se1       1.0  0.5503247002953161  0.07909542360876542  0.4410637932600625  1.0000
+  I   I1        1.0  0.1376043149114667  0.9016207695488673  0.6007828855205138  1.0000

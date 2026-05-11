@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O3MoO2Mo
+_chemical_formula_sum              "O5 Mo2"
+_cell_length_a       4.97104716900753
+_cell_length_b       4.970987914612277
+_cell_length_c       17.60788403140204
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    98.69246309217614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1325349464117201  0.3685976140104663  0.4945447522802916  1.0000
+  O   O2        1.0  0.6325153095238093  0.3684107231867052  0.5740544413727148  1.0000
+  O   O3        1.0  0.6324054243557301  0.36831130761688063  0.4259455586272853  1.0000
+  Mo  Mo1       1.0  0.8496407988339725  0.58552793594842  0.5014517415314018  1.0000
+  O   O4        1.0  0.632641196965175  0.868542417892342  0.4945252701586061  1.0000
+  O   O5        1.0  0.13258419688458528  0.8685306756000705  0.5296576474379399  1.0000
+  Mo  Mo2       1.0  0.41528858000165436  0.1511997752477577  0.5014372762550359  1.0000

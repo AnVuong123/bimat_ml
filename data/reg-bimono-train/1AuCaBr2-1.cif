@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrCaBrAu
+_chemical_formula_sum              "Br2 Ca1 Au1"
+_cell_length_a       4.4465873823137505
+_cell_length_b       4.441588102964655
+_cell_length_c       19.50779704585484
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.87213415215444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.33452373747782477  0.6704176539605867  0.6155383418040196  1.0000
+  Ca  Ca1       1.0  0.6703319501631841  0.33564160366506324  0.5327321445054934  1.0000
+  Br  Br2       1.0  0.6705536285349168  0.33182267423645284  0.38446165819598044  1.0000
+  Au  Au1       1.0  0.336554671974183  0.6666530185680466  0.44430353750320817  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NbH2
+_chemical_formula_sum              "Nb1 H2"
+_cell_length_a       2.8592516568675252
+_cell_length_b       2.859251656867525
+_cell_length_c       17.66371334
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.0  0.49999999982764726  1.0000
+  H   H1        1.0  0.6666666669439676  0.33333333552025446  0.567896431949829  1.0000
+  H   H2        1.0  0.6666666669439676  0.33333333552025446  0.4321035677676303  1.0000

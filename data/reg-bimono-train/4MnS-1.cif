@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S4Mn4
+_chemical_formula_sum              "S4 Mn4"
+_cell_length_a       4.063400310359333
+_cell_length_b       5.4464803116626666
+_cell_length_c       18.26985054
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00103361600728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.4891624577245421  0.4552829204153585  0.410241780644444  1.0000
+  S   S2        1.0  0.9891947493765996  0.237758676964059  0.5897586868084981  1.0000
+  S   S3        1.0  0.5205469355374847  0.7378002025320632  0.5897745240015004  1.0000
+  S   S4        1.0  0.020512041276900372  0.9552388709659662  0.4102279798649482  1.0000
+  Mn  Mn1       1.0  0.7232410409669793  0.006804261911452336  0.5114097615137257  1.0000
+  Mn  Mn2       1.0  0.28641910978728735  0.18619025386528748  0.48856287062760995  1.0000
+  Mn  Mn3       1.0  0.22325404340706306  0.6861937048533117  0.4885897180651684  1.0000
+  Mn  Mn4       1.0  0.7864070259744075  0.5068101664165295  0.5114359185792896  1.0000

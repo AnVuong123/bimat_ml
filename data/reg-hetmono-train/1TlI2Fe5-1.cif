@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5TlI2
+_chemical_formula_sum              "Fe5 Tl1 I2"
+_cell_length_a       3.8105058673726298
+_cell_length_b       3.810505867372613
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999662409506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.009891813399167688  0.00989181339916774  0.499997221987539  1.0000
+  Fe  Fe2       1.0  0.5097921286676574  0.00985533899989092  0.4109095582574017  1.0000
+  Fe  Fe3       1.0  0.009855338999890927  0.5097921286676558  0.4109095582574017  1.0000
+  Fe  Fe4       1.0  0.5097923526875532  0.009855534715757  0.589083624148033  1.0000
+  Fe  Fe5       1.0  0.009855534715756904  0.5097923526875565  0.589083624148033  1.0000
+  Tl  Tl1       1.0  0.5098956399005607  0.5098956399005635  0.4999936534137645  1.0000
+  I   I1        1.0  0.00995283418772163  0.009952834187721634  0.3220143561272296  1.0000
+  I   I2        1.0  0.009952591337520088  0.009952591337520005  0.6779852123737362  1.0000

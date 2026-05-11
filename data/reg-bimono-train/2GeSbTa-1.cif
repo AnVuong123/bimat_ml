@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2TaSbTaSb
+_chemical_formula_sum              "Ge2 Ta2 Sb2"
+_cell_length_a       3.649552664252415
+_cell_length_b       3.649552664252415
+_cell_length_c       35.56395
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.0  0.4999999999999999  0.5  1.0000
+  Ge  Ge2       1.0  0.4999999999999999  0.0  0.5  1.0000
+  Ta  Ta1       1.0  0.4999999999999999  0.4999999999999999  0.557310321503612  1.0000
+  Sb  Sb1       1.0  3.946779192271895e-18  0.0  0.5947616149054683  1.0000
+  Ta  Ta2       1.0  0.0  9.61566072106915e-19  0.4426896784963879  1.0000
+  Sb  Sb2       1.0  0.4999999999999999  0.4999999999999999  0.405238385094531  1.0000

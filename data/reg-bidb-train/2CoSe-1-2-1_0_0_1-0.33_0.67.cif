@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Se2Co2Se2Co2
+_chemical_formula_sum              "Se4 Co4"
+_cell_length_a       3.740778190352802
+_cell_length_b       3.741631341094566
+_cell_length_c       27.94001582330162
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99245754971459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  4.646317921615161e-06  4.630632474757978e-05  0.28226315904312443  1.0000
+  Se  Se2       1.0  0.33332868651943665  0.6666203921904769  0.39265010046453214  1.0000
+  Co  Co1       1.0  0.9999804018140628  8.512019604406356e-05  0.3648656151260315  1.0000
+  Co  Co2       1.0  0.3333529419270318  0.6665815628899104  0.3100488251254088  1.0000
+  Se  Se3       1.0  0.33332868651943665  0.6666203921904769  0.5065030102165389  1.0000
+  Se  Se4       1.0  0.6666527259373408  0.3331944781141061  0.6168899519958562  1.0000
+  Co  Co3       1.0  0.3333044436528174  0.6666592091476273  0.5891054662994459  1.0000
+  Co  Co4       1.0  0.6666769840181767  0.3331556488135397  0.5342886762988233  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SLiZrNiTiSClS
+_chemical_formula_sum              "S3 Li1 Zr1 Ni1 Ti1 Cl1"
+_cell_length_a       3.5995768819796408
+_cell_length_b       5.728099564167636
+_cell_length_c       20.751219130818775
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01507626945896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7513511469892913  0.17165637880640158  0.45637901988378987  1.0000
+  Li  Li1       1.0  0.25152111726919507  0.8073676930817533  0.6385754517496595  1.0000
+  Zr  Zr1       1.0  0.25105259199912183  0.2059264056091513  0.5500628510154327  1.0000
+  Ni  Ni1       1.0  0.7505728127087242  0.88507850852406  0.5361188929508162  1.0000
+  Ti  Ti1       1.0  0.2517002698145141  0.4469714127743111  0.4298550714862744  1.0000
+  S   S2        1.0  0.25060563953829956  0.6490155761452878  0.5297373532547837  1.0000
+  Cl  Cl1       1.0  0.7520093767352068  0.6164780934693274  0.36142454825034054  1.0000
+  S   S3        1.0  0.7512115913520937  0.0992729509740594  0.6354254109426895  1.0000

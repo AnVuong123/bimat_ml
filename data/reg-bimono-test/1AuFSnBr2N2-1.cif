@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuFNSnBr2N
+_chemical_formula_sum              "Au1 F1 N2 Sn1 Br2"
+_cell_length_a       3.43775952642121
+_cell_length_b       4.282174877865603
+_cell_length_c       21.369310031482946
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00786682035758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7519775663622862  0.6719695877568731  0.5567857666440438  1.0000
+  F   F1        1.0  0.7524524897293904  0.9458916524106804  0.4163719963850995  1.0000
+  N   N1        1.0  0.2520650105411953  0.6660339300005105  0.4967490499622157  1.0000
+  Sn  Sn1       1.0  0.2521223555964786  0.15683708532877558  0.46353480275424314  1.0000
+  Br  Br1       1.0  0.2530898285046183  0.42165986976851005  0.35173165015032076  1.0000
+  Br  Br2       1.0  0.2518622271945426  0.675767761550147  0.6486313006555441  1.0000
+  N   N2        1.0  0.7520520124153052  0.1792001363443302  0.5287656837687769  1.0000

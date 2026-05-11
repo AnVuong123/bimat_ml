@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt5TlBr2
+_chemical_formula_sum              "Pt5 Tl1 Br2"
+_cell_length_a       4.077200590825622
+_cell_length_b       4.0772005908256155
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99993037831928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.008335396864030425  0.008335396864030495  0.49999814708401263  1.0000
+  Pt  Pt2       1.0  0.5063172081732683  0.007166523949414589  0.41072272063814225  1.0000
+  Pt  Pt3       1.0  0.007166523949414611  0.5063172081732683  0.41072272063814225  1.0000
+  Pt  Pt4       1.0  0.506316683540976  0.007166447126427371  0.5892741013211006  1.0000
+  Pt  Pt5       1.0  0.007166447126427353  0.5063166835409753  0.5892741013211006  1.0000
+  Tl  Tl1       1.0  0.5080299536963071  0.508029953696304  0.49999798954242075  1.0000
+  Br  Br1       1.0  0.0014033467075184746  0.0014033467075184659  0.3294374842989093  1.0000
+  Br  Br2       1.0  0.0014029117775481601  0.0014029117775481168  0.6705574370070041  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       RhGaIORhOCl
+_chemical_formula_sum              "Rh2 Ga1 I1 O2 Cl1"
+_cell_length_a       3.324440130622984
+_cell_length_b       5.061050352419317
+_cell_length_c       20.124999547407032
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.98978494181678
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.12393490516773427  0.5688856532694202  0.4903677998163843  1.0000
+  Ga  Ga1       1.0  0.6179671183350068  0.06900748808325073  0.39755620548735254  1.0000
+  I   I1        1.0  0.2964038461881411  0.5689029177053901  0.6265746595086952  1.0000
+  O   O1        1.0  0.6171602687465851  0.8137094924003749  0.4874902685514077  1.0000
+  Rh  Rh2       1.0  0.5222183917169698  0.06884749928534331  0.5594831138687927  1.0000
+  O   O2        1.0  0.617319236386782  0.3240481298571851  0.4875094455511443  1.0000
+  Cl  Cl1       1.0  0.09949692607866124  0.5686713037098663  0.3727879024567456  1.0000

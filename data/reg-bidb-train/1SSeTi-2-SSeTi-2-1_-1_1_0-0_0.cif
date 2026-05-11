@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiSSeTiSSe
+_chemical_formula_sum              "Ti2 S2 Se2"
+_cell_length_a       3.478318321477179
+_cell_length_b       3.478318321477172
+_cell_length_c       24.612063602526508
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  5.220299646807483e-19  0.0  0.359175492667447  1.0000
+  S   S1        1.0  0.3333333334608017  0.6666666669216034  0.3047286128104309  1.0000
+  Se  Se1       1.0  0.6666666665180598  0.3333333334608017  0.4252462621186145  1.0000
+  Ti  Ti2       1.0  9.313820171620573e-19  0.0  0.6408245072298997  1.0000
+  S   S2        1.0  0.3333333334608017  0.6666666669216034  0.6952713870869158  1.0000
+  Se  Se2       1.0  0.6666666665180598  0.3333333334608017  0.5747537377787322  1.0000

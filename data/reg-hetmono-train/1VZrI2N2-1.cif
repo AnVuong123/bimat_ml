@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VNZrI2N
+_chemical_formula_sum              "V1 N2 Zr1 I2"
+_cell_length_a       3.603517652395691
+_cell_length_b       4.054060219394225
+_cell_length_c       20.89948250300252
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00013392599297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.7486221871895399  0.25337257386545925  0.5373992100480944  1.0000
+  N   N1        1.0  0.24863370458528453  0.2534453583699618  0.4975815066779139  1.0000
+  Zr  Zr1       1.0  0.24861995948743884  0.7533886629741956  0.4712876271333013  1.0000
+  I   I1        1.0  0.24878860672359257  0.2528111322197505  0.6411392128682335  1.0000
+  I   I2        1.0  0.7486567621091532  0.7539596452334939  0.3588628765524035  1.0000
+  N   N2        1.0  0.7486289855789631  0.7533131808360006  0.5289408481138353  1.0000

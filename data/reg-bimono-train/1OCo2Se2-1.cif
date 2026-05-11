@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OCoSeCoSe
+_chemical_formula_sum              "O1 Co2 Se2"
+_cell_length_a       3.326784002331449
+_cell_length_b       3.2089177249894303
+_cell_length_c       20.043939556469027
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.23624495883469
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2756337683350663  0.16248854057325682  0.5000371129261836  1.0000
+  Co  Co1       1.0  0.8409980998272584  0.5637865180561776  0.4394619182628061  1.0000
+  Se  Se1       1.0  0.5027837708728032  0.8887919768634754  0.37417793936518995  1.0000
+  Co  Co2       1.0  0.441020264749516  0.7621502014584968  0.5605430921675959  1.0000
+  Se  Se2       1.0  0.7778051372762759  0.43704157601808746  0.62582206063481  1.0000

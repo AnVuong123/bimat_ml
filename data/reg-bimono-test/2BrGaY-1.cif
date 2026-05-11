@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YBrGaYBrGa
+_chemical_formula_sum              "Y2 Br2 Ga2"
+_cell_length_a       4.135279645881927
+_cell_length_b       4.1352889669993145
+_cell_length_c       38.023466479999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99992543689984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  2.1977756630153777e-06  4.395551327534486e-06  0.5540278678967432  1.0000
+  Br  Br1       1.0  0.6666713808450169  0.33334276169003463  0.6001845549292104  1.0000
+  Ga  Ga1       1.0  0.3333337148959131  0.6666674297918258  0.5093362865440673  1.0000
+  Y   Y2        1.0  0.9999978022243357  0.9999956044486724  0.44597213210325687  1.0000
+  Br  Br2       1.0  0.3333286191549831  0.6666572383099656  0.39981544507078964  1.0000
+  Ga  Ga2       1.0  0.6666662851040877  0.3333325702081763  0.4906637134559328  1.0000

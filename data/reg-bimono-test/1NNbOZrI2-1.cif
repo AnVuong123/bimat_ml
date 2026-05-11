@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrONbINI
+_chemical_formula_sum              "Zr1 O1 Nb1 I2 N1"
+_cell_length_a       4.284984220225323
+_cell_length_b       3.681266359596902
+_cell_length_c       20.92234532683579
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99961137319218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.2455832811955311  0.7489372317065087  0.5307670172854574  1.0000
+  O   O1        1.0  0.24567227289103605  0.2489353589540667  0.47364137305808063  1.0000
+  Nb  Nb1       1.0  0.7456737569378824  0.24900260636364407  0.4688929507479454  1.0000
+  I   I1        1.0  0.2448724139608525  0.24890109501951266  0.6411325946113977  1.0000
+  N   N1        1.0  0.745573770243263  0.7490137273198291  0.5102043002006829  1.0000
+  I   I2        1.0  0.7460148357037696  0.7488993185934752  0.35864179739526897  1.0000

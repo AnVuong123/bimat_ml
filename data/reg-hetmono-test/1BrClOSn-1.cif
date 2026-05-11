@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClBrOSn
+_chemical_formula_sum              "Cl1 Br1 O1 Sn1"
+_cell_length_a       3.907019488973195
+_cell_length_b       3.7539534486853245
+_cell_length_c       18.78653262579755
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98710082648981
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7447733218038551  0.7493461369792551  0.39922215287886853  1.0000
+  Br  Br1       1.0  0.7536081144489499  0.7499682051329857  0.6007778471211315  1.0000
+  O   O1        1.0  0.17270879360358302  0.2489633285770262  0.49264751035445636  1.0000
+  Sn  Sn1       1.0  0.32682530867642257  0.7488705736748952  0.49501990669635804  1.0000

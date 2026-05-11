@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2Ga2S5
+_chemical_formula_sum              "Co2 Ga2 S5"
+_cell_length_a       3.5530076606159278
+_cell_length_b       3.5530076606159477
+_cell_length_c       42.16152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97697106062107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  1.0650706761143745e-05  0.9999893492932389  0.4661479204437447  1.0000
+  Co  Co2       1.0  0.6665871814916629  0.3334128185083428  0.5338563892632339  1.0000
+  Ga  Ga1       1.0  0.9999822381119243  1.7761888075668e-05  0.6109136028282894  1.0000
+  Ga  Ga2       1.0  0.6666176286166481  0.3333823713833412  0.3890878669924828  1.0000
+  S   S1        1.0  0.3333050395777906  0.6666949604221917  0.49999780468844196  1.0000
+  S   S2        1.0  0.9998550337946889  0.00014496620531112794  0.5565478610716039  1.0000
+  S   S3        1.0  0.6667418186616728  0.3332581813383145  0.44345347436999266  1.0000
+  S   S4        1.0  0.9999648592881606  3.5140711839355065e-05  0.36245724241119287  1.0000
+  S   S5        1.0  0.6666348829910778  0.3333651170089152  0.6375400975562592  1.0000

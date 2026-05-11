@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrCoVSBrS
+_chemical_formula_sum              "Br2 Co1 V1 S2"
+_cell_length_a       4.614812873490495
+_cell_length_b       3.4441132380674535
+_cell_length_c       20.69500965942174
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.97121943339144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7459385052427496  0.2494277549786831  0.6375937908013731  1.0000
+  Co  Co1       1.0  0.7472498074736682  0.7498025866208055  0.5553640354106892  1.0000
+  V   V1        1.0  0.24847982280934403  0.24869846877467652  0.4526793548893475  1.0000
+  S   S1        1.0  0.7483693629791934  0.25000035922130254  0.4852575438200572  1.0000
+  Br  Br2       1.0  0.2508521178033317  0.7491696107750485  0.3624062091986269  1.0000
+  S   S2        1.0  0.24787969114005556  0.7487935443843675  0.5333951927416551  1.0000

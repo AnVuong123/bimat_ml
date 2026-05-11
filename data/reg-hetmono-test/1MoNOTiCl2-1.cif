@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NTiMoOCl2
+_chemical_formula_sum              "N1 Ti1 Mo1 O1 Cl2"
+_cell_length_a       3.8134720152819166
+_cell_length_b       3.037202003050918
+_cell_length_c       21.019593078695863
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.47551854400169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.9047687193146099  0.5514237242196831  0.4700428163854559  1.0000
+  Ti  Ti1       1.0  0.48375869250567094  0.8409073906418029  0.4434477210568866  1.0000
+  Mo  Mo1       1.0  0.04809968514445005  0.12317776500586573  0.534090144392246  1.0000
+  O   O1        1.0  0.4574358381748535  0.8279123716799403  0.5408117886899468  1.0000
+  Cl  Cl1       1.0  0.042496936142430844  0.12027339775205649  0.6433573910025706  1.0000
+  Cl  Cl2       1.0  0.35300867111431034  0.2753961554276276  0.3568130294206217  1.0000

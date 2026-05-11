@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeOAuO
+_chemical_formula_sum              "Te1 O2 Au1"
+_cell_length_a       5.176523958765404
+_cell_length_b       4.098240931834295
+_cell_length_c       16.280211607468676
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.30778354247859
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.2055989858814262  0.3553214547211683  0.46037540411596695  1.0000
+  O   O1        1.0  0.19137518684261745  0.8483484710884015  0.46204297938191585  1.0000
+  Au  Au1       1.0  0.6938292653441327  0.5995886863970519  0.530494569211397  1.0000
+  O   O2        1.0  0.8989976523535287  0.20170808472258064  0.5396457096947913  1.0000

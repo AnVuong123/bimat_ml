@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I3Ag3
+_chemical_formula_sum              "I3 Ag3"
+_cell_length_a       7.408415687022308
+_cell_length_b       4.527370930350656
+_cell_length_c       19.73860462
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5479940522373885  0.5438078725150246  0.6183204851407584  1.0000
+  I   I2        1.0  0.5479940522373885  0.04423388748497218  0.3816795148592456  1.0000
+  I   I3        1.0  0.02742635265915856  0.2940208799999996  0.5  1.0000
+  Ag  Ag1       1.0  0.7403446810015945  0.9989643754318546  0.560449306879002  1.0000
+  Ag  Ag2       1.0  0.7403446810015945  0.5890773845681475  0.43955069312099815  1.0000
+  Ag  Ag3       1.0  0.41842270636521856  0.2940208799999996  0.5  1.0000

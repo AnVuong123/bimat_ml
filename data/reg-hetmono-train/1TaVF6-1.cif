@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaVF6
+_chemical_formula_sum              "Ta1 V1 F6"
+_cell_length_a       5.6699297753506865
+_cell_length_b       5.669929775350687
+_cell_length_c       33.65169600000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  1.445261326528713e-17  0.4999999999999999  1.0000
+  V   V1        1.0  0.5  0.5  0.4999999999999999  1.0000
+  F   F1        1.0  0.7523217148530488  0.7523217148530488  0.4999999999999999  1.0000
+  F   F2        1.0  0.24767828514695117  0.7523217148530488  0.4999999999999999  1.0000
+  F   F3        1.0  0.24767828514695117  0.2476782851469512  0.4999999999999999  1.0000
+  F   F4        1.0  0.7523217148530488  0.2476782851469512  0.4999999999999999  1.0000
+  F   F5        1.0  2.597443895463546e-18  0.0  0.5566621820732884  1.0000
+  F   F6        1.0  1.4606210193751477e-18  5.3706853728450904e-20  0.4433378179267114  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeAl2O4
+_chemical_formula_sum              "Fe1 Al2 O4"
+_cell_length_a       3.0373672850335933
+_cell_length_b       3.0378911637710027
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99429562476722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.0  0.0  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6668239488421388  0.3336478976842771  0.4246482585753525  1.0000
+  Al  Al2       1.0  0.33317605115786014  0.6663521023157232  0.5753517414246477  1.0000
+  O   O1        1.0  0.6664924964973923  0.33298499299478385  0.5902491811911558  1.0000
+  O   O2        1.0  0.333507503502606  0.6670150070052149  0.4097508188088427  1.0000
+  O   O3        1.0  0.6666887373248928  0.33337747464978484  0.469182480489725  1.0000
+  O   O4        1.0  0.33331126267510586  0.6666225253502146  0.530817519510274  1.0000

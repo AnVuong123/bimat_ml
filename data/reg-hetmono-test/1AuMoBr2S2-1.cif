@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MoAuBrSBrS
+_chemical_formula_sum              "Mo1 Au1 Br2 S2"
+_cell_length_a       3.7823214726557883
+_cell_length_b       4.745235980295142
+_cell_length_c       21.168373060874863
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.04672778258524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2993632547630935  0.753392053492246  0.5570252628330882  1.0000
+  Au  Au1       1.0  0.6520884938173862  0.2534507411932344  0.4443594310248792  1.0000
+  Br  Br1       1.0  0.8080057019177082  0.7542757726054748  0.6456978541321099  1.0000
+  S   S1        1.0  0.34319653675751877  0.253436707276319  0.5436240121532813  1.0000
+  Br  Br2       1.0  0.08694796875037365  0.2514037389563846  0.35430214586789005  1.0000
+  S   S2        1.0  0.8027439322997416  0.7533419139517428  0.4817818390601923  1.0000

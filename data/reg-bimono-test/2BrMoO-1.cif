@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mo2O2Br2
+_chemical_formula_sum              "Mo2 O2 Br2"
+_cell_length_a       4.064256849045364
+_cell_length_b       3.1092218703450567
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.4999999999999999  5.365167266355267e-17  0.46875291928139656  1.0000
+  Mo  Mo2       1.0  0.9999999999999999  0.49999999999999994  0.5312441048332804  1.0000
+  O   O1        1.0  0.4999999999999999  0.49999999999999994  0.5422501692418282  1.0000
+  O   O2        1.0  1.6805604862972995e-17  0.0  0.45774665221264943  1.0000
+  Br  Br1       1.0  0.4999999999999999  0.49999999999999994  0.37212643949895496  1.0000
+  Br  Br2       1.0  1.832622420813486e-18  0.0  0.627870451632671  1.0000

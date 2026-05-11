@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaClTaOTaOBrO
+_chemical_formula_sum              "Ta3 Cl1 O3 Br1"
+_cell_length_a       3.4347996522591187
+_cell_length_b       6.200009815557194
+_cell_length_c       20.522734057464493
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    106.08734432476977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.04020097941515033  0.5394247951887856  0.5376794110995483  1.0000
+  Cl  Cl1       1.0  0.2310411117017749  0.9210982155174223  0.36448226717637355  1.0000
+  Ta  Ta2       1.0  0.26916117506144677  0.9972785023341134  0.5472103744872093  1.0000
+  O   O1        1.0  0.1548542283162683  0.7681893897586319  0.6102022460733295  1.0000
+  Ta  Ta3       1.0  0.6834802141084955  0.8257581130888112  0.45500154663638426  1.0000
+  O   O2        1.0  0.8418566242417664  0.14264887470929116  0.5131429488872985  1.0000
+  Br  Br1       1.0  0.4473384969426897  0.35362372714640217  0.6325146696305824  1.0000
+  O   O3        1.0  0.5211510298065216  0.5010043781847805  0.482490355992425  1.0000

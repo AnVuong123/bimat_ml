@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaOPt2O2ClI
+_chemical_formula_sum              "Ga1 O3 Pt2 Cl1 I1"
+_cell_length_a       3.9093466951531872
+_cell_length_b       6.145011745036361
+_cell_length_c       21.37045111441156
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.54851513581886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.33195006180797104  0.14634444825336865  0.5708762675334755  1.0000
+  O   O1        1.0  0.8600565008256046  0.2025584857929475  0.5600659264216783  1.0000
+  Pt  Pt1       1.0  0.02118921743701021  0.5247938824252191  0.5976422528330454  1.0000
+  Pt  Pt2       1.0  0.8086102770856709  0.09964942794389686  0.4636176412907815  1.0000
+  O   O2        1.0  0.49062989538904617  0.4636893710477644  0.599995770953911  1.0000
+  O   O3        1.0  0.3067042708504232  0.09584714501452352  0.48055320884849684  1.0000
+  Cl  Cl1       1.0  0.19615987680513416  0.8746566463491658  0.648922736637495  1.0000
+  I   I1        1.0  0.7381638487901767  0.9586636378051041  0.3508832245387929  1.0000

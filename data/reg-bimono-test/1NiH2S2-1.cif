@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SHNiSH
+_chemical_formula_sum              "S2 H2 Ni1"
+_cell_length_a       3.6506333182991795
+_cell_length_b       3.649837187447175
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00721587095802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.33335537859227454  0.6667107571845464  0.558728002840849  1.0000
+  H   H1        1.0  0.3332471451519238  0.6664942903038449  0.6316526420453412  1.0000
+  Ni  Ni1       1.0  5.083455211569128e-10  1.0166907094280619e-09  0.5000000007763244  1.0000
+  S   S2        1.0  0.6666446221908612  0.3332892443817215  0.44127199807808437  1.0000
+  H   H2        1.0  0.6667528548429338  0.33350570968586707  0.368347358865377  1.0000

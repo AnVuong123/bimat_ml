@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeMnISrCaI
+_chemical_formula_sum              "Se1 Mn1 I2 Sr1 Ca1"
+_cell_length_a       4.378683019429352
+_cell_length_b       4.37895097275788
+_cell_length_c       23.266639972031506
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    120.00566520254775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.16231767033122288  0.8278025456412814  0.4864577069542388  1.0000
+  Mn  Mn1       1.0  0.8288278539325691  0.1612766148676503  0.48757085030425457  1.0000
+  I   I1        1.0  0.8273646354833525  0.1575833069594161  0.6776474940223952  1.0000
+  Sr  Sr1       1.0  0.49412704684210723  0.49093886695960004  0.5890182784567418  1.0000
+  Ca  Ca1       1.0  0.49631415159149705  0.4960634827483383  0.40192197060811763  1.0000
+  I   I2        1.0  0.8300370234491006  0.16375105772534088  0.3223457579741387  1.0000

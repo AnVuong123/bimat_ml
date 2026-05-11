@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnIAgBr
+_chemical_formula_sum              "Zn1 I1 Ag1 Br1"
+_cell_length_a       5.10891830841712
+_cell_length_b       4.578061780491788
+_cell_length_c       17.876456959808397
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.29657728972605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.2517773900662952  0.7309891965802018  0.5472412842000444  1.0000
+  I   I1        1.0  0.24984548915708046  0.31522217760418536  0.4194439004052119  1.0000
+  Ag  Ag1       1.0  0.7490062184832743  0.21177553893527665  0.48393630053720305  1.0000
+  Br  Br1       1.0  0.7515550742255868  0.7441248254409323  0.5803231826107391  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sn2Sb2Te6
+_chemical_formula_sum              "Sn2 Sb2 Te6"
+_cell_length_a       7.6055501470073965
+_cell_length_b       7.604430322916341
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99680927718478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.9999846959823533  0.999993723912618  0.5002974561385772  1.0000
+  Sn  Sn2       1.0  0.3333535969128677  0.6666833673205439  0.4997312400129963  1.0000
+  Sb  Sb1       1.0  0.6667187425136658  0.3332943971096581  0.42246680986214313  1.0000
+  Sb  Sb2       1.0  0.6666210229427995  0.3333852292841039  0.577518056175818  1.0000
+  Te  Te1       1.0  0.3146689502010652  0.9821671373344538  0.38688761013063866  1.0000
+  Te  Te2       1.0  0.017906993723874276  0.33263060570610187  0.3868395807561913  1.0000
+  Te  Te3       1.0  0.6675286390497097  0.6853256058791691  0.38690174623708434  1.0000
+  Te  Te4       1.0  0.018643930072487214  0.6844384353729591  0.6131255595884939  1.0000
+  Te  Te5       1.0  0.3155093778518261  0.33409983782537295  0.6131746078897813  1.0000
+  Te  Te6       1.0  0.6657637615584312  0.9813825388845628  0.613113674053454  1.0000

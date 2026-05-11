@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiTe2SiTe2
+_chemical_formula_sum              "Si2 Te4"
+_cell_length_a       3.791073524452026
+_cell_length_b       3.7910735244520266
+_cell_length_c       25.045726654291233
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9927636967259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.9999999999999998  0.9999999999999998  0.36424416491972467  1.0000
+  Te  Te1       1.0  0.6666809684191758  0.33331903062033025  0.29945228196104184  1.0000
+  Te  Te2       1.0  0.33331903021494824  0.6666809679136956  0.42903604787840743  1.0000
+  Si  Si2       1.0  0.9999999999999997  0.9999999999999997  0.635755835308209  1.0000
+  Te  Te3       1.0  0.6666809684191757  0.33331903062033014  0.5709639523495262  1.0000
+  Te  Te4       1.0  0.33331903021494813  0.6666809679136955  0.700547717867622  1.0000

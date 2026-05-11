@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OFeHfTe2
+_chemical_formula_sum              "O1 Fe1 Hf1 Te2"
+_cell_length_a       3.9169445140706536
+_cell_length_b       3.2473172132666135
+_cell_length_c       20.249202106361185
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.47985176026398
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5928879983015592  0.5481169938010587  0.5046055182499142  1.0000
+  Fe  Fe1       1.0  0.7690802864346356  0.1362932100834852  0.5647868111276337  1.0000
+  Hf  Hf1       1.0  0.18187375996001431  0.8427202075066453  0.47860210006875686  1.0000
+  Te  Te1       1.0  0.8103834361595441  0.15696364464714035  0.37028848331476266  1.0000
+  Te  Te2       1.0  0.14190374899016917  0.822573463612146  0.6297564088886849  1.0000

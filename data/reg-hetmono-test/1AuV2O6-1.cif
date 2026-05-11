@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AuVOVO5
+_chemical_formula_sum              "Au1 V2 O6"
+_cell_length_a       3.5751767303375503
+_cell_length_b       9.142159287926711
+_cell_length_c       33.780049036868625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    101.3415161324246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.15323355845742093  0.3158248136424086  0.49992708091005966  1.0000
+  V   V1        1.0  0.9572953684478623  0.9230658925792061  0.5250069260079827  1.0000
+  O   O1        1.0  0.44640639310816643  0.9012405418791443  0.5060270225480002  1.0000
+  V   V2        1.0  0.34946940446251373  0.7087840169221068  0.4750405880647781  1.0000
+  O   O2        1.0  0.25056884785271705  0.5117271476507592  0.47596913840725247  1.0000
+  O   O3        1.0  0.05640292191763967  0.12011853321026157  0.5239949604270085  1.0000
+  O   O4        1.0  0.8606117277795097  0.7306652378007646  0.4940227968746262  1.0000
+  O   O5        1.0  0.37050151029618694  0.752369858920063  0.4295504000248802  1.0000
+  O   O6        1.0  0.9344670569587848  0.8794471457754169  0.5704966970339335  1.0000

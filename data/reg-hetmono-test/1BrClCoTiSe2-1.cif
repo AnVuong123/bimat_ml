@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiCoSeBrClSe
+_chemical_formula_sum              "Ti1 Co1 Se2 Br1 Cl1"
+_cell_length_a       3.413470626835407
+_cell_length_b       5.888278901206919
+_cell_length_c       18.99087714180824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02451543580348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7444204203516129  0.12097033228753287  0.5028062548294246  1.0000
+  Co  Co1       1.0  0.24581560789135642  0.5099973177887823  0.46770544389820856  1.0000
+  Se  Se1       1.0  0.24481705980965995  0.8979197012698706  0.43089125542700646  1.0000
+  Br  Br1       1.0  0.2444129949060982  0.050333340296504235  0.6050735337817117  1.0000
+  Cl  Cl1       1.0  0.7457517039466642  0.3772027725102149  0.39492646621828853  1.0000
+  Se  Se2       1.0  0.745739485331368  0.5316890794536051  0.5488725415030788  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb2I4
+_chemical_formula_sum              "Pb2 I4"
+_cell_length_a       8.857501908320133
+_cell_length_b       4.302066265834845
+_cell_length_c       22.38145593
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9999988096252
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.25000001999998  0.21459263362804432  0.5627440075231586  1.0000
+  Pb  Pb2       1.0  0.750000019999981  0.21459261362804352  0.43725598247684155  1.0000
+  I   I1        1.0  0.2499999900000159  0.7157070206776697  0.6631161154764387  1.0000
+  I   I2        1.0  0.7499999900000183  0.7157070206776697  0.33688389452356005  1.0000
+  I   I3        1.0  0.9999999700000065  0.7180068468589511  0.5  1.0000
+  I   I4        1.0  0.5000000000000063  0.7180068168589527  0.5  1.0000

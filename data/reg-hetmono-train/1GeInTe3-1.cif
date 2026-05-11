@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InGeTe3
+_chemical_formula_sum              "In1 Ge1 Te3"
+_cell_length_a       7.4210644685837694
+_cell_length_b       7.4217760576853165
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9992036524057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  1.4485775097570687e-05  0.9999492375867018  0.512850153805011  1.0000
+  Ge  Ge1       1.0  0.6666642386664878  0.3333090189510288  0.5131734214929352  1.0000
+  Te  Te1       1.0  0.050032247016326026  0.4207983814114722  0.5131841498333088  1.0000
+  Te  Te2       1.0  0.3708606861152375  0.9499983593018598  0.5131892334436247  1.0000
+  Te  Te3       1.0  0.5792284347531892  0.6291448605903017  0.5131864844748543  1.0000

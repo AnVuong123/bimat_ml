@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ITeNb2O
+_chemical_formula_sum              "I1 Te1 Nb2 O1"
+_cell_length_a       3.4638510068089468
+_cell_length_b       5.0898298153274535
+_cell_length_c       19.422779283264497
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.93685402191596
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5547829350436839  0.9455124624199693  0.3861301260294512  1.0000
+  Te  Te1       1.0  0.11141406527270492  0.05517516594962854  0.613871088330154  1.0000
+  Nb  Nb1       1.0  0.462503372903995  0.7584024735290303  0.5267054668537999  1.0000
+  Nb  Nb2       1.0  0.20485713046121865  0.24401368280875943  0.48060011653604  1.0000
+  O   O1        1.0  0.828438049637267  0.4906914758881041  0.49694395149217824  1.0000

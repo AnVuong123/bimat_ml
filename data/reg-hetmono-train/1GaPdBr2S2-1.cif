@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdGaS2Br2
+_chemical_formula_sum              "Pd1 Ga1 S2 Br2"
+_cell_length_a       3.6762985474256697
+_cell_length_b       8.403111269288779
+_cell_length_c       18.756451424737822
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    115.89580617809126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.6137991487870292  0.10889740702158543  0.5464916693837755  1.0000
+  Ga  Ga1       1.0  0.18623014763088255  0.6807198089454205  0.4962855597302447  1.0000
+  S   S1        1.0  0.7161646810314325  0.7107157517743248  0.5764217131864461  1.0000
+  S   S2        1.0  0.9971418729389876  0.9920048841625384  0.6001250122546853  1.0000
+  Br  Br1       1.0  0.8867231229808572  0.3789455375304602  0.4565017135002861  1.0000
+  Br  Br2       1.0  0.37840414235680037  0.8741751266785132  0.3999331695041743  1.0000

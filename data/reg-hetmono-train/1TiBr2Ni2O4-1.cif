@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       TiBrNi2O4Br
+_chemical_formula_sum              "Ti1 Br2 Ni2 O4"
+_cell_length_a       5.504028642156741
+_cell_length_b       5.378684622443884
+_cell_length_c       18.786975277423604
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.69758419531976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8489845765564801  0.6568063496666176  0.5069762590510295  1.0000
+  Br  Br1       1.0  0.8558787475043852  0.016310576602833082  0.39921274655706734  1.0000
+  Ni  Ni1       1.0  0.48510488166428634  0.986872151356037  0.49869638448781467  1.0000
+  Ni  Ni2       1.0  0.22585984262151784  0.36628578061762646  0.47733077893945636  1.0000
+  O   O1        1.0  0.12071887761332467  0.01690827754228974  0.5399860742166892  1.0000
+  O   O2        1.0  0.14993573142288047  0.6575391594314559  0.45106867712148735  1.0000
+  O   O3        1.0  0.5056323329509064  0.6688923851824783  0.5350695453671513  1.0000
+  O   O4        1.0  0.5272472225419653  0.3109298840426247  0.4498406702645334  1.0000
+  Br  Br2       1.0  0.7703338206953415  0.2902971096783922  0.6007872534429328  1.0000

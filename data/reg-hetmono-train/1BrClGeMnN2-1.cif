@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NMnNClGeBr
+_chemical_formula_sum              "N2 Mn1 Cl1 Ge1 Br1"
+_cell_length_a       3.3182288173458523
+_cell_length_b       3.462432416843064
+_cell_length_c       21.491945091775435
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.62740985898887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8999769275054895  0.13075319907965102  0.4658641605821238  1.0000
+  Mn  Mn1       1.0  0.8968952830448204  0.12460756716235799  0.5628625272847652  1.0000
+  N   N2        1.0  0.21936262382046506  0.7694513866433956  0.5432019671455662  1.0000
+  Cl  Cl1       1.0  0.21817001324100513  0.7662333525447583  0.3489679490606045  1.0000
+  Ge  Ge1       1.0  0.22938666626998538  0.7896359969575293  0.4498731837953466  1.0000
+  Br  Br1       1.0  0.5095429128480014  0.3499268919611104  0.6510320509393954  1.0000

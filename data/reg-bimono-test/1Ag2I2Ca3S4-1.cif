@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca2AgS2ICaAgS2I
+_chemical_formula_sum              "Ca3 Ag2 S4 I2"
+_cell_length_a       4.789504958671047
+_cell_length_b       4.789504958671047
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  7.089826788559756e-29  0.0  0.5  1.0000
+  Ca  Ca2       1.0  0.0  3.078941727421779e-17  0.5939260053453583  1.0000
+  Ag  Ag1       1.0  0.5000000000000008  0.5000000000000008  0.5392241343814921  1.0000
+  S   S1        1.0  0.0  0.5000000000000008  0.5486592897437436  1.0000
+  S   S2        1.0  0.5000000000000008  0.0  0.5486592897437436  1.0000
+  I   I1        1.0  0.5000000000000008  0.5000000000000008  0.6305478142297956  1.0000
+  Ca  Ca3       1.0  0.0  4.628801162967663e-18  0.4060739946546419  1.0000
+  Ag  Ag2       1.0  0.5000000000000008  0.5000000000000008  0.46077586561850803  1.0000
+  S   S3        1.0  3.877979207954346e-18  0.5000000000000008  0.45134071025625655  1.0000
+  S   S4        1.0  0.5000000000000008  0.0  0.45134071025625655  1.0000
+  I   I2        1.0  0.5000000000000008  0.5000000000000008  0.36945218577020567  1.0000

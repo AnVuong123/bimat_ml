@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeF4
+_chemical_formula_sum              "Ge1 F4"
+_cell_length_a       3.8095672911082623
+_cell_length_b       3.809561817997329
+_cell_length_c       18.950664826136126
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99997531983135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.008943872094118828  0.0009202521275975028  0.49999999999999756  1.0000
+  F   F1        1.0  0.5088904214328733  0.0008988383746398435  0.49999999999999944  1.0000
+  F   F2        1.0  0.008946422355630711  0.5009699577277144  0.4999999999999984  1.0000
+  F   F3        1.0  0.008782128906212246  0.0010633101303660247  0.5912922829911863  1.0000
+  F   F4        1.0  0.00878212890624837  0.0010633101303563768  0.4087077170088097  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaTi2BrN2BrN
+_chemical_formula_sum              "Ga1 Ti2 Br2 N3"
+_cell_length_a       4.044738763530748
+_cell_length_b       5.422304528559419
+_cell_length_c       19.989267639729192
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.1527725493602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7113085204965465  0.5475249293265148  0.45908897850843167  1.0000
+  Ti  Ti1       1.0  0.09010453913297073  0.31297412760873466  0.5401003095274268  1.0000
+  Ti  Ti2       1.0  0.39457558831173173  0.9386154431526429  0.5009628538256465  1.0000
+  Br  Br1       1.0  0.2939614075449786  0.7018258726576284  0.6247986602023603  1.0000
+  N   N1        1.0  0.9122618220457436  0.9437813034784068  0.49864562997960854  1.0000
+  N   N2        1.0  0.21628910221993744  0.5536516712497027  0.46775228388622575  1.0000
+  Br  Br2       1.0  0.5265155573151553  0.17503367929110905  0.3752013397976399  1.0000
+  N   N3        1.0  0.5821067097212436  0.28614696118545574  0.5421453401680287  1.0000

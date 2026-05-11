@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SIAgISRh
+_chemical_formula_sum              "S2 I2 Ag1 Rh1"
+_cell_length_a       3.8250991048201963
+_cell_length_b       4.588732360472005
+_cell_length_c       21.57970374190959
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.04244195314158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.25455204616637955  0.7503550824494226  0.5037069579575126  1.0000
+  I   I1        1.0  0.25462216604594123  0.7503654798817541  0.3481623469515862  1.0000
+  Ag  Ag1       1.0  0.2534316211259  0.25035932537316985  0.5564871222224996  1.0000
+  I   I2        1.0  0.7530276754569153  0.25032177809329  0.6517225673571293  1.0000
+  S   S2        1.0  0.7545370977787332  0.250403929249561  0.47085016277537656  1.0000
+  Rh  Rh1       1.0  0.7546205234370977  0.7503233245576566  0.43639344541916525  1.0000

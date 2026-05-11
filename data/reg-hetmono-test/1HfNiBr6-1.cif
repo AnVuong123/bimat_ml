@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfNiBr6
+_chemical_formula_sum              "Hf1 Ni1 Br6"
+_cell_length_a       6.62429232707629
+_cell_length_b       6.639430072933368
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9246075941074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9686793185998206  0.9372794168923768  0.5000046407277421  1.0000
+  Ni  Ni1       1.0  0.30183835769021405  0.6035946082881407  0.5000048419738095  1.0000
+  Br  Br1       1.0  0.27803813152059453  0.9065884376129878  0.5845171913836397  1.0000
+  Br  Br2       1.0  0.6292407300080328  0.6284626482289377  0.5845509624775491  1.0000
+  Br  Br3       1.0  0.9978249995972269  0.2763989298917491  0.5841570576916825  1.0000
+  Br  Br4       1.0  0.27865000642867527  0.2763983444913494  0.415851722053243  1.0000
+  Br  Br5       1.0  0.999301087101619  0.6284614031214327  0.41545872018062946  1.0000
+  Br  Br6       1.0  0.6286310069314939  0.9065908502126028  0.41549416540176026  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WClWClO2
+_chemical_formula_sum              "W2 Cl2 O2"
+_cell_length_a       3.250131408255108
+_cell_length_b       6.256328516196522
+_cell_length_c       19.67984270077098
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    104.9840329602885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.36426652076300403  0.8606878640838578  0.5220837006225455  1.0000
+  Cl  Cl1       1.0  0.8722088593717845  0.8745933581915752  0.6188981195510957  1.0000
+  W   W2        1.0  0.5519446665498983  0.2385824612472678  0.49572734691205494  1.0000
+  Cl  Cl2       1.0  0.5351586469661946  0.2223949750880166  0.3810975592949815  1.0000
+  O   O1        1.0  0.8074998727204971  0.7465591117917012  0.4804686066777687  1.0000
+  O   O2        1.0  0.11087295228373323  0.35633484763189793  0.5310802148822484  1.0000

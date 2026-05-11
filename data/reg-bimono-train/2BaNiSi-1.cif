@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaNi2SiBaSi
+_chemical_formula_sum              "Ba2 Ni2 Si2"
+_cell_length_a       4.10520399261059
+_cell_length_b       4.105203992610283
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000499983874
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9958236513691057  0.9958236513691051  0.6349572062363649  1.0000
+  Ni  Ni1       1.0  0.495827895512475  0.9957697151765873  0.49986646806128815  1.0000
+  Ni  Ni2       1.0  0.9957697151765909  0.49582789551247014  0.49986646806123075  1.0000
+  Si  Si1       1.0  0.49584194720135666  0.49584194720135494  0.5543294402013924  1.0000
+  Ba  Ba2       1.0  0.4957727208904576  0.49577272089045876  0.36477608749856105  1.0000
+  Si  Si2       1.0  0.9957548509483254  0.9957548509483237  0.44539610657252454  1.0000

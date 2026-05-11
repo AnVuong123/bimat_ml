@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       VCl2AgCl2
+_chemical_formula_sum              "V1 Cl4 Ag1"
+_cell_length_a       3.620223336518246
+_cell_length_b       7.163655807637926
+_cell_length_c       17.846669825920827
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    88.2482188598167
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.749680470194417  0.9171994010455693  0.5000467032220121  1.0000
+  Cl  Cl1       1.0  0.7349573505575271  0.20414575354673745  0.43363299305994096  1.0000
+  Cl  Cl2       1.0  0.764961663547556  0.6304444901735443  0.5666208412979177  1.0000
+  Ag  Ag1       1.0  0.2501153150394357  0.41749347275629395  0.500051549693212  1.0000
+  Cl  Cl3       1.0  0.24138601784262317  0.028790511230490517  0.5797523146717142  1.0000
+  Cl  Cl4       1.0  0.25838455646995895  0.8055995904793894  0.420253767931388  1.0000

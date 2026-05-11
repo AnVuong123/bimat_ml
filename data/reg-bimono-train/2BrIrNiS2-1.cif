@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiIrBrSBrIrS3Ni
+_chemical_formula_sum              "Ni2 Ir2 Br2 S4"
+_cell_length_a       4.767280103151609
+_cell_length_b       4.76973427055362
+_cell_length_c       22.236183082397567
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    85.02291212577529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7808834580794084  0.2399232946821373  0.5577263712140325  1.0000
+  Ir  Ir1       1.0  0.7291670258602962  0.7625597559769871  0.44135515971161093  1.0000
+  Br  Br1       1.0  0.770087861902019  0.2336933371435619  0.6626874778144481  1.0000
+  S   S1        1.0  0.27665144635597216  0.2142552969585369  0.5472626469124011  1.0000
+  Br  Br2       1.0  0.5248905609364448  0.9784064615792919  0.33727090709068247  1.0000
+  Ir  Ir2       1.0  0.30641852487564  0.18242973425915893  0.4413744457019635  1.0000
+  S   S2        1.0  0.799441496908952  0.25538236657325303  0.4575055538113904  1.0000
+  S   S3        1.0  0.2325618840690945  0.6868276773555031  0.45200975785903075  1.0000
+  S   S4        1.0  0.7608497411223932  0.7342017404849779  0.5472499043804345  1.0000
+  Ni  Ni2       1.0  0.26241144153352686  0.7155924894937725  0.5520996918140938  1.0000

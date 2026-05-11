@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuSe2CaFCaF
+_chemical_formula_sum              "Cu1 Se2 Ca2 F2"
+_cell_length_a       4.847282747522741
+_cell_length_b       4.8472827475227405
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    91.65782276670637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9318963792656235  0.9318963792656242  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.4299551416967308  0.8948712137831947  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.894871213783205  0.4299551416967293  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.38390024423944596  0.3839002442394471  0.4107186571955972  1.0000
+  F   F1        1.0  0.1469940267338099  0.14699402673381035  0.35291202757664997  1.0000
+  Ca  Ca2       1.0  0.3839002442474048  0.38390024424740476  0.589281342785504  1.0000
+  F   F2        1.0  0.14699402675286463  0.14699402675286669  0.6470879724156725  1.0000

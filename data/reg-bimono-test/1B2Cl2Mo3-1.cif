@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo3B2Cl2
+_chemical_formula_sum              "Mo3 B2 Cl2"
+_cell_length_a       3.2813622307065136
+_cell_length_b       3.2813622307065167
+_cell_length_c       23.44178573351778
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000000000002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  3.892568401637412e-17  7.237373410281402e-17  0.5000006402529266  1.0000
+  Mo  Mo2       1.0  0.6666666666666671  0.33333333333333365  0.5962027287505746  1.0000
+  Mo  Mo3       1.0  0.6666666666666671  0.33333333333333365  0.4037985823534176  1.0000
+  B   B1        1.0  0.3333333333333345  0.6666666666666667  0.5514520139113739  1.0000
+  B   B2        1.0  0.3333333333333345  0.6666666666666667  0.44854921818677146  1.0000
+  Cl  Cl1       1.0  0.0  0.0  0.6742718743498475  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.32572919686518426  1.0000

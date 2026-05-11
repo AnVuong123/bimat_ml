@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Br2PdTiO
+_chemical_formula_sum              "Br2 Pd1 Ti1 O1"
+_cell_length_a       5.260387883273232
+_cell_length_b       3.567936683755946
+_cell_length_c       19.140799982503072
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    93.18250223744289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8868907007636322  0.9210372204502983  0.39183315257752444  1.0000
+  Br  Br2       1.0  0.8884597911442959  0.9244662548616643  0.6081668474224756  1.0000
+  Pd  Pd1       1.0  0.6257900486095405  0.7431231277089924  0.5003434846035356  1.0000
+  Ti  Ti1       1.0  0.13361397161943478  0.9679871391666535  0.49983484358268937  1.0000
+  O   O1        1.0  0.2486386617628476  0.4724204579719446  0.4996351011646876  1.0000

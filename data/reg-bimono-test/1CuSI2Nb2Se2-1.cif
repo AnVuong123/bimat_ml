@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NbSNbICuISe2
+_chemical_formula_sum              "Nb2 S1 I2 Cu1 Se2"
+_cell_length_a       4.0829481559921605
+_cell_length_b       6.306660119386788
+_cell_length_c       21.46550894843117
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.03355195863871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7533049012521283  0.18891025302700318  0.5351696067319069  1.0000
+  S   S1        1.0  0.7532218459097394  0.8575976141026433  0.4789383867140748  1.0000
+  Nb  Nb2       1.0  0.2534324572116257  0.03360886154575016  0.44817198707077643  1.0000
+  I   I1        1.0  0.751859979516642  0.43673199334248664  0.6507319994243753  1.0000
+  Cu  Cu1       1.0  0.2513110968774645  0.5840188352543035  0.5852903322643928  1.0000
+  I   I2        1.0  0.7544919486604343  0.13373468039051725  0.3493360890983549  1.0000
+  Se  Se1       1.0  0.2532543691633894  0.9713661760804625  0.5789035739233249  1.0000
+  Se  Se2       1.0  0.2543743346801813  0.41716937030483764  0.4826235184348407  1.0000

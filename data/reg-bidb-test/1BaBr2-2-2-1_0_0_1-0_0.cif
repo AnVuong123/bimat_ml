@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaBr2BaBr2
+_chemical_formula_sum              "Ba2 Br4"
+_cell_length_a       4.96316837477471
+_cell_length_b       4.9631683747747095
+_cell_length_c       27.227321755747354
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.0  0.0  0.33263758078181943  1.0000
+  Br  Br1       1.0  0.6666666673553718  0.3333333336579302  0.3898165590877327  1.0000
+  Br  Br2       1.0  0.3333333336579303  0.6666666673158604  0.2754586024759061  1.0000
+  Ba  Ba2       1.0  0.0  0.0  0.5512145974046079  1.0000
+  Br  Br3       1.0  0.6666666673553718  0.3333333336579302  0.6083935757105212  1.0000
+  Br  Br4       1.0  0.3333333336579303  0.6666666673158604  0.49403561909869453  1.0000

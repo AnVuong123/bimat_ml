@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrS2CrClSICu
+_chemical_formula_sum              "Cr2 S3 Cl1 I1 Cu1"
+_cell_length_a       4.489877306234182
+_cell_length_b       6.357702330825706
+_cell_length_c       19.62291516271111
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.6618738476136
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.3374762220627727  0.2479902032745817  0.5551686171140514  1.0000
+  S   S1        1.0  0.885578129026899  0.34448742479446975  0.5791258804008631  1.0000
+  S   S2        1.0  0.5217455136626796  0.6172325969917982  0.5209712486309599  1.0000
+  Cr  Cr2       1.0  0.061593723067873196  0.6966682376715968  0.5123291045040969  1.0000
+  Cl  Cl1       1.0  0.16913532030707293  0.9113955337329178  0.6177937917067468  1.0000
+  S   S3        1.0  0.23992891632253618  0.05285974393792487  0.4569898994366477  1.0000
+  I   I1        1.0  0.9764260503682546  0.5274325736252191  0.38220620829325325  1.0000
+  Cu  Cu1       1.0  0.8092019115435107  0.19121006631919352  0.4706759863565686  1.0000

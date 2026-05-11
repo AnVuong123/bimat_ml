@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       I2GeSSr
+_chemical_formula_sum              "I2 Ge1 S1 Sr1"
+_cell_length_a       4.4551926975230725
+_cell_length_b       4.459976161560339
+_cell_length_c       21.887491797568856
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.1417758528704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4704047090894077  0.017401332131928404  0.3426614647930129  1.0000
+  I   I2        1.0  0.7740572799003358  0.7136878038164023  0.6573385352069872  1.0000
+  Ge  Ge1       1.0  0.8663188488803049  0.6200932500251307  0.4216745062238056  1.0000
+  S   S1        1.0  0.10820274767178266  0.3803760494049736  0.4917007099300855  1.0000
+  Sr  Sr1       1.0  0.4436781768420057  0.04445176222840583  0.5662689682059994  1.0000

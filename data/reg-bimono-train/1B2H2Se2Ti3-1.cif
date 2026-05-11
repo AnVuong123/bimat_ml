@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ti3B2Se2H2
+_chemical_formula_sum              "Ti3 B2 Se2 H2"
+_cell_length_a       3.575107906088218
+_cell_length_b       3.575683450966897
+_cell_length_c       24.220471835400282
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99467560232961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9684794339869076  0.9685427499191753  0.49999964503280825  1.0000
+  Ti  Ti2       1.0  0.6348118175720898  0.30151892992930807  0.5869628488013742  1.0000
+  Ti  Ti3       1.0  0.6348115432897217  0.30151891556294624  0.4130370299738859  1.0000
+  B   B1        1.0  0.3018126697986908  0.6350066886869988  0.5371923411646354  1.0000
+  B   B2        1.0  0.3018128608691608  0.6350068811737144  0.46280744798798373  1.0000
+  Se  Se1       1.0  0.9681825312367041  0.9679041477609908  0.6508558244568099  1.0000
+  Se  Se2       1.0  0.9681833159149414  0.9679049791816209  0.34914618968912364  1.0000
+  H   H1        1.0  0.9683441610460238  0.9684119916951374  0.7130005361078672  1.0000
+  H   H2        1.0  0.9683453750412911  0.9684126380100607  0.2870011649486064  1.0000

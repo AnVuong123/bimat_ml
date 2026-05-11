@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SISMoCoI
+_chemical_formula_sum              "S2 I2 Mo1 Co1"
+_cell_length_a       3.8427081341481153
+_cell_length_b       4.460461880892289
+_cell_length_c       20.848495919965234
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    97.1338800374721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7993683359237626  0.8001253005844317  0.5388312429573269  1.0000
+  I   I1        1.0  0.37027323612425095  0.29882144147781214  0.6402618189440832  1.0000
+  S   S2        1.0  0.12725688500276672  0.4266907444837448  0.46093391852795046  1.0000
+  Mo  Mo1       1.0  0.32860712713881157  0.9714694314657609  0.484142157255998  1.0000
+  Co  Co1       1.0  0.8657836990191861  0.29454833130280206  0.5541207214947541  1.0000
+  I   I2        1.0  0.5121560329867446  0.9143135055010712  0.359738181055917  1.0000

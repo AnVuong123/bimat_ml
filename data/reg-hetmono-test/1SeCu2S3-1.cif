@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SSeS2Cu2
+_chemical_formula_sum              "S3 Se1 Cu2"
+_cell_length_a       3.300996255607628
+_cell_length_b       5.978555373230271
+_cell_length_c       17.84057711745412
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00570775268307
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.24240337384025973  0.08294225645207905  0.5684755256456512  1.0000
+  Se  Se1       1.0  0.745471935526945  0.5767858839582365  0.5795487589315452  1.0000
+  S   S2        1.0  0.741584817050453  0.22759783023569816  0.42023270662006085  1.0000
+  S   S3        1.0  0.24348711829670228  0.724865817648134  0.4271296133192252  1.0000
+  Cu  Cu1       1.0  0.24297468970505517  0.3966170471042302  0.4938401892952971  1.0000
+  Cu  Cu2       1.0  0.7430153437787668  0.9085125544586068  0.49650087478942034  1.0000

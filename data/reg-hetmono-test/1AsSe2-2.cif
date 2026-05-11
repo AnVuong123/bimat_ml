@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       AsSe2
+_chemical_formula_sum              "As1 Se2"
+_cell_length_a       3.969184707641395
+_cell_length_b       3.9691847076415234
+_cell_length_c       18.662813126546318
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0  0.0  0.5000000000000002  1.0000
+  Se  Se1       1.0  3.650036851744904e-17  0.5  0.5769030477147222  1.0000
+  Se  Se2       1.0  0.49999999999999994  2.4925627528274872e-18  0.4230969522852717  1.0000

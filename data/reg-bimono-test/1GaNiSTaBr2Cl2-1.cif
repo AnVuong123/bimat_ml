@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaBrClSGaBrNiCl
+_chemical_formula_sum              "Ta1 Br2 Cl2 S1 Ga1 Ni1"
+_cell_length_a       8.515105493077973
+_cell_length_b       4.9759473277686475
+_cell_length_c       19.277924220318116
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    126.09598309784812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8635948667055667  0.7454039476720811  0.48650987849354127  1.0000
+  Br  Br1       1.0  0.024880934185455856  0.8385893502277886  0.610948116709004  1.0000
+  Cl  Cl1       1.0  0.5615619710731214  0.38537632090002194  0.5569298983945796  1.0000
+  S   S1        1.0  0.8631389754292498  0.1960009453403637  0.4907565706534144  1.0000
+  Ga  Ga1       1.0  0.24727093718556287  0.5632591795587938  0.5158148277173231  1.0000
+  Br  Br2       1.0  0.15722129405486002  0.9923832168787687  0.40056478696376596  1.0000
+  Ni  Ni1       1.0  0.2428343169887152  0.06013083140405755  0.5176708710878775  1.0000
+  Cl  Cl2       1.0  0.6679162760765294  0.47587403780530413  0.38902962878743724  1.0000

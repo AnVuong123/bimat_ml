@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoS2RuClBr
+_chemical_formula_sum              "Co1 S2 Ru1 Cl1 Br1"
+_cell_length_a       3.341955631358053
+_cell_length_b       6.271290618973115
+_cell_length_c       17.852763899741745
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    89.99887797436745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.26303747278393136  0.43906040283633685  0.49408571474468477  1.0000
+  S   S1        1.0  0.7630623205252677  0.28208871682474285  0.5537531614852066  1.0000
+  S   S2        1.0  0.2630951776053756  0.14236139504135759  0.427099322898008  1.0000
+  Ru  Ru1       1.0  0.7631244326822236  0.9659371531978217  0.488589921059985  1.0000
+  Cl  Cl1       1.0  0.762917465236463  0.6150828701295883  0.4201185227486628  1.0000
+  Br  Br1       1.0  0.2630705641924475  0.7603569432713596  0.5798369069337695  1.0000

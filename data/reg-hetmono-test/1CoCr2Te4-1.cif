@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeCrTeCoCrTe2
+_chemical_formula_sum              "Te4 Cr2 Co1"
+_cell_length_a       4.017649742029138
+_cell_length_b       4.017898422715759
+_cell_length_c       38.37088052501407
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99795260975358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7251800749179711  0.45036014983594286  0.6100133635563183  1.0000
+  Cr  Cr1       1.0  0.05843941837802716  0.11687883675605418  0.4261098436314942  1.0000
+  Te  Te2       1.0  0.7251587573475465  0.45031751469509373  0.466419800126635  1.0000
+  Co  Co1       1.0  0.058459813661681057  0.1169196273233621  0.5000016022152683  1.0000
+  Cr  Cr2       1.0  0.058478712679232464  0.11695742535846505  0.5738926115040527  1.0000
+  Te  Te3       1.0  0.39176022188430953  0.7835204437686188  0.533582687403893  1.0000
+  Te  Te4       1.0  0.3917376920853975  0.7834753841707948  0.3899890506222264  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se4CuMn
+_chemical_formula_sum              "Se4 Cu1 Mn1"
+_cell_length_a       4.175171618322763
+_cell_length_b       5.224532204274778
+_cell_length_c       18.776840180515816
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    103.23885605165299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.014400716341737896  0.5344853841822834  0.6005717720395505  1.0000
+  Se  Se2       1.0  0.5675128594139679  0.8898126451788556  0.41546852416863955  1.0000
+  Se  Se3       1.0  0.18258032846517988  0.0965061403715244  0.5843542242150558  1.0000
+  Se  Se4       1.0  0.7351410299070891  0.4348292477379885  0.3994282279604496  1.0000
+  Cu  Cu1       1.0  0.03914937751253399  0.7617944441026476  0.4850401204786914  1.0000
+  Mn  Mn1       1.0  0.7272128548314707  0.21304628401295822  0.5130898798188721  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SCdTiICl
+_chemical_formula_sum              "S1 Cd1 Ti1 I1 Cl1"
+_cell_length_a       3.5553238993619374
+_cell_length_b       4.230711376405289
+_cell_length_c       21.057593138027872
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    114.80955679266617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.14645710410471263  0.09951979438286895  0.4880293970837678  1.0000
+  Cd  Cd1       1.0  0.8602311580100812  0.5392829798795359  0.5784119249484316  1.0000
+  Ti  Ti1       1.0  0.44533730582370756  0.696882057427863  0.45534029369841655  1.0000
+  I   I1        1.0  0.8677303170256079  0.5418589513304759  0.35615763143347595  1.0000
+  Cl  Cl1       1.0  0.5596145021981248  0.9371564392923449  0.6438411982165747  1.0000

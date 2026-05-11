@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SBrNiBrClIn
+_chemical_formula_sum              "S1 Br2 Ni1 Cl1 In1"
+_cell_length_a       7.349543700927704
+_cell_length_b       4.000499142600537
+_cell_length_c       18.60501172983692
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    105.76861274025545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7534981667096866  0.4622954395026212  0.5680763817937283  1.0000
+  Br  Br1       1.0  0.9983587169961458  0.0843719791034111  0.43291337627653337  1.0000
+  Ni  Ni1       1.0  0.02661176837051362  0.5984518894577971  0.5028245237030766  1.0000
+  Br  Br2       1.0  0.263860159343766  0.7161921862702502  0.5968835429364571  1.0000
+  Cl  Cl1       1.0  0.45084948017798715  0.8081311701900428  0.4031229974389199  1.0000
+  In  In1       1.0  0.5842608112935068  0.8780693013094651  0.5189545962126166  1.0000

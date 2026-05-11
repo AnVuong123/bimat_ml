@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClNClHf
+_chemical_formula_sum              "Cl2 N1 Hf1"
+_cell_length_a       3.739040043865878
+_cell_length_b       4.072897764798647
+_cell_length_c       18.533362572218287
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0117056994794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7443017236838964  0.2530757719684235  0.40467562056129963  1.0000
+  N   N1        1.0  0.2799878659853565  0.7534501216069609  0.5004296830088456  1.0000
+  Cl  Cl2       1.0  0.7445418497254991  0.25421875158359425  0.5953243794387003  1.0000
+  Hf  Hf1       1.0  0.22714298809768488  0.25343038866893075  0.5000187315990443  1.0000

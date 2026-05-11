@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NiSIrSe
+_chemical_formula_sum              "Ni1 S1 Ir1 Se1"
+_cell_length_a       4.076881663449038
+_cell_length_b       4.05909638116492
+_cell_length_c       17.294608635533066
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    100.74428512060958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.28394316027215394  0.21511051986804092  0.5075663308455036  1.0000
+  S   S1        1.0  0.20120476909023505  0.7094422298684552  0.5663388424650044  1.0000
+  Ir  Ir1       1.0  0.7138147437186098  0.785060531713481  0.5098038534375592  1.0000
+  Se  Se1       1.0  0.7879305484761379  0.2939120520578086  0.43366115753499557  1.0000

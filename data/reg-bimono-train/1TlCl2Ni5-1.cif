@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5TlCl2
+_chemical_formula_sum              "Ni5 Tl1 Cl2"
+_cell_length_a       3.719990573986472
+_cell_length_b       3.7199905739864727
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00001360219973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9962789127036124  0.996278912703605  0.4999888145040485  1.0000
+  Ni  Ni2       1.0  0.4961110049347217  0.996347251308377  0.4133446667891967  1.0000
+  Ni  Ni3       1.0  0.9963472513083813  0.49611100493471977  0.4133446667891967  1.0000
+  Ni  Ni4       1.0  0.4961107752900523  0.9963472149329196  0.5866294433881976  1.0000
+  Ni  Ni5       1.0  0.9963472149329266  0.49611077529005154  0.5866294433881976  1.0000
+  Tl  Tl1       1.0  0.4964910310707086  0.49649103107070525  0.4999901407129773  1.0000
+  Cl  Cl1       1.0  0.9963778252590524  0.9963778252590508  0.34907271663179784  1.0000
+  Cl  Cl2       1.0  0.9963776779528908  0.9963776779528818  0.6509018324454834  1.0000

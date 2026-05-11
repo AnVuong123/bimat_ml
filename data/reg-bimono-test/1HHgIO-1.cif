@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgOHI
+_chemical_formula_sum              "Hg1 O1 H1 I1"
+_cell_length_a       4.075049421021143
+_cell_length_b       4.0749536557289945
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00310583594947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3333023604026774  0.6666543037333559  0.49761346507212073  1.0000
+  O   O1        1.0  0.666613651694042  0.3332749604791868  0.526639062871275  1.0000
+  H   H1        1.0  0.666611156532606  0.3332828707689321  0.5558351221192959  1.0000
+  I   I1        1.0  0.9999762368481221  0.9999848910332217  0.44251222503339055  1.0000

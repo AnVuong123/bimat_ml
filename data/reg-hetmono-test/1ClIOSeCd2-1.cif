@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cd2SeIClO
+_chemical_formula_sum              "Cd2 Se1 I1 Cl1 O1"
+_cell_length_a       4.209354276316445
+_cell_length_b       6.563130166930275
+_cell_length_c       21.60034858345651
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    133.47799233031668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4957386284177295  0.027544684559450916  0.4290114009561758  1.0000
+  Cd  Cd2       1.0  0.48460594325673106  0.026968160821841516  0.590990491796415  1.0000
+  Se  Se1       1.0  0.09523308723845836  0.41075598219242665  0.5107018946839765  1.0000
+  I   I1        1.0  0.8652421261122801  0.894214308667567  0.3472166187977251  1.0000
+  Cl  Cl1       1.0  0.8881823213123909  0.9218232483047395  0.652783381202275  1.0000
+  O   O1        1.0  0.17929347487964165  0.7218411032704699  0.5102198893151901  1.0000

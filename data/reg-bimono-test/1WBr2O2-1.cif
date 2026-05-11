@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       WOBrOBr
+_chemical_formula_sum              "W1 O2 Br2"
+_cell_length_a       3.6726961642616853
+_cell_length_b       3.6692024312184666
+_cell_length_c       19.86317905171349
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.15282002483897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.104453725208385  0.7748770480299839  0.5000121652280972  1.0000
+  O   O1        1.0  0.504317652860562  0.5120085939149653  0.5000116943261305  1.0000
+  Br  Br1       1.0  0.18998037191119005  0.8597353171617325  0.3775830636412158  1.0000
+  O   O2        1.0  0.8429385443157993  0.17395345708258483  0.5000227109642855  1.0000
+  Br  Br2       1.0  0.19101199570175212  0.8602061137736832  0.622416936358784  1.0000

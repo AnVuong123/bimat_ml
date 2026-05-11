@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbTeSeIn
+_chemical_formula_sum              "Sb1 Te1 Se1 In1"
+_cell_length_a       4.716314640020416
+_cell_length_b       4.71024724925518
+_cell_length_c       19.33848544140116
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98854312048896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.8208859801743494  0.1808206229501744  0.4048860939258558  1.0000
+  Te  Te1       1.0  0.4858631510501314  0.513060063483334  0.6122037536337304  1.0000
+  Se  Se1       1.0  0.1546023442584801  0.8479484010680193  0.3878649328563725  1.0000
+  In  In1       1.0  0.8198842452916183  0.18023800344285296  0.5533020700908063  1.0000

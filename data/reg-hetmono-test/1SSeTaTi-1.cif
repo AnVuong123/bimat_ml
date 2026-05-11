@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaTiSeS
+_chemical_formula_sum              "Ta1 Ti1 Se1 S1"
+_cell_length_a       3.288349341295412
+_cell_length_b       3.2883705851349245
+_cell_length_c       20.527944375534116
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00779231290642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8290196042802477  0.6597682060261109  0.5484627457826745  1.0000
+  Ti  Ti1       1.0  0.16774628276233547  0.33775975674239245  0.43386589122856745  1.0000
+  Se  Se1       1.0  0.16204145505007161  0.32625022014790006  0.6346443724322077  1.0000
+  S   S1        1.0  0.8348704807035942  0.6716900245133327  0.3653556275677924  1.0000

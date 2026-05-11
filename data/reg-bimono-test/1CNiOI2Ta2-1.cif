@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiCITaOTaI
+_chemical_formula_sum              "Ni1 C1 I2 Ta2 O1"
+_cell_length_a       3.35965297194887
+_cell_length_b       4.421409286566334
+_cell_length_c       21.398104723554205
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000007
+_cell_angle_gamma    90.00643972699146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.47175050835755433  0.7441068796735557  0.5534402437433553  1.0000
+  C   C1        1.0  0.03737953450885558  0.7439545975399414  0.4870821915786183  1.0000
+  I   I1        1.0  0.21345822623968555  0.24406251062433323  0.3502524308898192  1.0000
+  Ta  Ta1       1.0  0.5578467544350992  0.744019622567722  0.42908101173529783  1.0000
+  O   O1        1.0  0.6138456340124885  0.24391806594533846  0.5463565263275099  1.0000
+  Ta  Ta2       1.0  0.167629901857345  0.24399256663583524  0.4905028152470498  1.0000
+  I   I2        1.0  0.9799742258555497  0.7443763023620878  0.6491885065714539  1.0000

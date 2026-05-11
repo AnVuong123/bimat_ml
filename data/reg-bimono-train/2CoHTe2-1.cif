@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co2Te4H2
+_chemical_formula_sum              "Co2 Te4 H2"
+_cell_length_a       3.770243141618928
+_cell_length_b       5.034952229785959
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02008348574148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.922618910600487  0.9609215556184235  0.5564729859338933  1.0000
+  Co  Co2       1.0  0.42301957782448163  0.44953142254899703  0.4435252666228096  1.0000
+  Te  Te1       1.0  0.922928152276223  0.45679084236582956  0.5273624780582883  1.0000
+  Te  Te2       1.0  0.42270819555361705  0.9536595728986915  0.4726349562918597  1.0000
+  Te  Te3       1.0  0.9229781587071257  0.4499530712696733  0.3594891341232771  1.0000
+  Te  Te4       1.0  0.4226640776507204  0.9605158889062186  0.6405089366836915  1.0000
+  H   H1        1.0  0.42360607002697276  0.2842925397019392  0.6637396502505454  1.0000
+  H   H2        1.0  0.9220477365177223  0.1261765495186619  0.33626124508217875  1.0000

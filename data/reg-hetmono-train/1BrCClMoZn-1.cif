@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MoZnCBrCl
+_chemical_formula_sum              "Mo1 Zn1 C1 Br1 Cl1"
+_cell_length_a       3.4506785970520486
+_cell_length_b       3.443440687092128
+_cell_length_c       20.53538275519856
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.92984571108512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.1719167454733049  0.8328529372165903  0.4518840136722138  1.0000
+  Zn  Zn1       1.0  0.827020890007939  0.15907498416147256  0.5539033884852658  1.0000
+  C   C1        1.0  0.5056425309847815  0.4996178049455574  0.4841831156871858  1.0000
+  Br  Br1       1.0  0.15788570077483402  0.8236451372917012  0.6347767124963198  1.0000
+  Cl  Cl1       1.0  0.8379689102122324  0.16659273638744043  0.36522328750368016  1.0000

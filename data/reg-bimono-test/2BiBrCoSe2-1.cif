@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoSeCoBiSeBrBiSe2Br
+_chemical_formula_sum              "Co2 Se4 Bi2 Br2"
+_cell_length_a       3.7576060497200836
+_cell_length_b       9.432532389565425
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000000000059  0.566715833272111  0.5000001411701525  1.0000
+  Se  Se1       1.0  0.9999999999999998  0.5223669889747347  0.5435780610291119  1.0000
+  Co  Co2       1.0  0.500000000000006  0.06671767967249094  0.5000002622289208  1.0000
+  Bi  Bi1       1.0  0.0  0.7911650246090489  0.5744936573874253  1.0000
+  Se  Se2       1.0  0.5000000000000059  0.8151252147030236  0.5176939956516811  1.0000
+  Br  Br1       1.0  0.0  0.10949536656435707  0.5499595382884406  1.0000
+  Bi  Bi2       1.0  1.0046585121196196e-18  0.3422676268119862  0.42550629403780876  1.0000
+  Se  Se3       1.0  0.5000000000000059  0.3183080365579004  0.482306197151403  1.0000
+  Se  Se4       1.0  9.520875891136988e-19  0.6110656513652991  0.4564223008766168  1.0000
+  Br  Br2       1.0  9.51801610589642e-18  0.02393829700604774  0.4500409245838759  1.0000

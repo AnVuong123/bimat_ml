@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I3Au3
+_chemical_formula_sum              "I3 Au3"
+_cell_length_a       8.232943621176458
+_cell_length_b       4.863522450042065
+_cell_length_c       19.15789758
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4662770321688542  0.2296914722868434  0.6080003495782795  1.0000
+  I   I2        1.0  0.4662770621688565  0.9080765477131687  0.3919996604217225  1.0000
+  I   I3        1.0  0.9145213077766644  0.5688840000000085  0.5  1.0000
+  Au  Au1       1.0  0.18097143618975192  0.31646158517987916  0.5461419367195277  1.0000
+  Au  Au2       1.0  0.18097139618975164  0.8213063848201368  0.4538580532804723  1.0000
+  Au  Au3       1.0  0.5012127438872259  0.5688840000000085  0.5  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5GaBr2
+_chemical_formula_sum              "Fe5 Ga1 Br2"
+_cell_length_a       3.622189572794681
+_cell_length_b       3.6221895727946714
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000179172982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.030100510073426043  0.030100510073425853  0.49998236315338557  1.0000
+  Fe  Fe2       1.0  0.5300630741368448  0.030046640008710566  0.41578902286454894  1.0000
+  Fe  Fe3       1.0  0.030046640008710532  0.5300630741368448  0.41578902286454894  1.0000
+  Fe  Fe4       1.0  0.5300638548445543  0.030046250632864105  0.5841967588328819  1.0000
+  Fe  Fe5       1.0  0.030046250632864067  0.5300638548445542  0.5841967588328819  1.0000
+  Ga  Ga1       1.0  0.5300684095655486  0.5300684095655486  0.4999890925798033  1.0000
+  Br  Br1       1.0  0.030053440311834236  0.03005344031183414  0.3323121924359088  1.0000
+  Br  Br2       1.0  0.030055064465043694  0.030055064465043597  0.6676657171319961  1.0000

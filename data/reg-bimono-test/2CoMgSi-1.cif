@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2MgSiMgSi
+_chemical_formula_sum              "Co2 Mg2 Si2"
+_cell_length_a       3.7704840230395966
+_cell_length_b       3.770316990817556
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000611619222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9957418226703438  0.995738188686547  0.5000106879467681  1.0000
+  Co  Co2       1.0  0.49559312628416824  0.4955975302742234  0.49999249733701606  1.0000
+  Mg  Mg1       1.0  0.9957041718386509  0.4956354421825166  0.6034500902688781  1.0000
+  Si  Si1       1.0  0.4956523148704114  0.9956610090760142  0.5692945205348057  1.0000
+  Mg  Mg2       1.0  0.4956318904905516  0.9957026073246585  0.39655097567330644  1.0000
+  Si  Si2       1.0  0.9956636032021441  0.4956570341716096  0.43070445977234967  1.0000

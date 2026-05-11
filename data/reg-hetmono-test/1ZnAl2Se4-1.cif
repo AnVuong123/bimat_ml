@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al2ZnSe4
+_chemical_formula_sum              "Al2 Zn1 Se4"
+_cell_length_a       3.880403811908323
+_cell_length_b       3.880330596447188
+_cell_length_c       39.21798
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99937585353072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  3.74042196712125e-05  1.870210983566141e-05  0.4023098333252453  1.0000
+  Al  Al2       1.0  0.6667195635276482  0.33335978176382064  0.5012558492454033  1.0000
+  Zn  Zn1       1.0  0.3333912670708125  0.666695633535396  0.6044799002334688  1.0000
+  Se  Se1       1.0  0.3333860263062245  0.6666930131530956  0.37517839723352026  1.0000
+  Se  Se2       1.0  0.3333766598914219  0.6666883299457059  0.5323402958469359  1.0000
+  Se  Se3       1.0  4.67537562557717e-05  2.3376878127906054e-05  0.4623751947675887  1.0000
+  Se  Se4       1.0  4.235135962342825e-05  2.117567981168941e-05  0.6235226780384571  1.0000

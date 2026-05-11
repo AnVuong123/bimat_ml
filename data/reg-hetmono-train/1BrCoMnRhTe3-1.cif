@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeCoTeRhTeMnBr
+_chemical_formula_sum              "Te3 Co1 Rh1 Mn1 Br1"
+_cell_length_a       6.10306012467718
+_cell_length_b       3.8128770136696812
+_cell_length_c       20.246178096317625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    89.97570383419725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.015535448523820605  0.017725336753034015  0.5573071057537012  1.0000
+  Co  Co1       1.0  0.7736068769760398  0.517909298086525  0.5464664266878612  1.0000
+  Te  Te2       1.0  0.5339721630148069  0.5183297233061438  0.4497017397934743  1.0000
+  Rh  Rh1       1.0  0.44525363016926345  0.018306973939349002  0.5405656061388515  1.0000
+  Te  Te3       1.0  0.49150784705632206  0.5183078104290885  0.6310020890334987  1.0000
+  Mn  Mn1       1.0  0.08234847839490017  0.5178575538469211  0.45303888086478605  1.0000
+  Br  Br1       1.0  0.04689656456936252  0.01796078140347146  0.36880780576557737  1.0000

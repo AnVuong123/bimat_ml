@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdAl2Te4
+_chemical_formula_sum              "Pd1 Al2 Te4"
+_cell_length_a       4.168346499517154
+_cell_length_b       4.169337463980608
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99213794937017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  9.296693905281427e-17  1.8593387814147513e-16  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6666618371157434  0.3333236742314869  0.39685018849117776  1.0000
+  Al  Al2       1.0  0.3333381628842577  0.6666763257685157  0.6031498115088227  1.0000
+  Te  Te1       1.0  0.6666244118068373  0.33324882361367464  0.6353127730445456  1.0000
+  Te  Te2       1.0  0.3333755881931629  0.666751176386326  0.36468722695545347  1.0000
+  Te  Te3       1.0  0.6669838069566872  0.3339676139133745  0.4647270552506353  1.0000
+  Te  Te4       1.0  0.3330161930433107  0.6660323860866216  0.5352729447493648  1.0000

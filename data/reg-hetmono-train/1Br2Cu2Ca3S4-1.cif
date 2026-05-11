@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca2CuS2BrCaCuS2Br
+_chemical_formula_sum              "Ca3 Cu2 S4 Br2"
+_cell_length_a       4.53169308542688
+_cell_length_b       4.53169308542696
+_cell_length_c       38.961428
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  1.2697586680897325e-31  2.157808822916934e-17  0.5  1.0000
+  Ca  Ca2       1.0  0.9999999999999999  0.0  0.596210756457867  1.0000
+  Cu  Cu1       1.0  0.5000000000000115  0.5000000000000004  0.5426887734004062  1.0000
+  S   S1        1.0  2.1428707356592213e-18  0.5000000000000004  0.5488305872869002  1.0000
+  S   S2        1.0  0.5000000000000115  2.68449819610187e-18  0.5488305872869002  1.0000
+  Br  Br1       1.0  0.5000000000000115  0.5000000000000004  0.6271964934782631  1.0000
+  Ca  Ca3       1.0  6.302245697324703e-19  1.3478017672735632e-18  0.4037892435421353  1.0000
+  Cu  Cu2       1.0  0.5000000000000115  0.5000000000000004  0.45731122659959383  1.0000
+  S   S3        1.0  7.276002998437926e-19  0.5000000000000004  0.45116941271309996  1.0000
+  S   S4        1.0  0.5000000000000115  0.0  0.45116941271309996  1.0000
+  Br  Br2       1.0  0.5000000000000115  0.5000000000000004  0.372803506521735  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoTe2CoAsTe2AsTe
+_chemical_formula_sum              "Co2 Te5 As2"
+_cell_length_a       6.637497619977587
+_cell_length_b       6.7228965650536505
+_cell_length_c       33.250524140341405
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.42535660841578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6472038694770332  0.9978879270508123  0.5014265782526225  1.0000
+  Te  Te1       1.0  0.40086947918684357  0.08344653621865471  0.5474742321656415  1.0000
+  Te  Te2       1.0  0.3746633499983384  0.6568968089811621  0.4541648854309526  1.0000
+  Co  Co2       1.0  0.35567363786846445  0.3521334746947815  0.5014211758304533  1.0000
+  As  As1       1.0  0.0014328330324622014  0.6731945351479948  0.5370516591715617  1.0000
+  Te  Te3       1.0  0.6019828415403573  0.6839955738947289  0.5474761128692069  1.0000
+  Te  Te4       1.0  0.0014415654937471444  0.2526184239697154  0.5423572184402953  1.0000
+  As  As2       1.0  0.001437921358392732  0.7088996542384514  0.46331289200308173  1.0000
+  Te  Te5       1.0  0.6282398772794504  0.2836685415852103  0.4541681274361681  1.0000

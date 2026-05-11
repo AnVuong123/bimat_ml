@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       WAs2
+_chemical_formula_sum              "W1 As2"
+_cell_length_a       3.034982577826945
+_cell_length_b       3.034982577826944
+_cell_length_c       18.127
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  3.6865161624685697e-16  3.884152335752762e-16  0.5000000021772808  1.0000
+  As  As1       1.0  0.666666666666667  0.33333333333333376  0.6091463116811937  1.0000
+  As  As2       1.0  0.6666666666666667  0.33333333333333365  0.39085369277354703  1.0000

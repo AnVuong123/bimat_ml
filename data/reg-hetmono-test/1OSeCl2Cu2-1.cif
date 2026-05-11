@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2ClSeClO
+_chemical_formula_sum              "Cu2 Cl2 Se1 O1"
+_cell_length_a       3.530992834010497
+_cell_length_b       6.95221979136569
+_cell_length_c       21.007018206228274
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    143.2903068779852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.48198032588866613  0.37348554093276903  0.5838842321428828  1.0000
+  Cu  Cu2       1.0  0.5186069432018744  0.5827647094881481  0.4216375964739956  1.0000
+  Cl  Cl1       1.0  0.9164797346979779  0.5085078676648541  0.3570427595350087  1.0000
+  Se  Se1       1.0  0.7154202827030405  0.19905062102832274  0.5114328375467796  1.0000
+  Cl  Cl2       1.0  0.271302059457039  0.5604707354743613  0.6430050624536768  1.0000
+  O   O1        1.0  0.08019037073742383  0.7841570519602018  0.4964553380599176  1.0000

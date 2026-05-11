@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IPbIGe
+_chemical_formula_sum              "I2 Pb1 Ge1"
+_cell_length_a       4.207463865948244
+_cell_length_b       5.244302397819149
+_cell_length_c       20.087983251931824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.04595450095321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8375188271899237  0.12183085315299667  0.6266424605228234  1.0000
+  Pb  Pb1       1.0  0.5844017967592655  0.621241552013131  0.47930561968810675  1.0000
+  I   I2        1.0  0.9947843543247046  0.4484657391237363  0.3733575394771766  1.0000
+  Ge  Ge1       1.0  0.30174883851985107  0.05677115141165512  0.5308980866859712  1.0000

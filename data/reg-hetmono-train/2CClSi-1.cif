@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2C2Cl2
+_chemical_formula_sum              "Si2 C2 Cl2"
+_cell_length_a       3.7412166004358127
+_cell_length_b       3.103072024343964
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4999999999999998  3.250465107368137e-17  0.45699204314787534  1.0000
+  Si  Si2       1.0  0.0  0.4999999999999999  0.5430079166667309  1.0000
+  C   C1        1.0  0.4999999999999998  0.4999999999999999  0.5170070887629634  1.0000
+  C   C2        1.0  0.0  0.0  0.48299298677763564  1.0000
+  Cl  Cl1       1.0  0.4999999999999998  0.4999999999999999  0.3751379654487569  1.0000
+  Cl  Cl2       1.0  6.549513241937167e-19  4.167955293737477e-19  0.62486200384095  1.0000

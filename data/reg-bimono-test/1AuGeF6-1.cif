@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F3AuF3Ge
+_chemical_formula_sum              "F6 Au1 Ge1"
+_cell_length_a       4.753201661319039
+_cell_length_b       5.348230615748859
+_cell_length_c       33.53662102856909
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999993
+_cell_angle_gamma    93.13309524828287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4065008978374854  0.5226044812669732  0.4697288192403867  1.0000
+  F   F2        1.0  0.9321407709904892  0.27514691428499566  0.4605230877435696  1.0000
+  F   F3        1.0  0.35792483104148837  0.02647267368292546  0.47665953754948404  1.0000
+  Au  Au1       1.0  0.6785681977301843  0.794843586481079  0.5000345228280627  1.0000
+  F   F4        1.0  0.9504752653179762  0.06738874295049897  0.5302787955687995  1.0000
+  F   F5        1.0  0.4248909408343983  0.314735009384778  0.5394477496955294  1.0000
+  F   F6        1.0  0.9994403924434074  0.5634590930959624  0.5233422776678297  1.0000
+  Ge  Ge1       1.0  0.17852546160916263  0.29491891296809036  0.4999830477089679  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li4Zn2Ge2
+_chemical_formula_sum              "Li4 Zn2 Ge2"
+_cell_length_a       4.3834374615833145
+_cell_length_b       4.38301774057201
+_cell_length_c       36.24492
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00316779025853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  3.462600685304834e-05  6.925201370631877e-05  0.440702171183715  1.0000
+  Li  Li2       1.0  0.999965373993147  0.9999307479862941  0.5592978288162846  1.0000
+  Li  Li3       1.0  0.666663563066893  0.3333271261337861  0.5127689996295709  1.0000
+  Li  Li4       1.0  0.3333364369331064  0.6666728738662129  0.4872310003704289  1.0000
+  Zn  Zn1       1.0  0.6666236884704981  0.3332473769409961  0.5812003626315817  1.0000
+  Zn  Zn2       1.0  0.333376311529505  0.6667526230590102  0.4187996373684153  1.0000
+  Ge  Ge1       1.0  0.6665705559308949  0.33314111186178963  0.4368736515385314  1.0000
+  Ge  Ge2       1.0  0.33342944406910247  0.666858888138205  0.5631263484614614  1.0000

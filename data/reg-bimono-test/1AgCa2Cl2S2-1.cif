@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgS2CaClCaCl
+_chemical_formula_sum              "Ag1 S2 Ca2 Cl2"
+_cell_length_a       4.8104662914291785
+_cell_length_b       4.8104662914291785
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9556650956329888  0.9556650956329888  0.49999999996875905  1.0000
+  S   S1        1.0  0.45732507321206345  0.9299084344810411  0.5000000000257777  1.0000
+  S   S2        1.0  0.9299084344810409  0.45732507321206345  0.5000000000257777  1.0000
+  Ca  Ca1       1.0  0.41718670433674854  0.4171867043367485  0.4160221207449163  1.0000
+  Cl  Cl1       1.0  0.0901954389545739  0.09019543895457424  0.3515987641868965  1.0000
+  Ca  Ca2       1.0  0.4171867043059768  0.4171867043059767  0.5839778793056514  1.0000
+  Cl  Cl2       1.0  0.09019543893628322  0.09019543893628329  0.6484012358569241  1.0000

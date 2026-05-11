@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeSr2Se
+_chemical_formula_sum              "Se2 Sr2"
+_cell_length_a       5.196881491355935
+_cell_length_b       5.197685968272051
+_cell_length_c       18.242049568750343
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0279889023315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8351801805050563  0.6640942025414135  0.5888619876985796  1.0000
+  Sr  Sr1       1.0  0.8343465966139583  0.663378156592055  0.4202296365133914  1.0000
+  Sr  Sr2       1.0  0.16804512805953248  0.330569832656718  0.5798091057312432  1.0000
+  Se  Se2       1.0  0.16771343290621674  0.3300813707359467  0.41113801230142044  1.0000

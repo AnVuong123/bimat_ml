@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2BaFBaF
+_chemical_formula_sum              "Cu1 Te2 Ba2 F2"
+_cell_length_a       5.264989280119298
+_cell_length_b       5.264989280119311
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.95926702164421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9665862793548374  0.9665862793548351  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4550478884406394  0.9111621742436807  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9111621742436837  0.4550478884406469  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.3921539271373919  0.39215392713738967  0.38691182758793374  1.0000
+  F   F1        1.0  0.10056789082534903  0.10056789082534838  0.3345221816834961  1.0000
+  Ba  Ba2       1.0  0.3921539271453493  0.3921539271453455  0.6130881723931675  1.0000
+  F   F2        1.0  0.10056789084440437  0.10056789084440158  0.6654778183088267  1.0000

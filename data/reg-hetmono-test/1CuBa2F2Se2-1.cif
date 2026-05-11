@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuSe2BaFBaF
+_chemical_formula_sum              "Cu1 Se2 Ba2 F2"
+_cell_length_a       4.82739581066436
+_cell_length_b       4.827395810664326
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    80.29182816128308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9332146162481934  0.9332146162482068  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.43424025796367505  0.9234147899656625  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9234147899656576  0.43424025796368126  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.4088705185785658  0.4088705185785654  0.39071494094008885  1.0000
+  F   F1        1.0  0.10508109945796072  0.10508109945795964  0.3460321991318989  1.0000
+  Ba  Ba2       1.0  0.408870518586525  0.40887051858652856  0.6092850590410124  1.0000
+  F   F2        1.0  0.10508109947701606  0.1050810994770155  0.6539678008604242  1.0000

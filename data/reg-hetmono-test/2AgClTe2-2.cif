@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2Te4Ag2
+_chemical_formula_sum              "Cl2 Te4 Ag2"
+_cell_length_a       5.53564642399245
+_cell_length_b       8.394503389846456
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00019428495074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.0014914299172852146  0.9960853807978697  0.4090606702691734  1.0000
+  Cl  Cl2       1.0  0.50148932634191  0.9967318363712658  0.5909387696886421  1.0000
+  Te  Te1       1.0  0.6056177461741625  0.6429946650795156  0.4357974032326827  1.0000
+  Te  Te2       1.0  0.10561815455025798  0.3498191947081972  0.564201733790124  1.0000
+  Te  Te3       1.0  0.898315696552561  0.64281806371938  0.5642326422819934  1.0000
+  Te  Te4       1.0  0.3983132093619676  0.34999464743967457  0.4357658815049708  1.0000
+  Ag  Ag1       1.0  0.7519603462649498  0.16215971709381874  0.49995864771026177  1.0000
+  Ag  Ag2       1.0  0.25196261098139716  0.8306548467356795  0.5000405496101157  1.0000

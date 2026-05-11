@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiNTi2IBrN
+_chemical_formula_sum              "Ti3 N2 I1 Br1"
+_cell_length_a       3.806688797146918
+_cell_length_b       3.9199057378307023
+_cell_length_c       21.158922262717468
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.88590829699994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24546913478126994  0.7312614948607018  0.4511522168379769  1.0000
+  N   N1        1.0  0.20373440442915922  0.2249336968055957  0.48722205539252866  1.0000
+  Ti  Ti2       1.0  0.18297050958601188  0.791862746430044  0.5685381038000804  1.0000
+  Ti  Ti3       1.0  0.707124115639845  0.24861180448878545  0.5141962085358486  1.0000
+  I   I1        1.0  0.746098411712987  0.7449818720570212  0.35446039769308957  1.0000
+  Br  Br1       1.0  0.9798247397494168  0.2810206275106166  0.6455396023069104  1.0000
+  N   N2        1.0  0.6803732064966191  0.7457142757845305  0.5299047843229793  1.0000

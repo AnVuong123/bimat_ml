@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ISFeBrBi
+_chemical_formula_sum              "I1 S1 Fe1 Br1 Bi1"
+_cell_length_a       3.9960835417048806
+_cell_length_b       3.996561653115678
+_cell_length_c       21.734856908398267
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    119.96817817392437
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.1688877461482518  0.4992508677590232  0.6546925505311372  1.0000
+  S   S1        1.0  0.834995613624271  0.8330432372080117  0.528083660628976  1.0000
+  Fe  Fe1       1.0  0.1684750629540867  0.4994880330509406  0.5366204014322518  1.0000
+  Br  Br1       1.0  0.17143525407247875  0.5060757297903679  0.3457300599805021  1.0000
+  Bi  Bi1       1.0  0.5026468161992759  0.1696203545006961  0.4419324331953758  1.0000

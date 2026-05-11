@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClGaIOMoBr2O
+_chemical_formula_sum              "Cl1 Ga1 I1 O2 Mo1 Br2"
+_cell_length_a       5.34575361004275
+_cell_length_b       5.344715642389094
+_cell_length_c       18.824277650472528
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.328747674248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.38493002982849756  0.8722612367898743  0.5930740212899628  1.0000
+  Ga  Ga1       1.0  0.6290137893654657  0.11661769456993332  0.5092377396578087  1.0000
+  I   I1        1.0  0.8784039622518448  0.36648548349690563  0.3984131443299437  1.0000
+  O   O1        1.0  0.3684564866160368  0.37948422289091344  0.5080378078431657  1.0000
+  Mo  Mo1       1.0  0.13659848451765788  0.6241657600554545  0.5057162005053666  1.0000
+  Br  Br1       1.0  0.8767624608358651  0.36495381452773024  0.6015897524316357  1.0000
+  Br  Br2       1.0  0.3823381972903703  0.8696241519828602  0.41050374390230665  1.0000
+  O   O2        1.0  0.8922716635635796  0.8564852772995464  0.5080566163967712  1.0000

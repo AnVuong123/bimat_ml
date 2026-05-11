@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2SnNi3
+_chemical_formula_sum              "Te2 Sn1 Ni3"
+_cell_length_a       4.169717586694589
+_cell_length_b       4.169711327236144
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00004999713497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8333274907403094  0.5000550902198977  0.6251066389236719  1.0000
+  Te  Te2       1.0  0.8333274923705756  0.5000550867068203  0.37489544329511104  1.0000
+  Sn  Sn1       1.0  0.49999380351313694  0.8333874294530752  0.5000009775021083  1.0000
+  Ni  Ni1       1.0  0.16666187616520212  0.16672407923300558  0.5690552667654555  1.0000
+  Ni  Ni2       1.0  0.16666187674714947  0.1667240730442073  0.43094671623407504  1.0000
+  Ni  Ni3       1.0  0.8333274561580433  0.5000545207203424  0.5000007757785825  1.0000

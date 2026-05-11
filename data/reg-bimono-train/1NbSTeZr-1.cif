@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZrSNbTe
+_chemical_formula_sum              "Zr1 S1 Nb1 Te1"
+_cell_length_a       3.4816141531030182
+_cell_length_b       3.480051187576026
+_cell_length_c       20.8039201596711
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99237172620995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.16636838120542616  0.8382512027325174  0.5674002569386277  1.0000
+  S   S1        1.0  0.5004457468708443  0.5054937039415967  0.6394947285238308  1.0000
+  Nb  Nb1       1.0  0.8311980959473243  0.16943888045760155  0.4541076049113989  1.0000
+  Te  Te1       1.0  0.1639688584333644  0.835427685170719  0.3605035839216801  1.0000

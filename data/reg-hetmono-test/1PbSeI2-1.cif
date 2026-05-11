@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IPbISe
+_chemical_formula_sum              "I2 Pb1 Se1"
+_cell_length_a       5.795038088283702
+_cell_length_b       4.701051115546282
+_cell_length_c       19.77602057979489
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    127.98717833902414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7217380551444127  0.9312718569559443  0.3792471781538664  1.0000
+  Pb  Pb1       1.0  0.13072847445327168  0.7487186732707755  0.47110338367396615  1.0000
+  I   I2        1.0  0.3061880730469346  0.1005918615510033  0.6207528218461337  1.0000
+  Se  Se1       1.0  0.516062101271237  0.5196907678598173  0.507983303187683  1.0000

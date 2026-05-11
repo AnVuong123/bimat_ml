@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       V3C2O2H2
+_chemical_formula_sum              "V3 C2 O2 H2"
+_cell_length_a       2.99385752834075
+_cell_length_b       2.9938575283407474
+_cell_length_c       23.985276007918948
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.0  0.0  0.5000023771077592  1.0000
+  V   V2        1.0  0.6666666666666663  0.33333333333333315  0.5927994983028932  1.0000
+  V   V3        1.0  0.6666666666666663  0.33333333333333315  0.40720227153622723  1.0000
+  C   C1        1.0  0.33333333333333165  0.6666666666666663  0.5511891226115477  1.0000
+  C   C2        1.0  0.33333333333333165  0.6666666666666663  0.4488154311192311  1.0000
+  O   O1        1.0  0.0  1.2453333495757182e-18  0.6473537184179875  1.0000
+  O   O2        1.0  0.0  3.4363457703081543e-18  0.3526459928022083  1.0000
+  H   H1        1.0  9.891203292677562e-20  2.499349086392382e-19  0.6880040939858375  1.0000
+  H   H2        1.0  0.0  1.7159697559119008e-20  0.31199450880596497  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2Br2Ti2
+_chemical_formula_sum              "Te2 Br2 Ti2"
+_cell_length_a       3.719553327900133
+_cell_length_b       6.443036944799599
+_cell_length_c       18.36729479
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99933829247622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25002231408077374  0.1177864820425052  0.5922364392778475  1.0000
+  Te  Te2       1.0  0.7500563956776483  0.6177869749956282  0.5922365026913033  1.0000
+  Br  Br1       1.0  0.25001523707960965  0.784429620223785  0.4092393056363459  1.0000
+  Br  Br2       1.0  0.7500500084302962  0.2844299019795291  0.4092393328305422  1.0000
+  Ti  Ti1       1.0  0.2500520026424941  0.4511491646973683  0.4985219550196443  1.0000
+  Ti  Ti2       1.0  0.7500141739878183  0.9511494847608509  0.4985218608751412  1.0000

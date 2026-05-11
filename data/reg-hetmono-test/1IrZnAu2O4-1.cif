@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Au2O2ZnO2Ir
+_chemical_formula_sum              "Au2 O4 Zn1 Ir1"
+_cell_length_a       3.9310625614925434
+_cell_length_b       2.817157010258957
+_cell_length_c       22.373716557984427
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.00450866915618
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7492544596481091  0.251191030485504  0.3355364365332722  1.0000
+  Au  Au2       1.0  0.25086060088372375  0.24666701152272943  0.6652654361756172  1.0000
+  O   O1        1.0  0.25005575431061217  0.7490396912672368  0.5262248307447935  1.0000
+  O   O2        1.0  0.7499205735258229  0.7496921087522017  0.4562787177514434  1.0000
+  Zn  Zn1       1.0  0.24988246304766845  0.7511401787803096  0.42932217359420766  1.0000
+  O   O3        1.0  0.7504292203180902  0.24865611234382473  0.6077900249348593  1.0000
+  O   O4        1.0  0.24923333558400385  0.25109533919507016  0.36195361648321156  1.0000
+  Ir  Ir1       1.0  0.7501132930749042  0.7489584641242505  0.5409738957706024  1.0000

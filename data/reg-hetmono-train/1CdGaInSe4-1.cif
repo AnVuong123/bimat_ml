@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdGaInSe4
+_chemical_formula_sum              "Cd1 Ga1 In1 Se4"
+_cell_length_a       4.100352173644742
+_cell_length_b       4.100348561540711
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997085922955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999964877162673  0.9999982438581336  0.4978984959142609  1.0000
+  Ga  Ga1       1.0  0.666663131014473  0.33333156550724025  0.40062392906419586  1.0000
+  In  In1       1.0  0.333341215940132  0.6666706079700628  0.599716667468426  1.0000
+  Se  Se1       1.0  0.6666606416910206  0.33333032084550956  0.46092506430592456  1.0000
+  Se  Se2       1.0  0.33333400423342147  0.6666670021167102  0.5352575843913655  1.0000
+  Se  Se3       1.0  0.33332984205054245  0.6666649210252714  0.3742975785798289  1.0000
+  Se  Se4       1.0  0.6666746185802561  0.33333730929012784  0.6312773039771564  1.0000

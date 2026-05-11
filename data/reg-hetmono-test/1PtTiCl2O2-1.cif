@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OPtTiCl2O
+_chemical_formula_sum              "O2 Pt1 Ti1 Cl2"
+_cell_length_a       3.938875182047591
+_cell_length_b       5.984697611884549
+_cell_length_c       18.984821426423338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.30358381110825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6074099589236663  0.5590679053210414  0.5131203753892774  1.0000
+  Pt  Pt1       1.0  0.44555396687076826  0.22131123038281994  0.5508729160793809  1.0000
+  Ti  Ti1       1.0  0.09644176561981527  0.5901512838605472  0.507210734878483  1.0000
+  Cl  Cl1       1.0  0.18290705343169983  0.6951124190708471  0.39505243855290606  1.0000
+  Cl  Cl2       1.0  0.2622469183005343  0.8581897332533867  0.6049475614470939  1.0000
+  O   O2        1.0  0.9750327729960406  0.2783180124533876  0.5388696216322558  1.0000

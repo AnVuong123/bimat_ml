@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeI2TiIGeCrI
+_chemical_formula_sum              "Ge2 I4 Ti1 Cr1"
+_cell_length_a       5.532258563387689
+_cell_length_b       5.531807785844124
+_cell_length_c       19.641936609391845
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    93.79962438835551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.12266476015170466  0.6238388634197691  0.5002069797969223  1.0000
+  I   I1        1.0  0.3775097243038433  0.37945548841126653  0.38185318165058424  1.0000
+  I   I2        1.0  0.8671816914118556  0.8697707501210444  0.6181216482435028  1.0000
+  Ti  Ti1       1.0  0.6221834901509463  0.6235959462287239  0.500366032154692  1.0000
+  I   I3        1.0  0.8699844021424816  0.8715119394521681  0.3826957239068284  1.0000
+  Ge  Ge2       1.0  0.6205450538458526  0.12408268644183258  0.49980770837666594  1.0000
+  Cr  Cr1       1.0  0.12061513426669242  0.12442732266237741  0.5009758303890276  1.0000
+  I   I4        1.0  0.37523556415683235  0.3765127797864278  0.6181496833320202  1.0000

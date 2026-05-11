@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfOsSeI2Se
+_chemical_formula_sum              "Hf1 Os1 Se2 I2"
+_cell_length_a       3.8173770345285516
+_cell_length_b       6.029779438411009
+_cell_length_c       19.13073172330475
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.03586104123116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2511397569517481  0.453050837154884  0.5003980999463798  1.0000
+  Os  Os1       1.0  0.7517983227594416  0.02903081048509519  0.5033373339974047  1.0000
+  Se  Se1       1.0  0.2515113171447558  0.8604505152411857  0.4362880086592688  1.0000
+  I   I1        1.0  0.7510932433775462  0.3295880333626964  0.3920412083054418  1.0000
+  I   I2        1.0  0.2521581515275519  0.14208295406708152  0.6079550154781882  1.0000
+  Se  Se2       1.0  0.7516298995065761  0.6666871721935989  0.571514596859422  1.0000

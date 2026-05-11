@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HgSrOInSrAuO4
+_chemical_formula_sum              "Hg1 Sr2 O5 In1 Au1"
+_cell_length_a       3.76720105611512
+_cell_length_b       3.76720105611512
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  6.437192790446089e-17  0.3683138847143002  1.0000
+  Sr  Sr1       1.0  0.4999999999999945  0.4999999999999945  0.4425528637527052  1.0000
+  O   O1        1.0  0.0  0.0  0.42529576279360587  1.0000
+  In  In1       1.0  0.0  3.4417556828991995e-18  0.6296012646424212  1.0000
+  Sr  Sr2       1.0  0.49999999999999456  0.4999999999999945  0.5660174457024701  1.0000
+  Au  Au1       1.0  5.831984381945413e-18  0.0  0.5032560490423298  1.0000
+  O   O2        1.0  0.49999999999999456  0.4999999999999945  0.6294601324086901  1.0000
+  O   O3        1.0  0.0  2.793780629906418e-19  0.575826901116167  1.0000
+  O   O4        1.0  0.4999999999999945  3.4541751126834847e-18  0.4893802127544816  1.0000
+  O   O5        1.0  4.625518340704209e-18  0.4999999999999945  0.4893802127544816  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb2O4NiO2
+_chemical_formula_sum              "Nb2 O6 Ni1"
+_cell_length_a       2.8860807564653514
+_cell_length_b       7.735258596566924
+_cell_length_c       33.745845663924115
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    100.75172445742217
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.2647711608315205  0.5295423216630402  0.4876552589198434  1.0000
+  Nb  Nb2       1.0  0.5730043888983994  0.14600877779679752  0.512344728417919  1.0000
+  O   O1        1.0  0.027700767722270012  0.05540153544453997  0.47336615617114375  1.0000
+  O   O2        1.0  0.81007512804124  0.6201502560824772  0.5266338632967342  1.0000
+  O   O3        1.0  0.15980486167526986  0.3196097233505393  0.5297740675693514  1.0000
+  O   O4        1.0  0.6779703800733805  0.3559407601467583  0.4702258094819773  1.0000
+  Ni  Ni1       1.0  0.9188879316478664  0.8377758632957298  0.5000000180589572  1.0000
+  O   O5        1.0  0.8372268220033718  0.6744536440067389  0.45820015318255836  1.0000
+  O   O6        1.0  0.0005488469045989848  0.0010976938091980014  0.5417999322105196  1.0000

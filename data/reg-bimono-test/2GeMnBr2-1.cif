@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnBr3MnGeBrGe
+_chemical_formula_sum              "Mn2 Br4 Ge2"
+_cell_length_a       5.157163778468744
+_cell_length_b       5.156289627180521
+_cell_length_c       19.674388239779177
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0246628606642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3740389186432405  0.6249298027991712  0.49997501144531703  1.0000
+  Br  Br1       1.0  0.36804776512060544  0.6320713635138808  0.381206262100487  1.0000
+  Br  Br2       1.0  0.38628436261214927  0.6135042775233779  0.6187344261503274  1.0000
+  Br  Br3       1.0  0.8866066201497594  0.11322360605826387  0.618793737899513  1.0000
+  Mn  Mn2       1.0  0.8745472366680086  0.12611181320738976  0.5000410376796173  1.0000
+  Ge  Ge1       1.0  0.8733067096562298  0.6268751955835812  0.5001043416376124  1.0000
+  Br  Br4       1.0  0.867872272394112  0.13196895728440564  0.38126972334710013  1.0000
+  Ge  Ge2       1.0  0.37388711210645215  0.12552402194647785  0.5000181801896796  1.0000

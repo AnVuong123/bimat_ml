@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SNaGeS
+_chemical_formula_sum              "S2 Na1 Ge1"
+_cell_length_a       3.7089316718551024
+_cell_length_b       3.9644389586537554
+_cell_length_c       17.97707985053257
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    93.5506238356533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.23779304393938447  0.7680499174796003  0.4234714796036187  1.0000
+  Na  Na1       1.0  0.7381085043615371  0.2682472173426268  0.41704345870023  1.0000
+  Ge  Ge1       1.0  0.2388109430005867  0.8025407744093943  0.5475640199083579  1.0000
+  S   S2        1.0  0.77553464724821  0.15982668845397416  0.5830283021777335  1.0000

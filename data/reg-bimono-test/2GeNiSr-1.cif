@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrNi2GeSrGe
+_chemical_formula_sum              "Sr2 Ni2 Ge2"
+_cell_length_a       4.167674343477943
+_cell_length_b       4.167674343477658
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000070923086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9959197618379991  0.9959197618380073  0.6224325754417737  1.0000
+  Ni  Ni1       1.0  0.49576430564108726  0.9958322273413954  0.4998704146635894  1.0000
+  Ni  Ni2       1.0  0.9958322273413953  0.49576430564108515  0.499870414663532  1.0000
+  Ge  Ge1       1.0  0.49586705725497854  0.4958670572549768  0.5607184013728979  1.0000
+  Sr  Sr2       1.0  0.49567487904582885  0.4956748790458259  0.3773051708813615  1.0000
+  Ge  Ge2       1.0  0.9957298217077444  0.9957298217077459  0.4389979697416318  1.0000

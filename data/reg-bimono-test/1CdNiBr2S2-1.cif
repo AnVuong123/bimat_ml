@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdNiBrS2Br
+_chemical_formula_sum              "Cd1 Ni1 Br2 S2"
+_cell_length_a       4.047435740785665
+_cell_length_b       6.9430850947714475
+_cell_length_c       18.865693316515568
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    85.09966656344582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.24704229957596935  0.4035151890736343  0.5235739245744163  1.0000
+  Ni  Ni1       1.0  0.9055700570455377  0.8152363542739895  0.4375262955860977  1.0000
+  Br  Br1       1.0  0.7129694684297996  0.5409433638627282  0.6024529883863697  1.0000
+  S   S1        1.0  0.17224793918850656  0.5487734064195418  0.39754701161363015  1.0000
+  S   S2        1.0  0.4170284130929552  0.8011238039739845  0.398862770444449  1.0000
+  Br  Br2       1.0  0.8221719791376533  0.10543312908783302  0.501438633814523  1.0000

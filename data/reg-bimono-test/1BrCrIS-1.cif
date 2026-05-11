@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CrSIBr
+_chemical_formula_sum              "Cr1 S1 I1 Br1"
+_cell_length_a       3.380197511970319
+_cell_length_b       4.326348666339545
+_cell_length_c       34.664069966564554
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.96611975813039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.0009353025523129696  0.06810330643388758  0.4865043612562366  1.0000
+  S   S1        1.0  0.3098449896798391  0.685809034545652  0.49880115486036064  1.0000
+  I   I1        1.0  0.02096733469386347  0.11094764253576078  0.5693858383057869  1.0000
+  Br  Br1       1.0  0.5772975526949827  0.21976123515191573  0.4332829509910031  1.0000

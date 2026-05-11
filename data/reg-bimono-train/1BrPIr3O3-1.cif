@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IrPIrO2BrIrO
+_chemical_formula_sum              "Ir3 P1 O3 Br1"
+_cell_length_a       3.6395335970619405
+_cell_length_b       4.181734922702476
+_cell_length_c       20.867615581309334
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9784786338688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.24832253306037078  0.3762418918227084  0.63555293531437  1.0000
+  P   P1        1.0  0.25578613225677355  0.640062499578096  0.48955311006566965  1.0000
+  Ir  Ir2       1.0  0.7562917946198187  0.746349458117331  0.5527779982086165  1.0000
+  O   O1        1.0  0.2489014884170011  0.8965932105049906  0.6173357533099962  1.0000
+  O   O2        1.0  0.7481595936347916  0.3893777729220019  0.6405914240284555  1.0000
+  Br  Br1       1.0  0.753537933439491  0.15339442166029016  0.3594085759715445  1.0000
+  Ir  Ir3       1.0  0.2535128232221003  0.15029810463380366  0.44021753753809567  1.0000
+  O   O3        1.0  0.7539453083864025  0.13819214477677874  0.4997368030551723  1.0000

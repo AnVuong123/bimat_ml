@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CuTe2SeMn
+_chemical_formula_sum              "Cu1 Te2 Se1 Mn1"
+_cell_length_a       4.222785083369993
+_cell_length_b       4.583445412965122
+_cell_length_c       19.242857766726026
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    83.97877787809894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.21206441159813672  0.8085785967042757  0.5646180060513307  1.0000
+  Te  Te1       1.0  0.4418941651503732  0.1345898451763638  0.3898215668579108  1.0000
+  Te  Te2       1.0  0.04640922849598104  0.32761810389899443  0.6102223229438496  1.0000
+  Se  Se1       1.0  0.6944437500402817  0.7787540303016561  0.4935049021996051  1.0000
+  Mn  Mn1       1.0  0.9264416790431024  0.2600983298134689  0.47507829540879737  1.0000

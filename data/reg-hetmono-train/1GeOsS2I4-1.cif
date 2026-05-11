@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IGeSI2OsIS
+_chemical_formula_sum              "I4 Ge1 S2 Os1"
+_cell_length_a       4.339939103734194
+_cell_length_b       9.178337049293976
+_cell_length_c       19.196298292124638
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0080182166279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7458439155568244  0.362095755056386  0.4066001840918996  1.0000
+  Ge  Ge1       1.0  0.7461151439540571  0.5560132705776135  0.5145716437384087  1.0000
+  S   S1        1.0  0.24571587627195124  0.13232782417788802  0.4991977066808916  1.0000
+  I   I2        1.0  0.745734423801795  0.9038446109753335  0.5936781992110616  1.0000
+  I   I3        1.0  0.7454918850042029  0.9307557298594324  0.39009107244038665  1.0000
+  Os  Os1       1.0  0.7457112931270797  0.11887665397237154  0.4983516744967708  1.0000
+  I   I4        1.0  0.7458417417129866  0.33113933001130524  0.6081018094621812  1.0000
+  S   S2        1.0  0.24613017551773322  0.6610316995578561  0.5256552089817265  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrIOVIHfNI
+_chemical_formula_sum              "Br1 I3 O1 V1 Hf1 N1"
+_cell_length_a       5.57874690511984
+_cell_length_b       5.600625834657135
+_cell_length_c       19.10897925144364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.66534939010934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.15120142818100885  0.8700125755526704  0.4061501831200868  1.0000
+  I   I1        1.0  0.14972257241905443  0.8676590486555749  0.607514357448821  1.0000
+  O   O1        1.0  0.6250610222942535  0.8776730365680497  0.4985918345605943  1.0000
+  V   V1        1.0  0.3562490631386396  0.14118047200577513  0.5001686333434359  1.0000
+  I   I2        1.0  0.6308446767128292  0.34875579686207575  0.3924856425511788  1.0000
+  Hf  Hf1       1.0  0.8635871326914943  0.6480766519988207  0.49719450888910355  1.0000
+  N   N1        1.0  0.15420979100399812  0.3461598509761869  0.49945717380447197  1.0000
+  I   I3        1.0  0.6336545740104442  0.3513116512568153  0.6046320845067733  1.0000

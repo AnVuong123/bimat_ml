@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeCsGeTe
+_chemical_formula_sum              "Te2 Cs1 Ge1"
+_cell_length_a       4.2380026960841155
+_cell_length_b       4.238002696084275
+_cell_length_c       33.892799999999994
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999972
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  1.532107773982716e-14  1.6662171849800772e-16  0.4127502470363668  1.0000
+  Cs  Cs1       1.0  0.9999999999999999  0.9999999999999999  0.5854144775910356  1.0000
+  Ge  Ge1       1.0  0.66666666666668  0.333333333333329  0.456710571849152  1.0000
+  Te  Te2       1.0  0.3333333333333405  0.6666666666666609  0.5092460627394164  1.0000

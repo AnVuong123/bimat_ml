@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSiTe3
+_chemical_formula_sum              "In1 Si1 Te3"
+_cell_length_a       7.449373082354125
+_cell_length_b       7.450047199510176
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9951087284766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9999976296669033  0.9999604604524891  0.5127336337353796  1.0000
+  Si  Si1       1.0  0.6666706004611205  0.3332951843881475  0.513272434491893  1.0000
+  Te  Te1       1.0  0.030820823355314955  0.4208312444401232  0.5131889523395281  1.0000
+  Te  Te2       1.0  0.39011894925860435  0.9691960300264099  0.5131959590776086  1.0000
+  Te  Te3       1.0  0.5791921092171423  0.6099169513165877  0.513192174144846  1.0000

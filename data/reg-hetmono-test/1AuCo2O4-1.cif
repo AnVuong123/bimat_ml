@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2AuCo2O2
+_chemical_formula_sum              "O4 Au1 Co2"
+_cell_length_a       2.8797545422498017
+_cell_length_b       2.8793363478511407
+_cell_length_c       38.2051074
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00493518780843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  3.64646617663626e-05  0.00010668575220894479  0.3947773263804564  1.0000
+  O   O2        1.0  3.6464661766384775e-05  0.0001066857522089465  0.6052226736195452  1.0000
+  Au  Au1       1.0  0.33328728952935266  0.6666141584964623  0.5  1.0000
+  Co  Co1       1.0  0.6666795838960349  0.33339966974274876  0.4176961549469588  1.0000
+  Co  Co2       1.0  0.6666795838960349  0.33339966974274876  0.5823038450530419  1.0000
+  O   O3        1.0  0.33329209280606137  0.6666344293708275  0.5560445406666424  1.0000
+  O   O4        1.0  0.33329209280606137  0.6666344293708275  0.4439554593333575  1.0000

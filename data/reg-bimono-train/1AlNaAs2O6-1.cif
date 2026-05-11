@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       OAlAs2NaO5
+_chemical_formula_sum              "O6 Al1 As2 Na1"
+_cell_length_a       5.6874158684802065
+_cell_length_b       5.68741586848025
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.92269261870278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.30964373201248474  0.014081640253378437  0.47240015100352745  1.0000
+  Al  Al1       1.0  0.0019547934514470896  0.9980452065485536  0.5  1.0000
+  As  As1       1.0  0.5036449542038012  0.8507804483136576  0.4893116724530839  1.0000
+  As  As2       1.0  0.14921955168633344  0.4963550457961877  0.5106883275469161  1.0000
+  Na  Na1       1.0  0.6242511701101316  0.3757488298898604  0.5  1.0000
+  O   O2        1.0  0.7365887688458055  0.799080088367641  0.4606444573429459  1.0000
+  O   O3        1.0  0.2009199116323473  0.2634112311541846  0.5393555426570539  1.0000
+  O   O4        1.0  0.6944531084612053  0.006534779958112136  0.5279465372449805  1.0000
+  O   O5        1.0  0.9934652200418739  0.3055468915387843  0.47205346275502047  1.0000
+  O   O6        1.0  0.9859183597466153  0.6903562679875098  0.5275998489964736  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgI2PbI2
+_chemical_formula_sum              "Ag1 I4 Pb1"
+_cell_length_a       4.25217980900663
+_cell_length_b       7.981433065613973
+_cell_length_c       19.05269121363446
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.91292905436968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.7496617353121285  0.5898991763672404  0.5000400478975623  1.0000
+  I   I1        1.0  0.7486162736249291  0.24046758993905437  0.6063548232685962  1.0000
+  I   I2        1.0  0.24861814446973635  0.7293680535734488  0.5848517625611434  1.0000
+  Pb  Pb1       1.0  0.24935843745182848  0.08983541840331097  0.5000862257522882  1.0000
+  I   I3        1.0  0.25003465376581074  0.4510712217605091  0.4151896857701597  1.0000
+  I   I4        1.0  0.7501439665684039  0.9396594160916812  0.39364517673140365  1.0000

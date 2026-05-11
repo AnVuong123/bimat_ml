@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt2NPtBrNIN
+_chemical_formula_sum              "Pt3 N3 Br1 I1"
+_cell_length_a       3.8747838035292475
+_cell_length_b       5.290027441665052
+_cell_length_c       22.377260897701102
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.48333639846787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.598068240981355  0.7282317664597385  0.5042686692596114  1.0000
+  Pt  Pt2       1.0  0.8607920084888241  0.2537223914784094  0.446392832483265  1.0000
+  N   N1        1.0  0.7983602399230594  0.12884024427248356  0.5346965993881789  1.0000
+  Pt  Pt3       1.0  0.3069826688988752  0.14609336947873658  0.5567244142379815  1.0000
+  Br  Br1       1.0  0.29739845366422524  0.12693695147133124  0.6648383359211537  1.0000
+  N   N2        1.0  0.40065775519818914  0.33342608055668743  0.4738900059531921  1.0000
+  I   I1        1.0  0.9236415612543883  0.37948554497238973  0.3351616640788463  1.0000
+  N   N3        1.0  0.1241005116529948  0.7802911053922535  0.5128079157992818  1.0000

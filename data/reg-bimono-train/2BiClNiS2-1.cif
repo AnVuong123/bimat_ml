@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiSNiBiSClBiS2Cl
+_chemical_formula_sum              "Ni2 S4 Bi2 Cl2"
+_cell_length_a       3.553350663740429
+_cell_length_b       12.057132510086229
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5000000000000033  0.5667131155206133  0.4999999763633736  1.0000
+  S   S1        1.0  0.9999999999999999  0.6018542378654658  0.5373780144746927  1.0000
+  Ni  Ni2       1.0  0.5000000000000037  0.0667163754050895  0.49999944315312794  1.0000
+  Bi  Bi1       1.0  0.0  0.8172519858502589  0.5485099111614427  1.0000
+  S   S2        1.0  0.5000000000000033  0.8664677537970494  0.49892296475433906  1.0000
+  Cl  Cl1       1.0  0.0  0.0746514844594322  0.5470561665814753  1.0000
+  Bi  Bi2       1.0  1.396847501508611e-18  0.3161733358074279  0.45148764532329577  1.0000
+  S   S3        1.0  0.5000000000000033  0.2669618204546789  0.5010792937410212  1.0000
+  S   S4        1.0  0.0  0.531587086001741  0.46262225364055753  1.0000
+  Cl  Cl2       1.0  5.4021038213915445e-18  0.05878117780723848  0.45294398651106876  1.0000

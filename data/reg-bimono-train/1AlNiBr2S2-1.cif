@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlNiSBrSBr
+_chemical_formula_sum              "Al1 Ni1 S2 Br2"
+_cell_length_a       3.4483516259510445
+_cell_length_b       4.892863591314588
+_cell_length_c       20.36576144026519
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99010450315609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.249189627661934  0.24782313058266725  0.4588107002977397  1.0000
+  Ni  Ni1       1.0  0.7491221425945931  0.7479533166470461  0.5482289128414312  1.0000
+  S   S1        1.0  0.7491697717799498  0.24801783977182987  0.5370314319862491  1.0000
+  Br  Br1       1.0  0.7491706770083603  0.2480801540159123  0.36788061376898956  1.0000
+  S   S2        1.0  0.24922499953692487  0.7479737242113024  0.47642908987533067  1.0000
+  Br  Br2       1.0  0.24893326552635228  0.7477278196040926  0.6322667380653028  1.0000

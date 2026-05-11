@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeCu2IClS
+_chemical_formula_sum              "Se1 Cu2 I1 Cl1 S1"
+_cell_length_a       3.943847739011798
+_cell_length_b       4.472297973047656
+_cell_length_c       21.494017285542707
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000007
+_cell_angle_gamma    85.35961438765585
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.18275734550692452  0.3089149312535049  0.49037197463189497  1.0000
+  Cu  Cu1       1.0  0.001059291939355722  0.9870053678640707  0.5744457174556868  1.0000
+  Cu  Cu2       1.0  0.00369206758977618  0.9870445436975911  0.40456338333085035  1.0000
+  I   I1        1.0  0.49657435298365665  0.9984733217422979  0.6510656942178674  1.0000
+  Cl  Cl1       1.0  0.498508633760844  0.9976214283612488  0.34893430578213247  1.0000
+  S   S1        1.0  0.8452516411856474  0.722002475638834  0.4900242099436211  1.0000

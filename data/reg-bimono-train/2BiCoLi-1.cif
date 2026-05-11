@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiLiBiCo2Li
+_chemical_formula_sum              "Bi2 Li2 Co2"
+_cell_length_a       4.2191885954003805
+_cell_length_b       4.219188595400392
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99973709919583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9875598436543586  0.9875598436543604  0.4174072347637872  1.0000
+  Li  Li1       1.0  0.48713932650977076  0.48713932650977326  0.41603352262537996  1.0000
+  Bi  Bi2       1.0  0.4872069832953192  0.48720698329532186  0.5825914599433892  1.0000
+  Co  Co1       1.0  0.4875662300845303  0.9871995584064945  0.4999994271893517  1.0000
+  Co  Co2       1.0  0.9871995584064968  0.487566230084534  0.4999994271893517  1.0000
+  Li  Li2       1.0  0.9876275551138222  0.9876275551138262  0.5839651561824241  1.0000

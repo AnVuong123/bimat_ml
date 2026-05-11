@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ISeScZnTeI3
+_chemical_formula_sum              "I4 Se1 Sc1 Zn1 Te1"
+_cell_length_a       4.979534283849414
+_cell_length_b       5.598048775183291
+_cell_length_c       21.484817552984104
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999993
+_cell_angle_gamma    105.62087053451287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9136408485156166  0.46161735319258507  0.6710067686161866  1.0000
+  Se  Se1       1.0  0.6703055498545566  0.7086477727318856  0.5080895937637667  1.0000
+  Sc  Sc1       1.0  0.17029964348511809  0.7147677143634837  0.561943038153161  1.0000
+  Zn  Zn1       1.0  0.8835187255887988  0.9796366651096077  0.41721470723939635  1.0000
+  Te  Te1       1.0  0.18992297359008212  0.21823682310520304  0.5094963559482163  1.0000
+  I   I2        1.0  0.4166389168022686  0.9636128409833857  0.6720260113835171  1.0000
+  I   I3        1.0  0.1292263863917161  0.7175498245045061  0.3431754461640393  1.0000
+  I   I4        1.0  0.6335704360680179  0.21582533132491213  0.34080526609774875  1.0000

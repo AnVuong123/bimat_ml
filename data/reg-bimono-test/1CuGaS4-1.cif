@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SCuS3Ga
+_chemical_formula_sum              "S4 Cu1 Ga1"
+_cell_length_a       3.3465452141388057
+_cell_length_b       5.905684050057355
+_cell_length_c       17.889567934369712
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00174004419571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.2545954696483386  0.4054433081259796  0.5797708425931954  1.0000
+  Cu  Cu1       1.0  0.25468269489414336  0.0849771702999299  0.5000014594068394  1.0000
+  S   S2        1.0  0.2546057692823202  0.7644893114342699  0.4201963864649566  1.0000
+  S   S3        1.0  0.7546022759251677  0.24030379654961362  0.42449004620356257  1.0000
+  S   S4        1.0  0.7544712026250285  0.9296302835649517  0.5755134955417744  1.0000
+  Ga  Ga1       1.0  0.754572395899784  0.5849753097157191  0.4999835789452971  1.0000

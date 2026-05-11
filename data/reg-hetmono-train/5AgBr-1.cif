@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br5Ag5
+_chemical_formula_sum              "Br5 Ag5"
+_cell_length_a       7.593828071361674
+_cell_length_b       7.593828065875
+_cell_length_c       18.92017949
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000002390068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3037942983907323  0.0  0.4175421612382661  1.0000
+  Br  Br2       1.0  1.426569969061595e-14  0.30379429839076083  0.4175421612382661  1.0000
+  Br  Br3       1.0  0.6962057016092521  0.6962057016092427  0.4175421612382661  1.0000
+  Br  Br4       1.0  0.3333333300000028  0.6666666700000057  0.623510929123923  1.0000
+  Br  Br5       1.0  0.6666666700000005  0.3333333300000025  0.623510929123923  1.0000
+  Ag  Ag1       1.0  0.44409408037426834  0.0  0.5453222159955253  1.0000
+  Ag  Ag2       1.0  1.2257267819554296e-14  0.4440940803742928  0.5453222159955253  1.0000
+  Ag  Ag3       1.0  0.5559059196257214  0.5559059196257113  0.5453222159955253  1.0000
+  Ag  Ag4       1.0  0.3333333300000028  0.6666666700000057  0.43219207032549445  1.0000
+  Ag  Ag5       1.0  0.6666666700000005  0.3333333300000025  0.43219207032549445  1.0000

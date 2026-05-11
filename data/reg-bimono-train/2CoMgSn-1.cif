@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2MgSnMgSn
+_chemical_formula_sum              "Co2 Mg2 Sn2"
+_cell_length_a       4.247783172402941
+_cell_length_b       4.2477463363840595
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99998379962409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.995706802764972  0.9956998966425297  0.5000079068418797  1.0000
+  Co  Co2       1.0  0.4956288293305888  0.49563806488182516  0.4999960142855978  1.0000
+  Mg  Mg1       1.0  0.9957660373474395  0.495569009948267  0.5828402044116053  1.0000
+  Sn  Sn1       1.0  0.49560590752478006  0.9957100556351801  0.5804739548426142  1.0000
+  Mg  Mg2       1.0  0.4955659900617095  0.9957640748978455  0.4171597452090696  1.0000
+  Sn  Sn2       1.0  0.995711416768525  0.49560879881314085  0.41952543820629035  1.0000

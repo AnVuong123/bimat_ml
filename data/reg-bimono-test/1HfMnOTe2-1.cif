@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OTe2MnHf
+_chemical_formula_sum              "O1 Te2 Mn1 Hf1"
+_cell_length_a       4.006881502398817
+_cell_length_b       3.230748514442638
+_cell_length_c       20.367325665394436
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.76856492506384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.38540510546813284  0.4427704423058357  0.5015672232690759  1.0000
+  Te  Te1       1.0  0.18690437393320655  0.8435490805183326  0.36823685756363406  1.0000
+  Te  Te2       1.0  0.8450232961888605  0.17304218389866008  0.631763142436366  1.0000
+  Mn  Mn1       1.0  0.23408738823353828  0.8672653624345901  0.5626929713194554  1.0000
+  Hf  Hf1       1.0  0.8097582658078855  0.15494952351841795  0.4731799816882978  1.0000

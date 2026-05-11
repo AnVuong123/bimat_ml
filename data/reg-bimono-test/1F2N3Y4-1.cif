@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Y4N3F2
+_chemical_formula_sum              "Y4 N3 F2"
+_cell_length_a       3.466566281825991
+_cell_length_b       3.4665662818259864
+_cell_length_c       25.664334787947322
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.33333333333333387  0.6666666666666666  0.44716258265668934  1.0000
+  Y   Y2        1.0  0.6666666666666675  0.3333333333333337  0.5528855065664463  1.0000
+  Y   Y3        1.0  3.1408398760658146e-16  3.117024387693846e-16  0.33929184708713644  1.0000
+  Y   Y4        1.0  6.000212806155639e-16  5.977835285024023e-16  0.6607257571489478  1.0000
+  N   N1        1.0  4.530792395273112e-16  4.53076805292745e-16  0.5000303653192588  1.0000
+  N   N2        1.0  0.6666666666666674  0.3333333333333335  0.38553297261137703  1.0000
+  N   N3        1.0  0.3333333333333342  0.666666666666667  0.6144779994602951  1.0000
+  F   F1        1.0  0.6666666666666676  0.33333333333333376  0.7088054792334934  1.0000
+  F   F2        1.0  0.3333333333333338  0.6666666666666665  0.2912248394541211  1.0000

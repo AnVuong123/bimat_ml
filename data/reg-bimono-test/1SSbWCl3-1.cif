@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SCl3WSb
+_chemical_formula_sum              "S1 Cl3 W1 Sb1"
+_cell_length_a       6.763053233252586
+_cell_length_b       4.2820569854266415
+_cell_length_c       18.838437357432035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.43017891036148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.057706402444255976  0.13374776833162244  0.5401137306958248  1.0000
+  Cl  Cl1       1.0  0.40878859193731  0.6903369143613634  0.6018778066514555  1.0000
+  Cl  Cl2       1.0  0.9494047946788463  0.6004985658976508  0.39812219334854443  1.0000
+  Cl  Cl3       1.0  0.4186832127323534  0.7245265325326115  0.4258118269467241  1.0000
+  W   W1        1.0  0.17029568687440677  0.6620623576381311  0.5111919073117103  1.0000
+  Sb  Sb1       1.0  0.7637734129016983  0.42095873790942384  0.5081689588034766  1.0000

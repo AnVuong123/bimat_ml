@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WO3SnO
+_chemical_formula_sum              "W1 O4 Sn1"
+_cell_length_a       5.084162645927225
+_cell_length_b       5.076883878325165
+_cell_length_c       30.33936
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    80.49891491197826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.150957479535215  0.27897760492851276  0.49501673079592534  1.0000
+  O   O1        1.0  0.33727719071823575  0.46326370928241256  0.5290481066215862  1.0000
+  O   O2        1.0  0.9084418687945786  0.5235718884669696  0.46605136948523124  1.0000
+  O   O3        1.0  0.3936388526602955  0.03489013455228919  0.46599165359930256  1.0000
+  Sn  Sn1       1.0  0.6511027106725669  0.7793533834448804  0.5143575354570727  1.0000
+  O   O4        1.0  0.9645213257853614  0.0940573008115175  0.5289544008376245  1.0000

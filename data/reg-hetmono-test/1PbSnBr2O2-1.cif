@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbO2SnBr2
+_chemical_formula_sum              "Pb1 O2 Sn1 Br2"
+_cell_length_a       3.970999650770642
+_cell_length_b       3.971253661518874
+_cell_length_c       21.228398104726313
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00167410799604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.247086202558043  0.7470376298840677  0.42035931532254617  1.0000
+  O   O1        1.0  0.24716790094521776  0.2466795428904728  0.49848624088236404  1.0000
+  O   O2        1.0  0.7473820248284381  0.7466241874286653  0.49852727208386927  1.0000
+  Sn  Sn1       1.0  0.7472084305464466  0.24665368886246888  0.5303830053171181  1.0000
+  Br  Br1       1.0  0.7448244500928094  0.2439313396310106  0.6466996726271967  1.0000
+  Br  Br2       1.0  0.7474498162205226  0.2471180414310328  0.35330032737280315  1.0000

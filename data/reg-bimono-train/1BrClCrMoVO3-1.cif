@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCrOMoVOClBr
+_chemical_formula_sum              "O3 Cr1 Mo1 V1 Cl1 Br1"
+_cell_length_a       4.034409255347457
+_cell_length_b       4.9615252495699815
+_cell_length_c       19.761232391629065
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.67239215573085
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.4249165661324066  0.536954768025461  0.554297455522319  1.0000
+  Cr  Cr1       1.0  0.9166794781464146  0.5164929027049238  0.5627017734138996  1.0000
+  O   O2        1.0  0.075945187367299  0.8838120387169808  0.506971553935266  1.0000
+  Mo  Mo1       1.0  0.3303901371988383  0.2925340266350041  0.47025523782432066  1.0000
+  V   V1        1.0  0.5723051177242126  0.9031822160851009  0.4992525139596391  1.0000
+  O   O3        1.0  0.8287002663890112  0.2835316407573782  0.46226294618650543  1.0000
+  Cl  Cl1       1.0  0.7020904810669597  0.09057171619297665  0.6203533590906462  1.0000
+  Br  Br1       1.0  0.48653343906673524  0.6965566086209681  0.3802683342314109  1.0000

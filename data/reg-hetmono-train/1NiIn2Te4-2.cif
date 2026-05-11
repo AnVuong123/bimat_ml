@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiIn2Te4
+_chemical_formula_sum              "Ni1 In2 Te4"
+_cell_length_a       4.21704318636533
+_cell_length_b       4.217563346838203
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99592029452562
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  1.3454649780208048e-16  2.6909299566244003e-16  0.5000000000000001  1.0000
+  In  In1       1.0  0.6666183933368307  0.33323678667366124  0.39537188321520805  1.0000
+  In  In2       1.0  0.3333816066631703  0.666763213326337  0.6046281167847924  1.0000
+  Te  Te1       1.0  0.6666270833464665  0.3332541666929327  0.6422537203044614  1.0000
+  Te  Te2       1.0  0.3333729166535345  0.6667458333070655  0.3577462796955379  1.0000
+  Te  Te3       1.0  0.6666831746271469  0.3333663492542935  0.46856933579881094  1.0000
+  Te  Te4       1.0  0.3333168253728557  0.6666336507457078  0.5314306642011891  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga2S2Cl2Ga2S2Cl2
+_chemical_formula_sum              "Ga4 S4 Cl4"
+_cell_length_a       5.072147135520112
+_cell_length_b       3.481725333128574
+_cell_length_c       32.65516289507602
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5000000004416165  0.0  0.2976348852164369  1.0000
+  Ga  Ga2       1.0  0.0  0.5000000009867845  0.3559160460275188  1.0000
+  S   S1        1.0  0.5000000004416165  0.5000000009867845  0.3487145657974061  1.0000
+  S   S2        1.0  0.0  5.645360863485761e-36  0.3048363176746244  1.0000
+  Cl  Cl1       1.0  0.5000000004416165  0.5000000009867845  0.2454199559729786  1.0000
+  Cl  Cl2       1.0  0.0  7.558308714204657e-36  0.40813103927310773  1.0000
+  Ga  Ga3       1.0  0.5000000004416165  0.0  0.5206871588616039  1.0000
+  Ga  Ga4       1.0  0.0  0.5000000009867845  0.5789683199789162  1.0000
+  S   S3        1.0  0.5000000004416165  0.5000000009867845  0.5717668397488034  1.0000
+  S   S4        1.0  0.0  9.776136965734825e-36  0.5278885913197914  1.0000
+  Cl  Cl3       1.0  0.5000000004416165  0.5000000009867845  0.4684722296181456  1.0000
+  Cl  Cl4       1.0  0.0  1.1689084822124896e-35  0.631183313224505  1.0000

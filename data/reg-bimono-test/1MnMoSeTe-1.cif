@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MoSeMnTe
+_chemical_formula_sum              "Mo1 Se1 Mn1 Te1"
+_cell_length_a       3.649267756030538
+_cell_length_b       4.19646789413329
+_cell_length_c       18.935480489945764
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    125.06994158965489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.39417589236783335  0.2020138246593653  0.5350328962700506  1.0000
+  Se  Se1       1.0  0.6778338109102351  0.8436473466333697  0.6039243119097669  1.0000
+  Mn  Mn1       1.0  0.6059466458716714  0.807880309577103  0.4755082453032493  1.0000
+  Te  Te1       1.0  0.3104381577538321  0.16027723162948287  0.3960860146735987  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrNiBrPdOBrONiOBr
+_chemical_formula_sum              "Br4 Ni2 Pd1 O3"
+_cell_length_a       5.401179568452221
+_cell_length_b       5.634743870756946
+_cell_length_c       20.377755861636714
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    103.89588000135625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.6551275661851104  0.2505068037550336  0.6319538803242445  1.0000
+  Ni  Ni1       1.0  0.8885034213413879  0.2231466802489157  0.5383281582162571  1.0000
+  Br  Br2       1.0  0.5304711670999612  0.2080846676506751  0.36804860952995555  1.0000
+  Pd  Pd1       1.0  0.4649355193377878  0.3702850566014881  0.4796264298005566  1.0000
+  O   O1        1.0  0.11101029144457056  0.14495003689780442  0.4741654091000913  1.0000
+  Br  Br3       1.0  0.3281048629184117  0.5936962327099052  0.5760288043891488  1.0000
+  O   O2        1.0  0.8744390921354127  0.9151045752982486  0.561169845629328  1.0000
+  Ni  Ni2       1.0  0.05212359383280903  0.8133441893655602  0.49768462472357733  1.0000
+  O   O3        1.0  0.8502337031950367  0.4959947234535156  0.4914378343689635  1.0000
+  Br  Br4       1.0  0.3843201602853997  0.7370040895266791  0.41738798080103  1.0000

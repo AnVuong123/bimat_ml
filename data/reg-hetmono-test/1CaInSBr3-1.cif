@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InBrCaBrSBr
+_chemical_formula_sum              "In1 Br3 Ca1 S1"
+_cell_length_a       7.616792563800381
+_cell_length_b       4.088689698634343
+_cell_length_c       18.407471163719848
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    98.32013777684504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8419475310417875  0.8260360078701499  0.49642083026152534  1.0000
+  Br  Br1       1.0  0.5995368147239624  0.6494147876404693  0.5911772916712221  1.0000
+  Ca  Ca1       1.0  0.28394202241125244  0.4435959432556039  0.4937182560985334  1.0000
+  Br  Br2       1.0  0.4270319710493881  0.9785230937882612  0.40744325677837284  1.0000
+  S   S1        1.0  0.9287819110783057  0.34694922439785897  0.4301011250174048  1.0000
+  Br  Br3       1.0  0.1231118090185006  0.9058462339597712  0.5925567432216271  1.0000

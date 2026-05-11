@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HgBaSInBaAuS4
+_chemical_formula_sum              "Hg1 Ba2 S5 In1 Au1"
+_cell_length_a       4.458213659203055
+_cell_length_b       4.458213659203127
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0  0.9999999999999999  0.34231131888688243  1.0000
+  Ba  Ba1       1.0  0.4999999999999837  0.4999999999999837  0.4289078751448035  1.0000
+  S   S1        1.0  1.1188923918034212e-17  0.9999999999999999  0.41113018065296636  1.0000
+  In  In1       1.0  0.0  1.2068968784898928e-17  0.6464524910553452  1.0000
+  Ba  Ba2       1.0  0.4999999999999837  0.4999999999999837  0.5654389530364322  1.0000
+  Au  Au1       1.0  9.593056361376293e-18  4.756896363809411e-18  0.5132006483727002  1.0000
+  S   S2        1.0  0.4999999999999837  0.4999999999999837  0.6487244094877436  1.0000
+  S   S3        1.0  0.0  0.0  0.5808981639606292  1.0000
+  S   S4        1.0  0.4999999999999837  0.0  0.4909954011545787  1.0000
+  S   S5        1.0  3.795380128064521e-18  0.4999999999999837  0.4909954011545787  1.0000

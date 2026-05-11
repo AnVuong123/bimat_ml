@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       I2Ni2
+_chemical_formula_sum              "I2 Ni2"
+_cell_length_a       3.990094197174476
+_cell_length_b       3.99076046309859
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99447738416109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  3.818616917687985e-05  4.164141215013023e-05  0.3983111447928322  1.0000
+  I   I2        1.0  0.33329512086530294  0.666625026875896  0.6017579686312023  1.0000
+  Ni  Ni1       1.0  0.9999178004934924  6.655012070164054e-05  0.5359842930050043  1.0000
+  Ni  Ni2       1.0  0.333415513985051  0.6666001088994075  0.4640842835649114  1.0000

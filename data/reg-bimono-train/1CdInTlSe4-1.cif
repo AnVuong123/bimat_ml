@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdTlInSe4
+_chemical_formula_sum              "Cd1 Tl1 In1 Se4"
+_cell_length_a       4.224269736352866
+_cell_length_b       4.224266306785881
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997314348852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999975783616661  0.9999987891808332  0.5005071121057535  1.0000
+  Tl  Tl1       1.0  0.6666620283466607  0.33333101417332983  0.3987361843484001  1.0000
+  In  In1       1.0  0.3333403042616082  0.6666701521308015  0.6012777134242772  1.0000
+  Se  Se1       1.0  0.6666618806733828  0.3333309403366909  0.46535412484816163  1.0000
+  Se  Se2       1.0  0.33333579084374726  0.6666678954218749  0.5365461032380808  1.0000
+  Se  Se3       1.0  0.333328285890707  0.6666641429453544  0.36643601868907755  1.0000
+  Se  Se4       1.0  0.6666740175570186  0.3333370087785074  0.6311396584837351  1.0000

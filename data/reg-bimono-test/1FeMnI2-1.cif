@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IMnFeI
+_chemical_formula_sum              "I2 Mn1 Fe1"
+_cell_length_a       3.8620801428186526
+_cell_length_b       3.8607261796521963
+_cell_length_c       18.95802364287399
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00063844330916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.24984380487867713  0.2484812438094785  0.604389141965274  1.0000
+  Mn  Mn1       1.0  0.25151364825709016  0.748122241657468  0.5000137376007312  1.0000
+  Fe  Fe1       1.0  0.7512997991526283  0.24830111192809057  0.49999258162993626  1.0000
+  I   I2        1.0  0.751035054733176  0.748314267307271  0.39561085803472607  1.0000

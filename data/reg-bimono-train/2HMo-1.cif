@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Mo2
+_chemical_formula_sum              "H2 Mo2"
+_cell_length_a       2.7996501649642083
+_cell_length_b       2.7995795426223786
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01515224637079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.999794118072129  0.00017320312291539545  0.38103961226326993  1.0000
+  H   H2        1.0  0.33353917762677987  0.6664935006295492  0.6190287958759169  1.0000
+  Mo  Mo1       1.0  0.0003331600242514491  0.9996942004224959  0.5610910800808775  1.0000
+  Mo  Mo2       1.0  0.3330002521982427  0.6669723867242379  0.4389775951499813  1.0000

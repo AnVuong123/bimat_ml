@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrOAuBr2O
+_chemical_formula_sum              "Ir1 O2 Au1 Br2"
+_cell_length_a       3.211234875887979
+_cell_length_b       3.7374902902692657
+_cell_length_c       22.45149697530082
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.99711830466102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.16659237979413602  0.17905749677402627  0.4219933737806971  1.0000
+  O   O1        1.0  0.1666005826021673  0.6803669917093242  0.4217119344540334  1.0000
+  Au  Au1       1.0  0.6667587019014426  0.9852929435779698  0.5642482714906574  1.0000
+  Br  Br1       1.0  0.6669103820677227  0.7786847354824712  0.6659465509916399  1.0000
+  Br  Br2       1.0  0.6666383057316425  0.17966808961974756  0.33405344900836  1.0000
+  O   O2        1.0  0.6666121020214687  0.19508405489112207  0.47864578693132115  1.0000

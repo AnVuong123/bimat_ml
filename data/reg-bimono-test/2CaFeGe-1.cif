@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaFe2GeCaGe
+_chemical_formula_sum              "Ca2 Fe2 Ge2"
+_cell_length_a       4.060329370249485
+_cell_length_b       4.06032937024918
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999220924148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9958406785031115  0.9958406785031144  0.6112983849131052  1.0000
+  Fe  Fe1       1.0  0.495812404858393  0.9957853998358057  0.4998712501091994  1.0000
+  Fe  Fe2       1.0  0.9957853998358062  0.4958124048583876  0.499871250109142  1.0000
+  Ge  Ge1       1.0  0.4957730242348744  0.49577302423487274  0.5626316552360332  1.0000
+  Ca  Ca2       1.0  0.4957554857985743  0.495755485798571  0.38843057544341664  1.0000
+  Ge  Ge2       1.0  0.9958253705036401  0.9958253705036336  0.4370926377460599  1.0000

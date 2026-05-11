@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       WOTe2Mn
+_chemical_formula_sum              "W1 O1 Te2 Mn1"
+_cell_length_a       3.736738740906033
+_cell_length_b       3.736398046231916
+_cell_length_c       19.764173091104013
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.90009071738723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.49501090500628664  0.17253571396311515  0.47111805141653806  1.0000
+  O   O1        1.0  0.1183912850001139  0.549142618365052  0.4893950645732774  1.0000
+  Te  Te1       1.0  0.8202758768925343  0.8471136571521827  0.37947451509498265  1.0000
+  Te  Te2       1.0  0.5298672911624664  0.13788863813300045  0.6205254849050175  1.0000
+  Mn  Mn1       1.0  0.8734147832599615  0.7943357053886182  0.5488776084225233  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnO2MnBr2O
+_chemical_formula_sum              "Mn2 O3 Br2"
+_cell_length_a       3.718713449454573
+_cell_length_b       5.419679677452906
+_cell_length_c       19.641627246959132
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.07678579908394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.049547660336474286  0.4930345015357368  0.4944594577569998  1.0000
+  O   O1        1.0  0.8767568606058066  0.1476511615588487  0.4673858713821712  1.0000
+  O   O2        1.0  0.5829837024957848  0.5598889218188599  0.5065668752286192  1.0000
+  Mn  Mn2       1.0  0.7621415526068186  0.91771565968245  0.5333905158587549  1.0000
+  Br  Br1       1.0  0.1178172143727279  0.6308694814274662  0.3818509727105765  1.0000
+  Br  Br2       1.0  0.9340283771401273  0.259920399628121  0.618166427256442  1.0000
+  O   O3        1.0  0.22218627828220103  0.8380475323004641  0.541400356581124  1.0000

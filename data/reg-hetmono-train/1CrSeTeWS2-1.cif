@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeSCrWSeS
+_chemical_formula_sum              "Te1 S2 Cr1 W1 Se1"
+_cell_length_a       4.3761455213440135
+_cell_length_b       4.3762716670542545
+_cell_length_c       18.147203584747633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    88.93967008039482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8742909557621907  0.6141494262431946  0.4132868166147429  1.0000
+  S   S1        1.0  0.12674208781187124  0.38110176803511936  0.5867019827217982  1.0000
+  Cr  Cr1       1.0  0.6162495440444736  0.3559081309200542  0.5281214874448452  1.0000
+  W   W1        1.0  0.147196012793408  0.8870106477223416  0.5285068601664229  1.0000
+  Se  Se1       1.0  0.38971136075242857  0.12860640951031937  0.4199563547878481  1.0000
+  S   S2        1.0  0.641138197577  0.8663080175617253  0.5867131833852571  1.0000

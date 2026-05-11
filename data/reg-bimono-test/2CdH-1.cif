@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Cd2
+_chemical_formula_sum              "H2 Cd2"
+_cell_length_a       3.242593440385626
+_cell_length_b       3.0423568658476436
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.42719606253397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.4149890468355373  0.33660095183403715  0.3754323023232576  1.0000
+  H   H2        1.0  0.9182985441713444  0.32999478345925826  0.6246351216098852  1.0000
+  Cd  Cd1       1.0  0.9166829749332913  0.829284496263882  0.5644841783284708  1.0000
+  Cd  Cd2       1.0  0.41668831059942235  0.8374525656472097  0.435588111076343  1.0000

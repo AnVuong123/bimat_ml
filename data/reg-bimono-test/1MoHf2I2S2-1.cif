@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoSIHf2SI
+_chemical_formula_sum              "Mo1 S2 I2 Hf2"
+_cell_length_a       4.631391778543664
+_cell_length_b       4.843968840639926
+_cell_length_c       21.433987588958136
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    85.62697286982826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.20388612322365737  0.18465569332836065  0.5257847960977265  1.0000
+  S   S1        1.0  0.20969721577867215  0.2660697292637978  0.4173539383242551  1.0000
+  I   I1        1.0  0.916495020081685  0.22263836631522338  0.6501141344455954  1.0000
+  Hf  Hf1       1.0  0.21862293464645977  0.7678919557071257  0.4339542961081158  1.0000
+  Hf  Hf2       1.0  0.7334841939571048  0.8890589251314193  0.5526091597113246  1.0000
+  S   S2        1.0  0.2522223908749017  0.6855821491088882  0.5542318656965388  1.0000
+  I   I2        1.0  0.7191254018690267  0.7738817210248706  0.3498074783613643  1.0000

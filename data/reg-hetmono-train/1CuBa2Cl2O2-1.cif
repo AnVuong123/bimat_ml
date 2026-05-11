@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuO2BaClBaCl
+_chemical_formula_sum              "Cu1 O2 Ba2 Cl2"
+_cell_length_a       4.092949198614384
+_cell_length_b       4.09294919861433
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99042436077532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9738422876101409  0.9738422876101402  0.5000000000419801  1.0000
+  O   O1        1.0  0.4740025522349701  0.9741035636530354  0.4999999999929247  1.0000
+  O   O2        1.0  0.9741035636530279  0.4740025522349714  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.4741181368839448  0.474118136883945  0.41136657507723934  1.0000
+  Cl  Cl1       1.0  0.9740390500968484  0.9740390500968482  0.3492887919558995  1.0000
+  Ba  Ba2       1.0  0.4741181368919058  0.47411813689190224  0.5886334249038618  1.0000
+  Cl  Cl2       1.0  0.9740390501159032  0.9740390501159033  0.6507112080364217  1.0000

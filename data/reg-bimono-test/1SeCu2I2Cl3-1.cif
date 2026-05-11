@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuCl3SeCuI2
+_chemical_formula_sum              "Cu2 Cl3 Se1 I2"
+_cell_length_a       5.916792636163858
+_cell_length_b       6.87667512952495
+_cell_length_c       20.299033564571292
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    119.0553688075898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.47301013943179543  0.1665596252209759  0.5934758162525595  1.0000
+  Cl  Cl1       1.0  0.4080553256261846  0.4519372012988735  0.5847709033655639  1.0000
+  Cl  Cl2       1.0  0.14005533475977228  0.8456173951464124  0.5517410543213811  1.0000
+  Cl  Cl3       1.0  0.7549102450258233  0.07285592949151731  0.6305242820480849  1.0000
+  Se  Se1       1.0  0.513640605715475  0.7917826131101764  0.4578973449465931  1.0000
+  Cu  Cu2       1.0  0.7329342537233153  0.8048826461989482  0.5613008662030218  1.0000
+  I   I1        1.0  0.6455977325841148  0.19471168829826657  0.4191104264655523  1.0000
+  I   I2        1.0  0.7702661094308291  0.6957249835939284  0.36947571795191503  1.0000

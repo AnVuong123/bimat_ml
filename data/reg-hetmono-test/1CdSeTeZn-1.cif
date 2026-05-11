@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnTeCdSe
+_chemical_formula_sum              "Zn1 Te1 Cd1 Se1"
+_cell_length_a       4.407536459406438
+_cell_length_b       4.408294456648553
+_cell_length_c       18.65133926176268
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99397341611558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6685570044612084  0.3323453075145861  0.5478393518252931  1.0000
+  Te  Te1       1.0  0.3351441997709093  0.6658424084158739  0.5978841039380034  1.0000
+  Cd  Cd1       1.0  0.3344736049427841  0.6609007297268025  0.43907376629936057  1.0000
+  Se  Se1       1.0  0.667665747725057  0.32735060182282016  0.40211589606199677  1.0000

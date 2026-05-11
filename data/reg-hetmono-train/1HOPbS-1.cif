@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HSPbO
+_chemical_formula_sum              "H1 S1 Pb1 O1"
+_cell_length_a       4.006993880233909
+_cell_length_b       3.998066263280711
+_cell_length_c       18.6514376418597
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.93760660893393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.47932212187318324  0.49813050227013933  0.40211377503510176  1.0000
+  S   S1        1.0  0.8291764997224623  0.1684025773900237  0.5978862249648983  1.0000
+  Pb  Pb1       1.0  0.16619846005589037  0.83657235792048  0.5211323283138695  1.0000
+  O   O1        1.0  0.48864178276733944  0.5004374403594766  0.4543574591356167  1.0000

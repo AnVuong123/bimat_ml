@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbNaSbCo2Na
+_chemical_formula_sum              "Sb2 Na2 Co2"
+_cell_length_a       4.273437358495118
+_cell_length_b       4.273437358495118
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9712277921568147  0.9712277921568147  0.42841786221472755  1.0000
+  Na  Na1       1.0  0.4712997376796241  0.47129973767962396  0.38307754808319283  1.0000
+  Sb  Sb2       1.0  0.4709431177726312  0.4709431177726311  0.5715820110608798  1.0000
+  Co  Co1       1.0  0.4712527747428314  0.9709214581580402  0.5000000249256462  1.0000
+  Co  Co2       1.0  0.9709214581580402  0.4712527747428314  0.5000000249256462  1.0000
+  Na  Na2       1.0  0.9708694792711663  0.9708694792711663  0.6169224127636367  1.0000

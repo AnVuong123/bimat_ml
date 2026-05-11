@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiO3Ca2
+_chemical_formula_sum              "Ni1 O3 Ca2"
+_cell_length_a       3.2862586366955115
+_cell_length_b       3.286258636695535
+_cell_length_c       34.787520661806894
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.96685296439621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9367298269116855  0.0632701730883143  0.5000516932524275  1.0000
+  O   O1        1.0  0.49596281870674286  0.5040371812932652  0.5000504971744048  1.0000
+  O   O2        1.0  0.9615987347803235  0.0384012652196773  0.5617127695741252  1.0000
+  O   O3        1.0  0.961487478571639  0.03851252142836451  0.4383857412892504  1.0000
+  Ca  Ca1       1.0  0.46050172394373406  0.5394982760562608  0.5630371370620202  1.0000
+  Ca  Ca2       1.0  0.46036425741655235  0.5396357425834485  0.4370614614487253  1.0000

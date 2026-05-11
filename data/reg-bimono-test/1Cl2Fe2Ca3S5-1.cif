@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2S4Ca2Cl2CaS
+_chemical_formula_sum              "Fe2 S5 Ca3 Cl2"
+_cell_length_a       4.206070110405205
+_cell_length_b       4.206070110405007
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  2.198182245787674e-19  0.9999999999999998  0.44300870990068375  1.0000
+  Fe  Fe2       1.0  0.0  0.9999999999999998  0.5569912900993164  1.0000
+  S   S1        1.0  5.1613867692044205e-18  0.49999999999995104  0.5765889586801756  1.0000
+  S   S2        1.0  0.4999999999999922  9.850822174851673e-18  0.5765889586801756  1.0000
+  S   S3        1.0  0.0  0.49999999999995104  0.4234110413198245  1.0000
+  S   S4        1.0  0.4999999999999922  0.0  0.4234110413198245  1.0000
+  Ca  Ca1       1.0  0.49999999999999206  0.49999999999995104  0.6252889874436534  1.0000
+  Ca  Ca2       1.0  0.499999999999993  0.49999999999995104  0.3747110125563479  1.0000
+  Cl  Cl1       1.0  3.214152049673162e-18  0.0  0.3485940616155076  1.0000
+  Cl  Cl2       1.0  0.0  5.1428755087699194e-18  0.6514059383844865  1.0000
+  Ca  Ca3       1.0  0.499999999999993  0.49999999999995104  0.5  1.0000
+  S   S5        1.0  0.0  6.124138070708389e-19  0.5  1.0000

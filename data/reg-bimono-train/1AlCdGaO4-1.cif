@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdAlGaO4
+_chemical_formula_sum              "Cd1 Al1 Ga1 O4"
+_cell_length_a       3.1760516703466983
+_cell_length_b       3.176054325739617
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00002765688654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.999999770872603  0.9999998854363017  0.49886545368541085  1.0000
+  Al  Al1       1.0  0.666659598071356  0.3333297990356781  0.42055121637096954  1.0000
+  Ga  Ga1       1.0  0.3333371926476511  0.6666685963238214  0.5797248421291572  1.0000
+  O   O1        1.0  0.6666669786054792  0.33333348930273854  0.46417948790966473  1.0000
+  O   O2        1.0  0.3333342695928984  0.6666671347964495  0.5330156155490471  1.0000
+  O   O3        1.0  0.33333270042036134  0.6666663502101803  0.40666774773065284  1.0000
+  O   O4        1.0  0.6666695977202424  0.3333347988601196  0.5969747577763818  1.0000

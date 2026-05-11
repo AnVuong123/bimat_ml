@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SHLiSHLi
+_chemical_formula_sum              "S2 H2 Li2"
+_cell_length_a       3.6173682092354236
+_cell_length_b       3.7865596435416564
+_cell_length_c       34.44778850990976
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8930624569790557  0.9999999999999998  0.45953930981087415  1.0000
+  H   H1        1.0  0.08067424061428596  0.9999999999999999  0.42556449447939004  1.0000
+  Li  Li1       1.0  0.40779292922757115  0.5000000000000099  0.4686629558411881  1.0000
+  S   S2        1.0  0.5992221610171938  0.50000000000001  0.5404379387508886  1.0000
+  H   H2        1.0  0.41155742164401876  0.50000000000001  0.5744098207612734  1.0000
+  Li  Li2       1.0  0.08402461505313541  2.020605904817785e-14  0.5313778122776653  1.0000

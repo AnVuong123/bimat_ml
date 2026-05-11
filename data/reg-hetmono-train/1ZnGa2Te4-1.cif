@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga2ZnTe4
+_chemical_formula_sum              "Ga2 Zn1 Te4"
+_cell_length_a       4.214634482336133
+_cell_length_b       4.214617674657446
+_cell_length_c       39.21798
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99986808033692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  3.97526059797618e-05  1.9876302990000833e-05  0.3941860982561657  1.0000
+  Ga  Ga2       1.0  0.666717888823357  0.33335894441168074  0.502727568882607  1.0000
+  Zn  Zn1       1.0  0.3333849483088104  0.6666924741544027  0.6097323114292605  1.0000
+  Te  Te1       1.0  0.3333807584632505  0.6666903792316167  0.36292910239917225  1.0000
+  Te  Te2       1.0  0.3333812174699893  0.6666906087349983  0.5384095467453341  1.0000
+  Te  Te3       1.0  4.585630782787885e-05  2.292815391395793e-05  0.4603922642862628  1.0000
+  Te  Te4       1.0  4.9743687084829666e-05  2.4871843542384916e-05  0.6330650427293095  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClPbClPbOS
+_chemical_formula_sum              "Cl2 Pb2 O1 S1"
+_cell_length_a       4.645401809378351
+_cell_length_b       4.331043102818623
+_cell_length_c       20.917762702765486
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    100.36256294251041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7273290366029267  0.8592927667446745  0.3585469491442525  1.0000
+  Pb  Pb1       1.0  0.296359063414664  0.3201266546413839  0.3850751922009568  1.0000
+  Cl  Cl2       1.0  0.018177773112469264  0.4377415032922977  0.6414530508557474  1.0000
+  Pb  Pb2       1.0  0.8786758999941602  0.8041141100070132  0.5553010076481129  1.0000
+  O   O1        1.0  0.12396711191473048  0.49914266912117833  0.48291758553842307  1.0000
+  S   S1        1.0  0.3823978859038836  0.2909356545612707  0.5084532870669102  1.0000

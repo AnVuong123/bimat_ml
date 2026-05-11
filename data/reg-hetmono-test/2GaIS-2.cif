@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2S2Ga2
+_chemical_formula_sum              "I2 S2 Ga2"
+_cell_length_a       3.8402801088567178
+_cell_length_b       6.653982696768547
+_cell_length_c       18.46087672
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99869786428579
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.750056869502557  0.8291191349510589  0.6079292851861198  1.0000
+  I   I2        1.0  0.24970279388810868  0.32910670759591776  0.6079370095196  1.0000
+  S   S1        1.0  0.2501862843157901  0.6614693030703677  0.41957897188672505  1.0000
+  S   S2        1.0  0.7500089191862309  0.16148001857123137  0.41957613529690574  1.0000
+  Ga  Ga1       1.0  0.7502018128654413  0.8281517376585469  0.4724860914626243  1.0000
+  Ga  Ga2       1.0  0.24998332045715088  0.3281430689565748  0.4724931511566669  1.0000

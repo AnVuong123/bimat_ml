@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NSeClNb
+_chemical_formula_sum              "N1 Se1 Cl1 Nb1"
+_cell_length_a       3.4048495976150606
+_cell_length_b       3.74361796979077
+_cell_length_c       18.718806392953827
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    102.0346389915443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.10636259682990395  0.7905235139313492  0.46938723047142433  1.0000
+  Se  Se1       1.0  0.42453124173202994  0.09638485946346448  0.4006665725664627  1.0000
+  Cl  Cl1       1.0  0.48579371733050414  0.32240674684009146  0.5993334274335373  1.0000
+  Nb  Nb1       1.0  0.9689714528206934  0.2987974406632578  0.500091381357115  1.0000

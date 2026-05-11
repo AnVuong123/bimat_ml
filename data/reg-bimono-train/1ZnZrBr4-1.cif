@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br2ZrBr2Zn
+_chemical_formula_sum              "Br4 Zr1 Zn1"
+_cell_length_a       3.7220826410404255
+_cell_length_b       6.202652702827066
+_cell_length_c       19.409871556304417
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99840788235429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7502072684138544  0.6334574896299332  0.61359867950471  1.0000
+  Br  Br2       1.0  0.7502748737043087  0.45030224147338627  0.4236729742700217  1.0000
+  Zr  Zr1       1.0  0.7501194743000672  0.8547605711634005  0.486898496586303  1.0000
+  Br  Br3       1.0  0.25027491667546475  0.11094823693313174  0.5596727186734061  1.0000
+  Br  Br4       1.0  0.2502780413800423  0.9376956430216802  0.38640132049529025  1.0000
+  Zn  Zn1       1.0  0.25019635392053363  0.5284174974279197  0.5201766465792361  1.0000

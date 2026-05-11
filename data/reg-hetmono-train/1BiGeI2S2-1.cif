@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2GeBiI2
+_chemical_formula_sum              "S2 Ge1 Bi1 I2"
+_cell_length_a       3.9688881239866167
+_cell_length_b       5.517125709590044
+_cell_length_c       21.688219450080886
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00360164908749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7504382760776989  0.2349970506604246  0.5180176162625606  1.0000
+  S   S2        1.0  0.25021729275397253  0.7209987563635399  0.4540302168729997  1.0000
+  Ge  Ge1       1.0  0.2501467776094431  0.2936432168142358  0.44217849506076673  1.0000
+  Bi  Bi1       1.0  0.7502398478440423  0.7388161211784612  0.5444908031045028  1.0000
+  I   I1        1.0  0.7501949201727042  0.2626193089964817  0.3448349213699683  1.0000
+  I   I2        1.0  0.25015301352427116  0.7380606309861485  0.6551671421329384  1.0000

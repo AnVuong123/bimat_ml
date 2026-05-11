@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoCu2S4
+_chemical_formula_sum              "Mo1 Cu2 S4"
+_cell_length_a       6.205252233658236
+_cell_length_b       6.303829575585962
+_cell_length_c       17.61186088641994
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    125.08507754851165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.9516427242594546  0.8646534745976506  0.5069116027021269  1.0000
+  Cu  Cu1       1.0  0.41584370030208945  0.5818563328368337  0.5147217978564461  1.0000
+  Cu  Cu2       1.0  0.6861189290599194  0.2828567217235929  0.47217216973265513  1.0000
+  S   S1        1.0  0.33247907901597656  0.9041267209573852  0.5161989888964036  1.0000
+  S   S2        1.0  0.7227539025702744  0.727110409010302  0.6123308088442696  1.0000
+  S   S3        1.0  0.022534539357391914  0.2432728562596345  0.4737091215218187  1.0000
+  S   S4        1.0  0.6849494744709764  0.5938777988651465  0.41384179052454667  1.0000

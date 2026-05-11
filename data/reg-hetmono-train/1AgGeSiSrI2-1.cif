@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IGeAgSrSiI
+_chemical_formula_sum              "I2 Ge1 Ag1 Sr1 Si1"
+_cell_length_a       4.3386919791957315
+_cell_length_b       4.321897981453687
+_cell_length_c       23.213279854752468
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.76799208455036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5003707613160355  0.7849070794225929  0.32319155255244686  1.0000
+  Ge  Ge1       1.0  0.5041602608826087  0.7946269286141495  0.5362125821779781  1.0000
+  Ag  Ag1       1.0  0.14507398327496898  0.24614200807926528  0.6124104042342233  1.0000
+  Sr  Sr1       1.0  0.8322596834471759  0.4542675891569981  0.41163892860039214  1.0000
+  Si  Si1       1.0  0.17017459602128346  0.11410714259845034  0.5039391627701917  1.0000
+  I   I2        1.0  0.8319524813300802  0.5744123633974958  0.67681043785879  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeMnTeFe
+_chemical_formula_sum              "Se1 Mn1 Te1 Fe1"
+_cell_length_a       3.577715492455231
+_cell_length_b       3.6475216452412282
+_cell_length_c       18.433412538810973
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99674597282832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.25356145441626676  0.7514211581968865  0.5931301388601278  1.0000
+  Mn  Mn1       1.0  0.25621373631813416  0.2518337022699219  0.5080062374415559  1.0000
+  Te  Te1       1.0  0.7572296936659827  0.25276735351825214  0.4068698611398722  1.0000
+  Fe  Fe1       1.0  0.7545058570426906  0.7524305922172928  0.5058610180684987  1.0000

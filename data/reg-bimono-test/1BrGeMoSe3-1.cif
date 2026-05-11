@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeGeBrSeMoSe
+_chemical_formula_sum              "Se3 Ge1 Br1 Mo1"
+_cell_length_a       3.879208194136564
+_cell_length_b       5.297368946741879
+_cell_length_c       19.195552214203982
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    93.31467368496766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.791552426971271  0.6619442637112276  0.5637468002334488  1.0000
+  Ge  Ge1       1.0  0.25646080497620954  0.7753823664309338  0.4738955733841785  1.0000
+  Br  Br1       1.0  0.22431857893535675  0.17143427458176128  0.6093066122096275  1.0000
+  Se  Se2       1.0  0.7998197173250023  0.9038191326221936  0.3907337931914365  1.0000
+  Mo  Mo1       1.0  0.7030645715085073  0.15424849596412235  0.5100154095866909  1.0000
+  Se  Se3       1.0  0.2303055456752833  0.3393970919912403  0.4326999373350897  1.0000

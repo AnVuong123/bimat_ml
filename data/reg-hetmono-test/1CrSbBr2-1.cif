@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SbCrBr2
+_chemical_formula_sum              "Sb1 Cr1 Br2"
+_cell_length_a       3.9613446760411386
+_cell_length_b       3.9591650612201414
+_cell_length_c       19.577673486169594
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    85.71944353674837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.6258172898477236  0.3767741236164816  0.4999516761725367  1.0000
+  Cr  Cr1       1.0  0.12607611130818133  0.8770726135464564  0.49999575801422247  1.0000
+  Br  Br1       1.0  0.2998584155354729  0.7033876439668508  0.616910558586122  1.0000
+  Br  Br2       1.0  0.9523259624273143  0.05260876250736607  0.38308944141387813  1.0000

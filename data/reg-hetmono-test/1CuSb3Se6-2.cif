@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SbSe6Sb2Cu
+_chemical_formula_sum              "Sb3 Se6 Cu1"
+_cell_length_a       6.820580649466234
+_cell_length_b       6.821172340710566
+_cell_length_c       33.56257695
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0068484315312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9999136374911325  0.9999662354836288  0.5025081862104568  1.0000
+  Se  Se1       1.0  0.6170072519667283  0.6926752028398264  0.4536958884291626  1.0000
+  Se  Se2       1.0  0.07575484136707403  0.38305718506906933  0.45370371354665684  1.0000
+  Se  Se3       1.0  0.30736294066272857  0.9241480097028116  0.45371508820640005  1.0000
+  Se  Se4       1.0  0.026051322120789644  0.675237411317837  0.5547180343943151  1.0000
+  Se  Se5       1.0  0.649243967229912  0.9739887220202316  0.5547082699923709  1.0000
+  Se  Se6       1.0  0.3247554893580123  0.3508796875165768  0.5547069865348684  1.0000
+  Sb  Sb2       1.0  0.6666292777329851  0.33330729939661  0.5277122682115054  1.0000
+  Sb  Sb3       1.0  0.6666421601806585  0.33340865925008023  0.44069871999858096  1.0000
+  Cu  Cu1       1.0  0.3333386608033585  0.6666311384013589  0.5079242988086313  1.0000

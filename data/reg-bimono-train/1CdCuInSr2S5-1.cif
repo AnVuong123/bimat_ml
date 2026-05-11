@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdSrSInSrCuS4
+_chemical_formula_sum              "Cd1 Sr2 S5 In1 Cu1"
+_cell_length_a       4.128903485841749
+_cell_length_b       4.1289034858417635
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  2.696500783318952e-16  0.34428407795329646  1.0000
+  Sr  Sr1       1.0  0.4999999999999983  0.4999999999999993  0.43220724829728935  1.0000
+  S   S1        1.0  8.379390939156291e-18  1.1511417359636235e-17  0.40891394565151945  1.0000
+  In  In1       1.0  1.8546412779031586e-17  1.0382687411130918e-17  0.6441200162954355  1.0000
+  Sr  Sr2       1.0  0.4999999999999955  0.4999999999999993  0.5628093585677795  1.0000
+  Cu  Cu1       1.0  6.209725219331649e-18  0.0  0.5175634610260503  1.0000
+  S   S2        1.0  0.4999999999999955  0.4999999999999993  0.6467277351474616  1.0000
+  S   S3        1.0  4.468318870306237e-18  5.840704075414341e-19  0.5769735448581561  1.0000
+  S   S4        1.0  0.4999999999999955  1.034140618883818e-18  0.4927571093702595  1.0000
+  S   S5        1.0  3.919801793362898e-18  0.4999999999999993  0.4927571093702595  1.0000

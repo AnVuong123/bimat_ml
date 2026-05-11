@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoTeCoBiTeIBiTe2I
+_chemical_formula_sum              "Co2 Te4 Bi2 I2"
+_cell_length_a       3.994746520331884
+_cell_length_b       9.956071538757346
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000000000064  0.5667164114101176  0.5000000828622827  1.0000
+  Te  Te1       1.0  0.9999999999999998  0.5206646211202479  0.5465816067757809  1.0000
+  Co  Co2       1.0  0.5000000000000064  0.06671612243158517  0.5000000000187983  1.0000
+  Bi  Bi1       1.0  0.0  0.7963951226619898  0.5816673598707754  1.0000
+  Te  Te2       1.0  0.5000000000000064  0.8162699510046324  0.5202179770784178  1.0000
+  I   I1        1.0  0.0  0.11976459867992677  0.5522430396150764  1.0000
+  Bi  Bi2       1.0  1.2467923411371723e-18  0.3370373697483276  0.4183329473593366  1.0000
+  Te  Te3       1.0  0.5000000000000064  0.3171626658360306  0.47978144850155013  1.0000
+  Te  Te4       1.0  3.7468183350036806e-18  0.6127674274899282  0.45341826966037424  1.0000
+  I   I2        1.0  8.358636665249644e-18  0.01366800583655538  0.44775690653246597  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OZnBrGeOBr
+_chemical_formula_sum              "O2 Zn1 Br2 Ge1"
+_cell_length_a       3.4125984853877056
+_cell_length_b       3.6917238121694265
+_cell_length_c       20.726061447440014
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00083255812687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.25200526713198806  0.7429160680623939  0.5288400130387237  1.0000
+  Zn  Zn1       1.0  0.7501553816533223  0.7431863299632674  0.4453866889324487  1.0000
+  Br  Br1       1.0  0.7519810533656652  0.24331944837644223  0.6381405774721746  1.0000
+  Ge  Ge1       1.0  0.2513282045740042  0.24289926024434133  0.5443128103844433  1.0000
+  O   O2        1.0  0.7514587192499701  0.2429356134678743  0.49179629239391803  1.0000
+  Br  Br2       1.0  0.2501398625965605  0.742534400695921  0.36188376007223955  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuSTeAuSe2Ir
+_chemical_formula_sum              "Au2 S1 Te1 Se2 Ir1"
+_cell_length_a       6.329296892223811
+_cell_length_b       6.391124916547786
+_cell_length_c       18.39111200552605
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.27891866584929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.8368074531684307  0.4092442746913116  0.5315920251960046  1.0000
+  S   S1        1.0  0.8436296018662248  0.9710449324805919  0.40781744872271464  1.0000
+  Te  Te1       1.0  0.7903016286167129  0.7654589014944554  0.592204034063946  1.0000
+  Au  Au2       1.0  0.1190356395896189  0.1450007484470055  0.5171813616228453  1.0000
+  Se  Se1       1.0  0.2297651194480893  0.5603373118052764  0.46252565116743427  1.0000
+  Se  Se2       1.0  0.4412988808441224  0.10199481933321332  0.5833274444333499  1.0000
+  Ir  Ir1       1.0  0.5919192783569502  0.9026016898608095  0.4987091237968174  1.0000

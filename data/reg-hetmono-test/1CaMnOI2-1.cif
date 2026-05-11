@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaIMnIO
+_chemical_formula_sum              "Ca1 I2 Mn1 O1"
+_cell_length_a       4.077552591322281
+_cell_length_b       4.08253593778214
+_cell_length_c       21.39455286331385
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    120.06447365610082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6351388821501502  0.041481355935161335  0.44457192601353185  1.0000
+  I   I1        1.0  0.302346624854368  0.37434437061491027  0.35055652005985916  1.0000
+  Mn  Mn1       1.0  0.970019949488819  0.7068025456069402  0.5764592347609382  1.0000
+  I   I2        1.0  0.3018944431686802  0.3723591304680735  0.6494434799401408  1.0000
+  O   O1        1.0  0.9713590194595019  0.7078066405636424  0.490922891394953  1.0000

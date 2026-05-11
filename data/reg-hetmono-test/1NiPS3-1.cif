@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PSNiS2
+_chemical_formula_sum              "P1 S3 Ni1"
+_cell_length_a       5.799309224050551
+_cell_length_b       6.110072149323354
+_cell_length_c       30.854999999999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.9497742018539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.29867099888165427  0.958757894434893  0.4982206032706175  1.0000
+  S   S1        1.0  0.29604016574078756  0.6311997453443301  0.4892624828594108  1.0000
+  Ni  Ni1       1.0  0.6581532917204244  0.621486043389025  0.5026848741137031  1.0000
+  S   S2        1.0  0.625686434441829  0.26647262788459103  0.48650290040209554  1.0000
+  S   S3        1.0  0.977495947788238  0.9790422070019547  0.5168763361167301  1.0000

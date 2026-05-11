@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2O4Cu2
+_chemical_formula_sum              "I2 O4 Cu2"
+_cell_length_a       5.1300022521525355
+_cell_length_b       6.011586910013728
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00406033147492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.03218653684397016  0.03093902559291269  0.3942003529193825  1.0000
+  I   I2        1.0  0.5322047307971064  0.03038516415871047  0.6057863860011574  1.0000
+  O   O1        1.0  0.5505967335651736  0.6358273511486829  0.45515779986533594  1.0000
+  O   O2        1.0  0.05067873026102306  0.4256729780440482  0.5447902298013533  1.0000
+  O   O3        1.0  0.013283955116285995  0.6359293461216503  0.5447810723660972  1.0000
+  O   O4        1.0  0.5134868640040879  0.4255477562385544  0.4552377487841014  1.0000
+  Cu  Cu1       1.0  0.7822964174912521  0.2121856833758626  0.5000257217127948  1.0000
+  Cu  Cu2       1.0  0.28204116491222003  0.8492075953432022  0.4999787864567219  1.0000

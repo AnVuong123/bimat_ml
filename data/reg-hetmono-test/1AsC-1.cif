@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       CAs
+_chemical_formula_sum              "C1 As1"
+_cell_length_a       3.1609934013951855
+_cell_length_b       3.160993401395185
+_cell_length_c       15.0
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.43305216566996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.6847538763972679  0.22126218317283  0.5000000000015512  1.0000
+  As  As1       1.0  0.31546373729854943  0.5908047427190772  0.5000000000005849  1.0000

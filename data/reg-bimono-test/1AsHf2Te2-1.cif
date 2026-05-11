@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfTeHfTeAs
+_chemical_formula_sum              "Hf2 Te2 As1"
+_cell_length_a       3.8998464355151277
+_cell_length_b       3.8998669919830027
+_cell_length_c       36.64108128
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00017436663032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6667497994056635  0.3333748997028307  0.4587188283075946  1.0000
+  Te  Te1       1.0  5.131573726555531e-05  2.5657868632777698e-05  0.40913492426015596  1.0000
+  Hf  Hf2       1.0  5.020030047999792e-05  2.51001502399994e-05  0.54128117106558  1.0000
+  Te  Te2       1.0  0.6667486785613851  0.33337433928069393  0.5908650743851724  1.0000
+  As  As1       1.0  0.3334000000262085  0.6667000000131057  0.49999999990344113  1.0000

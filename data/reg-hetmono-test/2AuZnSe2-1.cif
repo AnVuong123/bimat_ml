@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AuZnSe2ZnSeAuSe
+_chemical_formula_sum              "Au2 Zn2 Se4"
+_cell_length_a       5.086483113759676
+_cell_length_b       5.083705086853654
+_cell_length_c       19.083759974922824
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    90.00057799127813
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9968205805219694  0.7498754720246505  0.6083110929890143  1.0000
+  Zn  Zn1       1.0  0.4961735357170367  0.7505784142638905  0.4377262436087558  1.0000
+  Se  Se1       1.0  0.9968940656704555  0.24979598204266498  0.5795175347563152  1.0000
+  Se  Se2       1.0  0.996259761907931  0.7503872387732653  0.408312492800781  1.0000
+  Zn  Zn2       1.0  0.9960567497798581  0.2504487693454948  0.43740245637154446  1.0000
+  Se  Se3       1.0  0.49673098241446734  0.7498538731316596  0.5798231986259054  1.0000
+  Au  Au2       1.0  0.4969715494819541  0.24960017730750483  0.5368043871397264  1.0000
+  Se  Se4       1.0  0.49603033478624325  0.2506734900148139  0.39218803412421666  1.0000

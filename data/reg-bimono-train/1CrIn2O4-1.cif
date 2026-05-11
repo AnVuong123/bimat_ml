@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrIn2O4
+_chemical_formula_sum              "Cr1 In2 O4"
+_cell_length_a       3.3739151705793637
+_cell_length_b       3.3742261195862553
+_cell_length_c       38.817623999999995
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00304876318505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.9999999999999998  0.9999999999999997  0.5  1.0000
+  In  In1       1.0  0.3334031517834354  0.6667015758917166  0.5788928750242806  1.0000
+  In  In2       1.0  0.6665968482165743  0.33329842410828964  0.4211071249757192  1.0000
+  O   O1        1.0  0.33329847807799584  0.6666492390389976  0.40259955271666886  1.0000
+  O   O2        1.0  0.6667015219220127  0.33335076096100835  0.5974004472833322  1.0000
+  O   O3        1.0  0.3333955765972479  0.6666977882986248  0.5235985805056345  1.0000
+  O   O4        1.0  0.6666044234027622  0.3333022117013802  0.47640141949436554  1.0000

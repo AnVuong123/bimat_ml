@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeSPtIZnI
+_chemical_formula_sum              "Se1 S1 Pt1 I2 Zn1"
+_cell_length_a       3.7034017393189362
+_cell_length_b       5.157460090613601
+_cell_length_c       21.213188793114092
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99395102903439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7494806866903695  0.7491586339641507  0.5333516530306084  1.0000
+  S   S1        1.0  0.2498511768329762  0.24931233233440286  0.4813653446028858  1.0000
+  Pt  Pt1       1.0  0.749912177573691  0.24907040408669293  0.552997473274039  1.0000
+  I   I1        1.0  0.24992512986303397  0.2490840482896319  0.6462755927387995  1.0000
+  Zn  Zn1       1.0  0.24912810172040636  0.7507809209348277  0.44872150100500857  1.0000
+  I   I2        1.0  0.7487688299626056  0.7488816897950631  0.3536311916808047  1.0000

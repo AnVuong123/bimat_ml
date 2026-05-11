@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb2Fe2O3I2O
+_chemical_formula_sum              "Sb2 Fe2 O4 I2"
+_cell_length_a       3.8532708599706456
+_cell_length_b       6.266608347042453
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.0  0.16310341362231384  0.4410979391365625  1.0000
+  Sb  Sb2       1.0  0.9999999999999999  0.6631034136223095  0.5589020608634365  1.0000
+  Fe  Fe1       1.0  0.5000000000000252  0.5661283633379629  0.4876007153546348  1.0000
+  Fe  Fe2       1.0  0.5000000000000245  0.06612836333794347  0.5123992846453661  1.0000
+  O   O1        1.0  0.5000000000000273  0.26327053581349835  0.46213391019751926  1.0000
+  O   O2        1.0  0.5000000000000268  0.7632705358135081  0.5378660898024811  1.0000
+  O   O3        1.0  0.0  0.5468073349725968  0.5067848311514488  1.0000
+  I   I1        1.0  0.0  0.6611330959674198  0.4172306726510526  1.0000
+  I   I2        1.0  1.0473073096537266e-17  0.16113309596740794  0.5827693273489536  1.0000
+  O   O4        1.0  0.0  0.046807334972601804  0.4932151688485353  1.0000

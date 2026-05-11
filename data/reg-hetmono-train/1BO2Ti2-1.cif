@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2BO2
+_chemical_formula_sum              "Ti2 B1 O2"
+_cell_length_a       3.023489795149251
+_cell_length_b       3.0234897951492505
+_cell_length_c       19.439802017423197
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99958055311659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.6637144275981809  0.32402089337232787  0.42100426787413064  1.0000
+  Ti  Ti2       1.0  0.336285096933601  0.6602864312431671  0.5789957258616361  1.0000
+  B   B1        1.0  5.4580842773314624e-08  0.9921183282970972  0.5000000084178378  1.0000
+  O   O1        1.0  0.6676479804951242  0.3261441998888628  0.6252839699640169  1.0000
+  O   O2        1.0  0.3323524921666803  0.6584888438825249  0.37471602875831256  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2In2O5
+_chemical_formula_sum              "Fe2 In2 O5"
+_cell_length_a       3.3298162172478363
+_cell_length_b       3.3310695356440374
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98755449588533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00012795210804746106  0.0002559042160949221  0.47111472669861576  1.0000
+  Fe  Fe2       1.0  0.0001279521080473513  0.0002559042160952036  0.5288852733013844  1.0000
+  In  In1       1.0  0.3333391872643955  0.6666783745287925  0.39785811507088104  1.0000
+  In  In2       1.0  0.33333918726439543  0.6666783745287925  0.6021418849291215  1.0000
+  O   O1        1.0  0.666382912454648  0.33276582490929585  0.5  1.0000
+  O   O2        1.0  0.33337117100545616  0.6667423420109139  0.44841088434278714  1.0000
+  O   O3        1.0  0.33337117100545444  0.6667423420109104  0.551589115657213  1.0000
+  O   O4        1.0  0.6666154343647783  0.33323086872955865  0.37933712930904845  1.0000
+  O   O5        1.0  0.6666154343647783  0.3332308687295586  0.6206628706909522  1.0000

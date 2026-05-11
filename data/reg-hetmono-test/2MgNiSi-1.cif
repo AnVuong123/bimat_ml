@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2MgSiMgSi
+_chemical_formula_sum              "Ni2 Mg2 Si2"
+_cell_length_a       3.895882149695419
+_cell_length_b       3.8955657158754557
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99989521812222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9958200733055927  0.9958178271918573  0.5000301860108695  1.0000
+  Ni  Ni2       1.0  0.49551245958287005  0.4955156641152124  0.49997637093853553  1.0000
+  Mg  Mg1       1.0  0.9958240344114859  0.4955330047390911  0.5969844832245412  1.0000
+  Si  Si1       1.0  0.4956742337397696  0.9956252758767544  0.568243685736463  1.0000
+  Mg  Mg2       1.0  0.4955204300588764  0.9958133400664252  0.40301651952501283  1.0000
+  Si  Si2       1.0  0.9956334494033934  0.4956844575913614  0.43175200712426953  1.0000

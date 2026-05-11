@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnVSeS
+_chemical_formula_sum              "Mn1 V1 Se1 S1"
+_cell_length_a       3.799717914977871
+_cell_length_b       3.793060127818116
+_cell_length_c       33.25370314597116
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.95114910491539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.4768128514338361  0.3545092766413587  0.48111079204226975  1.0000
+  V   V1        1.0  0.8111975361229913  0.022034946034609967  0.5237521235975617  1.0000
+  Se  Se1       1.0  0.8108570722086573  0.021580194380403803  0.44910089067956166  1.0000
+  S   S1        1.0  0.47736464618788155  0.3551038900630883  0.5511057808302212  1.0000

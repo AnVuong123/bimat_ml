@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       InSiSeCl
+_chemical_formula_sum              "In1 Si1 Se1 Cl1"
+_cell_length_a       4.327018433808121
+_cell_length_b       4.323112629801911
+_cell_length_c       19.126353301251985
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.8711933222792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.33832602310022913  0.6617758730875696  0.5485422329222227  1.0000
+  Si  Si1       1.0  0.3356580845740028  0.6639495602392349  0.4062042176372329  1.0000
+  Se  Se1       1.0  0.6718033779801144  0.3281964428616245  0.6078708846443269  1.0000
+  Cl  Cl1       1.0  0.668701044691114  0.33129233712643236  0.39212911535567324  1.0000

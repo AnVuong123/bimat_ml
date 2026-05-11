@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSiSe3
+_chemical_formula_sum              "In1 Si1 Se3"
+_cell_length_a       6.9874553198679115
+_cell_length_b       6.988783386765
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00074784251798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  2.4135084964385552e-05  0.9999559449582348  0.5126698602743716  1.0000
+  Si  Si1       1.0  0.6666628878729589  0.3333096528771096  0.5132046657870482  1.0000
+  Se  Se1       1.0  0.015264734119128763  0.4134378555799634  0.5132326714287353  1.0000
+  Se  Se2       1.0  0.3982609366120228  0.9847605620412371  0.5132385113275489  1.0000
+  Se  Se3       1.0  0.5865874311352411  0.6017358689973784  0.5132353697864226  1.0000

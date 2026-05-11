@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeAlF5
+_chemical_formula_sum              "Fe1 Al1 F5"
+_cell_length_a       3.655578961773358
+_cell_length_b       7.57601958854181
+_cell_length_c       33.610146
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.0  3.2857618233594405e-19  0.5  1.0000
+  Al  Al1       1.0  5.566954745087213e-18  0.5  0.5  1.0000
+  F   F1        1.0  0.0  0.7652032842652791  0.5  1.0000
+  F   F2        1.0  6.663716142650106e-19  0.23479671573472083  0.5  1.0000
+  F   F3        1.0  0.49999999999999994  0.5  0.5  1.0000
+  F   F4        1.0  3.934237168135897e-19  0.5  0.44883386907097006  1.0000
+  F   F5        1.0  0.0  0.5  0.55116613092903  1.0000

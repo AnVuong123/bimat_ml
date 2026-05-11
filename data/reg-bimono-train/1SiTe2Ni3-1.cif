@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2SiNi3
+_chemical_formula_sum              "Te2 Si1 Ni3"
+_cell_length_a       3.8664109220789906
+_cell_length_b       3.866359322076208
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00039604336786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8333274879781694  0.5000549401416208  0.629464322420513  1.0000
+  Te  Te2       1.0  0.8333274894476236  0.5000549367312122  0.3705374944397958  1.0000
+  Si  Si1       1.0  0.4999921586896516  0.8333841040947799  0.5000010038939132  1.0000
+  Ni  Ni1       1.0  0.16666257924279768  0.16672526738377522  0.5652037753622483  1.0000
+  Ni  Ni2       1.0  0.1666625770233365  0.16672526034030447  0.4347982523572263  1.0000
+  Ni  Ni3       1.0  0.8333273669892943  0.5000550618817505  0.5000008715584445  1.0000

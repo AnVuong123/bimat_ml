@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu3SbO4
+_chemical_formula_sum              "Cu3 Sb1 O4"
+_cell_length_a       6.637047629786831
+_cell_length_b       6.637775604958264
+_cell_length_c       32.07342719999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00078195977729
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9846995876595498  0.5923333381124937  0.531937374552005  1.0000
+  Cu  Cu2       1.0  0.9846625316207976  0.9687785711055551  0.5319359558936978  1.0000
+  Cu  Cu3       1.0  0.608210370296814  0.592278714979989  0.5319310876737814  1.0000
+  Sb  Sb1       1.0  0.525842853475187  0.051112891689457894  0.5059353460476054  1.0000
+  O   O1        1.0  0.23077693982910014  0.9036234651189173  0.5362738287152561  1.0000
+  O   O2        1.0  0.6734281088692852  0.34621463327627156  0.5362662428449134  1.0000
+  O   O3        1.0  0.6733746132926983  0.903555356705093  0.5362660756684695  1.0000
+  O   O4        1.0  0.5258012968324256  0.05108039021177739  0.44935443165520317  1.0000

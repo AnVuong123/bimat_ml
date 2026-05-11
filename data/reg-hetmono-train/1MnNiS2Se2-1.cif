@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeSNiMnSSe
+_chemical_formula_sum              "Se2 S2 Ni1 Mn1"
+_cell_length_a       3.4077137252973766
+_cell_length_b       5.908424399962321
+_cell_length_c       17.683853467981912
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.95682141998506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.24886323412885591  0.45774749489268324  0.5758890446677334  1.0000
+  S   S1        1.0  0.24818718168755827  0.8028071271866019  0.42411646448179113  1.0000
+  Ni  Ni1       1.0  0.2497369126020457  0.11912122884004954  0.49995291042254847  1.0000
+  Mn  Mn1       1.0  0.7484104577875229  0.6513816086767396  0.4973572444678232  1.0000
+  S   S2        1.0  0.7500640596698036  0.9688907899746465  0.5709456218765869  1.0000
+  Se  Se2       1.0  0.7494422007238203  0.2942148099042838  0.4244051803472102  1.0000

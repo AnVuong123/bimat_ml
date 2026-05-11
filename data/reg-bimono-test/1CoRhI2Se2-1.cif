@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RhCoISe2I
+_chemical_formula_sum              "Rh1 Co1 I2 Se2"
+_cell_length_a       3.7369605349152604
+_cell_length_b       4.810966385351822
+_cell_length_c       20.98797390959892
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01406441201317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.24696111562923592  0.7484535603959807  0.5492170736421927  1.0000
+  Co  Co1       1.0  0.7478495069364407  0.24789769431664593  0.4437074635790755  1.0000
+  I   I1        1.0  0.7469742241496149  0.7496060473431085  0.6426525003173434  1.0000
+  Se  Se1       1.0  0.24753694084633282  0.2484283108170266  0.5153717458346916  1.0000
+  Se  Se2       1.0  0.7471687041338432  0.7481504280215565  0.47144249698060536  1.0000
+  I   I2        1.0  0.24789451020405043  0.24694331904097166  0.35734749968265633  1.0000

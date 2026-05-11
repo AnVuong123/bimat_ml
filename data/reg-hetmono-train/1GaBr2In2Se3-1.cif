@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InGaInSe3Br2
+_chemical_formula_sum              "In2 Ga1 Se3 Br2"
+_cell_length_a       3.9562689559547066
+_cell_length_b       5.555029909725476
+_cell_length_c       22.92569362950687
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99983358243394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7442485167620624  0.25099958826469865  0.4100873775241417  1.0000
+  Ga  Ga1       1.0  0.7472771863035709  0.24635550393660213  0.5982614142282202  1.0000
+  In  In2       1.0  0.24567924198641689  0.7510461983334219  0.5085029377558627  1.0000
+  Se  Se1       1.0  0.7463438405058618  0.7502164184597134  0.5905044962384799  1.0000
+  Se  Se2       1.0  0.24512706907757795  0.25130108501841525  0.4990664487502369  1.0000
+  Se  Se3       1.0  0.7444757114853539  0.7512249218059446  0.42337961482746767  1.0000
+  Br  Br1       1.0  0.2436449719541456  0.2513691390683136  0.32714386405072643  1.0000
+  Br  Br2       1.0  0.2470134949028441  0.2500451112095978  0.6728561359492736  1.0000

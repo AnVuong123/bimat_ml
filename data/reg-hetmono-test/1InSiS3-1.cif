@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InSiS3
+_chemical_formula_sum              "In1 Si1 S3"
+_cell_length_a       6.530064034314106
+_cell_length_b       6.53312991813774
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.04249342499506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  6.0714952527760784e-05  0.00020809697683697725  0.49137028661794063  1.0000
+  Si  Si1       1.0  0.6667700870181323  0.33336587349588476  0.5179414192859528  1.0000
+  S   S1        1.0  0.002724464670649527  0.37987570025005696  0.5187516606835524  1.0000
+  S   S2        1.0  0.3772028908378352  0.9973913027566065  0.5185964626289365  1.0000
+  S   S3        1.0  0.6202174210762603  0.6225185246654354  0.5187090639927913  1.0000

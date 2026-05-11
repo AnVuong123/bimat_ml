@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GaSeTeAg
+_chemical_formula_sum              "Ga1 Se1 Te1 Ag1"
+_cell_length_a       4.579757384858427
+_cell_length_b       4.043660506131423
+_cell_length_c       18.78653102230975
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.25809169871324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8175955461510807  0.6586101694444121  0.4609009014486971  1.0000
+  Se  Se1       1.0  0.029990951862271614  0.2650356096409881  0.39929869061291595  1.0000
+  Te  Te1       1.0  0.8745892839247198  0.6865833199682854  0.6008321699180612  1.0000
+  Ag  Ag1       1.0  0.2754378609952624  0.3879060475311881  0.5358192798047582  1.0000

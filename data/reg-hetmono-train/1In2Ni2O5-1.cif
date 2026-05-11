@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2In2O5
+_chemical_formula_sum              "Ni2 In2 O5"
+_cell_length_a       3.2929459665961818
+_cell_length_b       3.2929459665961764
+_cell_length_c       42.16152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.94699159509527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00046803778067598786  0.999531962219324  0.4730911227359742  1.0000
+  Ni  Ni2       1.0  0.6661329249331159  0.3338670750668974  0.5269082956992259  1.0000
+  In  In1       1.0  0.999972779713339  2.7220286661103577e-05  0.5976669254408224  1.0000
+  In  In2       1.0  0.6666274267877965  0.333372573212209  0.4023327547093228  1.0000
+  O   O1        1.0  0.3332989982334341  0.666701001766562  0.5000005140089274  1.0000
+  O   O2        1.0  0.99918658570409  0.0008134142959099909  0.5487080282491278  1.0000
+  O   O3        1.0  0.6674139945070159  0.3325860054929774  0.45129202011895764  1.0000
+  O   O4        1.0  6.96578184972332e-05  0.9999303421815028  0.3827563537819598  1.0000
+  O   O5        1.0  0.6665305563923258  0.333469443607677  0.617243599931683  1.0000

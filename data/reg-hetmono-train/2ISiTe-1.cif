@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2Te2I2
+_chemical_formula_sum              "Si2 Te2 I2"
+_cell_length_a       5.688945933352144
+_cell_length_b       3.817700935391739
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5  0.9999999999999984  0.4564578518416912  1.0000
+  Si  Si2       1.0  4.0902695997638576e-16  0.5  0.5474266188466054  1.0000
+  Te  Te1       1.0  0.5  0.5000000000000001  0.5469553183029168  1.0000
+  Te  Te2       1.0  0.9999999999999992  0.9999999999999996  0.45697081816464236  1.0000
+  I   I1        1.0  0.5  0.5000000000000001  0.35693674135132936  1.0000
+  I   I2        1.0  1.3820005035378353e-15  0.0  0.6469087923803504  1.0000

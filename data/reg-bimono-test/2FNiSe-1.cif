@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2Se2F2
+_chemical_formula_sum              "Ni2 Se2 F2"
+_cell_length_a       5.050882331358342
+_cell_length_b       3.1237917894307383
+_cell_length_c       20.147173692488636
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5  9.958475311775692e-17  0.45533281375495815  1.0000
+  Ni  Ni2       1.0  0.0  0.49999999999999994  0.5446671430171791  1.0000
+  Se  Se1       1.0  0.5  0.49999999999999994  0.5396423108735737  1.0000
+  Se  Se2       1.0  0.0  1.7646382752711994e-17  0.46035770516359326  1.0000
+  F   F1        1.0  0.5  0.49999999999999994  0.3939660710619257  1.0000
+  F   F2        1.0  0.0  8.270188174563983e-18  0.6060338742208629  1.0000

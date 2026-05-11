@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       WIAgSIS
+_chemical_formula_sum              "W1 I2 Ag1 S2"
+_cell_length_a       3.571191060865792
+_cell_length_b       4.590164978375807
+_cell_length_c       21.9436612872056
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    90.00652532612543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.25054438484648156  0.7856784904448382  0.5625243114181039  1.0000
+  I   I1        1.0  0.25136302631308144  0.062120612349077856  0.33620979107792304  1.0000
+  Ag  Ag1       1.0  0.7514686418133328  0.3707829444385668  0.41108801902111997  1.0000
+  S   S1        1.0  0.7506684662358357  0.7519743213128868  0.4888128291522745  1.0000
+  I   I2        1.0  0.7506157883502808  0.7557438919687811  0.6634222206720847  1.0000
+  S   S2        1.0  0.2502443307793348  0.27137939775496567  0.5661783103200931  1.0000

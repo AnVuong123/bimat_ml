@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnBrN2AuBr
+_chemical_formula_sum              "Mn1 Br2 N2 Au1"
+_cell_length_a       3.4360079362298275
+_cell_length_b       3.7874559573383895
+_cell_length_c       20.893001437323004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.03514054770078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8363167302907711  0.4995420000555111  0.552384034114022  1.0000
+  Br  Br1       1.0  0.5816263341993553  0.001406700546508377  0.3589718797703278  1.0000
+  N   N1        1.0  0.293233450625082  0.5000231282943369  0.49923297772760394  1.0000
+  N   N2        1.0  0.8265874766712387  0.9993846078753922  0.5411302613874719  1.0000
+  Au  Au1       1.0  0.1558311276198669  0.9997404164224082  0.45648911977667583  1.0000
+  Br  Br2       1.0  0.3011547516295428  0.4991987914192679  0.6410281202296724  1.0000

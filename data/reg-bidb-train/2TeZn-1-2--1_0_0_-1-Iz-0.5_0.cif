@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te2Zn2Te2Zn2
+_chemical_formula_sum              "Te4 Zn4"
+_cell_length_a       4.3293471401360675
+_cell_length_b       4.330257422341357
+_cell_length_c       28.615550296787355
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99304637143123
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  6.269496093580662e-06  3.723093689011718e-05  0.2637930028152376  1.0000
+  Te  Te2       1.0  0.33332713532136876  0.666629454729533  0.3951812630795214  1.0000
+  Zn  Zn1       1.0  0.999986793681503  6.029795938072841e-05  0.36202485440802645  1.0000
+  Zn  Zn2       1.0  0.3333465086503455  0.6666062890502592  0.2969616890769364  1.0000
+  Te  Te3       1.0  0.49999372951731036  0.9999627682323495  0.6559142901440976  1.0000
+  Te  Te4       1.0  0.16667286502523498  0.3333705471061062  0.5245260298798139  1.0000
+  Zn  Zn3       1.0  0.5000132053004717  0.9999397012098589  0.5576824382018485  1.0000
+  Zn  Zn4       1.0  0.16665349036305846  0.33339371011898056  0.6227456038823989  1.0000

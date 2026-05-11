@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OIPtISCu2O
+_chemical_formula_sum              "O2 I2 Pt1 S1 Cu2"
+_cell_length_a       3.5571545214567912
+_cell_length_b       5.8773755382051425
+_cell_length_c       21.05728196807162
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02563043538886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.24886718196601532  0.10870178433110597  0.49250971571487534  1.0000
+  I   I1        1.0  0.74716711751415  0.1349559196311651  0.35708541713822595  1.0000
+  Pt  Pt1       1.0  0.24986116529890517  0.7757103137254429  0.5150727817110511  1.0000
+  I   I2        1.0  0.2598348688381576  0.8853270558549511  0.6429216337507226  1.0000
+  S   S1        1.0  0.7502714355264448  0.6566497205100421  0.4555463623176663  1.0000
+  Cu  Cu1       1.0  0.7488688224989231  0.25234602613975815  0.4742029313963441  1.0000
+  Cu  Cu2       1.0  0.25003382448685196  0.3954806217150282  0.5730635677358284  1.0000
+  O   O2        1.0  0.7500770735308228  0.3477676270246866  0.5654892872250689  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiSeNaSeAsSe3AsSe
+_chemical_formula_sum              "Ni1 Se6 Na1 As2"
+_cell_length_a       6.570656517441245
+_cell_length_b       6.571394061926924
+_cell_length_c       33.22614168318993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99916472975407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.6774974031252395  0.9985568368278739  0.4999999780794242  1.0000
+  Se  Se1       1.0  0.6608338429945264  0.7247946585894706  0.551868061608319  1.0000
+  Na  Na1       1.0  0.010770061431812838  0.6651275964805788  0.5000001453001665  1.0000
+  Se  Se2       1.0  0.9512569761429992  0.2549515163531446  0.5519494480366606  1.0000
+  As  As1       1.0  0.3442243204703858  0.33177707689046704  0.5370493894656646  1.0000
+  Se  Se3       1.0  0.4211653587032242  0.015553942632175355  0.551876813729904  1.0000
+  Se  Se4       1.0  0.42039933260654694  0.7248381711219563  0.4481339251532201  1.0000
+  Se  Se5       1.0  0.6601338103713013  0.25498845707253875  0.4480509905177424  1.0000
+  As  As2       1.0  0.34398727460080947  0.33180612108899954  0.4629502995609321  1.0000
+  Se  Se6       1.0  0.950832275547808  0.0156003433029202  0.44812076557910446  1.0000

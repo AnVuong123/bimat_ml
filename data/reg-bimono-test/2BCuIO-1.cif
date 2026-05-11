@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CuICuIBOBO
+_chemical_formula_sum              "Cu2 I2 B2 O2"
+_cell_length_a       4.236688416636554
+_cell_length_b       6.54078288552406
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.7419451744339838  0.4733430137758082  1.0000
+  I   I1        1.0  0.5  0.5109791087537822  0.4725571049147593  1.0000
+  Cu  Cu2       1.0  0.5  0.24194517443399585  0.5266569862241918  1.0000
+  I   I2        1.0  0.0  0.010979108753788935  0.5274428950852407  1.0000
+  B   B1        1.0  0.5  0.48816344439560355  0.5561896874054795  1.0000
+  O   O1        1.0  0.5  0.650465702384047  0.5725234224831429  1.0000
+  B   B2        1.0  1.728237524866978e-17  0.9881634443956044  0.44381031259452425  1.0000
+  O   O2        1.0  0.0  0.15046570238405968  0.42747657751685136  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlClI2InS2I
+_chemical_formula_sum              "Al1 Cl1 I3 In1 S2"
+_cell_length_a       4.869811109815618
+_cell_length_b       4.8695682529606685
+_cell_length_c       21.62834886084549
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01171436715768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7535742504931795  0.7546373034981375  0.5183155772217175  1.0000
+  Cl  Cl1       1.0  0.2535162818822913  0.25565609673378525  0.3467824788356793  1.0000
+  I   I1        1.0  0.7535014762426404  0.755080768548797  0.39092425432389044  1.0000
+  I   I2        1.0  0.25346526556748106  0.2552651231759649  0.6527053792879703  1.0000
+  In  In1       1.0  0.2534995865090269  0.25428697039996206  0.456728330435097  1.0000
+  S   S1        1.0  0.25356339613732803  0.7543086232875944  0.5076780391740969  1.0000
+  S   S2        1.0  0.7536378794941612  0.2546927582674365  0.5076732661609247  1.0000
+  I   I3        1.0  0.7536793748075621  0.755327811494634  0.6497332700873822  1.0000

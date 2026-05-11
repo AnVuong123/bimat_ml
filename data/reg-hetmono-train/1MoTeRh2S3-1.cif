@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoSRhS2TeRh
+_chemical_formula_sum              "Mo1 S3 Rh2 Te1"
+_cell_length_a       4.761148162078048
+_cell_length_b       4.602156605870635
+_cell_length_c       18.70034611217769
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.56873715825593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.3054167008997864  0.26228232525560524  0.5234310088293735  1.0000
+  S   S1        1.0  0.28631167121622436  0.2572210489935376  0.4045435499687345  1.0000
+  Rh  Rh1       1.0  0.19628991509158425  0.755117423487148  0.4396409678243221  1.0000
+  S   S2        1.0  0.23761025039221628  0.7549420609451871  0.5661458259838597  1.0000
+  S   S3        1.0  0.7362297003845192  0.712824935183102  0.4010620955895565  1.0000
+  Te  Te1       1.0  0.7983400302396372  0.24414454439927014  0.5989379044104435  1.0000
+  Rh  Rh2       1.0  0.6999275630901151  0.7417155397338453  0.5237738270745868  1.0000

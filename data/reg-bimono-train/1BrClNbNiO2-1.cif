@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiNbClO2Br
+_chemical_formula_sum              "Ni1 Nb1 Cl1 O2 Br1"
+_cell_length_a       3.506167571874314
+_cell_length_b       3.9502510533621504
+_cell_length_c       20.965441174230932
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    90.344369172197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.41304802707423044  0.5743498575300084  0.5716439204931149  1.0000
+  Nb  Nb1       1.0  0.6626631437796008  0.5953434046931343  0.4478470507198603  1.0000
+  Cl  Cl1       1.0  0.1736556506366118  0.5445079326966407  0.3577315610805466  1.0000
+  O   O1        1.0  0.17602928733222226  0.5433186521967417  0.4923941206732586  1.0000
+  O   O2        1.0  0.6756360705209102  0.04554317841499086  0.44476499124585406  1.0000
+  Br  Br1       1.0  0.8886101157832995  0.6670541689257623  0.6422684389194533  1.0000

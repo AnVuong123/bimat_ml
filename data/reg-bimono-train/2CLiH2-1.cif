@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2Li2CH2C
+_chemical_formula_sum              "H4 Li2 C2"
+_cell_length_a       3.7235681042405044
+_cell_length_b       3.7235681042405173
+_cell_length_c       33.24843837
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.64671505434295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0029735766061766344  0.9970264233938233  0.5586709227807909  1.0000
+  H   H2        1.0  0.6738942843913113  0.32610571560868107  0.5586725915770235  1.0000
+  Li  Li1       1.0  0.3384221300135617  0.16157786998643367  0.5  1.0000
+  Li  Li2       1.0  0.8384221300135588  0.6615778699864283  0.5  1.0000
+  C   C1        1.0  0.8384292330706298  0.16157076692936756  0.5376172680687525  1.0000
+  H   H3        1.0  0.17389428439131424  0.8261057156086737  0.44132740842297574  1.0000
+  H   H4        1.0  0.5029735766061716  0.49702642339382225  0.4413290772192097  1.0000
+  C   C2        1.0  0.3384292330706278  0.6615707669293699  0.4623827319312476  1.0000

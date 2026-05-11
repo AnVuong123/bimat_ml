@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeCuTeAg
+_chemical_formula_sum              "Se1 Cu1 Te1 Ag1"
+_cell_length_a       4.032210934002604
+_cell_length_b       4.02946940198214
+_cell_length_c       18.874926181485836
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.92593066837131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.1656115736403923  0.33237972230121365  0.39748521912081114  1.0000
+  Cu  Cu1       1.0  0.16617362574756858  0.33252999125800026  0.5335956654613392  1.0000
+  Te  Te1       1.0  0.8323518663794448  0.6659250154784058  0.602364440378012  1.0000
+  Ag  Ag1       1.0  0.8316929451713067  0.6657713845606905  0.45513957410052763  1.0000

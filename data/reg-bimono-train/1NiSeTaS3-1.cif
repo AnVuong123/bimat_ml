@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaNiSeS3
+_chemical_formula_sum              "Ta1 Ni1 Se1 S3"
+_cell_length_a       3.3922462615589395
+_cell_length_b       5.863874482638264
+_cell_length_c       18.101755816549044
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00203326984077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.2463478717499454  0.6296385405203696  0.4962005967870777  1.0000
+  Ni  Ni1       1.0  0.7473496098985866  0.046569513354006276  0.4976721892454499  1.0000
+  Se  Se1       1.0  0.24758999649396157  0.22931170457333794  0.575840844152665  1.0000
+  S   S1        1.0  0.24707214758362467  0.9316045790517812  0.4143244487445424  1.0000
+  S   S2        1.0  0.7470209688578054  0.3991506576747046  0.4308588135996236  1.0000
+  S   S3        1.0  0.7468011342429242  0.741151054967677  0.5856755512554573  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5AlBr2
+_chemical_formula_sum              "Fe5 Al1 Br2"
+_cell_length_a       3.6095656686328708
+_cell_length_b       3.609565668632887
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9999990305097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.030103690321205266  0.030103690321205284  0.4999822336950372  1.0000
+  Fe  Fe2       1.0  0.5300666835610262  0.03003921723815101  0.415813858505156  1.0000
+  Fe  Fe3       1.0  0.030039217238150985  0.5300666835610264  0.415813858505156  1.0000
+  Fe  Fe4       1.0  0.5300675778255881  0.030038558490092324  0.5841717726083463  1.0000
+  Fe  Fe5       1.0  0.030038558490092453  0.5300675778255881  0.5841717726083463  1.0000
+  Al  Al1       1.0  0.5300677629136438  0.530067762913644  0.49998902015119384  1.0000
+  Br  Br1       1.0  0.0300561671777305  0.030056167177730433  0.3322966175403461  1.0000
+  Br  Br2       1.0  0.030057753731012753  0.03005775373101278  0.6676810847808679  1.0000

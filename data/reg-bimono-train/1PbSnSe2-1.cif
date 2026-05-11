@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnSePbSe
+_chemical_formula_sum              "Sn1 Se2 Pb1"
+_cell_length_a       4.015646069405523
+_cell_length_b       6.256352653799111
+_cell_length_c       17.023211828903438
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.98093811740522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.2504654145451283  0.7297737263102769  0.5594250911413865  1.0000
+  Se  Se1       1.0  0.750376358108276  0.7595265481273917  0.44943201968840646  1.0000
+  Pb  Pb1       1.0  0.7518839834820429  0.24130578807145286  0.4405749088586134  1.0000
+  Se  Se2       1.0  0.25192328232227595  0.2675118047025033  0.5547182901755536  1.0000

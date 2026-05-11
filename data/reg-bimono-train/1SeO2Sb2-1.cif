@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbOSbOSe
+_chemical_formula_sum              "Sb2 O2 Se1"
+_cell_length_a       3.6777737262165044
+_cell_length_b       3.679996232637387
+_cell_length_c       22.162984280000003
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98775580548336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3406308674053774  0.8907680230177175  0.5931452676312825  1.0000
+  O   O1        1.0  0.34124793957472327  0.8900974763370904  0.37300404480612237  1.0000
+  Sb  Sb2       1.0  0.006432546126365314  0.2228252517267083  0.4068562291888158  1.0000
+  O   O2        1.0  0.00813895449784338  0.22367696102631177  0.626995018432012  1.0000
+  Se  Se1       1.0  0.6747453434809363  0.5569091738765184  0.5000013803148772  1.0000

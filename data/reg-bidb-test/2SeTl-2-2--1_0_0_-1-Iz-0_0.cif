@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tl2Se2Tl2Se2
+_chemical_formula_sum              "Tl4 Se4"
+_cell_length_a       4.222645586226597
+_cell_length_b       4.222645586226596
+_cell_length_c       31.937657816088727
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.6666666655260142  0.33333333252660075  0.27515574531495834  1.0000
+  Tl  Tl2       1.0  0.6666666655260142  0.33333333252660075  0.3657437529472073  1.0000
+  Se  Se1       1.0  0.3333333338938722  0.6666666677877444  0.2348324990889546  1.0000
+  Se  Se2       1.0  0.3333333338938722  0.6666666677877444  0.406067000425651  1.0000
+  Tl  Tl3       1.0  0.3333333338938722  0.6666666677877444  0.6267680127099394  1.0000
+  Tl  Tl4       1.0  0.3333333338938722  0.6666666677877444  0.5361800053908006  1.0000
+  Se  Se3       1.0  0.6666666655260142  0.33333333252660075  0.6670912589359433  1.0000
+  Se  Se4       1.0  0.6666666655260142  0.33333333252660075  0.4958567579123568  1.0000

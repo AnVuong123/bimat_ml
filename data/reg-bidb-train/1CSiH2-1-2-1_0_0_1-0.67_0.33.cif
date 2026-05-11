@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SiCH2SiCH2
+_chemical_formula_sum              "Si2 C2 H4"
+_cell_length_a       3.1291117713532337
+_cell_length_b       3.129111771353459
+_cell_length_c       25.898386567696573
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.9999999999999998  0.9999999999999998  0.31541105615393267  1.0000
+  C   C1        1.0  0.33333333268471105  0.6666666653694222  0.3376196909851624  1.0000
+  H   H1        1.0  0.9999999999999998  0.9999999999999998  0.2575019228540744  1.0000
+  H   H2        1.0  0.33333333268471105  0.6666666653694222  0.3803816459473051  1.0000
+  Si  Si2       1.0  0.6666666677240201  0.3333333326847109  0.5086786667410419  1.0000
+  C   C2        1.0  0.9999999999999997  0.9999999999999997  0.5308873011861471  1.0000
+  H   H3        1.0  0.6666666677240201  0.33333333268471094  0.4507695330550591  1.0000
+  H   H4        1.0  0.9999999999999997  0.9999999999999997  0.5736492561482898  1.0000

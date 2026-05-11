@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2CaO7
+_chemical_formula_sum              "Ta2 Ca1 O7"
+_cell_length_a       3.936719310454791
+_cell_length_b       3.936719310454791
+_cell_length_c       37.85731800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  5.1913357419583005e-21  4.573519860599797e-17  0.4405253665448109  1.0000
+  Ta  Ta2       1.0  2.761749220366027e-17  6.215025177515781e-18  0.5563886567623441  1.0000
+  Ca  Ca1       1.0  0.5000000000000032  0.5000000000000031  0.49843445195109626  1.0000
+  O   O1        1.0  7.558170985870254e-18  0.5000000000000032  0.4511882506809201  1.0000
+  O   O2        1.0  0.5000000000000032  4.128918831959436e-18  0.4511882506809201  1.0000
+  O   O3        1.0  7.944244499901462e-18  0.5000000000000032  0.5457670939458913  1.0000
+  O   O4        1.0  0.5000000000000032  2.1688319166958702e-18  0.5457670939458913  1.0000
+  O   O5        1.0  1.5901860770720231e-18  2.2690432948420263e-18  0.39335401294756667  1.0000
+  O   O6        1.0  0.0  3.040297505918587e-18  0.6035683689162881  1.0000
+  O   O7        1.0  2.418837234721603e-18  0.0  0.49846714633474204  1.0000

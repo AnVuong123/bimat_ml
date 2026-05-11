@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2GaIS2ClOs
+_chemical_formula_sum              "Cl3 Ga1 I1 S2 Os1"
+_cell_length_a       5.75521899340732
+_cell_length_b       6.438070976689914
+_cell_length_c       18.51937832347365
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    108.66329237898644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9156303032464086  0.0895679927137903  0.4049811969386474  1.0000
+  Cl  Cl2       1.0  0.3377395455666135  0.6486345677316085  0.40880654170348085  1.0000
+  Ga  Ga1       1.0  0.5880397048463372  0.9276036298088178  0.48856675277639033  1.0000
+  I   I1        1.0  0.32696733298127456  0.6619346183430777  0.5950188030613528  1.0000
+  S   S1        1.0  0.46826245532496696  0.2528387681170103  0.49859616086877206  1.0000
+  S   S2        1.0  0.802579242079823  0.4994647684737277  0.48718468942797966  1.0000
+  Cl  Cl3       1.0  0.9143634685966154  0.08688681189543132  0.5744855737081478  1.0000
+  Os  Os1       1.0  0.12328816875730096  0.3666386846866064  0.4925935572714325  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2Al2S5
+_chemical_formula_sum              "Co2 Al2 S5"
+_cell_length_a       3.5317313559964
+_cell_length_b       3.531731355996406
+_cell_length_c       42.16152
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01543273568339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  2.4428762295829653e-05  0.9999755712377042  0.4663836173073877  1.0000
+  Co  Co2       1.0  0.6665757690654726  0.3334242309345327  0.5336155777625566  1.0000
+  Al  Al1       1.0  0.999969558263633  3.0441736367092054e-05  0.6100912608708324  1.0000
+  Al  Al2       1.0  0.6666304533618784  0.3333695466381195  0.3899099087953677  1.0000
+  S   S1        1.0  0.33329947168139457  0.666700528318599  0.5000012358553031  1.0000
+  S   S2        1.0  0.9998750601118102  0.00012493988818982856  0.5571923208764832  1.0000
+  S   S3        1.0  0.666725040156937  0.3332749598430521  0.4428081136987972  1.0000
+  S   S4        1.0  0.9999742660888113  2.573391118860904e-05  0.36456915749907687  1.0000
+  S   S5        1.0  0.6666257598145032  0.3333742401854933  0.6354329458780645  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       SiCaSiCaMn2SiCaSiCaMn2
+_chemical_formula_sum              "Si4 Ca4 Mn4"
+_cell_length_a       3.863024910011212
+_cell_length_b       3.863024910011213
+_cell_length_c       45.37840332931708
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5000000012928714  0.5000000012928711  0.3461722711131892  1.0000
+  Ca  Ca1       1.0  0.0  0.0  0.3199694408511599  1.0000
+  Si  Si2       1.0  0.0  0.0  0.4076864257594499  1.0000
+  Ca  Ca2       1.0  0.5000000012928714  0.5000000012928711  0.4338892560214791  1.0000
+  Mn  Mn1       1.0  0.5000000012928714  1.6831801488349398e-63  0.37692934843631953  1.0000
+  Mn  Mn2       1.0  0.0  0.5000000012928711  0.37692934843631953  1.0000
+  Si  Si3       1.0  0.5000000012928714  0.5000000012928711  0.5180491719683824  1.0000
+  Ca  Ca3       1.0  0.0  0.0  0.491846341485984  1.0000
+  Si  Si4       1.0  0.0  0.0  0.579563326614643  1.0000
+  Ca  Ca4       1.0  0.5000000012928714  0.5000000012928711  0.6057661568766723  1.0000
+  Mn  Mn3       1.0  0.5000000012928714  1.6831801488349398e-63  0.5488062492915128  1.0000
+  Mn  Mn4       1.0  0.0  0.5000000012928711  0.5488062492915128  1.0000

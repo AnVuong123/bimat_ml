@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       INiSClSMn
+_chemical_formula_sum              "I1 Ni1 S2 Cl1 Mn1"
+_cell_length_a       3.8737682832010325
+_cell_length_b       6.4982772949836
+_cell_length_c       18.48028909654556
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.32436924897829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2468333243523431  0.19945844404365587  0.5941621929820381  1.0000
+  Ni  Ni1       1.0  0.08666711864850062  0.8787910367667717  0.5020532165059923  1.0000
+  S   S1        1.0  0.9461571445194188  0.6003269097923541  0.42789839537325586  1.0000
+  Cl  Cl1       1.0  0.22012744142707785  0.14670233181555606  0.40583780701796174  1.0000
+  S   S2        1.0  0.5253068425632835  0.7558428927570853  0.5436632417792093  1.0000
+  Mn  Mn1       1.0  0.37258483493702926  0.4527604158037642  0.475280716048537  1.0000

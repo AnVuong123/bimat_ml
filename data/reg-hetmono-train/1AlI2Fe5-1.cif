@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5AlI2
+_chemical_formula_sum              "Fe5 Al1 I2"
+_cell_length_a       3.6976708870645414
+_cell_length_b       3.6976708870645765
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000164618427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.017276731240116812  0.017276731240116555  0.4999887398052406  1.0000
+  Fe  Fe2       1.0  0.5172786582382136  0.017264381859134193  0.4184955663586517  1.0000
+  Fe  Fe3       1.0  0.01726438185913415  0.5172786582382107  0.4184955663586517  1.0000
+  Fe  Fe4       1.0  0.5172783625058532  0.017265394500971875  0.5815170382648498  1.0000
+  Fe  Fe5       1.0  0.0172653945009719  0.5172783625058534  0.5815170382648498  1.0000
+  Al  Al1       1.0  0.5172986670960212  0.517298667096022  0.5000215260224521  1.0000
+  I   I1        1.0  0.017279320019788543  0.01727932001978851  0.32800839104880203  1.0000
+  I   I2        1.0  0.017280335967129537  0.01728033596712935  0.6719953912243427  1.0000

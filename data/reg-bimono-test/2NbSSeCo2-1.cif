@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Co4Se2S2
+_chemical_formula_sum              "Nb2 Co4 Se2 S2"
+_cell_length_a       3.3805368060639727
+_cell_length_b       6.379095635047959
+_cell_length_c       35.04820008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.002942839750798899  0.5107279187612661  1.0000
+  Nb  Nb2       1.0  0.0  0.5029428397507988  0.4892720812387338  1.0000
+  Co  Co1       1.0  0.5000000000000002  0.693702222306694  0.5340837678578677  1.0000
+  Co  Co2       1.0  0.5000000000000002  0.19370222230669465  0.46591623214213235  1.0000
+  Co  Co3       1.0  0.5000000000000002  0.8121697773095228  0.4659151167869129  1.0000
+  Co  Co4       1.0  0.5000000000000002  0.3121697773095238  0.5340848832130872  1.0000
+  Se  Se1       1.0  0.0  0.0029346969416863904  0.431055496764044  1.0000
+  Se  Se2       1.0  2.4107016112532363e-18  0.5029346969416865  0.5689445032359542  1.0000
+  S   S1        1.0  0.5000000000000002  0.0029340148222728006  0.5643605329326733  1.0000
+  S   S2        1.0  0.5000000000000002  0.5029340148222728  0.43563946706732565  1.0000

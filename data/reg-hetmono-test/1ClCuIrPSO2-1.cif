@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OCuSIrClPO
+_chemical_formula_sum              "O2 Cu1 S1 Ir1 Cl1 P1"
+_cell_length_a       5.4868716552112815
+_cell_length_b       5.165865199222726
+_cell_length_c       18.353743068622382
+_cell_angle_alpha    90.00000000000001
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    117.0534168873746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.11389516328796616  0.7530778368074332  0.5459037741638302  1.0000
+  Cu  Cu1       1.0  0.4089033868935269  0.1587816618147811  0.5617767451846521  1.0000
+  S   S1        1.0  0.5322739512191734  0.5744322605290543  0.5040692472228367  1.0000
+  Ir  Ir1       1.0  0.907312359848386  0.02081882464997009  0.529020129363266  1.0000
+  Cl  Cl1       1.0  0.06894290280346249  0.01129371965702981  0.4086359916861876  1.0000
+  P   P1        1.0  0.12962031360118842  0.5353821040093499  0.4833411942608884  1.0000
+  O   O2        1.0  0.7471211931574323  0.17226031003628914  0.5913640083138123  1.0000

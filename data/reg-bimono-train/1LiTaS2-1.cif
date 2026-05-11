@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaS2Li
+_chemical_formula_sum              "Ta1 S2 Li1"
+_cell_length_a       3.4633023641168745
+_cell_length_b       4.092552572336679
+_cell_length_c       18.28589727578573
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.9434598178138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.49571810415576617  0.2014674623172495  0.4582386406963814  1.0000
+  S   S1        1.0  0.5062087243174295  0.2216550396913818  0.5848271325629442  1.0000
+  S   S2        1.0  0.19070674254357992  0.592474363840973  0.41001818721495725  1.0000
+  Li  Li1       1.0  0.8096183295348948  0.8260716004963127  0.5898579268662008  1.0000

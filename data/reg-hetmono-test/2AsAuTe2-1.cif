@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Au2As2Te4
+_chemical_formula_sum              "Au2 As2 Te4"
+_cell_length_a       4.49331741592058
+_cell_length_b       6.9922911150603415
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  9.484787101858369e-20  0.00283944985829218  0.459851046058558  1.0000
+  Au  Au2       1.0  1.1899237257692301e-17  0.5028394498582908  0.5401489539414419  1.0000
+  As  As1       1.0  0.5000000000000001  0.5088175896985169  0.42473034857954906  1.0000
+  As  As2       1.0  0.5000000000000001  0.00881758969851834  0.5752696514204532  1.0000
+  Te  Te1       1.0  0.5000000000000001  0.14061373601961147  0.4272769851102664  1.0000
+  Te  Te2       1.0  0.5000000000000001  0.6406137360196098  0.5727230148897283  1.0000
+  Te  Te3       1.0  5.746646989800126e-18  0.6136621877797067  0.4652819321987464  1.0000
+  Te  Te4       1.0  3.712321985324987e-18  0.11366218777970187  0.5347180678012534  1.0000

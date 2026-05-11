@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2BTe2
+_chemical_formula_sum              "Ta2 B1 Te2"
+_cell_length_a       3.4118839807422576
+_cell_length_b       3.5045032885636767
+_cell_length_c       19.63611401395941
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.12942920961677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24066525509450976  0.5726367614054049  0.4404195139850958  1.0000
+  Ta  Ta2       1.0  0.5767413275414353  0.2447703995640645  0.559581893511054  1.0000
+  B   B1        1.0  0.9087327628396689  0.9087247561240257  0.49999998696793646  1.0000
+  Te  Te1       1.0  0.24538169553567687  0.5820495367540703  0.6616422493481046  1.0000
+  Te  Te2       1.0  0.5720655653615123  0.2353883398155885  0.3383587821816491  1.0000

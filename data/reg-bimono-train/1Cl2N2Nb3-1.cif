@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb3N2Cl2
+_chemical_formula_sum              "Nb3 N2 Cl2"
+_cell_length_a       3.2827332440976296
+_cell_length_b       3.2827332440976136
+_cell_length_c       22.982547262936627
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.9999999999999999  0.9999999999999999  0.5000002161222983  1.0000
+  Nb  Nb2       1.0  0.6666666666666663  0.33333333333333376  0.5981511900934902  1.0000
+  Nb  Nb3       1.0  0.6666666666666663  0.33333333333333376  0.4018491293761138  1.0000
+  N   N1        1.0  0.33333333333333304  0.6666666666666673  0.5591533660905941  1.0000
+  N   N2        1.0  0.33333333333333304  0.6666666666666673  0.4408467063650198  1.0000
+  Cl  Cl1       1.0  0.0  0.0  0.6785979458156793  1.0000
+  Cl  Cl2       1.0  0.0  1.9010067482530474e-18  0.32140238023345064  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       IInTeZn
+_chemical_formula_sum              "I1 In1 Te1 Zn1"
+_cell_length_a       4.32209709591687
+_cell_length_b       4.316001968965474
+_cell_length_c       20.37865721592202
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.86016253187358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.49129582219743934  0.497488623253155  0.36803209949182447  1.0000
+  In  In1       1.0  0.8316094653661564  0.1661632107036693  0.5630401020859025  1.0000
+  Te  Te1       1.0  0.16530339883515335  0.8326624096010409  0.6319679005081754  1.0000
+  Zn  Zn1       1.0  0.8237321179556036  0.16329367951750864  0.436428768619737  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuSeIBr
+_chemical_formula_sum              "Au1 Se1 I1 Br1"
+_cell_length_a       5.267994562666229
+_cell_length_b       4.390198013657532
+_cell_length_c       19.630551868124112
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    127.04845902779947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.3381413494059032  0.31141838835389535  0.4961775975655834  1.0000
+  Se  Se1       1.0  0.761407134642514  0.15845204244621375  0.4952925177227477  1.0000
+  I   I1        1.0  0.04980354182993215  0.1863312807564556  0.6179424781134951  1.0000
+  Br  Br1       1.0  0.4917734361118879  0.1769937703294453  0.38205752188650494  1.0000

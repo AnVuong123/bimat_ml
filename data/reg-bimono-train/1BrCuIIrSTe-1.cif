@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IrTeBrCuIS
+_chemical_formula_sum              "Ir1 Te1 Br1 Cu1 I1 S1"
+_cell_length_a       3.566349002858314
+_cell_length_b       6.897579073869233
+_cell_length_c       18.253672072873805
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.00142867518153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.25666962972833696  0.23399597539255948  0.4922777025998491  1.0000
+  Te  Te1       1.0  0.2567238369256979  0.9155358832179916  0.5631929527305096  1.0000
+  Br  Br1       1.0  0.2566795458552151  0.5640980958904933  0.41085579323955956  1.0000
+  Cu  Cu1       1.0  0.7566947587555689  0.7794186291460511  0.4671664723353772  1.0000
+  I   I1        1.0  0.7566670835956776  0.400031220926564  0.5886243250238041  1.0000
+  S   S1        1.0  0.7566783884152442  0.10748411190182151  0.42490630598471635  1.0000

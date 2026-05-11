@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaSAlIClS2Al
+_chemical_formula_sum              "Ga1 S3 Al2 I1 Cl1"
+_cell_length_a       4.897594160832641
+_cell_length_b       6.262347950260443
+_cell_length_c       20.475842518247507
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.02793525381288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9007920404514979  0.30417129052771624  0.5602869519864301  1.0000
+  S   S1        1.0  0.7721651711539683  0.0462344374128438  0.46512506739706727  1.0000
+  Al  Al1       1.0  0.6194679971864651  0.7416135977272361  0.5380180383349189  1.0000
+  I   I1        1.0  0.4351838320056888  0.372220565934202  0.3662852941614591  1.0000
+  Cl  Cl1       1.0  0.7125201195057075  0.9280980717172238  0.6337147058385406  1.0000
+  S   S2        1.0  0.11798933720283075  0.7382732928889993  0.5101109323174529  1.0000
+  S   S3        1.0  0.42272240188724886  0.34769226033020795  0.5672273337624155  1.0000
+  Al  Al2       1.0  0.3052354147741445  0.11307955236530681  0.46623933280842333  1.0000

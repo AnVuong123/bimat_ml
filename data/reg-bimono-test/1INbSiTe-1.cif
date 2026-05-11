@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiNbITe
+_chemical_formula_sum              "Si1 Nb1 I1 Te1"
+_cell_length_a       3.536757197674324
+_cell_length_b       3.567253972112996
+_cell_length_c       21.0667666312028
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    120.32895317462062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5762603845406534  0.4197374310851429  0.47321204278496337  1.0000
+  Nb  Nb1       1.0  0.9191253093158961  0.08983334433023309  0.5539970890767376  1.0000
+  I   I1        1.0  0.5885196073836618  0.42444790492059964  0.3560109689016757  1.0000
+  Te  Te1       1.0  0.24633197320886968  0.7540061750284894  0.6439890310983244  1.0000

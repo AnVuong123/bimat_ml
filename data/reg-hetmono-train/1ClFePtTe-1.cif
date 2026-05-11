@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClFeTePt
+_chemical_formula_sum              "Cl1 Fe1 Te1 Pt1"
+_cell_length_a       3.685326760381073
+_cell_length_b       4.239708265346083
+_cell_length_c       18.80445818481575
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.73698218518004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9811623195158475  0.548470017920208  0.39884158991914537  1.0000
+  Fe  Fe1       1.0  0.46338337805086793  0.5143132256946973  0.480139492019355  1.0000
+  Te  Te1       1.0  0.08401434220654638  0.7558829062234633  0.6011584100808548  1.0000
+  Pt  Pt1       1.0  0.7724354648782843  0.13300874549713412  0.5386308095205892  1.0000

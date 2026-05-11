@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuAgISI2
+_chemical_formula_sum              "Cu1 Ag1 I3 S1"
+_cell_length_a       5.845642792649088
+_cell_length_b       4.594787562140276
+_cell_length_c       19.39271016234985
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    105.388828656654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6998045992341543  0.49535199434847266  0.5318563119270879  1.0000
+  Ag  Ag1       1.0  0.5382737065300331  0.9270335428716412  0.45737163399568553  1.0000
+  I   I1        1.0  0.13691709560065385  0.5191339323394392  0.38639873111506207  1.0000
+  S   S1        1.0  0.6982538630292825  0.46257831730695004  0.4194111762206535  1.0000
+  I   I2        1.0  0.9670637959730544  0.28059417360847244  0.613930258410197  1.0000
+  I   I3        1.0  0.4626653986950591  0.7722347506639998  0.6105208652885384  1.0000

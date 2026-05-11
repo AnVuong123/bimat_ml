@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb4N3
+_chemical_formula_sum              "Nb4 N3"
+_cell_length_a       3.148817948633453
+_cell_length_b       3.1488179486334484
+_cell_length_c       22.24699662173619
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.33333333333333376  0.6666666666666662  0.43884983462655175  1.0000
+  Nb  Nb2       1.0  0.6666666666666673  0.33333333333333337  0.5611493291546399  1.0000
+  Nb  Nb3       1.0  2.9249001297966485e-16  2.91748995260646e-16  0.3372194081262521  1.0000
+  Nb  Nb4       1.0  5.728598929792724e-16  5.736387744226678e-16  0.6627812701740743  1.0000
+  N   N1        1.0  4.3271012650177015e-16  4.3269973202380575e-16  0.4999997961525327  1.0000
+  N   N2        1.0  0.6666666666666671  0.33333333333333315  0.3836506255344774  1.0000
+  N   N3        1.0  0.333333333333334  0.6666666666666663  0.6163487535755424  1.0000

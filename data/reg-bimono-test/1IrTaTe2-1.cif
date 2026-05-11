@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeTaIrTe
+_chemical_formula_sum              "Te2 Ta1 Ir1"
+_cell_length_a       4.015787532434727
+_cell_length_b       4.014929194522194
+_cell_length_c       18.78143316070528
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    92.99526879890016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7968442737640996  0.7962941473353701  0.6006694518024545  1.0000
+  Ta  Ta1       1.0  0.27787961295000546  0.7213620100033926  0.5000492463762608  1.0000
+  Ir  Ir1       1.0  0.7185107315758625  0.28197181910492364  0.4999910516504945  1.0000
+  Te  Te2       1.0  0.20414434077207896  0.20210980257293465  0.39933054819754554  1.0000

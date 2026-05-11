@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbKSbNi2K
+_chemical_formula_sum              "Sb2 K2 Ni2"
+_cell_length_a       4.485652082019597
+_cell_length_b       4.4856520820195955
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00030934629041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9922327837963696  0.9922327837963597  0.4359458561123378  1.0000
+  K   K1        1.0  0.4912093013291246  0.49120930132912427  0.3594823979347732  1.0000
+  Sb  Sb2       1.0  0.49022362360709176  0.4902236236070929  0.5640541302205322  1.0000
+  Ni  Ni1       1.0  0.49263459163577267  0.9898215005304228  0.500000000553959  1.0000
+  Ni  Ni2       1.0  0.9898215005304231  0.49263459163577106  0.500000000553959  1.0000
+  K   K2        1.0  0.991246946474885  0.9912469464748886  0.6405175993765118  1.0000

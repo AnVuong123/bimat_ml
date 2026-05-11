@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AuSe6ScSb2
+_chemical_formula_sum              "Au1 Se6 Sc1 Sb2"
+_cell_length_a       6.760011902544843
+_cell_length_b       6.76013557024501
+_cell_length_c       33.499359288
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0006051627016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9999567248283783  0.9999783624141892  0.5  1.0000
+  Se  Se1       1.0  0.6411756990321117  0.6908653158237189  0.5554608480746299  1.0000
+  Se  Se2       1.0  0.0498234417016532  0.35895929161908124  0.5554597426984671  1.0000
+  Se  Se3       1.0  0.3092607409288931  0.9503020603314257  0.5554593268292769  1.0000
+  Se  Se4       1.0  0.6411756990321118  0.9503103832083897  0.4445391519253705  1.0000
+  Se  Se5       1.0  0.30926074092889494  0.35895868059746616  0.4445406731707237  1.0000
+  Se  Se6       1.0  0.0498234417016533  0.6908641500825715  0.44454025730153324  1.0000
+  Sc  Sc1       1.0  0.33342684903877057  0.6667134245193844  0.5  1.0000
+  Sb  Sb1       1.0  0.6667483362292513  0.33336822427656965  0.5418593692894433  1.0000
+  Sb  Sb2       1.0  0.6667483362292506  0.3333801119526804  0.45814063071055766  1.0000

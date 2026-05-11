@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NbFeSeS
+_chemical_formula_sum              "Nb1 Fe1 Se1 S1"
+_cell_length_a       3.460864301506752
+_cell_length_b       4.0518624289529805
+_cell_length_c       32.832030392148226
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99919177475574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.9815381671449442  0.9756221798536237  0.49069277154717617  1.0000
+  Fe  Fe1       1.0  0.48160535572493207  0.47552220036271037  0.4974908607150624  1.0000
+  Se  Se1       1.0  0.4815534475468386  0.9755854724579444  0.5462957850129528  1.0000
+  S   S1        1.0  0.981511859839775  0.4755693695654936  0.45237207801193247  1.0000

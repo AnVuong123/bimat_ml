@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2Mo2
+_chemical_formula_sum              "Te2 Mo2"
+_cell_length_a       4.059747737579366
+_cell_length_b       4.060232451722196
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9960509528996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.9999946430051989  1.8452050993974548e-05  0.3876349921173466  1.0000
+  Te  Te2       1.0  0.33333871664948667  0.6666482075496216  0.6124334628743612  1.0000
+  Mo  Mo1       1.0  0.9999971994650586  2.383107108128522e-05  0.5313548525667813  1.0000
+  Mo  Mo2       1.0  0.33333612486691205  0.6666428436036849  0.46871464820515285  1.0000

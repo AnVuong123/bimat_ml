@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrNiBrZn
+_chemical_formula_sum              "Br2 Ni1 Zn1"
+_cell_length_a       3.5947978805983167
+_cell_length_b       3.5951772331007454
+_cell_length_c       19.589577887975317
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98574838439558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3245762584755187  0.16223898895722896  0.3828519946448483  1.0000
+  Ni  Ni1       1.0  0.3240006035857844  0.1600669026155851  0.5476061085484948  1.0000
+  Br  Br2       1.0  0.6574432288107817  0.8269612274482837  0.6171504732541018  1.0000
+  Zn  Zn1       1.0  0.6574740634664373  0.8281444184759882  0.4649292883518607  1.0000

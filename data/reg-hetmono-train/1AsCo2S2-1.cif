@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Co2AsS2
+_chemical_formula_sum              "Co2 As1 S2"
+_cell_length_a       3.448602169137399
+_cell_length_b       3.447578240879578
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00996931049055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  3.990858020496575e-07  4.626634242116175e-06  0.4620978616911101  1.0000
+  Co  Co2       1.0  0.9999993057930333  4.62441644231156e-06  0.5379028376961441  1.0000
+  As  As1       1.0  0.6665505881997774  0.33309980057035926  0.500001607809937  1.0000
+  S   S1        1.0  0.33339323398663234  0.6667801076883272  0.4319791999134052  1.0000
+  S   S2        1.0  0.3333859875709428  0.6667800905200896  0.5680203878976161  1.0000

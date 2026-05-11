@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       S3GaS
+_chemical_formula_sum              "S4 Ga1"
+_cell_length_a       3.2961624571546473
+_cell_length_b       6.076268347239042
+_cell_length_c       34.18228619753993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.73761873135301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8214154832041123  0.6428309664082972  0.5466259546428276  1.0000
+  S   S2        1.0  0.8180239517005243  0.6360479034010791  0.43322063542902384  1.0000
+  S   S3        1.0  0.44162550050742244  0.8832510010148679  0.5304486566284794  1.0000
+  Ga  Ga1       1.0  0.7069900473451803  0.4139800946903894  0.4856354391570276  1.0000
+  S   S4        1.0  0.07001260054109038  0.14002520108223004  0.48941037038777835  1.0000

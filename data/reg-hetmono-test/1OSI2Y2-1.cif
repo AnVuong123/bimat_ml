@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YIYSIO
+_chemical_formula_sum              "Y2 I2 S1 O1"
+_cell_length_a       3.9879375005694246
+_cell_length_b       5.393536655210713
+_cell_length_c       21.801192876226622
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.96497284847749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.24068638800566525  0.16958067044029027  0.5507307141188644  1.0000
+  I   I1        1.0  0.24144050260782624  0.7821426450766453  0.34401787290173774  1.0000
+  Y   Y2        1.0  0.7414489597986449  0.7982104031636419  0.45011279909626245  1.0000
+  S   S1        1.0  0.7404958113601253  0.30511290444079475  0.4778382949119621  1.0000
+  I   I2        1.0  0.7404304111536624  0.10929260996180204  0.6559821270982623  1.0000
+  O   O1        1.0  0.24108450212142898  0.841097101064735  0.502354192753752  1.0000

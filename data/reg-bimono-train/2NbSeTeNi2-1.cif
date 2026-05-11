@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Ni4Te2Se2
+_chemical_formula_sum              "Nb2 Ni4 Te2 Se2"
+_cell_length_a       3.513732898969656
+_cell_length_b       6.548965261622217
+_cell_length_c       35.04820008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  7.477245697238878e-22  0.0029394962694705533  0.5130486606883332  1.0000
+  Nb  Nb2       1.0  0.0  0.5029394962694701  0.4869513393116667  1.0000
+  Ni  Ni1       1.0  0.4999999999999999  0.6953521924553981  0.5331334455841055  1.0000
+  Ni  Ni2       1.0  0.4999999999999999  0.19535219245539862  0.4668665544158945  1.0000
+  Ni  Ni3       1.0  0.4999999999999999  0.8105245161142935  0.4668650625085595  1.0000
+  Ni  Ni4       1.0  0.4999999999999999  0.310524516114296  0.5331349374914406  1.0000
+  Te  Te1       1.0  0.0  0.0029363439835023873  0.42758824961150865  1.0000
+  Te  Te2       1.0  0.0  0.5029363439835023  0.5724117503884916  1.0000
+  Se  Se1       1.0  0.4999999999999999  0.0029267200347624965  0.5698051494413756  1.0000
+  Se  Se2       1.0  0.4999999999999999  0.5029267200347635  0.4301948505586227  1.0000

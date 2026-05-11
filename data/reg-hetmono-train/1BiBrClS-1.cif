@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClSBiBr
+_chemical_formula_sum              "Cl1 S1 Bi1 Br1"
+_cell_length_a       4.095229413305127
+_cell_length_b       5.5478088834240475
+_cell_length_c       18.330213096359024
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    89.99249904111888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8298307544349399  0.03574207793307957  0.5908394539346769  1.0000
+  S   S1        1.0  0.3300441227967101  0.5244924247007942  0.5264419375784143  1.0000
+  Bi  Bi1       1.0  0.8297959895511996  0.25738286799026533  0.4751840096274987  1.0000
+  Br  Br1       1.0  0.33060541077491706  0.8711359767136565  0.4091605460653233  1.0000

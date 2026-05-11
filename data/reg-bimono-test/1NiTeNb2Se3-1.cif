@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NbNiTeNbSe3
+_chemical_formula_sum              "Nb2 Ni1 Te1 Se3"
+_cell_length_a       4.811116857973578
+_cell_length_b       5.034372588721534
+_cell_length_c       18.534612412813477
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.08303265440459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.7523927806734482  0.03799519363021786  0.46272292224141237  1.0000
+  Ni  Ni1       1.0  0.7468158512958806  0.5367495136549917  0.5344502042690096  1.0000
+  Te  Te1       1.0  0.24739818506184363  0.43717879777943536  0.5953146830129062  1.0000
+  Nb  Nb2       1.0  0.24660380556967698  0.4513118269599586  0.45649866905903097  1.0000
+  Se  Se1       1.0  0.748148931597935  0.9760708093005517  0.5891107715357639  1.0000
+  Se  Se2       1.0  0.747568947995155  0.5335503086754827  0.4067261944593896  1.0000
+  Se  Se3       1.0  0.2512504361867558  0.9721640184644851  0.40462988409628337  1.0000

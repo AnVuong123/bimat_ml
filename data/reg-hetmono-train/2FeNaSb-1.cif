@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbNaSbFe2Na
+_chemical_formula_sum              "Sb2 Na2 Fe2"
+_cell_length_a       4.179411327965111
+_cell_length_b       4.179411327965111
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  2.1802939485571663e-16  1.8115912424653593e-16  0.42492511537962413  1.0000
+  Na  Na1       1.0  0.49999999999999906  0.49999999999999906  0.37590806088122514  1.0000
+  Sb  Sb2       1.0  0.4999999999999994  0.4999999999999993  0.5750748904482906  1.0000
+  Fe  Fe1       1.0  0.49999999999999906  2.4263206770058473e-16  0.49999999800393663  1.0000
+  Fe  Fe2       1.0  2.4815463882121304e-16  0.49999999999999906  0.49999999800393663  1.0000
+  Na  Na2       1.0  2.990019305198906e-16  3.024872613165241e-16  0.6240919374991281  1.0000

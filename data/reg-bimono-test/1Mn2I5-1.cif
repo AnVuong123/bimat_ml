@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I5Mn2
+_chemical_formula_sum              "I5 Mn2"
+_cell_length_a       7.431887941504275
+_cell_length_b       7.431887947977219
+_cell_length_c       18.74606835
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999997118857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6542281302829849  1.3326294246926956e-18  0.4248784485352167  1.0000
+  I   I2        1.0  7.072153386336759e-15  0.654228130282999  0.4248784485352167  1.0000
+  I   I3        1.0  0.3457718697170094  0.34577185971700364  0.4248784485352167  1.0000
+  I   I4        1.0  0.3333333300000003  0.6666666700000007  0.6242804427529892  1.0000
+  I   I5        1.0  0.6666666700000012  0.33333333000000004  0.6242804427529892  1.0000
+  Mn  Mn1       1.0  0.3333333300000003  0.6666666700000007  0.4884053988076259  1.0000
+  Mn  Mn2       1.0  0.6666666700000012  0.33333333000000004  0.4884054088076259  1.0000

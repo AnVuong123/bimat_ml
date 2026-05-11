@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BNbTe2S
+_chemical_formula_sum              "B1 Nb1 Te2 S1"
+_cell_length_a       3.4323322761374904
+_cell_length_b       4.696197778864096
+_cell_length_c       20.062374728653957
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    111.40370937556106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.9760102686128405  0.775974551184445  0.5603067357342082  1.0000
+  Nb  Nb1       1.0  0.42475240260542485  0.6739559736498152  0.4757954010440245  1.0000
+  Te  Te1       1.0  0.42479054093271296  0.6731185270894479  0.6262890907018797  1.0000
+  Te  Te2       1.0  0.8417029660365285  0.5066347507288921  0.3737576278792139  1.0000
+  S   S1        1.0  0.12828721506948088  0.08159393941604255  0.49537307280536064  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaFe2SiCaSi
+_chemical_formula_sum              "Ca2 Fe2 Si2"
+_cell_length_a       4.01679744916967
+_cell_length_b       4.0167974491694265
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.010975411680119182  0.01097541168011908  0.6107787721538225  1.0000
+  Fe  Fe1       1.0  0.510934745748969  0.011144414830511769  0.5000086326428691  1.0000
+  Fe  Fe2       1.0  0.01114441483051176  0.5109347457489669  0.5000086326428117  1.0000
+  Si  Si1       1.0  0.5111729951784307  0.5111729951784331  0.5555471660010728  1.0000
+  Ca  Ca2       1.0  0.5111042216733401  0.5111042216733394  0.3892373738853389  1.0000
+  Si  Si2       1.0  0.010906074742816504  0.010906074742816557  0.444471146618378  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CSbC4SbC
+_chemical_formula_sum              "C6 Sb2"
+_cell_length_a       6.177474513831721
+_cell_length_b       6.177474513831721
+_cell_length_c       15.0
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    60.017322083156905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.9640502981892305  0.9640502981892308  0.499999972998518  1.0000
+  Sb  Sb1       1.0  0.16672114558630727  0.16672114558630727  0.5000001166081454  1.0000
+  C   C2        1.0  0.5720226746316369  0.9639376433305109  0.4999999733455765  1.0000
+  C   C3        1.0  0.9639376433305109  0.572022674631637  0.4999999733455765  1.0000
+  C   C4        1.0  0.7027280063829052  0.09464433319971216  0.4999999784309956  1.0000
+  C   C5        1.0  0.0946443331997123  0.7027280063829056  0.4999999784309956  1.0000
+  Sb  Sb2       1.0  0.49994490314928164  0.49994490314928164  0.5000000505464294  1.0000
+  C   C6        1.0  0.702615212045134  0.7026152120451341  0.49999997934367085  1.0000

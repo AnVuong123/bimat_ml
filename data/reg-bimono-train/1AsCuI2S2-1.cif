@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SCuAsSI2
+_chemical_formula_sum              "S2 Cu1 As1 I2"
+_cell_length_a       3.224950157545294
+_cell_length_b       5.880542987764162
+_cell_length_c       21.350945951758952
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9839344744833
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7509926442330013  0.4157391359192444  0.5159809080537315  1.0000
+  Cu  Cu1       1.0  0.2506877694355246  0.539197970674911  0.4466330196227915  1.0000
+  As  As1       1.0  0.7505730132971409  0.02387570237153581  0.5210925225931266  1.0000
+  S   S2        1.0  0.2509581088211754  0.9449187157477945  0.4453039007229456  1.0000
+  I   I1        1.0  0.25123553977306234  0.053079364884826896  0.6713194366123327  1.0000
+  I   I2        1.0  0.7508140979429756  0.48612986740153863  0.339292153441881  1.0000

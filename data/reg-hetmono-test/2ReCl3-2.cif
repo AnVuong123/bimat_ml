@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Re2Cl6
+_chemical_formula_sum              "Re2 Cl6"
+_cell_length_a       5.674099640449243
+_cell_length_b       5.674099640449242
+_cell_length_c       18.043184653670508
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.6666666666666663  0.33333333333333326  0.4999966731200732  1.0000
+  Re  Re2       1.0  0.3333333333333328  0.6666666666666665  0.5000033258596599  1.0000
+  Cl  Cl1       1.0  0.3429354043736938  4.654645313828976e-06  0.4150045533692199  1.0000
+  Cl  Cl2       1.0  0.6570692502716198  0.6570645956263078  0.4150045533692199  1.0000
+  Cl  Cl3       1.0  0.9999953453546863  0.3429307497283782  0.4150045533692199  1.0000
+  Cl  Cl4       1.0  0.3429304335497864  0.9999946206288333  0.5849954629821099  1.0000
+  Cl  Cl5       1.0  0.6570641870790452  0.6570695664502135  0.5849954629821099  1.0000
+  Cl  Cl6       1.0  5.3793711665211755e-06  0.34293581292095304  0.5849954629821099  1.0000

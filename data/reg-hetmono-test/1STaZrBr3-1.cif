@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrTaBr3S
+_chemical_formula_sum              "Zr1 Ta1 Br3 S1"
+_cell_length_a       3.4149518808806127
+_cell_length_b       6.169329060374057
+_cell_length_c       19.033904890406056
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00192768361977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.2479276865979534  0.6986470933161162  0.4985491821983081  1.0000
+  Ta  Ta1       1.0  0.7480248441888598  0.29058085885414925  0.5020582650106071  1.0000
+  Br  Br1       1.0  0.7480486719856609  0.9188358184645935  0.5896056168837001  1.0000
+  Br  Br2       1.0  0.7479512375243028  0.5658259006277012  0.39403300100593946  1.0000
+  Br  Br3       1.0  0.24801268092785445  0.40199994685950236  0.6059622757577446  1.0000
+  S   S1        1.0  0.2479718688115547  0.08174279300843094  0.4357349084933516  1.0000

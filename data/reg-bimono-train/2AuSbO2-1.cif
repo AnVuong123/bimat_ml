@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Au2Sb2O4
+_chemical_formula_sum              "Au2 Sb2 O4"
+_cell_length_a       3.2151939990776714
+_cell_length_b       5.71252594186811
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.11545624154373706  0.4956810788103009  1.0000
+  Au  Au2       1.0  1.7092634165892108e-16  0.6154562415437349  0.504318921189699  1.0000
+  Sb  Sb1       1.0  0.5000000000000001  0.4236787984228738  0.4161741165569235  1.0000
+  Sb  Sb2       1.0  0.5000000000000001  0.9236787984228754  0.5838258834430713  1.0000
+  O   O1        1.0  0.5000000000000001  0.14678768042352047  0.4456096261366377  1.0000
+  O   O2        1.0  0.5000000000000001  0.6467876804235233  0.5543903738633645  1.0000
+  O   O3        1.0  0.0  0.5800893787632652  0.4423013749654417  1.0000
+  O   O4        1.0  1.2100869735039708e-17  0.08008937876326294  0.5576986250345559  1.0000

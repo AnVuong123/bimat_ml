@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NCuAsNICl
+_chemical_formula_sum              "N2 Cu1 As1 I1 Cl1"
+_cell_length_a       3.018291902923455
+_cell_length_b       5.219941614230134
+_cell_length_c       21.290634907202104
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000007
+_cell_angle_gamma    90.00992235460807
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.945033313180812  0.6617796189746973  0.4469009325410094  1.0000
+  Cu  Cu1       1.0  0.4449372672164857  0.4780368581216684  0.41554810190061464  1.0000
+  As  As1       1.0  0.9448910847895365  0.9219796119738805  0.4990417230479185  1.0000
+  N   N2        1.0  0.44496518629486814  0.11722660479328141  0.5021957351825022  1.0000
+  I   I1        1.0  0.9450578966455991  0.7255355444210857  0.6362595599486494  1.0000
+  Cl  Cl1       1.0  0.944778699728825  0.2663096068356632  0.3544635134195968  1.0000

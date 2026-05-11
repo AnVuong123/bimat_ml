@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2In2Te5
+_chemical_formula_sum              "Co2 In2 Te5"
+_cell_length_a       4.113435459374618
+_cell_length_b       4.113107535242542
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00263737016984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  1.0399737559903198e-06  2.079947511980453e-06  0.4683318795767133  1.0000
+  Co  Co2       1.0  1.0399737560215384e-06  2.0799475120888937e-06  0.5316681204232868  1.0000
+  In  In1       1.0  0.33331320559907696  0.6666264111981586  0.37253064232803357  1.0000
+  In  In2       1.0  0.333313205599077  0.6666264111981586  0.6274693576719688  1.0000
+  Te  Te1       1.0  0.666685886969879  0.333371773939757  0.5  1.0000
+  Te  Te2       1.0  0.33333882912222274  0.66667765824445  0.4413906404082369  1.0000
+  Te  Te3       1.0  0.33333882912222274  0.66667765824445  0.5586093595917633  1.0000
+  Te  Te4       1.0  0.6666507063761589  0.3333014127523177  0.33604568029890125  1.0000
+  Te  Te5       1.0  0.6666507063761589  0.3333014127523177  0.6639543197010979  1.0000

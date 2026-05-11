@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TlHgCl2
+_chemical_formula_sum              "Tl1 Hg1 Cl2"
+_cell_length_a       5.20579568574123
+_cell_length_b       5.391144634252973
+_cell_length_c       18.23648372717331
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.93933774664097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.6747735353140817  0.3120509417157646  0.5887365068725057  1.0000
+  Hg  Hg1       1.0  0.23848892880326467  0.7600624419457233  0.41441375165937594  1.0000
+  Cl  Cl1       1.0  0.7297442605141778  0.2677235932348936  0.41126349312749416  1.0000
+  Cl  Cl2       1.0  0.3515481863086392  0.6540292565668454  0.5789026257200524  1.0000

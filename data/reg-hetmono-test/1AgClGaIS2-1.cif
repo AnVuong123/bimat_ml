@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaAgS2ClI
+_chemical_formula_sum              "Ga1 Ag1 S2 Cl1 I1"
+_cell_length_a       3.711410288622849
+_cell_length_b       5.1730466365593495
+_cell_length_c       20.730761938956924
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00477136537337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.24852175775777138  0.2482415064574346  0.5349014871300956  1.0000
+  Ag  Ag1       1.0  0.7488331755331205  0.7464591798926575  0.44657342271871286  1.0000
+  S   S1        1.0  0.7494218375603526  0.24633974468517364  0.45939309400507444  1.0000
+  S   S2        1.0  0.2472005878579904  0.7463975435036448  0.5277767379201257  1.0000
+  Cl  Cl1       1.0  0.24998453075930877  0.7462945726787336  0.36408777291912797  1.0000
+  I   I1        1.0  0.7423822704358032  0.24673942457122597  0.6367263502230429  1.0000

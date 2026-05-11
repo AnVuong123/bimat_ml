@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrI2BrCu2BrI
+_chemical_formula_sum              "Br3 I3 Cu2"
+_cell_length_a       7.1932502426051865
+_cell_length_b       6.483862502846084
+_cell_length_c       18.820415775436064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.7762030783697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8159850806510938  0.5052356904094311  0.40113192116811186  1.0000
+  I   I1        1.0  0.36714006750292444  0.9450922210049832  0.3967543083847155  1.0000
+  I   I2        1.0  0.5717491580005037  0.2379712867658044  0.6006824444538768  1.0000
+  Br  Br2       1.0  0.28118746315872173  0.412621874227193  0.411555377977167  1.0000
+  Cu  Cu1       1.0  0.11426319618462118  0.6453547251452405  0.46726782457207705  1.0000
+  Cu  Cu2       1.0  0.5382591807111435  0.29744196841532705  0.46744715616200466  1.0000
+  Br  Br3       1.0  0.0832409879688209  0.7175106265601598  0.5901341134711903  1.0000
+  I   I3        1.0  0.8293676083695073  0.9744039434259294  0.5933090470476022  1.0000

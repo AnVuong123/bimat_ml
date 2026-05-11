@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Br2CaGe
+_chemical_formula_sum              "Br2 Ca1 Ge1"
+_cell_length_a       4.536677765592079
+_cell_length_b       4.539236911348048
+_cell_length_c       19.35204758930714
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.10002617312351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.782063764617287  0.22754314922831714  0.6124441113846741  1.0000
+  Br  Br2       1.0  0.26097046989909484  0.7486878189527159  0.3875558886153257  1.0000
+  Ca  Ca1       1.0  0.13925720815801912  0.8707256888015158  0.5447493665882956  1.0000
+  Ge  Ge1       1.0  0.5122869274188607  0.49757516677893243  0.4686734634620517  1.0000

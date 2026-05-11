@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PtCl4CuCl2
+_chemical_formula_sum              "Pt1 Cl6 Cu1"
+_cell_length_a       6.19012374824996
+_cell_length_b       6.182721816914235
+_cell_length_c       17.688353965851142
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99698600554774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.17283719409136777  0.8359340219841446  0.5000200942975694  1.0000
+  Cl  Cl1       1.0  0.49168999100275423  0.1386130922949993  0.4243513719094341  1.0000
+  Cl  Cl2       1.0  0.8704802680693219  0.8537356490000717  0.42450015925169604  1.0000
+  Cl  Cl3       1.0  0.15700911451539373  0.13858645305758535  0.5759922028652648  1.0000
+  Cl  Cl4       1.0  0.4914412803587561  0.8514051319490642  0.5755843794943765  1.0000
+  Cu  Cu1       1.0  0.8398136247014059  0.1692024619837224  0.5000663851304832  1.0000
+  Cl  Cl5       1.0  0.869983762880511  0.5156893157124197  0.5754866968237742  1.0000
+  Cl  Cl6       1.0  0.1560177894667748  0.5171134470189427  0.4240077971347352  1.0000

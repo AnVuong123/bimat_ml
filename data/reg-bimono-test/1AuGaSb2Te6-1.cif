@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaAuTe6Sb2
+_chemical_formula_sum              "Ga1 Au1 Te6 Sb2"
+_cell_length_a       7.247973527685028
+_cell_length_b       7.247973527685036
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00244886989954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999978953300307  2.104669969468335e-06  0.5  1.0000
+  Au  Au1       1.0  0.6666632856033547  0.33333671439664303  0.5  1.0000
+  Te  Te1       1.0  0.7364609551228201  0.6755030047314852  0.5534883816935672  1.0000
+  Te  Te2       1.0  0.9390282005438543  0.26351620372095863  0.5534890487168526  1.0000
+  Te  Te3       1.0  0.3245096435481235  0.06099622878105415  0.5534866352810555  1.0000
+  Te  Te4       1.0  0.3244969952685126  0.2635390448771758  0.4465116183064333  1.0000
+  Te  Te5       1.0  0.9390037712189335  0.6754903564518636  0.4465133647189445  1.0000
+  Te  Te6       1.0  0.7364837962790338  0.06097179945613962  0.4465109512831458  1.0000
+  Sb  Sb1       1.0  0.3333301569637428  0.6666747350623314  0.5439382720469881  1.0000
+  Sb  Sb2       1.0  0.3333252649376579  0.666669843036248  0.45606172795301303  1.0000

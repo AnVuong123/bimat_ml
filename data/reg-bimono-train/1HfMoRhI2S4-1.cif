@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       MoSIRhSIHfS2
+_chemical_formula_sum              "Mo1 S4 I2 Rh1 Hf1"
+_cell_length_a       4.970161097763625
+_cell_length_b       5.982420978843242
+_cell_length_c       21.168851497015886
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.54082339191555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.3308283913923466  0.4472155155301392  0.4731238747439273  1.0000
+  S   S1        1.0  0.8851356798475237  0.5554182822318733  0.46509228683794646  1.0000
+  I   I1        1.0  0.9678997403708186  0.7196297990697397  0.6457058616969724  1.0000
+  Rh  Rh1       1.0  0.08444969715565107  0.953530376886898  0.5199856555903665  1.0000
+  S   S2        1.0  0.26362978351220423  0.31161888019186507  0.5830578488494562  1.0000
+  I   I2        1.0  0.45046705888567545  0.6864441271666745  0.35429413830302764  1.0000
+  Hf  Hf1       1.0  0.7566191007096509  0.2976514204522681  0.558885702199459  1.0000
+  S   S3        1.0  0.16136157284518243  0.10792408073656679  0.41723592451699504  1.0000
+  S   S4        1.0  0.5558474825836653  0.8966823249166519  0.5141250721288444  1.0000

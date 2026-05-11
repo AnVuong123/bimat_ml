@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OTaOZnO
+_chemical_formula_sum              "O3 Ta1 Zn1"
+_cell_length_a       6.3301270045730735
+_cell_length_b       3.3934733822376093
+_cell_length_c       17.14186508807395
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.63933763337322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8250338712688495  0.9099341573626644  0.4375253195300171  1.0000
+  Ta  Ta1       1.0  0.04572992550229937  0.02135020401901009  0.5080073972388292  1.0000
+  O   O2        1.0  0.31958788136395455  0.15911009971298384  0.45785312110857135  1.0000
+  Zn  Zn1       1.0  0.5179106513222484  0.758842385861711  0.47729889781722623  1.0000
+  O   O3        1.0  0.03127284254532815  0.5140827420900455  0.5624746804699828  1.0000

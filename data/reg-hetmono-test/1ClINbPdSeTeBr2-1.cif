@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrPdClITeSeNbBr
+_chemical_formula_sum              "Br2 Pd1 Cl1 I1 Te1 Se1 Nb1"
+_cell_length_a       6.854639786699646
+_cell_length_b       7.165815450009723
+_cell_length_c       18.675898402977158
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    128.4119688869183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.49503907433683864  0.44099208928595945  0.4079563740907526  1.0000
+  Pd  Pd1       1.0  0.5124566162952677  0.9061398877382904  0.5078987913675993  1.0000
+  Cl  Cl1       1.0  0.15847484134438655  0.8092117044727233  0.41669836482432004  1.0000
+  I   I1        1.0  0.7890787799861347  0.8048090910692598  0.5718988882412115  1.0000
+  Te  Te1       1.0  0.5881318882039249  0.2206060008149675  0.5984128935503094  1.0000
+  Se  Se1       1.0  0.1264426589198431  0.5943056672860169  0.5773488462878869  1.0000
+  Nb  Nb1       1.0  0.8154990382428529  0.4573272345229376  0.4751727310370416  1.0000
+  Br  Br2       1.0  0.8365269757881986  0.1799591487637695  0.4015871064496909  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2GeNi3
+_chemical_formula_sum              "S2 Ge1 Ni3"
+_cell_length_a       3.845870313955982
+_cell_length_b       3.8456896021417846
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0015136900479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8333339536754989  0.5000664579401343  0.6121696326697325  1.0000
+  S   S2        1.0  0.833333848727871  0.5000662404046408  0.38783115168515425  1.0000
+  Ge  Ge1       1.0  0.4999946829642765  0.8333904020825602  0.500001348085374  1.0000
+  Ni  Ni1       1.0  0.1666704822603709  0.1667421373068906  0.5752705587227023  1.0000
+  Ni  Ni2       1.0  0.16667034516973284  0.16674184741145195  0.42473092364292586  1.0000
+  Ni  Ni3       1.0  0.8333359232390507  0.5000715890912455  0.5000011496775907  1.0000

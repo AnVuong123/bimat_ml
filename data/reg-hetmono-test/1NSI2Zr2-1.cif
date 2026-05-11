@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NIZrSZrI
+_chemical_formula_sum              "N1 I2 Zr2 S1"
+_cell_length_a       3.3857187129358035
+_cell_length_b       4.747418367503338
+_cell_length_c       22.255524828094572
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    110.93226262630468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.8508529654605608  0.5283665483278924  0.5299742177521006  1.0000
+  I   I1        1.0  0.4168631549097521  0.6654297748967692  0.3368577718621683  1.0000
+  Zr  Zr1       1.0  0.4295616263172345  0.6865893803014353  0.4680251054210489  1.0000
+  S   S1        1.0  0.14061345789195925  0.10755128837461722  0.4518537627256499  1.0000
+  Zr  Zr2       1.0  0.20522633135291177  0.23648339584015568  0.5625204902134731  1.0000
+  I   I2        1.0  0.6206721584119848  0.06800840933445063  0.6633619843788011  1.0000

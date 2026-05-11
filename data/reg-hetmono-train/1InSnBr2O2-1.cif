@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrOSnInBrO
+_chemical_formula_sum              "Br2 O2 Sn1 In1"
+_cell_length_a       3.887998648399805
+_cell_length_b       3.888077647538166
+_cell_length_c       21.166118799686554
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99296736672125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3545777660074652  0.13137236659966198  0.6456601197896015  1.0000
+  O   O1        1.0  0.38028797761292255  0.6085097722035118  0.48289390967696344  1.0000
+  Sn  Sn1       1.0  0.8798517198741574  0.6083773091565927  0.4283858488009133  1.0000
+  In  In1       1.0  0.38049823312984765  0.10775290678934087  0.530050723259505  1.0000
+  Br  Br2       1.0  0.3805877736268414  0.10789211302377878  0.35433988021039875  1.0000
+  O   O2        1.0  0.8797031613249268  0.10792713639816287  0.48290984884092536  1.0000

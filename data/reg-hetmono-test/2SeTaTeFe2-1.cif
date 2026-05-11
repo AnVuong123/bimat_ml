@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2Fe4Te2Se2
+_chemical_formula_sum              "Ta2 Fe4 Te2 Se2"
+_cell_length_a       3.4368669759891906
+_cell_length_b       6.557639503847007
+_cell_length_c       35.04820008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  0.0029414048650445597  0.5102128729619633  1.0000
+  Ta  Ta2       1.0  2.735133379657566e-18  0.5029414048650429  0.4897871270380367  1.0000
+  Fe  Fe1       1.0  0.5000000000000001  0.6891777458512279  0.5328133188556615  1.0000
+  Fe  Fe2       1.0  0.5000000000000001  0.18917774585122968  0.4671866811443385  1.0000
+  Fe  Fe3       1.0  0.5000000000000001  0.8166966176388626  0.46718499652486123  1.0000
+  Fe  Fe4       1.0  0.5000000000000001  0.3166966176388628  0.5328150034751389  1.0000
+  Te  Te1       1.0  1.776031603254909e-18  0.0029307921417004476  0.4230038702917968  1.0000
+  Te  Te2       1.0  1.1749698361490116e-18  0.5029307921417002  0.5769961297082034  1.0000
+  Se  Se1       1.0  0.5000000000000001  0.002930992489737336  0.5693406084733603  1.0000
+  Se  Se2       1.0  0.5000000000000001  0.5029309924897367  0.4306593915266389  1.0000

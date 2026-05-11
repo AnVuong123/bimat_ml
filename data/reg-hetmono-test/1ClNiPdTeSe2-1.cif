@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeNiPdSeClTe
+_chemical_formula_sum              "Se2 Ni1 Pd1 Cl1 Te1"
+_cell_length_a       3.7708533622800124
+_cell_length_b       6.307914547335533
+_cell_length_c       17.942660883796325
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    91.81220145057449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8744934161325174  0.708326613927675  0.5664388752533821  1.0000
+  Ni  Ni1       1.0  0.3947455598665436  0.56195542680397  0.5046498669073403  1.0000
+  Pd  Pd1       1.0  0.9572188417139663  0.042775269895206205  0.49728067121769537  1.0000
+  Se  Se2       1.0  0.44891988588570214  0.8609971258154547  0.4275062122048908  1.0000
+  Cl  Cl1       1.0  0.07502621854865212  0.36440960226342634  0.4180071059300606  1.0000
+  Te  Te1       1.0  0.463566477803466  0.22780871116307164  0.5820135716485174  1.0000

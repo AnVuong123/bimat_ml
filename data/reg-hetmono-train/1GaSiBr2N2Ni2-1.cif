@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2GaNSiBrNBr
+_chemical_formula_sum              "Ni2 Ga1 N2 Si1 Br2"
+_cell_length_a       3.685901879200745
+_cell_length_b       4.179880478550705
+_cell_length_c       22.10518133117513
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    77.66493435494009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.3742160452476774  0.20349962811159616  0.42504817029100805  1.0000
+  Ni  Ni2       1.0  0.7663646891171929  0.6568004174782983  0.42544371445943585  1.0000
+  Ga  Ga1       1.0  0.1528907712443129  0.4171595359220198  0.5799968121378353  1.0000
+  N   N1        1.0  0.6678191368538215  0.9722432843422855  0.48894258477625174  1.0000
+  Si  Si1       1.0  0.17894622663722404  0.912964602710593  0.5083965066258458  1.0000
+  Br  Br1       1.0  0.6532190052739472  0.41094115486174604  0.660713664543088  1.0000
+  N   N2        1.0  0.2628651608558031  0.656751290790731  0.44133332981628387  1.0000
+  Br  Br2       1.0  0.9417188851975171  0.30803707996910534  0.33929091810389495  1.0000

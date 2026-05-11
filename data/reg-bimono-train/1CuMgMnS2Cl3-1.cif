@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SClMgMnCuCl2S
+_chemical_formula_sum              "S2 Cl3 Mg1 Mn1 Cu1"
+_cell_length_a       6.175350123343798
+_cell_length_b       4.476241381679333
+_cell_length_c       20.461543825544883
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.98667029766592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.577241580766026  0.7302571947139381  0.585866469311991  1.0000
+  Cl  Cl1       1.0  0.13591114433618606  0.22674294171152165  0.6334587427055848  1.0000
+  Mg  Mg1       1.0  0.9415290974373418  0.9442036679278218  0.5562421295716893  1.0000
+  Mn  Mn1       1.0  0.5266999388814831  0.7290677157036908  0.4715885022720873  1.0000
+  Cu  Cu1       1.0  0.4713590347031446  0.22955005677759044  0.5825042741867533  1.0000
+  Cl  Cl2       1.0  0.13304372592653255  0.6873795908254698  0.47495482612657597  1.0000
+  Cl  Cl3       1.0  0.5701416112970786  0.737102012184852  0.3665412572944152  1.0000
+  S   S2        1.0  0.6568283885135859  0.22128471767360752  0.4881212957280117  1.0000

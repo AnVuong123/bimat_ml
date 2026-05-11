@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2HfZrTe2
+_chemical_formula_sum              "Se2 Hf1 Zr1 Te2"
+_cell_length_a       5.1569761904609415
+_cell_length_b       5.144750403794029
+_cell_length_c       18.654518676073444
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.64439657328684
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.6257187962276269  0.6196225053001487  0.5854006612365253  1.0000
+  Se  Se2       1.0  0.3660438290675488  0.8767830686630115  0.42463024620167655  1.0000
+  Hf  Hf1       1.0  0.8644069553598528  0.8694267654533833  0.48356983467247233  1.0000
+  Zr  Zr1       1.0  0.3725690849404019  0.3781950277070721  0.48295185271932806  1.0000
+  Te  Te1       1.0  0.1169967737460737  0.12569437336757652  0.5979526392380412  1.0000
+  Te  Te2       1.0  0.870614472663998  0.3718028694766809  0.4020473607619589  1.0000

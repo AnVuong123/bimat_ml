@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaTeGaTe
+_chemical_formula_sum              "Ta1 Te2 Ga1"
+_cell_length_a       3.536642755434639
+_cell_length_b       5.035927290888331
+_cell_length_c       18.387403154384348
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.21640997876925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.12277203837661309  0.08495556977463059  0.4805534860998018  1.0000
+  Te  Te1       1.0  0.8359635336045272  0.4939330285140721  0.40788794029415065  1.0000
+  Ga  Ga1       1.0  0.8120919536989695  0.48451960164172786  0.551338194697355  1.0000
+  Te  Te2       1.0  0.5407878432991662  0.9235179322609066  0.5921120597058493  1.0000

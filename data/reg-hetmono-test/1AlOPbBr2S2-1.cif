@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlS2PbBr2O
+_chemical_formula_sum              "Al1 S2 Pb1 Br2 O1"
+_cell_length_a       3.8127298749310787
+_cell_length_b       6.149232924100984
+_cell_length_c       21.720541172640985
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    90.3476906946389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.30793063526254916  0.8280912296626697  0.534639488893621  1.0000
+  S   S1        1.0  0.8052431137847867  0.9247513517299257  0.47934232726349246  1.0000
+  S   S2        1.0  0.28761143498997416  0.4574647384468329  0.5348978892627886  1.0000
+  Pb  Pb1       1.0  0.7917380655929229  0.36703444583606737  0.44709034635516726  1.0000
+  Br  Br1       1.0  0.49277973476561215  0.10890903519979138  0.6546876999036993  1.0000
+  Br  Br2       1.0  0.2921863046363084  0.3426009978497138  0.3452986590348015  1.0000
+  O   O1        1.0  0.2916908459267988  0.8781628258203478  0.614495929398474  1.0000

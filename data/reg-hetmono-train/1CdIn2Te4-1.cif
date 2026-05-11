@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdIn2Te4
+_chemical_formula_sum              "Cd1 In2 Te4"
+_cell_length_a       4.488305494574853
+_cell_length_b       4.4883036384464265
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99998631995406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999967635042247  0.9999983817521124  0.4999757133155537  1.0000
+  In  In1       1.0  0.6666606319439494  0.3333303159719761  0.3915398950076933  1.0000
+  In  In2       1.0  0.33334281748685135  0.6666714087434258  0.6084825306615357  1.0000
+  Te  Te1       1.0  0.6666605684080578  0.33333028420402844  0.4615870737794676  1.0000
+  Te  Te2       1.0  0.333335858376459  0.6666679291882296  0.5384509753042273  1.0000
+  Te  Te3       1.0  0.33332735457264534  0.6666636772863272  0.35826355279398175  1.0000
+  Te  Te4       1.0  0.6666759867231864  0.3333379933615947  0.6416972400230806  1.0000

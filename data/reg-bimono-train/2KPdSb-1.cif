@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbKSbPd2K
+_chemical_formula_sum              "Sb2 K2 Pd2"
+_cell_length_a       4.783414967259862
+_cell_length_b       4.783414967259833
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00094639911107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.9929249845238488  0.9929249845238495  0.43418641327910834  1.0000
+  K   K1        1.0  0.4924917846706961  0.4924917846706987  0.3660163690372623  1.0000
+  Sb  Sb2       1.0  0.4921152437886861  0.49211524378868843  0.5658136046951101  1.0000
+  Pd  Pd1       1.0  0.49299772758630506  0.9920424818467108  0.5000000081343353  1.0000
+  Pd  Pd2       1.0  0.9920424818467172  0.4929977275863072  0.5000000081343353  1.0000
+  K   K2        1.0  0.992548532526632  0.9925485325266327  0.6339836255286202  1.0000

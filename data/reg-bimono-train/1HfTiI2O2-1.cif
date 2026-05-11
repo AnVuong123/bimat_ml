@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OTiIHfIO
+_chemical_formula_sum              "O2 Ti1 I2 Hf1"
+_cell_length_a       4.197454885774808
+_cell_length_b       3.7153660305620133
+_cell_length_c       20.73767022358141
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99957564418473
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7539701794216185  0.24756229577647373  0.5219645948647362  1.0000
+  Ti  Ti1       1.0  0.2540394660974927  0.24772809411262084  0.5358287430635399  1.0000
+  I   I1        1.0  0.25207257232373614  0.7475607169478973  0.6379365927702108  1.0000
+  Hf  Hf1       1.0  0.7542834771682562  0.7475229437841648  0.4723852466915997  1.0000
+  I   I2        1.0  0.7546402714242362  0.24769918494066637  0.36190925235913424  1.0000
+  O   O2        1.0  0.2542677482244365  0.7474952434565292  0.4767617530986714  1.0000

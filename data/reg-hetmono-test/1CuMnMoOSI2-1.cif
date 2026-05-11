@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnCuIOSIMo
+_chemical_formula_sum              "Mn1 Cu1 I2 O1 S1 Mo1"
+_cell_length_a       6.154534863474562
+_cell_length_b       3.713447771401912
+_cell_length_c       19.67119617177438
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.10079729935285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.2936895263275752  0.25204688794837693  0.4871876482593969  1.0000
+  Cu  Cu1       1.0  0.699188115667654  0.7495407204984071  0.44037470755502256  1.0000
+  I   I1        1.0  0.33075924932955164  0.7524757547335583  0.3812693488621853  1.0000
+  O   O1        1.0  0.6679680183863639  0.750245796385763  0.576126601409564  1.0000
+  S   S1        1.0  0.891707185334286  0.2503906796782112  0.46108819527276457  1.0000
+  I   I2        1.0  0.21854880756062034  0.24794385388125434  0.618730221599444  1.0000
+  Mo  Mo1       1.0  0.626475574876757  0.2504530992279253  0.5489724636758458  1.0000

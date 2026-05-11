@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuCdOBrOI
+_chemical_formula_sum              "Ru1 Cd1 O2 Br1 I1"
+_cell_length_a       3.7228677670914196
+_cell_length_b       3.7249698367479445
+_cell_length_c       21.244439408826093
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00229288266218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.24841895984716592  0.7496061026157441  0.5563182608686471  1.0000
+  Cd  Cd1       1.0  0.7492072689811524  0.24935336908861755  0.4396998713250861  1.0000
+  O   O1        1.0  0.7484705435123595  0.7495311815063032  0.49699666557521394  1.0000
+  Br  Br1       1.0  0.2491908417755375  0.25116719037720414  0.35353533760914185  1.0000
+  O   O2        1.0  0.2483910384398027  0.2496080238413642  0.5524964253120512  1.0000
+  I   I1        1.0  0.748436957129224  0.7497059767417042  0.6466687786121338  1.0000

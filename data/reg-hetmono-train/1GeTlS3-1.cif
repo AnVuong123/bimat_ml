@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TlGeS3
+_chemical_formula_sum              "Tl1 Ge1 S3"
+_cell_length_a       6.832982162589179
+_cell_length_b       6.833920848972715
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00092729123264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  2.7526669200576728e-05  0.9999603815145915  0.5127286340634546  1.0000
+  Ge  Ge1       1.0  0.6666722836349727  0.3333085521149141  0.5132026133420876  1.0000
+  S   S1        1.0  0.015839387520965028  0.4188249285659334  0.5132146241247203  1.0000
+  S   S2        1.0  0.4030714636446396  0.9841808250814384  0.5132202135296442  1.0000
+  S   S3        1.0  0.5811894316275634  0.5969251624522502  0.5132172079896041  1.0000

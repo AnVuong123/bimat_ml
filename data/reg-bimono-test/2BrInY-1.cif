@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YBrInYBrIn
+_chemical_formula_sum              "Y2 Br2 In2"
+_cell_length_a       4.4271649286743
+_cell_length_b       4.427202167345352
+_cell_length_c       38.023466479999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99972175573889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  5.742003681419305e-06  1.148400736455708e-05  0.5583740007914312  1.0000
+  Br  Br1       1.0  0.6666783614737897  0.3333567229475805  0.6013156072424103  1.0000
+  In  In1       1.0  0.33333487887082847  0.6666697577416565  0.5140250032833175  1.0000
+  Y   Y2        1.0  0.9999942579963169  0.9999885159926355  0.4416259992085688  1.0000
+  Br  Br2       1.0  0.3333216385262096  0.6666432770524188  0.39868439275758977  1.0000
+  In  In2       1.0  0.6666651211291709  0.333330242258343  0.4859749967166826  1.0000

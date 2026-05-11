@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SBrSNi2Br3
+_chemical_formula_sum              "S2 Br4 Ni2"
+_cell_length_a       5.766508394469585
+_cell_length_b       5.762961915328603
+_cell_length_c       18.418157080808626
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.25115366788012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.9773364097093988  0.975016515328967  0.5003917752802056  1.0000
+  Br  Br1       1.0  0.4232375131767672  0.8216368142127695  0.40727554855569587  1.0000
+  S   S2        1.0  0.26984020647897483  0.26769405940474794  0.5002577591249528  1.0000
+  Ni  Ni1       1.0  0.12343367188368118  0.6213142542755798  0.4999937614204519  1.0000
+  Ni  Ni2       1.0  0.6237256339236121  0.12123970664898898  0.5000848254718735  1.0000
+  Br  Br2       1.0  0.4234458070405504  0.8210481844572223  0.5927625791961095  1.0000
+  Br  Br3       1.0  0.8236411678846359  0.4212988960586312  0.5927931352146596  1.0000
+  Br  Br4       1.0  0.824008609607527  0.42075081703159894  0.40720686478534057  1.0000

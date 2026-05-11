@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeBrISInBrI
+_chemical_formula_sum              "Ge1 Br2 I2 S1 In1"
+_cell_length_a       6.422366446825924
+_cell_length_b       6.8700179952649725
+_cell_length_c       19.14325193138988
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    113.03587656462838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24719007119354575  0.663684717740282  0.5045738515586  1.0000
+  Br  Br1       1.0  0.531119814626067  0.9405875483240891  0.5919727109099862  1.0000
+  I   I1        1.0  0.1519420341119933  0.32750367453158863  0.6064860640948991  1.0000
+  S   S1        1.0  0.9070446438103674  0.6856515843321547  0.5160409479662176  1.0000
+  In  In1       1.0  0.891146723666474  0.03286478118962843  0.4998328451821768  1.0000
+  Br  Br2       1.0  0.11463001907020838  0.31979745791051667  0.406517610670459  1.0000
+  I   I2        1.0  0.5176632099345386  0.9102775998870438  0.39459269917296613  1.0000

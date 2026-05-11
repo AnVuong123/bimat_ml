@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OPbOCuBr2
+_chemical_formula_sum              "O2 Pb1 Cu1 Br2"
+_cell_length_a       3.675342711383707
+_cell_length_b       4.152051301424483
+_cell_length_c       20.806295013625707
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.98757988376164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.35128688038741523  0.0009152455051064656  0.4901472720926085  1.0000
+  Pb  Pb1       1.0  0.26203791579013846  0.5009084181314677  0.465510217880184  1.0000
+  O   O2        1.0  0.7755268037415051  0.5009913582174814  0.5293612603640498  1.0000
+  Cu  Cu1       1.0  0.7014400088357189  0.0010677158850107913  0.5588015064176214  1.0000
+  Br  Br1       1.0  0.7830535124582126  0.5001697995319491  0.36050505240563363  1.0000
+  Br  Br2       1.0  0.157363750167877  0.0014562865400965567  0.639305838100552  1.0000

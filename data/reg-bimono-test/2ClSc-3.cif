@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ScClScCl
+_chemical_formula_sum              "Sc2 Cl2"
+_cell_length_a       3.3603576807819695
+_cell_length_b       3.360354185077399
+_cell_length_c       19.913316486773276
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.0034751539158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.7447766276043375  0.25405381713781905  0.5556528644234772  1.0000
+  Cl  Cl1       1.0  0.7436117677692005  0.2522501960280375  0.3766323909420921  1.0000
+  Sc  Sc2       1.0  0.24410073994770856  0.7529123555780043  0.4443192855992133  1.0000
+  Cl  Cl2       1.0  0.24572831861227026  0.7550673384474331  0.6233676090579078  1.0000

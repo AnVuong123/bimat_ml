@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       MoSeSTeSeHf3ICl
+_chemical_formula_sum              "Mo1 Se2 S1 Te1 Hf3 I1 Cl1"
+_cell_length_a       6.600130858084941
+_cell_length_b       6.114955621683258
+_cell_length_c       20.366409138414824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.9948705309998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.885746602646079  0.3783827506982029  0.5137265639923109  1.0000
+  Se  Se1       1.0  0.1978762909613257  0.7885110069779263  0.5515432340364316  1.0000
+  S   S1        1.0  0.08995843902225036  0.21581371079462047  0.43661443465628935  1.0000
+  Te  Te1       1.0  0.5475544810865838  0.47089846409059855  0.5797773335972454  1.0000
+  Se  Se2       1.0  0.733249414208496  0.5461834211739773  0.4135146989225503  1.0000
+  Hf  Hf1       1.0  0.3705284229080943  0.6049820200541702  0.46040181791308377  1.0000
+  Hf  Hf2       1.0  0.8541823574797595  0.8936239495805273  0.5116882990472068  1.0000
+  Hf  Hf3       1.0  0.45093931421314026  0.13721480933791927  0.47190983125031727  1.0000
+  I   I1        1.0  0.9126283325475972  0.1499407000942977  0.6317465710804361  1.0000
+  Cl  Cl1       1.0  0.38208265344712505  0.8826517304139007  0.36825342891956386  1.0000

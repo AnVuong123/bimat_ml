@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HfSGaISBr2
+_chemical_formula_sum              "Hf1 S2 Ga1 I1 Br2"
+_cell_length_a       5.0604876543747634
+_cell_length_b       6.769192829889533
+_cell_length_c       19.754451404693466
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    111.5383100926109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9156507209628382  0.7979217052709313  0.5105775479521395  1.0000
+  S   S1        1.0  0.773702715852961  0.47041835049213443  0.5782926401099794  1.0000
+  Ga  Ga1       1.0  0.3109112696928873  0.3992790062643791  0.5488653699973542  1.0000
+  I   I1        1.0  0.843015932852848  0.6543061930134951  0.3796612645096321  1.0000
+  S   S2        1.0  0.39730248117820083  0.7586844627101448  0.528421271390429  1.0000
+  Br  Br1       1.0  0.1439226015388983  0.1874190775583058  0.44591956331228594  1.0000
+  Br  Br2       1.0  0.05707115995388402  0.07653995746469779  0.6203387354903679  1.0000

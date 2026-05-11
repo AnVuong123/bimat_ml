@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsOIBrCuClSiClOMo
+_chemical_formula_sum              "As1 O2 I1 Br1 Cu1 Cl2 Si1 Mo1"
+_cell_length_a       5.788140650406931
+_cell_length_b       6.880538575387243
+_cell_length_c       18.84031277213839
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    91.9948218888159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.22941910232262308  0.559263778553659  0.4867303730090848  1.0000
+  O   O1        1.0  0.8050883164167678  0.10007121486311037  0.49529012852533877  1.0000
+  I   I1        1.0  0.9390594773596445  0.47652371460390064  0.5974653636216046  1.0000
+  Br  Br1       1.0  0.7488189470870416  0.5134921172646442  0.39808256320941876  1.0000
+  Cu  Cu1       1.0  0.6330739173781986  0.8575751300673105  0.518814455210756  1.0000
+  Cl  Cl1       1.0  0.32824522866870526  0.11496626160964354  0.4272028265587729  1.0000
+  Si  Si1       1.0  0.046419106652365295  0.9848228735506536  0.5118618933968391  1.0000
+  Cl  Cl2       1.0  0.4008431711674824  0.14360293465711474  0.6019174367905811  1.0000
+  O   O2        1.0  0.4804026861617844  0.6159224798285187  0.5419770836546112  1.0000
+  Mo  Mo1       1.0  0.5787516038895006  0.3384926817420882  0.506506089244876  1.0000

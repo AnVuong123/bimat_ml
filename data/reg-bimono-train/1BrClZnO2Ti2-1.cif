@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZnTiOTiClBrO
+_chemical_formula_sum              "Zn1 Ti2 O2 Cl1 Br1"
+_cell_length_a       3.156968904526902
+_cell_length_b       6.8929742970907055
+_cell_length_c       20.020097633233355
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    103.31161647089192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.5208864610967484  0.25305357885314256  0.49825218981718156  1.0000
+  Ti  Ti1       1.0  0.17864625126797987  0.5680181546654904  0.5360759160133287  1.0000
+  O   O1        1.0  0.18028269873138955  0.5710324354586692  0.42323799623244945  1.0000
+  Ti  Ti2       1.0  0.7585516426875101  0.7266765773055456  0.4278351562082804  1.0000
+  Cl  Cl1       1.0  0.6417868382573958  0.4950787104376789  0.6253775783123077  1.0000
+  Br  Br1       1.0  0.3957807381921985  0.9990689203371651  0.374617764422354  1.0000
+  O   O2        1.0  0.7819537016619503  0.7736264811709753  0.5164025824268942  1.0000

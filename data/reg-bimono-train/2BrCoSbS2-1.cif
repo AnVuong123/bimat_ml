@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoSCoSbSBrSbS2Br
+_chemical_formula_sum              "Co2 S4 Sb2 Br2"
+_cell_length_a       3.5929884230523177
+_cell_length_b       8.865667236530127
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5000000000000063  0.5667164321602207  0.5000000064124671  1.0000
+  S   S1        1.0  0.9999999999999998  0.5249740646095599  0.5410576429944988  1.0000
+  Co  Co2       1.0  0.5000000000000064  0.06671651688581383  0.5000000154038344  1.0000
+  Sb  Sb1       1.0  0.0  0.7847097238549752  0.5694107333853718  1.0000
+  S   S2        1.0  0.5000000000000063  0.8163249788963008  0.5186479833968008  1.0000
+  Br  Br1       1.0  0.0  0.11457283692375005  0.5512989615517472  1.0000
+  Sb  Sb2       1.0  3.1250342355926814e-18  0.3487231299316243  0.43058926044687623  1.0000
+  S   S3        1.0  0.5000000000000063  0.31710796678144004  0.4813520785656222  1.0000
+  S   S4        1.0  9.924396378969026e-19  0.6084591135453116  0.45894238600653425  1.0000
+  Br  Br2       1.0  5.268512461243835e-18  0.01886013315485951  0.44870108867577907  1.0000

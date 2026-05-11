@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       HgSe2
+_chemical_formula_sum              "Hg1 Se2"
+_cell_length_a       3.2059727024818416
+_cell_length_b       3.205970456985194
+_cell_length_c       18.5638181771802
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  5.319224753239963e-26  1.5775993662894436e-17  0.499999953928667  1.0000
+  Se  Se1       1.0  0.9999999999999999  0.5  0.6177608732884551  1.0000
+  Se  Se2       1.0  0.5  2.2449417837918525e-18  0.3822390729411265  1.0000

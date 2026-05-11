@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2GeCo3
+_chemical_formula_sum              "Se2 Ge1 Co3"
+_cell_length_a       3.880029021718439
+_cell_length_b       3.8800035024389863
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0002254933154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8333255606676289  0.500050915425705  0.6164486553005759  1.0000
+  Se  Se2       1.0  0.833325860499958  0.5000515132846065  0.38355338040278725  1.0000
+  Ge  Ge1       1.0  0.499997005604025  0.8333941645546462  0.5000011931016548  1.0000
+  Co  Co1       1.0  0.16666219774434787  0.16672464574961213  0.5664584993964364  1.0000
+  Co  Co2       1.0  0.1666624104679013  0.16672506915868307  0.43354361859768376  1.0000
+  Co  Co3       1.0  0.8333252534923951  0.5000505943992815  0.5000009192053496  1.0000

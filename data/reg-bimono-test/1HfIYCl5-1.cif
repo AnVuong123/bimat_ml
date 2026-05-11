@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClYHfICl4
+_chemical_formula_sum              "Cl5 Y1 Hf1 I1"
+_cell_length_a       6.659036171533652
+_cell_length_b       6.647654870435298
+_cell_length_c       18.70159048876802
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.47094319722018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.16045379829718476  0.16881929781573507  0.44028023612502704  1.0000
+  Y   Y1        1.0  0.47702323498726357  0.531469074849027  0.5124505722827212  1.0000
+  Hf  Hf1       1.0  0.1668638219310367  0.840249443369215  0.5107666205246468  1.0000
+  I   I1        1.0  0.4755915636043909  0.8541653199921607  0.4010354095019042  1.0000
+  Cl  Cl2       1.0  0.8405109279042293  0.8226026629645821  0.5894098683156683  1.0000
+  Cl  Cl3       1.0  0.8406571909705177  0.5424568857734913  0.43910076263435244  1.0000
+  Cl  Cl4       1.0  0.45699899209927247  0.16307433875932129  0.5857138964507316  1.0000
+  Cl  Cl5       1.0  0.1794763648420619  0.5601366480231553  0.5989645904980958  1.0000

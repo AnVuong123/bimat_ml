@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClCuGaBrIS
+_chemical_formula_sum              "Cl1 Cu1 Ga1 Br1 I1 S1"
+_cell_length_a       3.6825811571862372
+_cell_length_b       8.461902624428765
+_cell_length_c       18.275626336299485
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.76119191697777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.126386091748777  0.375696864366374  0.4303749245742205  1.0000
+  Cu  Cu1       1.0  0.8723411519564861  0.1235532035025886  0.5071743494610341  1.0000
+  Ga  Ga1       1.0  0.35667701387035033  0.6062431818625439  0.5113938312343764  1.0000
+  Br  Br1       1.0  0.3701583583423232  0.12122144792401834  0.5894280914047126  1.0000
+  I   I1        1.0  0.6193515101121403  0.8700343108800653  0.4105999772401129  1.0000
+  S   S1        1.0  0.8704788210725374  0.6201308284413554  0.5834470089650352  1.0000

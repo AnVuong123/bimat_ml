@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SGaAs2NaS5
+_chemical_formula_sum              "S6 Ga1 As2 Na1"
+_cell_length_a       6.625547470096252
+_cell_length_b       6.6255474700962695
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.53468898176463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.30797551144827334  0.014502106262787461  0.45549198708377514  1.0000
+  Ga  Ga1       1.0  0.0017745182620945814  0.9982254817379062  0.5  1.0000
+  As  As1       1.0  0.48432774451309163  0.8373579903134879  0.4874852600918827  1.0000
+  As  As2       1.0  0.16264200968651088  0.5156722554869069  0.5125147399081172  1.0000
+  Na  Na1       1.0  0.6268122855521392  0.37318771444785687  0.5  1.0000
+  S   S2        1.0  0.71717097598956  0.7634176344249611  0.44970502297623083  1.0000
+  S   S3        1.0  0.23658236557503154  0.28282902401043536  0.5502949770237701  1.0000
+  S   S4        1.0  0.6748846974661644  0.9976305067872838  0.5404285038595994  1.0000
+  S   S5        1.0  0.002369493212717354  0.3251153025338356  0.45957149614040155  1.0000
+  S   S6        1.0  0.9854978937372139  0.6920244885517264  0.5445080129162256  1.0000

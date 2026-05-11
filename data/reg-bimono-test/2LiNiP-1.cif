@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PLiPNi2Li
+_chemical_formula_sum              "P2 Li2 Ni2"
+_cell_length_a       3.809701154749268
+_cell_length_b       3.80970115474928
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.014947404981283061  0.014947404981282946  0.4350374872253129  1.0000
+  Li  Li1       1.0  0.5138754325815573  0.5138754325815573  0.4053408814767531  1.0000
+  P   P2        1.0  0.5139967271295549  0.5139967271295555  0.5649625905680695  1.0000
+  Ni  Ni1       1.0  0.5150068991743659  0.01393704372667833  0.5000000103960967  1.0000
+  Ni  Ni2       1.0  0.0139370437266783  0.5150068991743659  0.5000000103960967  1.0000
+  Li  Li2       1.0  0.015069086756361975  0.015069086756361908  0.5946592091379854  1.0000

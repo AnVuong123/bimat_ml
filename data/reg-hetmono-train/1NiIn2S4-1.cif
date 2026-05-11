@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiIn2S4
+_chemical_formula_sum              "Ni1 In2 S4"
+_cell_length_a       3.8108739319316434
+_cell_length_b       3.8106470528526177
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00196952745677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  1.9072769835907396e-17  3.8145539685881957e-17  0.5000000000000001  1.0000
+  In  In1       1.0  0.666658785987776  0.3333175719755491  0.4092123960554478  1.0000
+  In  In2       1.0  0.3333412140122273  0.6666824280244519  0.5907876039445525  1.0000
+  S   S1        1.0  0.6666765615189459  0.33335312303788883  0.6221393452935303  1.0000
+  S   S2        1.0  0.3333234384810554  0.666646876962108  0.3778606547064675  1.0000
+  S   S3        1.0  0.6667751920445202  0.3335503840890375  0.472718475092278  1.0000
+  S   S4        1.0  0.3332248079554827  0.6664496159109627  0.5272815249077221  1.0000

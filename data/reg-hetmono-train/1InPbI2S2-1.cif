@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InPbISIS
+_chemical_formula_sum              "In1 Pb1 I2 S2"
+_cell_length_a       4.102473310197698
+_cell_length_b       4.10488643261802
+_cell_length_c       23.90142504850331
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    119.99164021139441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.2236564314192797  0.11382804659444944  0.6070403778632739  1.0000
+  Pb  Pb1       1.0  0.8802167786506822  0.44930746158672713  0.3722335852051904  1.0000
+  I   I1        1.0  0.22538238279434095  0.11036405600566557  0.7197000343592372  1.0000
+  S   S1        1.0  0.21321761537317205  0.1155979699837986  0.4316085080172119  1.0000
+  I   I2        1.0  0.5465605697418344  0.7826360581206405  0.2787137091479244  1.0000
+  S   S2        1.0  0.8904599803229815  0.44735695085497035  0.5647678141484925  1.0000

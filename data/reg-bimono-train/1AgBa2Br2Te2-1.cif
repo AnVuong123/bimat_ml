@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgTe2BaBrBaBr
+_chemical_formula_sum              "Ag1 Te2 Ba2 Br2"
+_cell_length_a       5.46288702844926
+_cell_length_b       5.462887028449178
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    77.04519895263262
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9501025170210151  0.9501025170210348  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.45194431977868393  0.939522478490169  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9395224784901578  0.4519443197786953  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.4270152486115849  0.42701524861158857  0.3886106407592729  1.0000
+  Br  Br1       1.0  0.061383509370924  0.06138350937092371  0.3327094707853904  1.0000
+  Ba  Ba2       1.0  0.4270152486195406  0.4270152486195451  0.6113893592218282  1.0000
+  Br  Br2       1.0  0.06138350938997861  0.0613835093899786  0.6672905292069287  1.0000

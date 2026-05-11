@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YIGaYIGa
+_chemical_formula_sum              "Y2 I2 Ga2"
+_cell_length_a       4.2158572863459405
+_cell_length_b       4.215888202038911
+_cell_length_c       38.023466479999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99975742202056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  1.0089708796900965e-05  2.0179417595110568e-05  0.5531130792223767  1.0000
+  I   I1        1.0  0.6666823114444541  0.33336462288890933  0.6055008135556414  1.0000
+  Ga  Ga1       1.0  0.33333522179106123  0.666670443582122  0.509093778322081  1.0000
+  Y   Y2        1.0  0.9999899102912015  0.9999798205824049  0.4468869207776233  1.0000
+  I   I2        1.0  0.333317688555545  0.6666353771110896  0.3944991864443582  1.0000
+  Ga  Ga2       1.0  0.6666647782089383  0.33332955641787776  0.490906221677919  1.0000

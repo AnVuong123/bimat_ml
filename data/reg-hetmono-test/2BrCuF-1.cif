@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cu2Br2F2
+_chemical_formula_sum              "Cu2 Br2 F2"
+_cell_length_a       6.561256359438204
+_cell_length_b       12.083775434052889
+_cell_length_c       17.97892366
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    163.16450698326832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.882520841379896  0.9490721278157461  0.49989189686120633  1.0000
+  Cu  Cu2       1.0  0.38251983137989515  0.9490715978157458  0.5001080231387939  1.0000
+  Br  Br1       1.0  0.6294095775864013  0.44783916882084596  0.5828929044560096  1.0000
+  Br  Br2       1.0  0.12941203758640119  0.44784048882084593  0.41710710554399044  1.0000
+  F   F1        1.0  0.13196516674890615  0.9488889674353475  0.5560937562946104  1.0000
+  F   F2        1.0  0.6319625467489062  0.9488876774353473  0.4439063137053895  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BrSeTa
+_chemical_formula_sum              "Br1 Se1 Ta1"
+_cell_length_a       3.3827696546438335
+_cell_length_b       3.3829601931722424
+_cell_length_c       18.617099465307902
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01015454750538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.49352774230856383  0.4948495156007928  0.5971445490756546  1.0000
+  Se  Se1       1.0  0.8272746294807656  0.16162558560840742  0.40285545092434516  1.0000
+  Ta  Ta1       1.0  0.16034091624374935  0.8282969742272732  0.494475659435563  1.0000

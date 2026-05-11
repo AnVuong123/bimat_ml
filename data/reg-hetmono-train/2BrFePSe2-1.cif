@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       P2Fe2Se3Br2Se
+_chemical_formula_sum              "P2 Fe2 Se4 Br2"
+_cell_length_a       3.4405977674567496
+_cell_length_b       11.76184101024934
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  1.0644085453487995e-18  0.24780862553978775  0.4505669372183951  1.0000
+  P   P2        1.0  0.9999999999999997  0.7478086255397884  0.5494330627815971  1.0000
+  Fe  Fe1       1.0  0.5000000000000223  0.5209665666720372  0.48715232900657346  1.0000
+  Fe  Fe2       1.0  0.5000000000000145  0.020966566672010547  0.512847670993427  1.0000
+  Se  Se1       1.0  0.5000000000000236  0.3118137778919054  0.4932094326572311  1.0000
+  Se  Se2       1.0  0.5000000000000223  0.8118137778919122  0.5067905673427692  1.0000
+  Se  Se3       1.0  0.0  0.5563660281469107  0.538739055111234  1.0000
+  Br  Br1       1.0  0.0  0.5640422488181647  0.43723101581218565  1.0000
+  Br  Br2       1.0  7.301160527314669e-18  0.06404224881813682  0.5627689841878224  1.0000
+  Se  Se4       1.0  0.0  0.05636602814689698  0.461260944888751  1.0000

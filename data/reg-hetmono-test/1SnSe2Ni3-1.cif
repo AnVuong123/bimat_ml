@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2SnNi3
+_chemical_formula_sum              "Se2 Sn1 Ni3"
+_cell_length_a       4.115255866561589
+_cell_length_b       4.115246022461741
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999631529566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8333267314557652  0.5000533348066113  0.6165634430195907  1.0000
+  Se  Se2       1.0  0.833326733177817  0.5000533359995406  0.3834381321434724  1.0000
+  Sn  Sn1       1.0  0.4999933065423363  0.8333868470094985  0.5000011896173585  1.0000
+  Ni  Ni1       1.0  0.16666272138130117  0.16672619477100473  0.5705802589188091  1.0000
+  Ni  Ni2       1.0  0.16666271253085999  0.16672619887561796  0.42942199548723947  1.0000
+  Ni  Ni3       1.0  0.8333275172525246  0.5000537661029155  0.5000007694794292  1.0000

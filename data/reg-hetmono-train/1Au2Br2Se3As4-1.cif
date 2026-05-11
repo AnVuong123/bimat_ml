@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       As4Au2Br2Se3
+_chemical_formula_sum              "As4 Au2 Br2 Se3"
+_cell_length_a       7.31358713568685
+_cell_length_b       8.089067748017765
+_cell_length_c       34.12562733334072
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  5.712786515518858e-05  0.0  0.543467433177874  1.0000
+  As  As2       1.0  0.848938383674682  0.0  0.43520426735735884  1.0000
+  As  As3       1.0  0.14033342707809876  0.8450874305018239  0.44401763089748625  1.0000
+  As  As4       1.0  0.14033342707810206  0.1549125694981534  0.44401763089748625  1.0000
+  Au  Au1       1.0  0.5768263340101026  0.7283369111870329  0.5105076144018436  1.0000
+  Au  Au2       1.0  0.5768263340101026  0.27166308881294177  0.5105076144018436  1.0000
+  Br  Br1       1.0  0.5608094372109831  0.4999999999999723  0.564462507110305  1.0000
+  Br  Br2       1.0  0.4793384667593078  0.4999999999999723  0.4554099231514797  1.0000
+  Se  Se1       1.0  0.7146264629593487  7.5166102536907e-18  0.5015276559867605  1.0000
+  Se  Se2       1.0  0.14249348180270832  0.7717283214070404  0.5121606641177411  1.0000
+  Se  Se3       1.0  0.14249348180270832  0.2282716785929646  0.5121606641177411  1.0000

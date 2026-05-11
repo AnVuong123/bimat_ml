@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       I6Cu2Ag2
+_chemical_formula_sum              "I6 Cu2 Ag2"
+_cell_length_a       7.3043998602562095
+_cell_length_b       7.304399853804296
+_cell_length_c       18.60428006
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999998406706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6564086530613686  2.8001622153978183e-15  0.5966602239860395  1.0000
+  I   I2        1.0  0.34359132693863476  0.3435913469386388  0.5966602239860395  1.0000
+  I   I3        1.0  4.6201778137677276e-17  0.6564086430613609  0.5966602239860395  1.0000
+  I   I4        1.0  0.3435913369386334  0.9999999999999972  0.4033397760139612  1.0000
+  I   I5        1.0  0.6564086630613674  0.6564086530613655  0.4033397760139612  1.0000
+  I   I6        1.0  1.2344618344962177e-15  0.34359134693864146  0.4033397760139612  1.0000
+  Cu  Cu1       1.0  0.0  0.0  0.5833031349330701  1.0000
+  Cu  Cu2       1.0  0.0  0.0  0.41669688506692953  1.0000
+  Ag  Ag1       1.0  0.3333333300000004  0.6666666700000017  0.5  1.0000
+  Ag  Ag2       1.0  0.666666670000001  0.3333333300000007  0.5  1.0000

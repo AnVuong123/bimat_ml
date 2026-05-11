@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaVTeSe
+_chemical_formula_sum              "Ta1 V1 Te1 Se1"
+_cell_length_a       3.6124873369581523
+_cell_length_b       3.9891121701871155
+_cell_length_c       18.809428985642747
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9992622191405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.7522396658402367  0.7480784774808665  0.5008850408351743  1.0000
+  V   V1        1.0  0.2522415608135855  0.24807749065027346  0.511322063324016  1.0000
+  Te  Te1       1.0  0.7522482462352885  0.24808922612422835  0.39926544394169916  1.0000
+  Se  Se1       1.0  0.2522384119942448  0.7480793928496828  0.6007793182573998  1.0000

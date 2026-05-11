@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SClNGaBrZr
+_chemical_formula_sum              "S1 Cl1 N1 Ga1 Br1 Zr1"
+_cell_length_a       3.535042181422124
+_cell_length_b       5.8501764945980534
+_cell_length_c       20.771143549168748
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    90.0021969973809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.33279902807963585  0.8333755785107012  0.4712836575410533  1.0000
+  Cl  Cl1       1.0  0.33273566169801594  0.29369856716358156  0.36108109390274745  1.0000
+  N   N1        1.0  0.8327990391045793  0.34567367023205414  0.5042515664474735  1.0000
+  Ga  Ga1       1.0  0.33275736667636574  0.24274331013696918  0.46441853667282446  1.0000
+  Br  Br1       1.0  0.33281407065380364  0.6369893220449169  0.6389321087026915  1.0000
+  Zr  Zr1       1.0  0.8327747983290608  0.6488658243785956  0.5385801270529634  1.0000

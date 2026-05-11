@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BaCBa
+_chemical_formula_sum              "Ba2 C1"
+_cell_length_a       4.2029890766269284
+_cell_length_b       4.20262397081081
+_cell_length_c       17.519924757722215
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00293012247832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9781764475598898  0.9782785099646292  0.5859077158923797  1.0000
+  C   C1        1.0  0.6445770647298633  0.3113753324296439  0.5000000812044056  1.0000
+  Ba  Ba2       1.0  0.3112715331004464  0.6444702210933881  0.4140921659818926  1.0000

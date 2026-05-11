@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiClSeTeSeClNiSe
+_chemical_formula_sum              "Ni2 Cl2 Se3 Te1"
+_cell_length_a       5.657414912275616
+_cell_length_b       5.400837353968993
+_cell_length_c       18.610730328355224
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    103.59182800570831
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.49233521485125986  0.1727964034597011  0.5070198478328596  1.0000
+  Cl  Cl1       1.0  0.1996927372318065  0.1874433575331922  0.586900643217556  1.0000
+  Se  Se1       1.0  0.7820984050573904  0.43874293043530055  0.5819424699187752  1.0000
+  Te  Te1       1.0  0.4233113521966961  0.4845168657034894  0.40314104781779975  1.0000
+  Se  Se2       1.0  0.8082447634636837  0.18447323598339344  0.4287789083711251  1.0000
+  Cl  Cl2       1.0  0.6206380478425232  0.7786829884089368  0.5970274126802602  1.0000
+  Ni  Ni2       1.0  0.09957415342460701  0.4651976768670149  0.5012687604198796  1.0000
+  Se  Se3       1.0  0.2044557541772748  0.8524768454227964  0.4389273344049412  1.0000

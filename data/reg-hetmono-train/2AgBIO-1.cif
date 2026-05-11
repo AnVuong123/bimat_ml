@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgIAgIBOBO
+_chemical_formula_sum              "Ag2 I2 B2 O2"
+_cell_length_a       4.4942275351216665
+_cell_length_b       7.304900458743142
+_cell_length_c       37.180572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.7416732825607657  0.4714916023946936  1.0000
+  I   I1        1.0  0.5  0.5071834869732432  0.4707622847940637  1.0000
+  Ag  Ag2       1.0  0.5  0.2416732825607426  0.5285083976053063  1.0000
+  I   I2        1.0  0.9999999999999997  0.007183486973312503  0.5292377152059363  1.0000
+  B   B1        1.0  0.5  0.4964601802585599  0.5537145196120938  1.0000
+  O   O1        1.0  0.5  0.6456624679845512  0.5685615676684366  1.0000
+  B   B2        1.0  1.0460541947059958e-17  0.9964601802585825  0.4462854803879551  1.0000
+  O   O2        1.0  8.849246380953213e-19  0.14566246798456448  0.43143843233152807  1.0000

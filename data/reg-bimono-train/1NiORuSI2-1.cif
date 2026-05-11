@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SNiRuI2O
+_chemical_formula_sum              "S1 Ni1 Ru1 I2 O1"
+_cell_length_a       3.522636436351668
+_cell_length_b       4.385044053894069
+_cell_length_c       20.815296651188437
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00038529289625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.24656395752877105  0.7517409237851466  0.4835729159611813  1.0000
+  Ni  Ni1       1.0  0.7466022422549926  0.7529441025998964  0.5482281247487658  1.0000
+  Ru  Ru1       1.0  0.2475188201237914  0.2519911106876072  0.45896894432145097  1.0000
+  I   I1        1.0  0.7475776427446152  0.2518162896266318  0.3604385156613101  1.0000
+  I   I2        1.0  0.24672063481454778  0.752476104679248  0.6396239584952326  1.0000
+  O   O1        1.0  0.7473779465345791  0.2515046894387595  0.5183680125659178  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeCuGaSeClBr
+_chemical_formula_sum              "Se2 Cu1 Ga1 Cl1 Br1"
+_cell_length_a       3.9726111000851083
+_cell_length_b       7.998425895628637
+_cell_length_c       20.020191147008077
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    135.7553478427331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.016830820474762698  0.8049575761808326  0.4609768117750483  1.0000
+  Cu  Cu1       1.0  0.8812745595031242  0.33926327677907536  0.4860392753053538  1.0000
+  Ga  Ga1       1.0  0.8276020735187402  0.01084441566796901  0.5191052313332425  1.0000
+  Se  Se2       1.0  0.5443406679237313  0.459353719666992  0.5471348400400757  1.0000
+  Cl  Cl1       1.0  0.6640108049238076  0.9071395022381257  0.6253707702988096  1.0000
+  Br  Br1       1.0  0.6033903154278775  0.21376136023571318  0.37462528151214375  1.0000

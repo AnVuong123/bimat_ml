@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       TeCuSiSeSiTe4Ni
+_chemical_formula_sum              "Te5 Cu1 Si2 Se1 Ni1"
+_cell_length_a       6.428687095740402
+_cell_length_b       5.824505531592463
+_cell_length_c       19.792893116551646
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.32289521893492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.6910671271147731  0.4245269841473979  0.6210761127321914  1.0000
+  Cu  Cu1       1.0  0.7186157381794346  0.8004194682623178  0.5414316903359334  1.0000
+  Si  Si1       1.0  0.5687595545655325  0.12057058585949357  0.5195303507747695  1.0000
+  Se  Se1       1.0  0.024074810221692777  0.1430895874726166  0.5775853808173819  1.0000
+  Si  Si2       1.0  0.1898998034977221  0.939811412518951  0.5032165637322539  1.0000
+  Te  Te2       1.0  0.36719409154969496  0.7026769373040574  0.6184330761250891  1.0000
+  Te  Te3       1.0  0.22896992430446103  0.5064326182683888  0.41365783152046876  1.0000
+  Te  Te4       1.0  0.7108602853920984  0.5038678605556003  0.4401098794597145  1.0000
+  Te  Te5       1.0  0.10710621814632061  0.022188924618115762  0.37892388726780857  1.0000
+  Ni  Ni1       1.0  0.07041750818731572  0.5428312818051787  0.530176177713343  1.0000

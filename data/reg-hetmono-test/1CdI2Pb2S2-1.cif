@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SPbCdIPbIS
+_chemical_formula_sum              "S2 Pb2 Cd1 I2"
+_cell_length_a       4.478777003158703
+_cell_length_b       7.690745643411394
+_cell_length_c       33.842086877324824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.92859218877402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6961229305011567  0.392245861002319  0.47677629939293664  1.0000
+  Pb  Pb1       1.0  0.7672998019878192  0.5345996039756635  0.5503037301807608  1.0000
+  Cd  Cd1       1.0  0.533193302838251  0.06638660567650982  0.5000000351955435  1.0000
+  I   I1        1.0  0.9764482071653708  0.9528964143307413  0.4361870001550753  1.0000
+  Pb  Pb2       1.0  0.29908704878441184  0.5981740975688385  0.4496960355884605  1.0000
+  I   I2        1.0  0.08993895806750625  0.1798779161350165  0.5638130437550339  1.0000
+  S   S2        1.0  0.3702648223698767  0.7405296447397728  0.5232239684652872  1.0000

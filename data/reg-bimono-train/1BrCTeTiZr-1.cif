@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CTiZrBrTe
+_chemical_formula_sum              "C1 Ti1 Zr1 Br1 Te1"
+_cell_length_a       3.1998083889670315
+_cell_length_b       5.912336399681971
+_cell_length_c       19.03731811679366
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.7751055686248
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.48425222265999424  0.4723211917219614  0.49119688627342534  1.0000
+  Ti  Ti1       1.0  0.869103743298172  0.2438332962922706  0.47253543247512636  1.0000
+  Zr  Zr1       1.0  0.11330730302579307  0.7276946646405013  0.5160665118531393  1.0000
+  Br  Br1       1.0  0.2376876776193448  0.9796330739850688  0.3937671848210111  1.0000
+  Te  Te1       1.0  0.7715810664454062  0.046784868743480305  0.6067848089781193  1.0000

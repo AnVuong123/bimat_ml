@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiCINaTiCINa
+_chemical_formula_sum              "Ti2 C2 I2 Na2"
+_cell_length_a       3.8469736259670526
+_cell_length_b       4.324909942479269
+_cell_length_c       35.2912948
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5  0.5000000000000036  0.5106731093176472  1.0000
+  C   C1        1.0  0.5  0.0  0.5112953279459121  1.0000
+  I   I1        1.0  0.0  0.5000000000000036  0.6001692624700438  1.0000
+  Na  Na1       1.0  0.5  0.0  0.5846709468084076  1.0000
+  Ti  Ti2       1.0  2.084059065049587e-18  0.0  0.48932689068235274  1.0000
+  C   C2        1.0  7.577535049905641e-18  0.5000000000000036  0.48870467205408785  1.0000
+  I   I2        1.0  0.5  1.5834424275935856e-18  0.3998307375299534  1.0000
+  Na  Na2       1.0  0.0  0.5000000000000036  0.41532905319159324  1.0000

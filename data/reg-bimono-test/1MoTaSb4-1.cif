@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SbMoTaSb3
+_chemical_formula_sum              "Sb4 Mo1 Ta1"
+_cell_length_a       3.4377019039733505
+_cell_length_b       5.381931321675521
+_cell_length_c       19.704903667738886
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    87.38334547551962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.7335148678592349  0.6979673880841126  0.6201999469926284  1.0000
+  Mo  Mo1       1.0  0.7529629415255261  0.40446209215958573  0.5000022258507154  1.0000
+  Ta  Ta1       1.0  0.22874706904011283  0.7999820103059354  0.49998872827117047  1.0000
+  Sb  Sb2       1.0  0.25972433202951206  0.20074983472944355  0.6030158315798262  1.0000
+  Sb  Sb3       1.0  0.7335560163580349  0.6980049738584526  0.37980211179093487  1.0000
+  Sb  Sb4       1.0  0.2597952224286873  0.20080060837875022  0.3970045848846289  1.0000

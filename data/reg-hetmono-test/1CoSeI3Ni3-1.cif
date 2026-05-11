@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiCoINiINiSeI
+_chemical_formula_sum              "Ni3 Co1 I3 Se1"
+_cell_length_a       5.437727764520129
+_cell_length_b       5.443068186959317
+_cell_length_c       18.528566720970186
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02831108559201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.12203844697846257  0.8733704983888937  0.4973838519688677  1.0000
+  Co  Co1       1.0  0.6259213786634991  0.875754973645129  0.4990481737799573  1.0000
+  I   I1        1.0  0.8720160534644851  0.6269185750294747  0.5952196350130158  1.0000
+  Ni  Ni2       1.0  0.622646674499876  0.3756541115474508  0.4974220987422877  1.0000
+  I   I2        1.0  0.37587515909060265  0.12346346017430863  0.5944708826993111  1.0000
+  Ni  Ni3       1.0  0.12741041470913672  0.3797895273136295  0.4984223347115941  1.0000
+  Se  Se1       1.0  0.37852370345753045  0.630839852667583  0.42415960459230745  1.0000
+  I   I3        1.0  0.8762513529337543  0.12843610639389502  0.4047803649869841  1.0000

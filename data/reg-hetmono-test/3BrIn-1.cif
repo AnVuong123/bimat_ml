@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br3In3
+_chemical_formula_sum              "Br3 In3"
+_cell_length_a       6.595222031050556
+_cell_length_b       6.596796580943125
+_cell_length_c       19.55172658
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    40.83332735189485
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8183354785731305  0.5792423684704658  0.6140659560493766  1.0000
+  Br  Br2       1.0  0.8183354785731305  0.5792423684704658  0.3859340439506245  1.0000
+  Br  Br3       1.0  0.5232641181035428  0.28414151812361466  0.5  1.0000
+  In  In1       1.0  0.05047816613368792  0.8107982105821445  0.6139555894523184  1.0000
+  In  In2       1.0  0.05047816613368792  0.8107982105821445  0.38604441054767946  1.0000
+  In  In3       1.0  0.27158831182137944  0.034158366714425334  0.5  1.0000

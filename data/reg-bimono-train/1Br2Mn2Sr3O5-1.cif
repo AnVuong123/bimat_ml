@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2O4Sr2Br2SrO
+_chemical_formula_sum              "Mn2 O5 Sr3 Br2"
+_cell_length_a       3.9719613851181093
+_cell_length_b       3.9719613851180884
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0  2.198635115425567e-17  0.4518361332697524  1.0000
+  Mn  Mn2       1.0  0.0  2.1483927488275846e-17  0.5481638667302476  1.0000
+  O   O1        1.0  2.309494620547521e-18  0.49999999999999806  0.5533584841246639  1.0000
+  O   O2        1.0  0.49999999999999745  0.0  0.5533584841246639  1.0000
+  O   O3        1.0  0.0  0.49999999999999806  0.4466415158753361  1.0000
+  O   O4        1.0  0.49999999999999745  3.807012418409938e-19  0.4466415158753361  1.0000
+  Sr  Sr1       1.0  0.49999999999999745  0.49999999999999806  0.5933235908981548  1.0000
+  Sr  Sr2       1.0  0.49999999999999745  0.49999999999999806  0.4066764091018452  1.0000
+  Br  Br1       1.0  8.307571756113968e-20  4.5694670122220175e-20  0.3701038935795851  1.0000
+  Br  Br2       1.0  0.0  0.0  0.6298961064204142  1.0000
+  Sr  Sr3       1.0  0.49999999999999745  0.49999999999999806  0.5  1.0000
+  O   O5        1.0  0.0  4.4442072935198e-19  0.5  1.0000

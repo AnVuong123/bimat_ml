@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2Cl6
+_chemical_formula_sum              "Hf2 Cl6"
+_cell_length_a       6.147374827998244
+_cell_length_b       6.147374827998245
+_cell_length_c       18.1901589152276
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6666666666666666  0.33333333333333315  0.49999954734648017  1.0000
+  Hf  Hf2       1.0  0.33333333333333254  0.6666666666666663  0.500000452182462  1.0000
+  Cl  Cl1       1.0  0.3649539899519785  5.860339236159633e-07  0.4116148608861063  1.0000
+  Cl  Cl2       1.0  0.6350465960819448  0.6350460100480222  0.4116148608861063  1.0000
+  Cl  Cl3       1.0  0.9999994139660755  0.364953403918057  0.4116148608861063  1.0000
+  Cl  Cl4       1.0  0.36495334969233634  0.9999993052224619  0.5883851392938592  1.0000
+  Cl  Cl5       1.0  0.6350459555301231  0.6350466503076619  0.5883851392938592  1.0000
+  Cl  Cl6       1.0  6.947775375129124e-07  0.36495404446987456  0.5883851392938592  1.0000

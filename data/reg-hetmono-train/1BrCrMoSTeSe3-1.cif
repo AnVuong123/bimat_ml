@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SSe3TeBrCrMo
+_chemical_formula_sum              "S1 Se3 Te1 Br1 Cr1 Mo1"
+_cell_length_a       6.035584583614287
+_cell_length_b       6.379308659320144
+_cell_length_c       19.08181316340157
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    131.9526865785672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.19910187562736764  0.36834086055845966  0.45808113754999213  1.0000
+  Se  Se1       1.0  0.8304508044162776  0.27321094622987807  0.5739666252413862  1.0000
+  Se  Se2       1.0  0.8398563650043446  0.7204959014188403  0.4002527025552394  1.0000
+  Se  Se3       1.0  0.3090438899497964  0.9374645944587232  0.571485704332114  1.0000
+  Te  Te1       1.0  0.43076540062956514  0.028580009874330427  0.39304199806621665  1.0000
+  Br  Br1       1.0  0.6229910277410035  0.6412324870373962  0.6069608679824717  1.0000
+  Cr  Cr1       1.0  0.5701426977799926  0.38169235304183596  0.4978490847971058  1.0000
+  Mo  Mo1       1.0  0.6335503247011001  0.8715246631125402  0.49047612958737696  1.0000

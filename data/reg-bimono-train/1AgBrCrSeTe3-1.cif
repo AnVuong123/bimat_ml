@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrAgSeTeCrTe2
+_chemical_formula_sum              "Br1 Ag1 Se1 Te3 Cr1"
+_cell_length_a       5.4438540240917215
+_cell_length_b       5.710351506002983
+_cell_length_c       19.107832214156755
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    102.57700638873877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.16228221239956905  0.4117913773543869  0.39251640627887335  1.0000
+  Ag  Ag1       1.0  0.3185454931995064  0.8672533361189184  0.5319056969789758  1.0000
+  Se  Se1       1.0  0.5919826994484018  0.28440527519421877  0.6027215465575593  1.0000
+  Te  Te1       1.0  0.1786119245953473  0.4559520025732705  0.6079391594548184  1.0000
+  Cr  Cr1       1.0  0.8586774174262113  0.3431836236862618  0.4948126361709002  1.0000
+  Te  Te2       1.0  0.5121341722376509  0.08394174499884899  0.4077572735318461  1.0000
+  Te  Te3       1.0  0.8136265724730212  0.829188030209241  0.4892549020457073  1.0000

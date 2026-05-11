@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnAl2O4
+_chemical_formula_sum              "Mn1 Al2 O4"
+_cell_length_a       3.0804565227856897
+_cell_length_b       3.080456522785683
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98533025000638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9999999999999999  0.9999999999999998  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6664117723825788  0.33358822761742307  0.4240931004744203  1.0000
+  Al  Al2       1.0  0.3335882276174214  0.6664117723825823  0.5759068995255805  1.0000
+  O   O1        1.0  0.6668501207286855  0.33314987927131323  0.5904759529254154  1.0000
+  O   O2        1.0  0.3331498792713096  0.6668501207286857  0.4095240470745861  1.0000
+  O   O3        1.0  0.666462678435378  0.3335373215646189  0.4685929281858167  1.0000
+  O   O4        1.0  0.33353732156461846  0.6664626784353813  0.5314070718141835  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiClInTe
+_chemical_formula_sum              "Si1 Cl1 In1 Te1"
+_cell_length_a       4.594369970081828
+_cell_length_b       4.603452060312023
+_cell_length_c       18.207180889814886
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.2625486573879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6753723492963414  0.17940986593342598  0.5868688097313783  1.0000
+  Cl  Cl1       1.0  0.33118719348621345  0.8334972536979584  0.588077513877558  1.0000
+  In  In1       1.0  0.24806030567943763  0.7461431472105415  0.4119219045022405  1.0000
+  Te  Te1       1.0  0.7474600001034862  0.24932613452110133  0.45049060444074973  1.0000

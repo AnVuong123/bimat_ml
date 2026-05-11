@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NGaCl2
+_chemical_formula_sum              "N1 Ga1 Cl2"
+_cell_length_a       3.507635222777672
+_cell_length_b       4.029536613733848
+_cell_length_c       18.375125353397586
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01247908279582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.2495278160325093  0.7500878566081209  0.4999049271353681  1.0000
+  Ga  Ga1       1.0  0.24912179373346077  0.2500197892519489  0.4999863394419152  1.0000
+  Cl  Cl1       1.0  0.7492738761849775  0.2515591890070899  0.4081604808542566  1.0000
+  Cl  Cl2       1.0  0.7494491147496923  0.2483437574514069  0.5918395191457434  1.0000

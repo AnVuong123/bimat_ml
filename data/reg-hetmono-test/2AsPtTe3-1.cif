@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pt2As2Te6
+_chemical_formula_sum              "Pt2 As2 Te6"
+_cell_length_a       6.720551883996249
+_cell_length_b       7.447328387171891
+_cell_length_c       17.97355482672238
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.82898467724371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.008201474714705151  0.01634524478771042  0.49880611502212163  1.0000
+  Pt  Pt2       1.0  0.32515111032460625  0.6503186721109989  0.4987809883085877  1.0000
+  As  As1       1.0  0.651758853134665  0.333332432903437  0.42894852734766153  1.0000
+  As  As2       1.0  0.6815235673224302  0.33333092779018153  0.5687599539118388  1.0000
+  Te  Te1       1.0  0.2913777525088425  0.9316084442243562  0.41422518008971754  1.0000
+  Te  Te2       1.0  0.04842240378074347  0.3332827823734738  0.4122696023523849  1.0000
+  Te  Te3       1.0  0.6931443009459519  0.7350196114509863  0.41424391925640797  1.0000
+  Te  Te4       1.0  0.04203001117839644  0.7350884835233531  0.5833680761083757  1.0000
+  Te  Te5       1.0  0.28481384938594034  0.3333833204384421  0.5853387951741884  1.0000
+  Te  Te6       1.0  0.6402277931604332  0.9316109869355357  0.5833489948728405  1.0000

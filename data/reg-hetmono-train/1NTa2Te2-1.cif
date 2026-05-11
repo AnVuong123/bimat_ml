@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ta2NTe2
+_chemical_formula_sum              "Ta2 N1 Te2"
+_cell_length_a       3.4435773396968083
+_cell_length_b       3.4436650671239106
+_cell_length_c       19.63611401395941
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99849383004802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.26527076917081427  0.5986254441375659  0.4464765037840311  1.0000
+  Ta  Ta2       1.0  0.598636397316328  0.26528034125530187  0.55352336386501  1.0000
+  N   N1        1.0  0.9320192391462281  0.9320208457063329  0.4999990911297523  1.0000
+  Te  Te1       1.0  0.2653530409683728  0.5987651053283074  0.6565965504463228  1.0000
+  Te  Te2       1.0  0.5985853225660772  0.26517445730348155  0.3434032647666879  1.0000

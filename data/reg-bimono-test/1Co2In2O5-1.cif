@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2In2O5
+_chemical_formula_sum              "Co2 In2 O5"
+_cell_length_a       3.3117668069859465
+_cell_length_b       3.3113988542693726
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0036757889506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9999731402002481  0.999946280400496  0.4727525187475167  1.0000
+  Co  Co2       1.0  0.9999731402002479  0.999946280400496  0.5272474812524833  1.0000
+  In  In1       1.0  0.33329882367994745  0.6665976473598958  0.4003181592265582  1.0000
+  In  In2       1.0  0.33329882367994745  0.6665976473598958  0.5996818407734462  1.0000
+  O   O1        1.0  0.6667600320140643  0.33352006402812584  0.5  1.0000
+  O   O2        1.0  0.3333434259249281  0.6666868518498571  0.4500339228914292  1.0000
+  O   O3        1.0  0.3333434259249281  0.6666868518498571  0.5499660771085709  1.0000
+  O   O4        1.0  0.6666632159028107  0.33332643180562066  0.3810153090910772  1.0000
+  O   O5        1.0  0.6666632159028107  0.33332643180562066  0.6189846909089262  1.0000

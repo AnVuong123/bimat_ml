@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tl2Zn2Te5
+_chemical_formula_sum              "Tl2 Zn2 Te5"
+_cell_length_a       4.444622229872815
+_cell_length_b       4.4446214306930125
+_cell_length_c       42.49425
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000594801212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.9999997691960375  0.999999538392075  0.45348100893749144  1.0000
+  Tl  Tl2       1.0  0.6666657673273454  0.33333153465468246  0.6467596435487732  1.0000
+  Zn  Zn1       1.0  0.6666688366387287  0.33333767327744773  0.3509455319486888  1.0000
+  Zn  Zn2       1.0  0.3333324699289713  0.6666649398579302  0.5565475746157093  1.0000
+  Te  Te1       1.0  0.33333547238806455  0.6666709447761167  0.3340495848841466  1.0000
+  Te  Te2       1.0  0.6666668059045532  0.33333361180909804  0.4157683255310502  1.0000
+  Te  Te3       1.0  0.3333328507417644  0.6666657014835163  0.49603902979471604  1.0000
+  Te  Te4       1.0  0.6666657404526531  0.3333314809052979  0.5777466080847246  1.0000
+  Te  Te5       1.0  0.33333240109890055  0.6666648021977887  0.6799113682538317  1.0000

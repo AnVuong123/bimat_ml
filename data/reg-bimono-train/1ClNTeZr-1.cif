@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeClNZr
+_chemical_formula_sum              "Te1 Cl1 N1 Zr1"
+_cell_length_a       3.0976433887664823
+_cell_length_b       3.0976518971106795
+_cell_length_c       20.84473767239379
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00266602208254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.6310055359792089  0.8809081606225867  0.3610703275517184  1.0000
+  Cl  Cl1       1.0  0.6332970646386208  0.8831434728773827  0.6397928815740992  1.0000
+  N   N1        1.0  0.13272892884650664  0.38246133007833366  0.5134599565918063  1.0000
+  Zr  Zr1       1.0  0.6329069627413194  0.882538045068954  0.5253075851489217  1.0000

@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       HBi
+_chemical_formula_sum              "H1 Bi1"
+_cell_length_a       3.2899385021949907
+_cell_length_b       4.704002755204515
+_cell_length_c       15.01245827912956
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    134.32935089822925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.47007380617920563  0.24917405726095182  0.5002621684874582  1.0000
+  Bi  Bi1       1.0  0.5300219777964736  0.7507686764427809  0.4997305644068863  1.0000

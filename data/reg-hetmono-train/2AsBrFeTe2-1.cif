@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As2Fe2Te3Br2Te
+_chemical_formula_sum              "As2 Fe2 Te4 Br2"
+_cell_length_a       3.6635547946300373
+_cell_length_b       12.743735090748093
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  1.3679590741176961e-19  0.25708088841442434  0.445618377361046  1.0000
+  As  As2       1.0  0.9999999999999997  0.7570808884144007  0.5543816226389437  1.0000
+  Fe  Fe1       1.0  0.5000000000000274  0.5187368266696618  0.48974813303694664  1.0000
+  Fe  Fe2       1.0  0.5000000000000268  0.01873682666964308  0.5102518669630538  1.0000
+  Te  Te1       1.0  0.5000000000000262  0.3135783837874155  0.4971869950868246  1.0000
+  Te  Te2       1.0  0.5000000000000274  0.8135783837874205  0.5028130049131757  1.0000
+  Te  Te3       1.0  0.0  0.5509890061084757  0.5455064605077177  1.0000
+  Br  Br1       1.0  0.0  0.5610795121739189  0.44239560322872673  1.0000
+  Br  Br2       1.0  6.352513661800169e-18  0.061079512173903956  0.5576043967712864  1.0000
+  Te  Te4       1.0  0.0  0.050989006108475045  0.45449353949226584  1.0000

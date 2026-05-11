@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te4Al2
+_chemical_formula_sum              "Te4 Al2"
+_cell_length_a       4.075871700641068
+_cell_length_b       7.977450608893887
+_cell_length_c       34.19621939226259
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    104.80178099229418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.4473375313243728  0.08652940192252462  0.5890729835226215  1.0000
+  Te  Te2       1.0  0.2408765026778085  0.6569954635201877  0.481938968696939  1.0000
+  Te  Te3       1.0  0.577068161462965  0.3456184614028607  0.42945211416400114  1.0000
+  Te  Te4       1.0  0.7989900736347472  0.7737297416643993  0.5368776593733484  1.0000
+  Al  Al1       1.0  0.9672188848997719  0.1259671772880674  0.5408152777874699  1.0000
+  Al  Al2       1.0  0.05646402647736837  0.30470334186012576  0.4776614966918214  1.0000

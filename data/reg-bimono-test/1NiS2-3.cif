@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       NiS2
+_chemical_formula_sum              "Ni1 S2"
+_cell_length_a       2.9236906116966237
+_cell_length_b       2.9236908878402597
+_cell_length_c       18.238549057834387
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.0  0.0  0.4999999948921093  1.0000
+  S   S1        1.0  1.4963967023597055e-17  0.49999999999999994  0.5880481973673399  1.0000
+  S   S2        1.0  0.5  8.753292998869237e-19  0.4119517950611585  1.0000

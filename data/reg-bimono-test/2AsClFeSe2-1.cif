@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As2Fe2Se3Cl2Se
+_chemical_formula_sum              "As2 Fe2 Se4 Cl2"
+_cell_length_a       3.473207189765625
+_cell_length_b       11.852928877921121
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  3.4101033279172436e-19  0.25331168686613825  0.44769549264279  1.0000
+  As  As2       1.0  0.9999999999999997  0.7533116868661228  0.5523045073572039  1.0000
+  Fe  Fe1       1.0  0.5000000000000231  0.5219397390175498  0.48986995770551334  1.0000
+  Fe  Fe2       1.0  0.5000000000000195  0.02193973901754017  0.5101300422944871  1.0000
+  Se  Se1       1.0  0.5000000000000239  0.314108541457886  0.49453240202542287  1.0000
+  Se  Se2       1.0  0.5000000000000231  0.8141085414578897  0.5054675979745775  1.0000
+  Se  Se3       1.0  0.0  0.5527446560908696  0.5419384945819885  1.0000
+  Cl  Cl1       1.0  0.0  0.5591390204338166  0.4448269307361713  1.0000
+  Cl  Cl2       1.0  4.6444529985690326e-18  0.05913902043380447  0.5551730692638327  1.0000
+  Se  Se4       1.0  0.0  0.052744656090866544  0.4580615054180012  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mo2As2Te6
+_chemical_formula_sum              "Mo2 As2 Te6"
+_cell_length_a       6.922697756391858
+_cell_length_b       7.227684766876535
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    126.20924615158418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.9206457056782361  0.9414953377819133  0.5002143218255026  1.0000
+  Mo  Mo2       1.0  0.4126940971064587  0.7251847966312516  0.49979070763525724  1.0000
+  As  As1       1.0  0.6647965057607003  0.3300548913636016  0.43260915860650456  1.0000
+  As  As2       1.0  0.6685432646035209  0.3366251341882683  0.5673955514664173  1.0000
+  Te  Te1       1.0  0.24845953612034016  0.9195455367509845  0.40936555735212476  1.0000
+  Te  Te2       1.0  0.05296443016748009  0.32201633859872286  0.41668068359179883  1.0000
+  Te  Te3       1.0  0.6475638249624596  0.7283616166903536  0.3858819249770694  1.0000
+  Te  Te4       1.0  0.08487999132686808  0.74713425046025  0.5906395473802475  1.0000
+  Te  Te5       1.0  0.28037541006973166  0.34466363157485036  0.5833241376063241  1.0000
+  Te  Te6       1.0  0.6857760754031568  0.938318825219446  0.6141230839007212  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SPbCaBr2O
+_chemical_formula_sum              "S1 Pb1 Ca1 Br2 O1"
+_cell_length_a       3.890485952504724
+_cell_length_b       6.865725901915933
+_cell_length_c       20.577100821931058
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    85.56115492135109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7757671648269036  0.125878481493631  0.5334303191690253  1.0000
+  Pb  Pb1       1.0  0.27212271652261677  0.30320031039685325  0.4719963089454901  1.0000
+  Ca  Ca1       1.0  0.7001517534212338  0.7105657659530554  0.5512821816592751  1.0000
+  Br  Br1       1.0  0.8889691059156071  0.36876665359626787  0.3644828328783084  1.0000
+  Br  Br2       1.0  0.16471196859574802  0.9134238314398774  0.6355171671216916  1.0000
+  O   O1        1.0  0.21746981904980783  0.5795188320046377  0.5154374072268807  1.0000

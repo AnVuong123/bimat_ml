@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2Br6
+_chemical_formula_sum              "Cu2 Br6"
+_cell_length_a       6.810399178467274
+_cell_length_b       6.810399178467275
+_cell_length_c       18.265167231742282
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.6666666666666664  0.3333333333333338  0.49999755823449105  1.0000
+  Cu  Cu2       1.0  0.3333333333333347  0.6666666666666676  0.5000024814629183  1.0000
+  Br  Br1       1.0  0.4923201967672701  3.7690702261556633e-06  0.41149464496830784  1.0000
+  Br  Br2       1.0  0.5076835723029547  0.5076798032327325  0.41149464496830784  1.0000
+  Br  Br3       1.0  0.999996230929773  0.4923164276970398  0.41149464496830784  1.0000
+  Br  Br4       1.0  0.492316579954162  0.9999968605570934  0.5885053666650588  1.0000
+  Br  Br5       1.0  0.5076802806029361  0.5076834200458439  0.5885053666650588  1.0000
+  Br  Br6       1.0  3.139442903186431e-06  0.4923197193970669  0.5885053666650588  1.0000

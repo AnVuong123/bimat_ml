@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TaCrF6
+_chemical_formula_sum              "Ta1 Cr1 F6"
+_cell_length_a       5.7127932804707715
+_cell_length_b       5.712793280470772
+_cell_length_c       33.65169600000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  9.848383673815193e-18  0.4999999999999999  1.0000
+  Cr  Cr1       1.0  0.5  0.5  0.4999999999999999  1.0000
+  F   F1        1.0  0.7525701698899036  0.7525701698899037  0.4999999999999999  1.0000
+  F   F2        1.0  0.24742983011009617  0.7525701698899037  0.4999999999999999  1.0000
+  F   F3        1.0  0.24742983011009617  0.24742983011009623  0.4999999999999999  1.0000
+  F   F4        1.0  0.7525701698899036  0.24742983011009623  0.4999999999999999  1.0000
+  F   F5        1.0  1.9380780103206107e-18  3.850512446498835e-19  0.5565074988326156  1.0000
+  F   F6        1.0  1.2498826059037323e-18  1.469870941471779e-19  0.4434925011673838  1.0000

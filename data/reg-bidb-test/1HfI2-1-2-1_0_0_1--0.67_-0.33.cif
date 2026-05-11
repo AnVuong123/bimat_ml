@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfI2HfI2
+_chemical_formula_sum              "Hf2 I4"
+_cell_length_a       3.773155110209568
+_cell_length_b       3.773155110209568
+_cell_length_c       28.790741562116295
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.0  0.0  0.3281501231781936  1.0000
+  I   I1        1.0  0.666666668073169  0.333333333551578  0.39579983570115346  1.0000
+  I   I2        1.0  0.666666668073169  0.333333333551578  0.2605004106552337  1.0000
+  Hf  Hf2       1.0  0.33333333355157796  0.666666667103156  0.5874832724786792  1.0000
+  I   I3        1.0  0.0  0.0  0.655132984654305  1.0000
+  I   I4        1.0  0.0  0.0  0.5198335596083854  1.0000

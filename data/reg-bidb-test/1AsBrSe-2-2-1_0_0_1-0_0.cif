@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsSeBrAsSeBr
+_chemical_formula_sum              "As2 Se2 Br2"
+_cell_length_a       3.8160553504890102
+_cell_length_b       3.816055350489015
+_cell_length_c       28.726102607805508
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0  1.208731891100578e-38  0.34351748180829345  1.0000
+  Se  Se1       1.0  0.6666666676218054  0.333333332751249  0.3935143296093505  1.0000
+  Br  Br1       1.0  0.33333333275124905  0.666666665502498  0.28120871495477506  1.0000
+  As  As2       1.0  0.0  1.9868650293822053e-38  0.5646602663597164  1.0000
+  Se  Se2       1.0  0.6666666676218054  0.333333332751249  0.6146571141607734  1.0000
+  Br  Br2       1.0  0.33333333275124905  0.666666665502498  0.502351499506198  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       ClN2H2CoClN4H2
+_chemical_formula_sum              "Cl2 N6 H4 Co1"
+_cell_length_a       3.480818859941525
+_cell_length_b       6.778340811270844
+_cell_length_c       33.92925836
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5000000000000003  2.2699004522093634e-17  0.5546874430807283  1.0000
+  N   N1        1.0  0.0  0.6003420344906778  0.5329740952206712  1.0000
+  N   N2        1.0  6.003258016634501e-17  0.3996579655093231  0.5329740952206712  1.0000
+  H   H1        1.0  0.0  0.6784660377347355  0.5585948525995801  1.0000
+  H   H2        1.0  0.0  0.3215339622652647  0.5585948525995801  1.0000
+  Co  Co1       1.0  0.0  0.0  0.5  1.0000
+  Cl  Cl2       1.0  0.5000000000000003  0.0  0.44531255691927135  1.0000
+  N   N3        1.0  0.0  0.7077789134954947  0.5  1.0000
+  N   N4        1.0  0.0  0.2922210865045059  0.5  1.0000
+  N   N5        1.0  2.8954987267837673e-18  0.39965796550932303  0.4670259047793283  1.0000
+  N   N6        1.0  0.0  0.6003420344906778  0.4670259047793283  1.0000
+  H   H3        1.0  0.0  0.3215339622652647  0.44140514740041986  1.0000
+  H   H4        1.0  0.0  0.6784660377347355  0.44140514740041986  1.0000

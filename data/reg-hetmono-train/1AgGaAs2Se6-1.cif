@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Se6AgGaAs2
+_chemical_formula_sum              "Se6 Ag1 Ga1 As2"
+_cell_length_a       6.5563304769026
+_cell_length_b       6.556190574058321
+_cell_length_c       33.524452
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00069141076546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.0518858163795849  0.016049423289176197  0.4470901974707766  1.0000
+  Se  Se2       1.0  0.34963949858437293  0.7250250912877024  0.4470892385414392  1.0000
+  Se  Se3       1.0  0.6406717429378418  0.31379964761397877  0.44709028452102345  1.0000
+  Se  Se4       1.0  0.6406634261960233  0.016049343696658443  0.5529098156428283  1.0000
+  Se  Se5       1.0  0.34962783261872  0.31379967605798614  0.5529097020152428  1.0000
+  Se  Se6       1.0  0.051885522762763016  0.7250250066469283  0.5529107622486001  1.0000
+  Ag  Ag1       1.0  0.014073264427472764  0.3516475385113847  0.4999999975781027  1.0000
+  Ga  Ga1       1.0  0.3473954094337285  0.018290949209098975  0.49999999976161374  1.0000
+  As  As1       1.0  0.6807284006008265  0.6849566660834308  0.46293555416527976  1.0000
+  As  As2       1.0  0.6807282003176868  0.6849566045698905  0.5370644445188156  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeIZnBr
+_chemical_formula_sum              "Ge1 I1 Zn1 Br1"
+_cell_length_a       4.665230392843715
+_cell_length_b       5.017723363236128
+_cell_length_c       18.951659655250687
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.86618693490553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.27784250290408324  0.6487672927823199  0.5075597077432727  1.0000
+  I   I1        1.0  0.07991352156159781  0.2594177443417227  0.3957437045848422  1.0000
+  Zn  Zn1       1.0  0.8693777018964214  0.8305990557421092  0.5065905030974722  1.0000
+  Br  Br1       1.0  0.0796950004967436  0.2594371411391556  0.6042562954151578  1.0000

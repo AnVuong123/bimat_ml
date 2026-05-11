@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe4GeTe2
+_chemical_formula_sum              "Fe4 Ge1 Te2"
+_cell_length_a       3.9767970247670315
+_cell_length_b       3.976842995173935
+_cell_length_c       18.6901538
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99961761480357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  8.71939879251617e-06  1.743879758503234e-05  0.4654889447895113  1.0000
+  Fe  Fe2       1.0  0.33333170138130874  0.6666634027626172  0.5392740597024311  1.0000
+  Fe  Fe3       1.0  0.9999982364856346  0.9999964729712691  0.5994840875134294  1.0000
+  Fe  Fe4       1.0  0.3333320000284865  0.6666640000569726  0.40530948352879126  1.0000
+  Ge  Ge1       1.0  0.6666705130877602  0.333341026175524  0.5025029965171497  1.0000
+  Te  Te1       1.0  0.9999842693322265  0.9999685386644529  0.33111871088929523  1.0000
+  Te  Te2       1.0  0.3333412386710224  0.6666824773420444  0.6736385762586621  1.0000

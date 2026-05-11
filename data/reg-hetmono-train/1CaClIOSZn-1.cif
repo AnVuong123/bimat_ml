@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClOSZnICa
+_chemical_formula_sum              "Cl1 O1 S1 Zn1 I1 Ca1"
+_cell_length_a       3.9255265862759847
+_cell_length_b       4.0080199210943706
+_cell_length_c       22.08403404493092
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    120.47875647527924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5323245780313198  0.0627381747845297  0.33961212230447174  1.0000
+  O   O1        1.0  0.19269479267377132  0.3842829433844981  0.45078478648626974  1.0000
+  S   S1        1.0  0.18843324982296128  0.4933696450997739  0.5247596964627491  1.0000
+  Zn  Zn1       1.0  0.5455247061289162  0.23124580963081032  0.5765087606456948  1.0000
+  I   I1        1.0  0.08346537740716763  0.7325332261656801  0.6603892107708489  1.0000
+  Ca  Ca1       1.0  0.8611451492812152  0.7252729567189352  0.40741600781953025  1.0000

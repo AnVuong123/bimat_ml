@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TiClITiClI
+_chemical_formula_sum              "Ti2 Cl2 I2"
+_cell_length_a       3.5519673216310577
+_cell_length_b       3.551967321631058
+_cell_length_c       27.618930024528183
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  1.308162191390129e-18  1.1925842388169433e-36  0.33570295850584425  1.0000
+  Cl  Cl1       1.0  0.6666666656815278  0.3333333318222538  0.390155318125293  1.0000
+  I   I1        1.0  0.6666666656815278  0.3333333318222538  0.26754216703679967  1.0000
+  Ti  Ti2       1.0  0.6666666656815278  0.3333333318222538  0.5557362691591891  1.0000
+  Cl  Cl2       1.0  1.9533955271970045e-18  1.7808103102529706e-36  0.5012839095397402  1.0000
+  I   I2        1.0  2.4311925925999305e-18  2.216393339102781e-36  0.6238970606282337  1.0000

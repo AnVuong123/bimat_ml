@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BiBr3
+_chemical_formula_sum              "Bi1 Br3"
+_cell_length_a       4.208445718726827
+_cell_length_b       5.888666523530112
+_cell_length_c       19.01964415
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.37086946772851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8582875976160189  0.2409996237559293  0.5  1.0000
+  Br  Br1       1.0  0.35476561801630185  0.2640604509529205  0.6053831620891557  1.0000
+  Br  Br2       1.0  0.35476561801630185  0.2640604509529205  0.39461683791084445  1.0000
+  Br  Br3       1.0  0.8449151068282751  0.7838941167310463  0.5  1.0000

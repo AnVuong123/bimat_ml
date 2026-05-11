@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeSnCaBr
+_chemical_formula_sum              "Te1 Sn1 Ca1 Br1"
+_cell_length_a       4.538274288098672
+_cell_length_b       4.53640799110905
+_cell_length_c       18.231132535272753
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98881251803866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25000919567187513  0.7517100567180243  0.4113842069596798  1.0000
+  Sn  Sn1       1.0  0.24937370910748524  0.7515918484773622  0.5757776970097379  1.0000
+  Ca  Ca1       1.0  0.7497809610163998  0.2517330221717358  0.43706529076578693  1.0000
+  Br  Br1       1.0  0.749214203808255  0.2516194270910549  0.58861579304032  1.0000

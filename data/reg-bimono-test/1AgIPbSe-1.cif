@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ISePbAg
+_chemical_formula_sum              "I1 Se1 Pb1 Ag1"
+_cell_length_a       4.460417845968303
+_cell_length_b       4.463336355087528
+_cell_length_c       20.194256012102016
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99985994620071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8594649772949704  0.8374255189984641  0.37139273640511433  1.0000
+  Se  Se1       1.0  0.5293582464400989  0.17463176072097983  0.6286072635948856  1.0000
+  Pb  Pb1       1.0  0.19612714507832082  0.5080555057380728  0.5643449604798693  1.0000
+  Ag  Ag1       1.0  0.19189491966143005  0.5033017982197411  0.4218103172886181  1.0000

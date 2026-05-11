@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As2Fe2O3Br2O
+_chemical_formula_sum              "As2 Fe2 O4 Br2"
+_cell_length_a       3.2449325167942282
+_cell_length_b       7.587029880152727
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  7.878797750644801e-20  0.13773894550383065  0.44967047076544436  1.0000
+  As  As2       1.0  0.9999999999999993  0.6377389455038395  0.5503295292345467  1.0000
+  Fe  Fe1       1.0  0.5000000000000082  0.5441406669514743  0.4652578994178647  1.0000
+  Fe  Fe2       1.0  0.5000000000000077  0.04414066695144783  0.5347421005821357  1.0000
+  O   O1        1.0  0.5000000000000234  0.28275003587298714  0.45494208278097864  1.0000
+  O   O2        1.0  0.5000000000000079  0.7827500358729947  0.545057917219024  1.0000
+  O   O3        1.0  1.2591646634502279e-17  0.5631255934577818  0.5030330109062925  1.0000
+  Br  Br1       1.0  0.0  0.6733337310724979  0.41869904420120746  1.0000
+  Br  Br2       1.0  2.489893954373533e-17  0.17333373107246952  0.5813009557987974  1.0000
+  O   O4        1.0  0.0  0.06312559345776719  0.49696698909369164  1.0000

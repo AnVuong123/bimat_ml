@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CoSCoNiSBrSSe
+_chemical_formula_sum              "Co2 S3 Ni1 Br1 Se1"
+_cell_length_a       4.240959124915162
+_cell_length_b       4.23885958292089
+_cell_length_c       21.190281214375585
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    93.01563013862885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.20030701423962133  0.7348901762383648  0.5884525220364892  1.0000
+  S   S1        1.0  0.30021576167659125  0.7752391056634025  0.490304269818172  1.0000
+  Co  Co2       1.0  0.8193997362440043  0.6900632837417532  0.4616706174249303  1.0000
+  Ni  Ni1       1.0  0.7156317610449875  0.3282269885474569  0.5884024040537316  1.0000
+  S   S2        1.0  0.21636093473599735  0.2427157390707641  0.6221437257366873  1.0000
+  Br  Br1       1.0  0.8234777956054202  0.698841191729577  0.35394843979809404  1.0000
+  S   S3        1.0  0.7114061056056785  0.19361548135589818  0.4865689111841891  1.0000
+  Se  Se1       1.0  0.7041126085602805  0.7963936669626819  0.6460949642414215  1.0000

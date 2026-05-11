@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ReTeLiBr
+_chemical_formula_sum              "Re1 Te1 Li1 Br1"
+_cell_length_a       4.179001996277861
+_cell_length_b       4.18263389577505
+_cell_length_c       18.40804131609853
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.79949685256898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.8313624695542672  0.8275644914770772  0.45258688033431155  1.0000
+  Te  Te1       1.0  0.16500234376551076  0.493187174383451  0.4074306370358353  1.0000
+  Li  Li1       1.0  0.4964106450243743  0.16278388640727814  0.5476862478475873  1.0000
+  Br  Br1       1.0  0.8307331258389149  0.8286285195735874  0.5925693629641647  1.0000

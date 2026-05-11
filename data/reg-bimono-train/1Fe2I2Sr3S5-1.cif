@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2S4Sr2I2SrS
+_chemical_formula_sum              "Fe2 S5 Sr3 I2"
+_cell_length_a       4.586604350754863
+_cell_length_b       4.5866043507547785
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  1.0168778472875328e-19  0.0  0.4447590145586305  1.0000
+  Fe  Fe2       1.0  0.0  1.3810331375615216e-16  0.5552409854413696  1.0000
+  S   S1        1.0  0.0  0.4999999999999897  0.5644959222072857  1.0000
+  S   S2        1.0  0.49999999999999073  0.0  0.5644959222072857  1.0000
+  S   S3        1.0  0.0  0.4999999999999897  0.4355040777927143  1.0000
+  S   S4        1.0  0.49999999999999073  6.077656299187694e-18  0.4355040777927143  1.0000
+  Sr  Sr1       1.0  0.49999999999999073  0.4999999999999897  0.6131594321871926  1.0000
+  Sr  Sr2       1.0  0.49999999999999073  0.4999999999999897  0.3868405678128064  1.0000
+  I   I1        1.0  0.0  2.8758790438508553e-18  0.3501760732573606  1.0000
+  I   I2        1.0  0.0  0.0  0.6498239267426422  1.0000
+  Sr  Sr3       1.0  0.49999999999999073  0.4999999999999897  0.5  1.0000
+  S   S5        1.0  0.0  8.879783535014984e-19  0.5  1.0000

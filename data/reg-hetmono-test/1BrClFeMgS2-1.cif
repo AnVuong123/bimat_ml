@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeSMgSBrCl
+_chemical_formula_sum              "Fe1 S2 Mg1 Br1 Cl1"
+_cell_length_a       6.130021046344792
+_cell_length_b       3.659342909877327
+_cell_length_c       17.901047595928905
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.29621698771722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7075125198743732  0.6043148588961863  0.5180278098632257  1.0000
+  S   S1        1.0  0.5649898854215185  0.1005610885585099  0.5743953272976293  1.0000
+  Mg  Mg1       1.0  0.19335956887708494  0.056047983593927264  0.5026197926871321  1.0000
+  S   S2        1.0  0.006537253524713627  0.5588320926707185  0.5810339448969002  1.0000
+  Br  Br1       1.0  0.40207611753650746  0.546333058853849  0.41895874478896583  1.0000
+  Cl  Cl1       1.0  0.8797118626185938  0.9478067047204424  0.4206971211470692  1.0000

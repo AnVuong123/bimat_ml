@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SIrSIrSISI
+_chemical_formula_sum              "S4 Ir2 I2"
+_cell_length_a       4.528828219804837
+_cell_length_b       6.513353955029333
+_cell_length_c       20.91845915976133
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.34067414228194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.21995895582521327  0.02020385428370462  0.5314799696092194  1.0000
+  Ir  Ir1       1.0  0.7933242439316733  0.12762968922806636  0.5210694972099523  1.0000
+  S   S2        1.0  0.5999024430421792  0.7800707151247471  0.46854033843742093  1.0000
+  Ir  Ir2       1.0  0.06596346981870961  0.6726787398572535  0.47887150932807365  1.0000
+  S   S3        1.0  0.8753545279599243  0.3342369079338019  0.43112569253475075  1.0000
+  I   I1        1.0  0.07604168380828678  0.8644818199464489  0.35853501171955204  1.0000
+  S   S4        1.0  0.9409262352859337  0.4660827015816593  0.5687856773816855  1.0000
+  I   I2        1.0  0.6123891726990562  0.9358495299912414  0.6414649882804477  1.0000

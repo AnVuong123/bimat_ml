@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2Rh2
+_chemical_formula_sum              "Cl2 Rh2"
+_cell_length_a       3.4222189990282086
+_cell_length_b       3.4247450945248565
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97560331475881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9998283055352943  0.0006765537530361104  0.37430930167269955  1.0000
+  Cl  Cl2       1.0  0.3335050385470448  0.6659896197100115  0.6257623510521229  1.0000
+  Rh  Rh1       1.0  7.946143672724751e-05  0.00028634347670094087  0.543373595288207  1.0000
+  Rh  Rh2       1.0  0.3332513703923343  0.6663807901727681  0.4566988144222422  1.0000

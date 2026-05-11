@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuAgCl3O
+_chemical_formula_sum              "Cu1 Ag1 Cl3 O1"
+_cell_length_a       3.5581870895249628
+_cell_length_b       5.888358575934776
+_cell_length_c       18.84020831362078
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    101.14552837752282
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7224894269861506  0.7048635012366484  0.45874907885836114  1.0000
+  Ag  Ag1       1.0  0.05831635419826167  0.27548848616914245  0.5013096471915192  1.0000
+  Cl  Cl1       1.0  0.7595837182007618  0.09076429645886734  0.3980316317680985  1.0000
+  Cl  Cl2       1.0  0.39286333438772447  0.4252316199578753  0.6018804295107555  1.0000
+  Cl  Cl3       1.0  0.8733750886764419  0.9218893902300227  0.5614262160958587  1.0000
+  O   O1        1.0  0.18645055666302043  0.5900808064448887  0.4493165314184322  1.0000

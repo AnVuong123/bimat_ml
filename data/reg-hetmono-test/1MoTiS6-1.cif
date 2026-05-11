@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiS3MoS3
+_chemical_formula_sum              "Ti1 S6 Mo1"
+_cell_length_a       4.33553027822928
+_cell_length_b       5.661973302717194
+_cell_length_c       18.902446808005937
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    98.81649107266304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7402977831217531  0.7983740933281029  0.49584712165324485  1.0000
+  S   S1        1.0  0.811191894647755  0.07860438185365932  0.6032259698345798  1.0000
+  S   S2        1.0  0.461054487495996  0.6272583383878956  0.3967740301654203  1.0000
+  S   S3        1.0  0.15268891761073816  0.766013115439718  0.5833903060708553  1.0000
+  Mo  Mo1       1.0  0.3234479685520671  0.12610105137632735  0.5232555469415338  1.0000
+  S   S4        1.0  0.19913832153837097  0.900009198360004  0.4154303221708644  1.0000
+  S   S5        1.0  0.8432931479979033  0.22775386981512133  0.4601995429103014  1.0000
+  S   S6        1.0  0.4806716136524778  0.5080823326239507  0.5832269352483171  1.0000

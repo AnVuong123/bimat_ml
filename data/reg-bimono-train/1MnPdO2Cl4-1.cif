@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OPdMnOCl4
+_chemical_formula_sum              "O2 Pd1 Mn1 Cl4"
+_cell_length_a       5.092430823969624
+_cell_length_b       5.092302618516271
+_cell_length_c       18.258792749368727
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.27015738000047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.6088038318167011  0.3916323609820491  0.4999284090610736  1.0000
+  Pd  Pd1       1.0  0.8832225462160607  0.1172178780345356  0.49998265228881017  1.0000
+  Mn  Mn1       1.0  0.38320426866896506  0.6171979716771381  0.5000105390739764  1.0000
+  O   O2        1.0  0.1576418990347285  0.8428013898489911  0.5000664228752341  1.0000
+  Cl  Cl1       1.0  0.14172429013562388  0.3753748729598537  0.5893326118553076  1.0000
+  Cl  Cl2       1.0  0.6247659489946148  0.8591388776187252  0.41064219768589727  1.0000
+  Cl  Cl3       1.0  0.14138309791790324  0.3757050781100037  0.4106274055986407  1.0000
+  Cl  Cl4       1.0  0.6250610164441543  0.8586836216382198  0.589350659410523  1.0000

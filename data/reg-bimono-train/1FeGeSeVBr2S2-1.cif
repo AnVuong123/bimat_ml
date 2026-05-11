@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VBrSeSFeSGeBr
+_chemical_formula_sum              "V1 Br2 Se1 S2 Fe1 Ge1"
+_cell_length_a       4.066220616533139
+_cell_length_b       4.866907134163032
+_cell_length_c       22.311006278274384
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00157373289743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.24372532508234585  0.7481988185388675  0.48815804239491684  1.0000
+  Br  Br1       1.0  0.7540496680922091  0.2502001994064585  0.33618404516828304  1.0000
+  Se  Se1       1.0  0.25663391647410233  0.7500227033765653  0.38627182922291586  1.0000
+  S   S1        1.0  0.2413381303508026  0.24873960417801375  0.5051539996432057  1.0000
+  Fe  Fe1       1.0  0.25340004052533127  0.2502213420502704  0.40456368912706836  1.0000
+  S   S2        1.0  0.7420807477900307  0.748536069319441  0.5417087182427001  1.0000
+  Ge  Ge1       1.0  0.7361894825363876  0.2491351667587043  0.5837278722477854  1.0000
+  Br  Br2       1.0  0.24223807235904432  0.24938758722869833  0.6638377077732966  1.0000

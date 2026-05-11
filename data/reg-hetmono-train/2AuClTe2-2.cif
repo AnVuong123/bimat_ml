@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2Te4Au2
+_chemical_formula_sum              "Cl2 Te4 Au2"
+_cell_length_a       5.639873091350163
+_cell_length_b       8.575756653800154
+_cell_length_c       18.169744886120114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99799646771639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.0016337587359274612  0.9962230521027831  0.4173835086267133  1.0000
+  Cl  Cl2       1.0  0.5016322486206187  0.9965912028413748  0.5826166329755885  1.0000
+  Te  Te1       1.0  0.5921276449442011  0.6423604515671257  0.43683491908394884  1.0000
+  Te  Te2       1.0  0.09212643488244038  0.35045313620370117  0.5631639862075691  1.0000
+  Te  Te3       1.0  0.9117169806947113  0.6421880151076722  0.5632058822094032  1.0000
+  Te  Te4       1.0  0.41171542670584793  0.3506238307055942  0.43679295753049324  1.0000
+  Au  Au1       1.0  0.7519156291820273  0.18293751042032338  0.49990743130156345  1.0000
+  Au  Au2       1.0  0.25191936549271177  0.8098753331844338  0.500091534030373  1.0000

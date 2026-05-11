@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       FBiF2In
+_chemical_formula_sum              "F3 Bi1 In1"
+_cell_length_a       4.387140234635253
+_cell_length_b       4.060485860509602
+_cell_length_c       18.734955216749185
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.20750967374734
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.18503519477036523  0.8899910013595043  0.5213598826816647  1.0000
+  Bi  Bi1       1.0  0.6550365666301838  0.6864129537839962  0.5490983148155775  1.0000
+  F   F2        1.0  0.8130767658679927  0.2683616864594919  0.5996787868862934  1.0000
+  F   F3        1.0  0.7786770307146926  0.11240745318339919  0.45134791357612847  1.0000
+  In  In1       1.0  0.32947995330159574  0.2930609602696881  0.4003212131137066  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2O2C4
+_chemical_formula_sum              "K2 O2 C4"
+_cell_length_a       3.982728765002921
+_cell_length_b       6.224528951701319
+_cell_length_c       34.3578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.0  0.04302765144410204  0.5426534288814412  1.0000
+  K   K2        1.0  0.4999999999999875  0.5430276514441034  0.45734657111854843  1.0000
+  O   O1        1.0  1.764439208796703e-16  0.8304255870084545  0.43172199356232654  1.0000
+  O   O2        1.0  0.4999999999999917  0.3304255870084552  0.5682780064376778  1.0000
+  C   C1        1.0  0.0  0.012183129145350982  0.44492976955483604  1.0000
+  C   C2        1.0  0.49999999999998856  0.512183129145337  0.5550702304451633  1.0000
+  C   C3        1.0  0.0  0.2046246195507189  0.45986806434172434  1.0000
+  C   C4        1.0  0.4999999999999917  0.7046246195507322  0.5401319356582734  1.0000

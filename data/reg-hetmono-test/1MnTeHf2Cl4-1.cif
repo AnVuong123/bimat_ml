@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeClHfCl3MnHf
+_chemical_formula_sum              "Te1 Cl4 Hf2 Mn1"
+_cell_length_a       5.897037597253232
+_cell_length_b       5.895831322749257
+_cell_length_c       18.705873054887757
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.67058593439309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8383389386026593  0.169793803723081  0.5990564044782564  1.0000
+  Cl  Cl1       1.0  0.5013797402018944  0.5037735291241462  0.40094359552174363  1.0000
+  Hf  Hf1       1.0  0.5106332156933431  0.16902673459912054  0.4900886995871421  1.0000
+  Cl  Cl2       1.0  0.5008415742471639  0.5039104858135893  0.573730124100944  1.0000
+  Cl  Cl3       1.0  0.17233320264876836  0.8324053856816714  0.4010164009951912  1.0000
+  Cl  Cl4       1.0  0.17250741357385385  0.8324378733951898  0.5737813081300324  1.0000
+  Mn  Mn1       1.0  0.12127589909596843  0.4530677823555689  0.49212271441281047  1.0000
+  Hf  Hf2       1.0  0.8376276087244392  0.8420110829379177  0.4900915932047717  1.0000

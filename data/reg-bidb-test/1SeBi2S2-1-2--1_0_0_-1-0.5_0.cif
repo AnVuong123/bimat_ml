@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BiSBiSSeBiSBiSSe
+_chemical_formula_sum              "Bi4 S4 Se2"
+_cell_length_a       4.102310577220815
+_cell_length_b       4.102310577220814
+_cell_length_c       34.9627832413706
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99340815945078
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.33890341195233525  0.876367770262101  0.3739431863802463  1.0000
+  S   S1        1.0  0.3388272804702785  0.8762891086717701  0.21970340024048024  1.0000
+  Bi  Bi2       1.0  0.005325080152718541  0.20972724055118505  0.259956537706227  1.0000
+  S   S2        1.0  0.005901674221425009  0.20983741406241715  0.4141901755940501  1.0000
+  Se  Se1       1.0  0.6726892462720475  0.5430795464666234  0.3169488628378886  1.0000
+  Bi  Bi3       1.0  0.161096588833777  0.12363223125837679  0.6668791545866065  1.0000
+  S   S3        1.0  0.16117272031583396  0.12371089284870791  0.5126393684468403  1.0000
+  Bi  Bi4       1.0  0.49467492063339386  0.7902727609692929  0.5528925056265688  1.0000
+  S   S4        1.0  0.4940983265646871  0.7901625874580605  0.7071261435143918  1.0000
+  Se  Se2       1.0  0.8273107527538823  0.45692045505385454  0.6098848310442487  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClMnWCl3
+_chemical_formula_sum              "Cl4 Mn1 W1"
+_cell_length_a       5.588081560864781
+_cell_length_b       3.812650789120144
+_cell_length_c       19.04702517955877
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    93.01984991215912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.11015171874652116  0.4967905626825958  0.5839098858285732  1.0000
+  Mn  Mn1       1.0  0.08483195788929726  0.7956082403223987  0.4838580662135863  1.0000
+  W   W1        1.0  0.8314200362274434  0.19165979348111442  0.5063898190578353  1.0000
+  Cl  Cl2       1.0  0.919823360151044  0.49139022507996266  0.39376227674907394  1.0000
+  Cl  Cl3       1.0  0.6322988577972156  0.9934977788187204  0.6062377232509262  1.0000
+  Cl  Cl4       1.0  0.45645318600475915  0.03113382777990938  0.4417407646724458  1.0000

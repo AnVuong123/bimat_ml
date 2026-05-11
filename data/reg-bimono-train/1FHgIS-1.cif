@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HgSFI
+_chemical_formula_sum              "Hg1 S1 F1 I1"
+_cell_length_a       4.341200536967164
+_cell_length_b       4.34111951243292
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99659812503369
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3332870172569549  0.6666416949413191  0.48970784594796946  1.0000
+  S   S1        1.0  0.6666370083886566  0.3332958500702234  0.5243020796581205  1.0000
+  F   F1        1.0  0.6665957343906025  0.33330909311373996  0.5735936166404034  1.0000
+  I   I1        1.0  0.9999828109986162  0.9999505626706778  0.43497430874664417  1.0000

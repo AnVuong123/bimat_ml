@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdSIAuIO
+_chemical_formula_sum              "Cd1 S1 I2 Au1 O1"
+_cell_length_a       4.401931465305892
+_cell_length_b       4.305630984995416
+_cell_length_c       22.30835139733923
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.95089566154026
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5673181642434187  0.7513043256491893  0.5806166409517663  1.0000
+  S   S1        1.0  0.7345302108600893  0.7508906899135392  0.46907851755972363  1.0000
+  I   I1        1.0  0.07986933950876107  0.7535177977720261  0.6638030365213566  1.0000
+  Au  Au1       1.0  0.5571108582467109  0.251071158610532  0.45330163602492657  1.0000
+  I   I2        1.0  0.5219486866867002  0.24954532200764878  0.33619696347864336  1.0000
+  O   O1        1.0  0.5354959756683292  0.25137175441210863  0.5460269997602976  1.0000

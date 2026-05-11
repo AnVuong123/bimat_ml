@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuSe2CaICaI
+_chemical_formula_sum              "Au1 Se2 Ca2 I2"
+_cell_length_a       5.052719866314377
+_cell_length_b       5.052719866314419
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    84.8320603702996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9541413749280429  0.9541413749280591  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.45654238426640975  0.9313318156643364  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.9313318156643217  0.45654238426641086  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.4176229972907945  0.4176229972907963  0.4105030879600732  1.0000
+  I   I1        1.0  0.07063555079583943  0.07063555079584057  0.33268843589432856  1.0000
+  Ca  Ca2       1.0  0.4176229972987527  0.41762299729874874  0.589496912021028  1.0000
+  I   I2        1.0  0.07063555081489448  0.07063555081489552  0.6673115640979934  1.0000

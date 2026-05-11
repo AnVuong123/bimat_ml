@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SGeBrMnBrS
+_chemical_formula_sum              "S2 Ge1 Br2 Mn1"
+_cell_length_a       3.5618593033237196
+_cell_length_b       4.959652222809782
+_cell_length_c       20.824431162570914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98566667449663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7496808361423201  0.7536180835440838  0.5208808729556147  1.0000
+  Ge  Ge1       1.0  0.7497763149282313  0.25304311980422844  0.5449900711589849  1.0000
+  Br  Br1       1.0  0.2502208670221325  0.25039131071002446  0.6399547117213885  1.0000
+  Mn  Mn1       1.0  0.24958142752448778  0.753793464271265  0.4469588540337902  1.0000
+  Br  Br2       1.0  0.7494261720802995  0.7539270249361524  0.3601405980252598  1.0000
+  S   S2        1.0  0.24977737517240406  0.25387016393167683  0.4597962461022019  1.0000

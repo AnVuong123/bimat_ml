@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OsTe2Os
+_chemical_formula_sum              "Os2 Te2"
+_cell_length_a       4.1176606138704335
+_cell_length_b       4.1176606138704335
+_cell_length_c       19.22824253460864
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Os  Os1       1.0  0.33337798780390526  0.6667517652743484  0.5598829734921577  1.0000
+  Te  Te1       1.0  0.66670017629256  0.3333497094054999  0.3900512481315365  1.0000
+  Te  Te2       1.0  0.9999906812819372  3.200845502905035e-05  0.6099487518684634  1.0000
+  Os  Os2       1.0  0.3333854359834931  0.6667750900047467  0.44011701097329553  1.0000

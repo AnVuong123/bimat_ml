@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrNiBr6
+_chemical_formula_sum              "Zr1 Ni1 Br6"
+_cell_length_a       6.640672119367213
+_cell_length_b       6.663319024076739
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.88763404977516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9687173411429341  0.9373552347001611  0.5000025656258122  1.0000
+  Ni  Ni1       1.0  0.30185706178459365  0.603630190759891  0.5000039226613545  1.0000
+  Br  Br1       1.0  0.27812557070775656  0.9046399818705841  0.5848565280231981  1.0000
+  Br  Br2       1.0  0.6275891291067794  0.6285298142315491  0.5849014436223859  1.0000
+  Br  Br3       1.0  0.9991093615116478  0.27822769010346166  0.5843360446696311  1.0000
+  Br  Br4       1.0  0.2791917777915156  0.2782241646560951  0.4156740301594832  1.0000
+  Br  Br5       1.0  0.0010194462723253205  0.6285305959728177  0.41510935099807594  1.0000
+  Br  Br6       1.0  0.6265960918436593  0.9046406608470742  0.41515607982955466  1.0000

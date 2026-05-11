@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SNi2NbTeTaBrI
+_chemical_formula_sum              "S1 Ni2 Nb1 Te1 Ta1 Br1 I1"
+_cell_length_a       3.5253324013747194
+_cell_length_b       6.046214975093281
+_cell_length_c       20.94999202985855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99923140093175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.2535588743950339  0.36996182661309884  0.45090612904283345  1.0000
+  Ni  Ni1       1.0  0.25336563965048414  0.7457705412302015  0.42939259121853024  1.0000
+  Ni  Ni2       1.0  0.2539008650933023  0.2864566133392996  0.5535346591751952  1.0000
+  Nb  Nb1       1.0  0.753562650860553  0.047567395037513525  0.47688395268001976  1.0000
+  Te  Te1       1.0  0.2537005670018183  0.8893004495427526  0.5838805298556251  1.0000
+  Ta  Ta1       1.0  0.7536583992335246  0.610530177797021  0.5157457249539825  1.0000
+  Br  Br1       1.0  0.7530184887825448  0.8935956568432872  0.35799871957414003  1.0000
+  I   I1        1.0  0.7538787213026481  0.40504379075343766  0.6419943797725854  1.0000

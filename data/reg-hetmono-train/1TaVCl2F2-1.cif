@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClF2TaClV
+_chemical_formula_sum              "Cl2 F2 Ta1 V1"
+_cell_length_a       4.830504598935779
+_cell_length_b       5.3637932400945445
+_cell_length_c       19.05610935246445
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    123.71214328554429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7475957998216826  0.8698129159304363  0.606425432323096  1.0000
+  F   F1        1.0  0.2563872747557528  0.37766913342203345  0.5004272474887994  1.0000
+  F   F2        1.0  0.23929977360467428  0.8690192453430725  0.5003965651572063  1.0000
+  Ta  Ta1       1.0  0.7478924239106269  0.6084809674218712  0.5019188224403717  1.0000
+  Cl  Cl2       1.0  0.7472353044034171  0.3714699377186416  0.39357456767690385  1.0000
+  V   V1        1.0  0.7478288023190659  0.13979624344868338  0.5024900719833011  1.0000

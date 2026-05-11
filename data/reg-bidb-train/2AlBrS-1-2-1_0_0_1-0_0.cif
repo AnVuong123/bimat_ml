@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2S2Br2Al2S2Br2
+_chemical_formula_sum              "Al4 S4 Br4"
+_cell_length_a       4.89042299386976
+_cell_length_b       3.518179717155007
+_cell_length_c       32.92272046680346
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5000000006267598  3.665606325282578e-19  0.29437191376004695  1.0000
+  Al  Al2       1.0  0.0  0.5000000004043275  0.35386751656040016  1.0000
+  S   S1        1.0  0.5000000006267598  0.5000000004043275  0.3439269270416818  1.0000
+  S   S2        1.0  0.0  0.0  0.30431250206379884  1.0000
+  Br  Br1       1.0  0.5000000006267598  0.5000000004043275  0.23936192052980515  1.0000
+  Br  Br2       1.0  0.0  0.0  0.408877514346766  1.0000
+  Al  Al3       1.0  0.5000000006267598  3.665606325282578e-19  0.5391273563767965  1.0000
+  Al  Al4       1.0  0.0  0.5000000004043275  0.5986229591771498  1.0000
+  S   S3        1.0  0.5000000006267598  0.5000000004043275  0.5886823699621729  1.0000
+  S   S4        1.0  0.0  0.0  0.54906794498429  1.0000
+  Br  Br3       1.0  0.5000000006267598  0.5000000004043275  0.48411736345029627  1.0000
+  Br  Br4       1.0  0.0  0.0  0.6536329569635155  1.0000

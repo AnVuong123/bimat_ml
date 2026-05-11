@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnOMnO
+_chemical_formula_sum              "Mn2 O2"
+_cell_length_a       3.314705022176488
+_cell_length_b       3.314757225423643
+_cell_length_c       17.35943304
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0  0.0007590511270267627  0.5002684538829385  1.0000
+  O   O1        1.0  0.9999999999999991  0.5008487207233367  0.5664264574805208  1.0000
+  Mn  Mn2       1.0  0.5000000011225109  0.5007609883674086  0.500267121520089  1.0000
+  O   O2        1.0  2.4965631806657003e-16  0.5008510182297328  0.43410907177310054  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rh2O4
+_chemical_formula_sum              "Rh2 O4"
+_cell_length_a       5.233273488480712
+_cell_length_b       5.2297069943224646
+_cell_length_c       16.34738902155145
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98981607979563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.5000000022427776  6.004416714877114e-10  0.5000000008435259  1.0000
+  Rh  Rh2       1.0  0.9999999981722053  0.5000000006706011  0.5000000019948283  1.0000
+  O   O1        1.0  0.25104737802078725  0.25112226662362336  0.5000207286113698  1.0000
+  O   O2        1.0  0.7509419057531226  0.2489389358864322  0.5000332228164636  1.0000
+  O   O3        1.0  0.7489526229839183  0.7488777333703522  0.4999792751004148  1.0000
+  O   O4        1.0  0.2490580930276823  0.7510610640684983  0.4999667805063426  1.0000

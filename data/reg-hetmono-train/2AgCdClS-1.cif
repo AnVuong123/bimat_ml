@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2S2Ag2Cl2
+_chemical_formula_sum              "Cd2 S2 Ag2 Cl2"
+_cell_length_a       4.449680821304282
+_cell_length_b       6.86850550640925
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5000000000000001  0.11749439449304644  0.5236551935320953  1.0000
+  Cd  Cd2       1.0  0.5  0.6174943944930519  0.47634480646790484  1.0000
+  S   S1        1.0  0.5000000000000001  0.2591693366368978  0.46507378898846136  1.0000
+  S   S2        1.0  0.5000000000000001  0.7591693366368759  0.5349262110115315  1.0000
+  Ag  Ag1       1.0  0.0  0.13605732736623213  0.4542332420968848  1.0000
+  Ag  Ag2       1.0  0.0  0.6360573273661785  0.5457667579031151  1.0000
+  Cl  Cl1       1.0  2.6906987674943282e-17  0.24382641327626775  0.554054591099903  1.0000
+  Cl  Cl2       1.0  4.9741273083939076e-17  0.7438264132762598  0.44594540890009754  1.0000

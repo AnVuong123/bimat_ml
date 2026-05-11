@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FYCuF4VF
+_chemical_formula_sum              "F6 Y1 Cu1 V1"
+_cell_length_a       5.919577818208604
+_cell_length_b       5.922193050962706
+_cell_length_c       17.282611278896596
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.34188008377161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4905048938272718  0.811092971264712  0.45101907916785394  1.0000
+  Y   Y1        1.0  0.4970723489280537  0.1689561914930817  0.49980382485724784  1.0000
+  Cu  Cu1       1.0  0.17064635599478462  0.49507506428749654  0.5000142227984825  1.0000
+  F   F2        1.0  0.15118770525660563  0.8709771000993215  0.5646459440378151  1.0000
+  F   F3        1.0  0.16094774730825956  0.11881198464222548  0.4339621992862893  1.0000
+  F   F4        1.0  0.8545640010145451  0.1750377405421963  0.5489783046505058  1.0000
+  F   F5        1.0  0.5479035412966518  0.5041959946031822  0.5660378007137105  1.0000
+  V   V1        1.0  0.8347004235205443  0.8308917984200271  0.4999435079867787  1.0000
+  F   F6        1.0  0.7941133906800194  0.5148200733982382  0.43492126465541153  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2OsCuClSNiBr
+_chemical_formula_sum              "S3 Os1 Cu1 Cl1 Ni1 Br1"
+_cell_length_a       5.948342199460892
+_cell_length_b       6.065614833786722
+_cell_length_c       18.20708003436502
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    117.21561793681272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6522805663701737  0.8012774551581809  0.54698139930382  1.0000
+  S   S2        1.0  0.19775141976584015  0.753605273671741  0.414872233879901  1.0000
+  Os  Os1       1.0  0.30957829933445624  0.5232711856142337  0.4834332229335791  1.0000
+  Cu  Cu1       1.0  0.07104164945770274  0.9013854382396215  0.5093292956129282  1.0000
+  Cl  Cl1       1.0  0.29483197402348  0.24282579318904285  0.5880723330789948  1.0000
+  S   S3        1.0  0.9708652090884535  0.16317803228589708  0.4388997013950838  1.0000
+  Ni  Ni1       1.0  0.5642347552726453  0.007106042313024349  0.46363735698524405  1.0000
+  Br  Br1       1.0  0.5688058774233753  0.3739444787890608  0.4119276669210053  1.0000

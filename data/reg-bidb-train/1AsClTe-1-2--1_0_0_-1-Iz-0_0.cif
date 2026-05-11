@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsTeClAsTeCl
+_chemical_formula_sum              "As2 Te2 Cl2"
+_cell_length_a       3.9295479805540583
+_cell_length_b       3.929547980554058
+_cell_length_c       28.65089883616576
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  7.570631177107452e-19  1.9927223959650685e-37  0.3392731727400443  1.0000
+  Te  Te1       1.0  0.6666666662753975  0.33333333269179316  0.3958054700079913  1.0000
+  Cl  Cl1       1.0  0.33333333269179316  0.6666666653835863  0.2858299035164211  1.0000
+  As  As2       1.0  1.2781393644309872e-18  3.3642861170781835e-37  0.5727902829102383  1.0000
+  Te  Te2       1.0  0.33333333269179316  0.6666666653835863  0.5162579859913204  1.0000
+  Cl  Cl2       1.0  0.6666666662753975  0.33333333269179316  0.6262335524828907  1.0000

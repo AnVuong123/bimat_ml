@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaAgTe6Sb2
+_chemical_formula_sum              "Ga1 Ag1 Te6 Sb2"
+_cell_length_a       7.230158973715909
+_cell_length_b       7.230158973715943
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9979816584756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999962701879245  3.729812075415673e-06  0.5  1.0000
+  Ag  Ag1       1.0  0.6666825235929537  0.3333174764070457  0.5  1.0000
+  Te  Te1       1.0  0.7292239555763718  0.6998334949325484  0.5570234002847201  1.0000
+  Te  Te2       1.0  0.9705849693673851  0.27076243163708574  0.5570234044295034  1.0000
+  Te  Te3       1.0  0.3001921865264575  0.02943380074207691  0.5570205403219132  1.0000
+  Te  Te4       1.0  0.3001665050674506  0.2707760444236333  0.44297659971528064  1.0000
+  Te  Te5       1.0  0.97056619925791  0.6998078134735338  0.4429794596780855  1.0000
+  Te  Te6       1.0  0.7292375683629148  0.029415030632605088  0.44297659557049535  1.0000
+  Sb  Sb1       1.0  0.3333229231235358  0.6666731676186195  0.5427012801716241  1.0000
+  Sb  Sb2       1.0  0.33332683238137584  0.6666770768764593  0.4572987198283782  1.0000

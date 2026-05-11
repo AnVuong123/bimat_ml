@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HgBrSGeSBr
+_chemical_formula_sum              "Hg1 Br2 S2 Ge1"
+_cell_length_a       4.184618728714575
+_cell_length_b       4.1642891508202196
+_cell_length_c       22.477537172299158
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    97.26831105678235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.0404567016262719  0.9436826709409321  0.4051762493110756  1.0000
+  Br  Br1       1.0  0.7384241323930606  0.26312472362374445  0.3336664485307955  1.0000
+  S   S1        1.0  0.308321510217359  0.6927364470636193  0.5512058812546158  1.0000
+  Ge  Ge1       1.0  0.9085794279818087  0.09955101334421713  0.5614459102385705  1.0000
+  S   S2        1.0  0.3819128597111091  0.6132160138557434  0.46104501583573854  1.0000
+  Br  Br2       1.0  0.9365702286417443  0.07031719724418084  0.6663335514692045  1.0000

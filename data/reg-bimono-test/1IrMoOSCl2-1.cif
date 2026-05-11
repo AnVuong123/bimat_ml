@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OIrClSMoCl
+_chemical_formula_sum              "O1 Ir1 Cl2 S1 Mo1"
+_cell_length_a       5.584640848279602
+_cell_length_b       4.804173440958957
+_cell_length_c       19.583918302616528
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    126.87415221288916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.04513340441161979  0.10302937086229864  0.4758931494216312  1.0000
+  Ir  Ir1       1.0  0.4182960399720323  0.32078126369848686  0.529851179616702  1.0000
+  Cl  Cl1       1.0  0.7797212182523042  0.6019180198975349  0.6171041335564386  1.0000
+  S   S1        1.0  0.3593754788949727  0.7652220440741916  0.5465681682286813  1.0000
+  Mo  Mo1       1.0  0.9483269631547284  0.6797990938905113  0.49138401112718433  1.0000
+  Cl  Cl2       1.0  0.9491606992887712  0.523105242423733  0.3829540908207243  1.0000

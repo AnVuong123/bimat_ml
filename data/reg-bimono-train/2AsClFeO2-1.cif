@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As2Fe2O3Cl2O
+_chemical_formula_sum              "As2 Fe2 O4 Cl2"
+_cell_length_a       3.1081720473421455
+_cell_length_b       7.5722285850731215
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0  0.13065124006703213  0.447835353578334  1.0000
+  As  As2       1.0  0.9999999999999992  0.6306512400670135  0.5521646464216358  1.0000
+  Fe  Fe1       1.0  0.5000000000000239  0.5474666970028242  0.46506174595122807  1.0000
+  Fe  Fe2       1.0  0.5000000000000303  0.0474666970028041  0.5349382540487724  1.0000
+  O   O1        1.0  0.5000000000000346  0.28628404101400434  0.4525200080156861  1.0000
+  O   O2        1.0  0.5000000000000244  0.7862840410139927  0.5474799919843142  1.0000
+  O   O3        1.0  0.0  0.5595841601383854  0.5047082403350236  1.0000
+  Cl  Cl1       1.0  0.0  0.6772203426747061  0.4233567678213669  1.0000
+  Cl  Cl2       1.0  1.843647559920683e-17  0.17722034267469694  0.5766432321786431  1.0000
+  O   O4        1.0  0.0  0.05958416013839461  0.49529175966496336  1.0000

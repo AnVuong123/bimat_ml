@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu3PO4
+_chemical_formula_sum              "Cu3 P1 O4"
+_cell_length_a       6.18769225060831
+_cell_length_b       6.18798813606851
+_cell_length_c       32.07342719999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00107375377377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9958782877894863  0.581116007633241  0.528325223712471  1.0000
+  Cu  Cu2       1.0  0.9958706248338156  0.9911619538881881  0.5283254450807684  1.0000
+  Cu  Cu3       1.0  0.585822354225375  0.5811065514524029  0.5283223031714187  1.0000
+  P   P1        1.0  0.5258423546633467  0.051118837932839244  0.5105186155708606  1.0000
+  O   O1        1.0  0.2577733573742169  0.9171534547436254  0.5332611071397427  1.0000
+  O   O2        1.0  0.6599677713505384  0.3192136456593594  0.5332540682200709  1.0000
+  O   O3        1.0  0.6598348313340372  0.9170180837055527  0.5332552589037651  1.0000
+  O   O4        1.0  0.5258065734889339  0.05109428527733234  0.46443091459288166  1.0000

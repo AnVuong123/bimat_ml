@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrMnSbTe
+_chemical_formula_sum              "Br1 Mn1 Sb1 Te1"
+_cell_length_a       4.425074606940474
+_cell_length_b       4.427591791904811
+_cell_length_c       18.868310072939572
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.75459595833433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.5343904226176447  0.4684891701259817  0.3974918777043155  1.0000
+  Mn  Mn1       1.0  0.4960852312978732  0.5082231540480555  0.5347442264665396  1.0000
+  Sb  Sb1       1.0  0.8413567967409515  0.16246860104753316  0.49544840077031754  1.0000
+  Te  Te1       1.0  0.14509287211962887  0.8593465153234915  0.6025081222956845  1.0000

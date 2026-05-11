@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnBr2AgClBrClBr
+_chemical_formula_sum              "Mn1 Br4 Ag1 Cl2"
+_cell_length_a       7.032323962299021
+_cell_length_b       6.668469266476241
+_cell_length_c       18.116103557934625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    123.08877188982382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.8615353937772152  0.18015943415658092  0.5014531690791749  1.0000
+  Br  Br1       1.0  0.8652452543370713  0.4523168400867264  0.41399630864414516  1.0000
+  Br  Br2       1.0  0.8046606908934972  0.8578657736868766  0.5860036913558548  1.0000
+  Ag  Ag1       1.0  0.5211139754921683  0.4925303250300779  0.4987094254971508  1.0000
+  Cl  Cl1       1.0  0.14586745430920303  0.17915562114815997  0.4372487243592217  1.0000
+  Br  Br3       1.0  0.5466993510976532  0.16557795759232485  0.5705742010288051  1.0000
+  Cl  Cl2       1.0  0.11131631661157043  0.45326908471763205  0.5788358956903583  1.0000
+  Br  Br4       1.0  0.5834171065534971  0.8522505245133251  0.41848389561359084  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       OSHCdOHO
+_chemical_formula_sum              "O3 S1 H2 Cd1"
+_cell_length_a       5.268026370010115
+_cell_length_b       5.23281587153684
+_cell_length_c       19.802073656245128
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    119.74298039714529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.17367538463499205  0.4428982761160671  0.4560342748157324  1.0000
+  S   S1        1.0  0.20831107230017346  0.738987460508527  0.4469929968698069  1.0000
+  H   H1        1.0  0.1997266216841898  0.768111279034711  0.3787482124446432  1.0000
+  Cd  Cd1       1.0  0.8956205321151762  0.09493300506395635  0.5370751812536102  1.0000
+  O   O2        1.0  0.4956861416279324  0.9836138168856515  0.4671159576403803  1.0000
+  H   H2        1.0  0.8996536886494403  0.12885031067339325  0.621251787555357  1.0000
+  O   O3        1.0  0.9572795116758144  0.7610822305928832  0.4731402167792929  1.0000

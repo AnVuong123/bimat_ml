@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2O4H2
+_chemical_formula_sum              "Fe2 O4 H2"
+_cell_length_a       2.4590602500578784
+_cell_length_b       4.003011389233908
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  3.525614917271503e-16  0.046624159194658794  0.5429310744244285  1.0000
+  Fe  Fe2       1.0  0.5000000000000003  0.5466895529215827  0.45707290317489885  1.0000
+  O   O1        1.0  1.1031887027710983e-15  0.5466434738290178  0.525585412353324  1.0000
+  O   O2        1.0  0.5000000000000003  0.04667631837294107  0.4744151090648292  1.0000
+  O   O3        1.0  2.5941867825763737e-16  0.5469707766691319  0.37964068517807276  1.0000
+  O   O4        1.0  0.5000000000000004  0.04631931579796465  0.6203586870109116  1.0000
+  H   H1        1.0  6.220145714052976e-16  0.0462471459318432  0.6379939579291056  1.0000
+  H   H2        1.0  0.5000000000000003  0.5470497920387427  0.36200217691002556  1.0000

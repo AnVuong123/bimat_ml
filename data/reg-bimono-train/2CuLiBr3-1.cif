@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Br6Cu2Li2
+_chemical_formula_sum              "Br6 Cu2 Li2"
+_cell_length_a       6.584043759752231
+_cell_length_b       6.584043757981708
+_cell_length_c       18.42511541
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000000088959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.6475132598548777  0.0  0.5929879496090773  1.0000
+  Br  Br2       1.0  0.35248674014512704  0.35248674014512477  0.5929879496090773  1.0000
+  Br  Br3       1.0  5.025885361839612e-15  0.6475132598548767  0.5929879496090773  1.0000
+  Br  Br4       1.0  0.35248674014512293  2.8519723181208994e-18  0.40701205039091953  1.0000
+  Br  Br5       1.0  0.6475132698548818  0.6475132598548767  0.40701206039091953  1.0000
+  Br  Br6       1.0  3.1754154502947345e-15  0.35248673014512477  0.40701206039091953  1.0000
+  Cu  Cu1       1.0  0.0  2.6109088051731616e-19  0.5843522612003101  1.0000
+  Cu  Cu2       1.0  9.418989177368221e-20  1.562457080289884e-20  0.41564773879968786  1.0000
+  Li  Li1       1.0  0.33333333000000376  0.6666666699999992  0.5  1.0000
+  Li  Li2       1.0  0.6666666699999979  0.3333333299999999  0.5  1.0000

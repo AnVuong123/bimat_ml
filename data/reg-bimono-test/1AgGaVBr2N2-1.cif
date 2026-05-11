@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NAgNVBrGaBr
+_chemical_formula_sum              "N2 Ag1 V1 Br2 Ga1"
+_cell_length_a       3.2157230313656964
+_cell_length_b       4.925355672681256
+_cell_length_c       21.325842254693338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00538143938158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.24670207587177875  0.6151723761799476  0.4996252247485799  1.0000
+  Ag  Ag1       1.0  0.7468544075932081  0.9246337053102672  0.5211640457710195  1.0000
+  N   N2        1.0  0.7466769132703764  0.24600676771718344  0.4375492568789553  1.0000
+  V   V1        1.0  0.2466656649411911  0.4298359633040862  0.4272646361992026  1.0000
+  Br  Br1       1.0  0.7468045773893448  0.6774237586682564  0.3514287972872105  1.0000
+  Ga  Ga1       1.0  0.2469932328193729  0.31942623742587056  0.5634723994418055  1.0000
+  Br  Br2       1.0  0.7470115913456509  0.483054855734145  0.6485268456801118  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrINiFe
+_chemical_formula_sum              "Br1 I1 Ni1 Fe1"
+_cell_length_a       3.7865126011525754
+_cell_length_b       3.742321142433581
+_cell_length_c       18.715787692868854
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.28175210593606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.655768813671279  0.7501425300937052  0.5992688032650813  1.0000
+  I   I1        1.0  0.2346047447310643  0.2608389021463722  0.40073119673491875  1.0000
+  Ni  Ni1       1.0  0.3272536482062789  0.7616339412123466  0.49042442563258976  1.0000
+  Fe  Fe1       1.0  0.782329072618475  0.24880957523262553  0.5100325356517048  1.0000

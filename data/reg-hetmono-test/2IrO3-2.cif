@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ir2O6
+_chemical_formula_sum              "Ir2 O6"
+_cell_length_a       4.933873204532692
+_cell_length_b       2.757547070020478
+_cell_length_c       19.30528122962847
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.6039408123675  0.24999999754266036  0.5705163995925652  1.0000
+  Ir  Ir2       1.0  0.10370417172407134  0.7500000089692913  0.4295017218581135  1.0000
+  O   O1        1.0  0.2068095411779423  0.25000000568044106  0.5032782708045643  1.0000
+  O   O2        1.0  0.7066311584834972  0.7499999997133956  0.496691194337181  1.0000
+  O   O3        1.0  0.3394103986828047  0.2500000098305735  0.38711180100999454  1.0000
+  O   O4        1.0  0.37579066847166115  0.7499999979151915  0.6110771510732812  1.0000
+  O   O5        1.0  0.8751888403495639  0.25000000787885224  0.3890778357110655  1.0000
+  O   O6        1.0  0.8400341811023754  0.7499999970390537  0.6127544927931032  1.0000

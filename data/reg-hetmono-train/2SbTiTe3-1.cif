@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti2Sb2Te6
+_chemical_formula_sum              "Ti2 Sb2 Te6"
+_cell_length_a       7.071234387378526
+_cell_length_b       7.072004720094814
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.28356785272045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.01302245992609235  0.9867723577845463  0.49980045977657417  1.0000
+  Ti  Ti2       1.0  0.3202522048952224  0.6797905918610463  0.5000526044428443  1.0000
+  Sb  Sb1       1.0  0.6653701804206055  0.33160395795437625  0.4215119906620229  1.0000
+  Sb  Sb2       1.0  0.6680694074387197  0.33504404647542313  0.5788145248400761  1.0000
+  Te  Te1       1.0  0.244415941886101  0.9107295318936026  0.39670571375554115  1.0000
+  Te  Te2       1.0  0.07317846346240398  0.34153012307501074  0.40735676614324134  1.0000
+  Te  Te3       1.0  0.6744312133584666  0.7392491557320797  0.40734024749294995  1.0000
+  Te  Te4       1.0  0.089309838266586  0.7562908393730959  0.603210898330407  1.0000
+  Te  Te5       1.0  0.2598029238024315  0.3251786283862395  0.5925730211735676  1.0000
+  Te  Te6       1.0  0.6588458717062649  0.9272116589405842  0.5925863133615892  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2MgSiMgSi
+_chemical_formula_sum              "Fe2 Mg2 Si2"
+_cell_length_a       3.9311795929538245
+_cell_length_b       3.9311796005144717
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.010881095933584523  0.010881095913575155  0.5000000000085004  1.0000
+  Fe  Fe2       1.0  0.5112005448520214  0.5112005448379685  0.5000000004865597  1.0000
+  Mg  Mg1       1.0  0.5110063766709323  0.01107523796574927  0.40706167875093135  1.0000
+  Si  Si1       1.0  0.01124757226833451  0.5108340503219806  0.43794307436605784  1.0000
+  Mg  Mg2       1.0  0.0110752379937559  0.5110063766820565  0.5929383217988528  1.0000
+  Si  Si2       1.0  0.5108340503144252  0.01124757222007692  0.5620569262178446  1.0000

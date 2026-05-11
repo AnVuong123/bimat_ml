@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       IOFeCdF
+_chemical_formula_sum              "I1 O1 Fe1 Cd1 F1"
+_cell_length_a       3.714280769822532
+_cell_length_b       4.052971419806492
+_cell_length_c       19.541172975511063
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.02370866246513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2606383349722125  0.7505478520373241  0.6161949945687  1.0000
+  O   O1        1.0  0.7579440314149933  0.25094962162739376  0.4888253819486486  1.0000
+  Fe  Fe1       1.0  0.25818895071259057  0.2507505264837603  0.5273697999642258  1.0000
+  Cd  Cd1       1.0  0.7548226659460566  0.751317676541391  0.4389856568113473  1.0000
+  F   F1        1.0  0.2548047457444646  0.7481136415970616  0.3838050054313002  1.0000

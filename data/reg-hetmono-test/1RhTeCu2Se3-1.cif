@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeRhSeCuTeCuSe
+_chemical_formula_sum              "Se3 Rh1 Cu2 Te1"
+_cell_length_a       4.560933211226198
+_cell_length_b       4.716124839275104
+_cell_length_c       18.959219347282026
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.21017277796803
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.2479914571961957  0.7409179102308645  0.5965269119671852  1.0000
+  Rh  Rh1       1.0  0.25139225959054706  0.7472747319022088  0.4638157140802402  1.0000
+  Se  Se2       1.0  0.7501878387556777  0.7457895354830776  0.40341643638204716  1.0000
+  Cu  Cu1       1.0  0.7510083611195306  0.749185094034057  0.54913365530372  1.0000
+  Te  Te1       1.0  0.24880550516612118  0.2466149207058154  0.39558590797543525  1.0000
+  Cu  Cu2       1.0  0.7482958722317403  0.24871126584418263  0.47670965352451017  1.0000
+  Se  Se3       1.0  0.7520984097004566  0.24698478948802105  0.6044140920245649  1.0000

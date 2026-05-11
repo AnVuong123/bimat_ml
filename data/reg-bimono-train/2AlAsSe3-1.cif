@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al2As2Se6
+_chemical_formula_sum              "Al2 As2 Se6"
+_cell_length_a       6.531717383998343
+_cell_length_b       6.531644684311696
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99960947579409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  1.1310231871937723e-06  0.9999965078338677  0.5000750004591948  1.0000
+  Al  Al2       1.0  0.3333383212408772  0.6666833721034539  0.499924960531307  1.0000
+  As  As1       1.0  0.6667048750751965  0.33335137243788376  0.4309816298305765  1.0000
+  As  As2       1.0  0.666635508581094  0.3333291599213057  0.5689654237564427  1.0000
+  Se  Se1       1.0  0.28456906736874144  0.9512340982079238  0.4127929464915097  1.0000
+  Se  Se2       1.0  0.048806927375311115  0.33334830917301217  0.41279400421883766  1.0000
+  Se  Se3       1.0  0.6666957341503619  0.7154489439448326  0.41279906491567114  1.0000
+  Se  Se4       1.0  0.04883602234436024  0.7152269925531467  0.5872306038380312  1.0000
+  Se  Se5       1.0  0.284752366333857  0.33361529999284073  0.5872297649894322  1.0000
+  Se  Se6       1.0  0.6663601007832437  0.9511667332709457  0.5872243723132499  1.0000

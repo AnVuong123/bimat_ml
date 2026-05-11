@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdSeHfSe
+_chemical_formula_sum              "Cd1 Se2 Hf1"
+_cell_length_a       4.013916616402799
+_cell_length_b       4.012767935586423
+_cell_length_c       19.474283677975777
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00834162321131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.832003261174338  0.1664425311195013  0.44179084029530696  1.0000
+  Se  Se1       1.0  0.16538228790894718  0.833325836059769  0.3851232797066647  1.0000
+  Hf  Hf1       1.0  0.1653923230869446  0.8330126424935617  0.5430688117020018  1.0000
+  Se  Se2       1.0  0.831813777326418  0.16568443278571254  0.6148767202933353  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co5GaCl2
+_chemical_formula_sum              "Co5 Ga1 Cl2"
+_cell_length_a       3.522936019414821
+_cell_length_b       3.5229360194148067
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999864796568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.030073849019578578  0.030073849019578627  0.49997547119519303  1.0000
+  Co  Co2       1.0  0.530087283089894  0.03004929557783533  0.4166019959429088  1.0000
+  Co  Co3       1.0  0.03004929557783529  0.5300872830898965  0.4166019959429088  1.0000
+  Co  Co4       1.0  0.5300883845437444  0.03004931447326203  0.5833681170103338  1.0000
+  Co  Co5       1.0  0.030049314473261906  0.5300883845437419  0.5833681170103338  1.0000
+  Ga  Ga1       1.0  0.5300586143045186  0.530058614304519  0.49998271211638756  1.0000
+  Cl  Cl1       1.0  0.030037811701838033  0.030037811701837974  0.34458438292885973  1.0000
+  Cl  Cl2       1.0  0.03003830551475198  0.03003830551475191  0.6553694109218877  1.0000

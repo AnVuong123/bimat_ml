@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf2S2Cl2Hf2S2Cl2
+_chemical_formula_sum              "Hf4 S4 Cl4"
+_cell_length_a       5.035538293493754
+_cell_length_b       3.588119635417643
+_cell_length_c       32.63603921956958
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.5000000006460329  6.698931436074433e-19  0.3022769473841227  1.0000
+  Hf  Hf2       1.0  0.0  0.5000000006385458  0.35165675383544165  1.0000
+  S   S1        1.0  0.5000000006460329  0.5000000006385458  0.3586433632847671  1.0000
+  S   S2        1.0  0.0  0.0  0.2952903238399497  1.0000
+  Cl  Cl1       1.0  0.5000000006460329  0.5000000006385458  0.24585663033486885  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.40807708926927944  1.0000
+  Hf  Hf3       1.0  0.5000000006460329  6.698931436074433e-19  0.526771065089642  1.0000
+  Hf  Hf4       1.0  0.0  0.5000000006385458  0.576150871540961  1.0000
+  S   S3        1.0  0.5000000006460329  0.5000000006385458  0.5831374809902864  1.0000
+  S   S4        1.0  0.0  0.0  0.519784441545469  1.0000
+  Cl  Cl3       1.0  0.5000000006460329  0.5000000006385458  0.4703507480403882  1.0000
+  Cl  Cl4       1.0  0.0  0.0  0.6325712066683891  1.0000

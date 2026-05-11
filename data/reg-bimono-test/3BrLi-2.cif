@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br3Li3
+_chemical_formula_sum              "Br3 Li3"
+_cell_length_a       5.764400905679225
+_cell_length_b       4.23496374276104
+_cell_length_c       19.28062625
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.1933892149482819  0.7984811227829192  0.6111474997853724  1.0000
+  Br  Br2       1.0  0.19338931494828182  0.8014592872170837  0.38885249021462753  1.0000
+  Br  Br3       1.0  0.6838280620207025  0.2999702500000014  0.49999999000000006  1.0000
+  Li  Li1       1.0  0.9860987879070275  0.29841750136957496  0.5937089265797351  1.0000
+  Li  Li2       1.0  0.9860986679070319  0.3015225086304251  0.406291103420265  1.0000
+  Li  Li3       1.0  0.43050192759183004  0.7999702500000002  0.49999999000000006  1.0000

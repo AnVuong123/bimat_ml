@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeAl2Te4
+_chemical_formula_sum              "Fe1 Al2 Te4"
+_cell_length_a       4.071437022228847
+_cell_length_b       4.071437022228821
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0003612281186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  4.8763177566351255e-17  9.753582273986114e-17  0.5000000000000001  1.0000
+  Al  Al1       1.0  0.6666544252839461  0.33334557471605575  0.40234485344899373  1.0000
+  Al  Al2       1.0  0.3333455747160578  0.6666544252839542  0.5976551465510054  1.0000
+  Te  Te1       1.0  0.6666811890865011  0.3333188109134968  0.6305523830665646  1.0000
+  Te  Te2       1.0  0.3333188109134987  0.6666811890865031  0.36944761693343675  1.0000
+  Te  Te3       1.0  0.6666833847619948  0.333316615238008  0.46958021412659284  1.0000
+  Te  Te4       1.0  0.33331661523801004  0.6666833847619998  0.5304197858734073  1.0000

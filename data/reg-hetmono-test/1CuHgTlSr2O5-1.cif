@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HgSrOTlSrCuO4
+_chemical_formula_sum              "Hg1 Sr2 O5 Tl1 Cu1"
+_cell_length_a       3.705971976571841
+_cell_length_b       3.7059719765718544
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  1.2696232484925391e-19  1.7581228548035293e-16  0.3800727470516319  1.0000
+  Sr  Sr1       1.0  0.49999999999999367  0.49999999999999506  0.45354403841688734  1.0000
+  O   O1        1.0  0.0  7.344842571952801e-18  0.4373942187412779  1.0000
+  Tl  Tl1       1.0  0.0  4.1384783905523376e-18  0.6172169992942225  1.0000
+  Sr  Sr2       1.0  0.49999999999999367  0.49999999999999506  0.5493064476276699  1.0000
+  Cu  Cu1       1.0  4.650298330353806e-18  0.0  0.503408440559774  1.0000
+  O   O2        1.0  0.49999999999999367  0.49999999999999506  0.6183656959741837  1.0000
+  O   O3        1.0  0.0  0.0  0.5607283776932055  1.0000
+  O   O4        1.0  0.49999999999999367  1.825691628801983e-18  0.4995252987116032  1.0000
+  O   O5        1.0  6.845346453643059e-18  0.49999999999999506  0.4995252987116032  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       AlRuBr2F
+_chemical_formula_sum              "Al1 Ru1 Br2 F1"
+_cell_length_a       3.2383863643040702
+_cell_length_b       4.428164033632063
+_cell_length_c       19.746885857309103
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    68.56284284764676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.35113776154307785  0.333426725216886  0.5251039095803405  1.0000
+  Ru  Ru1       1.0  0.7444341048136112  0.546865442679844  0.4346515227890955  1.0000
+  Br  Br1       1.0  0.8360684483500591  0.3637111977829056  0.6202946132878933  1.0000
+  Br  Br2       1.0  0.004988601719821146  0.02469469807161274  0.3795536394236315  1.0000
+  F   F1        1.0  0.5637564021159941  0.90824700201302  0.5154917827220097  1.0000

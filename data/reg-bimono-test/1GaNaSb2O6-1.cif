@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       OGaSb2NaO5
+_chemical_formula_sum              "O6 Ga1 Sb2 Na1"
+_cell_length_a       6.111728470576997
+_cell_length_b       6.111728470577086
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    106.33717133970879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3092165344332219  0.02961031708396329  0.47142018833329546  1.0000
+  Ga  Ga1       1.0  0.0025368972646201606  0.9974631027353807  0.5  1.0000
+  Sb  Sb1       1.0  0.5121301486988179  0.8589229717923054  0.4880631464022885  1.0000
+  Sb  Sb2       1.0  0.14107702820768542  0.48786985130117894  0.5119368535977106  1.0000
+  Na  Na1       1.0  0.6297586507643412  0.3702413492356522  0.5  1.0000
+  O   O2        1.0  0.7586602105210936  0.8039372760563419  0.4588778377592088  1.0000
+  O   O3        1.0  0.19606272394364482  0.2413397894789062  0.5411221622407903  1.0000
+  O   O4        1.0  0.706165661128498  0.025941317674119002  0.5289285183769674  1.0000
+  O   O5        1.0  0.9740586823258714  0.2938343388715039  0.4710714816230316  1.0000
+  O   O6        1.0  0.9703896829160438  0.6907834655667665  0.5285798116667065  1.0000

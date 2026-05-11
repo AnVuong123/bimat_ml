@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Se2Ga2
+_chemical_formula_sum              "Se2 Ga2"
+_cell_length_a       4.530186872385838
+_cell_length_b       4.531126097184547
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01532384569565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9999909066925934  5.429346936931598e-05  0.4182128970466339  1.0000
+  Se  Se2       1.0  0.3333423982578403  0.6666124249632376  0.5818563857240319  1.0000
+  Ga  Ga1       1.0  0.9999848217818185  9.799758518543606e-05  0.5568153087030859  1.0000
+  Ga  Ga2       1.0  0.33334848574069487  0.6665687212571364  0.44325395475605994  1.0000

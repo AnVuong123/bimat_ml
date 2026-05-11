@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnGa2Se4
+_chemical_formula_sum              "Mn1 Ga2 Se4"
+_cell_length_a       3.9327142988259243
+_cell_length_b       3.932714298825872
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99948930018861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.0  0.9999999999999999  0.5000000000000001  1.0000
+  Ga  Ga1       1.0  0.6666650905823108  0.33333490941769556  0.40331096574669806  1.0000
+  Ga  Ga2       1.0  0.33333490941769806  0.6666650905823208  0.5966890342533008  1.0000
+  Se  Se1       1.0  0.6666696170350135  0.33333038296498974  0.6248407618083233  1.0000
+  Se  Se2       1.0  0.33333038296499  0.6666696170350136  0.3751592381916769  1.0000
+  Se  Se3       1.0  0.6666933895459319  0.33330661045407267  0.4647497202791016  1.0000
+  Se  Se4       1.0  0.33330661045407345  0.6666933895459379  0.5352502797208986  1.0000

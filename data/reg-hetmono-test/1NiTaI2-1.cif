@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaINiI
+_chemical_formula_sum              "Ta1 I2 Ni1"
+_cell_length_a       3.677904867424947
+_cell_length_b       3.6786180189088844
+_cell_length_c       19.952180011614892
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99820443501076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.8384184861019119  0.157498014617139  0.5239693464289791  1.0000
+  I   I1        1.0  0.17152051397871887  0.8237340695362311  0.6241013683817435  1.0000
+  Ni  Ni1       1.0  0.17179660727734164  0.8242821022769198  0.4529014772236126  1.0000
+  I   I2        1.0  0.5050024902076379  0.4907611352070726  0.3758873839283065  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IGeISeIBrSeW
+_chemical_formula_sum              "I3 Ge1 Se2 Br1 W1"
+_cell_length_a       6.323432309612324
+_cell_length_b       6.810485716667052
+_cell_length_c       18.98109590278037
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    103.42276759817815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.18847126126154415  0.1095111918185061  0.603560436786544  1.0000
+  Ge  Ge1       1.0  0.8941853128785664  0.8501878669427128  0.501120404862252  1.0000
+  I   I2        1.0  0.566586240767012  0.6629451732931182  0.3978691205269167  1.0000
+  Se  Se1       1.0  0.6962442840331853  0.2465068119439334  0.5002906681137387  1.0000
+  I   I3        1.0  0.18309052137519022  0.10065697408804303  0.40043347602613627  1.0000
+  Br  Br1       1.0  0.5593014575648282  0.6530858641176978  0.5905011586317223  1.0000
+  Se  Se2       1.0  0.04867286392196497  0.5216220762029508  0.4984380324748253  1.0000
+  W   W1        1.0  0.38428906984790406  0.38218228311167046  0.5007269188546206  1.0000

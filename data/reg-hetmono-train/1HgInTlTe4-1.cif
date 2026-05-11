@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgTlInTe4
+_chemical_formula_sum              "Hg1 Tl1 In1 Te4"
+_cell_length_a       4.540856568823124
+_cell_length_b       4.540865039166519
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00006170571372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999969814614103  0.9999984907307051  0.5002961808158242  1.0000
+  Tl  Tl1       1.0  0.6666589019143931  0.3333294509571953  0.3898518137985318  1.0000
+  In  In1       1.0  0.33334412835844796  0.6666720641792176  0.6100579567306961  1.0000
+  Te  Te1       1.0  0.6666573309573744  0.3333286654786831  0.4622070550764074  1.0000
+  Te  Te2       1.0  0.333339813891373  0.6666699069456862  0.5396629184887751  1.0000
+  Te  Te3       1.0  0.3333262643913206  0.6666631321956543  0.35531135993740465  1.0000
+  Te  Te4       1.0  0.6666767292587507  0.3333383646293717  0.6426097684558505  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrICaCu
+_chemical_formula_sum              "Br1 I1 Ca1 Cu1"
+_cell_length_a       4.878095711001253
+_cell_length_b       4.175043588251815
+_cell_length_c       18.685116816027797
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.03987949134586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.5354967938291867  0.7452972143003569  0.40138898107217713  1.0000
+  I   I1        1.0  0.36945374132189535  0.24601431290209388  0.5986110189278229  1.0000
+  Ca  Ca1       1.0  0.8280077225531255  0.24608431472283435  0.4810097670912435  1.0000
+  Cu  Cu1       1.0  0.25412151940543576  0.745871846022804  0.5152650405306191  1.0000

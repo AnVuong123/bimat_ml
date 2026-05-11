@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cl2CuClGeCl3
+_chemical_formula_sum              "Cl6 Cu1 Ge1"
+_cell_length_a       6.089241508444824
+_cell_length_b       6.492620849037112
+_cell_length_c       17.955182275971204
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.23075399343688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.13444028758709728  0.1868292855558444  0.41770670354246353  1.0000
+  Cl  Cl2       1.0  0.5019504354851364  0.1191496613003392  0.5763077222741289  1.0000
+  Cu  Cu1       1.0  0.16873248541076225  0.8408758668548696  0.49920485105381573  1.0000
+  Cl  Cl3       1.0  0.8506554221579614  0.8619915530456922  0.5664684372054399  1.0000
+  Ge  Ge1       1.0  0.8532466141287814  0.18181311263462052  0.49992073377972657  1.0000
+  Cl  Cl4       1.0  0.1333899171605936  0.45674342230521053  0.5822932964575364  1.0000
+  Cl  Cl5       1.0  0.8520378053749138  0.49892036920946875  0.432826769888371  1.0000
+  Cl  Cl6       1.0  0.5028978214561606  0.8939169943825414  0.4229569358017136  1.0000

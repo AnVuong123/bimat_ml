@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Se6AgInAs2
+_chemical_formula_sum              "Se6 Ag1 In1 As2"
+_cell_length_a       6.673024390289878
+_cell_length_b       6.672628439005439
+_cell_length_c       33.524452
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00194556061017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.03110269286420861  0.016982590980641747  0.4453156040964607  1.0000
+  Se  Se2       1.0  0.3487036536686687  0.7033070908335917  0.4453145035209417  1.0000
+  Se  Se3       1.0  0.6623864075333868  0.3345827522171994  0.445315568987037  1.0000
+  Se  Se4       1.0  0.6623797269613289  0.01698248027462251  0.554684410589457  1.0000
+  Se  Se5       1.0  0.3486962196055563  0.3345827367944342  0.554684413394651  1.0000
+  Se  Se6       1.0  0.03110336181280633  0.7033070304897343  0.554685504859304  1.0000
+  Ag  Ag1       1.0  0.014074950441853818  0.351651334515056  0.5000000009782914  1.0000
+  In  In1       1.0  0.34739577483421885  0.018291686735829128  0.5000000002294612  1.0000
+  As  As1       1.0  0.6807303226542862  0.6849562130426332  0.46263022367578277  1.0000
+  As  As2       1.0  0.6807257831647161  0.6849561438346231  0.5373697779314734  1.0000

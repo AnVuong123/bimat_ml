@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In2O2FeO2
+_chemical_formula_sum              "In2 O4 Fe1"
+_cell_length_a       3.3979497228031987
+_cell_length_b       3.397949722803223
+_cell_length_c       38.96363
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.3333333333333352  0.6666666666666662  0.49631039459140797  1.0000
+  In  In2       1.0  0.6666666666666676  0.33333333333333304  0.5807001479776829  1.0000
+  O   O1        1.0  0.33333333333333526  0.6666666666666662  0.5984296430898085  1.0000
+  O   O2        1.0  0.6666666666666675  0.3333333333333328  0.5255270276277952  1.0000
+  Fe  Fe1       1.0  2.8039619638956134e-17  6.59644755924647e-18  0.4179389978713139  1.0000
+  O   O3        1.0  0.33333333333333587  0.666666666666667  0.411101806643857  1.0000
+  O   O4        1.0  0.0  0.0  0.47042734207656356  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ni2MgSnMgSn
+_chemical_formula_sum              "Ni2 Mg2 Sn2"
+_cell_length_a       4.280158148851795
+_cell_length_b       4.2801545664841125
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00072509149247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9956788752908342  0.995670058360725  0.5000015407036131  1.0000
+  Ni  Ni2       1.0  0.4956626585875452  0.49567572387762876  0.5000062298920007  1.0000
+  Mg  Mg1       1.0  0.9959367334001031  0.4954190625486839  0.5822403267237413  1.0000
+  Sn  Sn1       1.0  0.49550124218793357  0.9957913298049339  0.5822723810275305  1.0000
+  Mg  Mg2       1.0  0.49540328169757986  0.9959205166015678  0.4177583113449197  1.0000
+  Sn  Sn2       1.0  0.9957996697728765  0.4955106461390012  0.4177244888837613  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrGaSCuS2IAgSBr
+_chemical_formula_sum              "Br2 Ga1 S4 Cu1 I1 Ag1"
+_cell_length_a       6.632177581294198
+_cell_length_b       5.733593668049965
+_cell_length_c       20.68511901649439
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    74.6185085890184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7426219766369795  0.6695494392435599  0.6374037424591894  1.0000
+  Ga  Ga1       1.0  0.004200546606055695  0.9378370626965398  0.5188479101883121  1.0000
+  S   S1        1.0  0.8629009415058883  0.5980105645363328  0.5362794694606643  1.0000
+  Cu  Cu1       1.0  0.5661617895109917  0.7387244158203913  0.4738058132521972  1.0000
+  S   S2        1.0  0.23637727053450425  0.8977220958099915  0.4350388387524287  1.0000
+  S   S3        1.0  0.46582053785911753  0.3803294577741607  0.5043795139704549  1.0000
+  I   I1        1.0  0.8228125258738901  0.5440735859324872  0.36182642720422337  1.0000
+  Ag  Ag1       1.0  0.17384118491626446  0.38592340395007524  0.43197150822158886  1.0000
+  S   S4        1.0  0.6761236623744874  0.10126656478019747  0.4606807991698817  1.0000
+  Br  Br2       1.0  0.11949345930632944  0.045840761533882966  0.618100923494249  1.0000

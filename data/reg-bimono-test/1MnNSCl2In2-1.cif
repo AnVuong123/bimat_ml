@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       InClInNSMnCl
+_chemical_formula_sum              "In2 Cl2 N1 S1 Mn1"
+_cell_length_a       3.583745613632949
+_cell_length_b       6.084508379757193
+_cell_length_c       21.76264878914418
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.01160704072888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.7516528113427684  0.9344818328214956  0.5696753259920297  1.0000
+  Cl  Cl1       1.0  0.754328634062072  0.955672810910381  0.3447082660077626  1.0000
+  In  In2       1.0  0.2546008861621414  0.10158316100154693  0.4202740386509559  1.0000
+  N   N1        1.0  0.7516711429731369  0.27771507651972654  0.5428019244823877  1.0000
+  S   S1        1.0  0.2514409737572368  0.7444651226745459  0.5023600835138192  1.0000
+  Mn  Mn1       1.0  0.25173753286761097  0.35944454647924673  0.5253331532264355  1.0000
+  Cl  Cl2       1.0  0.2520838050688034  0.9109752956200714  0.6552740808149684  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiO3Sr2
+_chemical_formula_sum              "Ni1 O3 Sr2"
+_cell_length_a       3.556525409852771
+_cell_length_b       3.5565254098528
+_cell_length_c       34.787520661806894
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.33155120027162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9200194422804812  0.07998055771951844  0.5000500823642217  1.0000
+  O   O1        1.0  0.5301319080530297  0.4698680919469788  0.5000504493689243  1.0000
+  O   O2        1.0  0.9592831099888952  0.04071689001110633  0.5592925157134968  1.0000
+  O   O3        1.0  0.9591800761209258  0.040819923879080296  0.440803760613964  1.0000
+  Sr  Sr1       1.0  0.45406738265306806  0.5459326173469254  0.5643279353289168  1.0000
+  Sr  Sr2       1.0  0.45397070867528827  0.5460292913247116  0.43577432500943225  1.0000

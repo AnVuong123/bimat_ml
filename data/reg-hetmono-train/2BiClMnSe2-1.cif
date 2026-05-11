@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cl2Bi2Se4Mn2
+_chemical_formula_sum              "Cl2 Bi2 Se4 Mn2"
+_cell_length_a       3.783579877180544
+_cell_length_b       11.679153906376795
+_cell_length_c       35.49007473912486
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  6.630137150113881e-21  0.08499699732088188  0.547708877866231  1.0000
+  Cl  Cl2       1.0  0.9999999999999999  0.0771854772269668  0.4522915236694451  1.0000
+  Bi  Bi1       1.0  1.0715012672597041e-16  0.35368763008496823  0.44432696938016386  1.0000
+  Bi  Bi2       1.0  2.9653082573608135e-17  0.8084858295993878  0.5556736930387625  1.0000
+  Se  Se1       1.0  0.49999999999998934  0.8388980721598509  0.5004000979880114  1.0000
+  Se  Se2       1.0  0.49999999999998934  0.32328540586150206  0.49959919343504106  1.0000
+  Se  Se3       1.0  9.716604349621773e-18  0.5818704289511331  0.44897415115038586  1.0000
+  Se  Se4       1.0  0.0  0.5803220517192945  0.5510255286747356  1.0000
+  Mn  Mn1       1.0  0.49999999999998934  0.5810910994395035  0.500000471061985  1.0000
+  Mn  Mn2       1.0  0.49999999999998934  0.08109260865260587  0.49999950351152006  1.0000

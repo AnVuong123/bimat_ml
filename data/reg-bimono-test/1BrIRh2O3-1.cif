@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ORhIORhOBr
+_chemical_formula_sum              "O3 Rh2 I1 Br1"
+_cell_length_a       5.8250346658361165
+_cell_length_b       5.633581018040083
+_cell_length_c       19.241403473948733
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.57596223625215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.867384120980674  0.0031583266709736923  0.5482945980124864  1.0000
+  Rh  Rh1       1.0  0.6836979736186107  0.690489301897959  0.49593834922422736  1.0000
+  I   I1        1.0  0.38035935172617374  0.48783753107919875  0.6102155432604293  1.0000
+  O   O2        1.0  0.37962284197693086  0.4908434501907423  0.44478997724623576  1.0000
+  Rh  Rh2       1.0  0.0717581515332723  0.31044722150745024  0.4953912763706898  1.0000
+  O   O3        1.0  0.8877767336298954  0.5111418356024254  0.49228855176619446  1.0000
+  Br  Br1       1.0  0.8690195996825418  0.003052370538451088  0.38978445673957113  1.0000

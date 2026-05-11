@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoIn2Se4
+_chemical_formula_sum              "Co1 In2 Se4"
+_cell_length_a       3.949473743895081
+_cell_length_b       3.949473743895039
+_cell_length_c       38.9069728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00004305520577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0  0.0  0.5000000000000001  1.0000
+  In  In1       1.0  0.6666493292683116  0.3333506707316926  0.4048212507673749  1.0000
+  In  In2       1.0  0.33335067073169067  0.6666493292683152  0.5951787492326246  1.0000
+  Se  Se1       1.0  0.6666833612861995  0.3333166387137988  0.6293607413166518  1.0000
+  Se  Se2       1.0  0.3333166387137962  0.6666833612861981  0.3706392586833488  1.0000
+  Se  Se3       1.0  0.6666822640487441  0.3333177359512525  0.47181238323590685  1.0000
+  Se  Se4       1.0  0.33331773595125197  0.6666822640487469  0.5281876167640933  1.0000

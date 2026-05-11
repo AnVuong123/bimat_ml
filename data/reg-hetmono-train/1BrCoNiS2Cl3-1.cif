@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiSCoSCl2BrCl
+_chemical_formula_sum              "Ni1 S2 Co1 Cl3 Br1"
+_cell_length_a       5.507294394799598
+_cell_length_b       5.721177608369347
+_cell_length_c       18.316626631524446
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.13820007896499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.11789566534974222  0.8762089174102885  0.5046784134610871  1.0000
+  S   S1        1.0  0.9648786332762247  0.23382688626735812  0.5051245325075772  1.0000
+  Co  Co1       1.0  0.6230307045785735  0.38111326919031785  0.5040002866597586  1.0000
+  S   S2        1.0  0.27736095389747945  0.5232962841211748  0.505463561812025  1.0000
+  Cl  Cl1       1.0  0.8099912222405597  0.6605685718782253  0.5905406025807928  1.0000
+  Cl  Cl2       1.0  0.8115547028262995  0.6634844635303634  0.4197080170193772  1.0000
+  Br  Br1       1.0  0.4328403047104947  0.09285106956465031  0.40946955323203676  1.0000
+  Cl  Cl3       1.0  0.4322997166940547  0.09321761254056828  0.5871621442562931  1.0000

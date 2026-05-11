@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiGaBrTe
+_chemical_formula_sum              "Ti1 Ga1 Br1 Te1"
+_cell_length_a       3.6188073657423163
+_cell_length_b       3.619814050134957
+_cell_length_c       20.45385528313606
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00036276529481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.16405437445131105  0.3348474739051316  0.4525693332969919  1.0000
+  Ga  Ga1       1.0  0.8299128275901436  0.6666975253665366  0.5463715275809835  1.0000
+  Br  Br1       1.0  0.16224195968674718  0.3308028008982487  0.6333358858898083  1.0000
+  Te  Te1       1.0  0.8311515202965061  0.6684165727625371  0.36667853638366943  1.0000

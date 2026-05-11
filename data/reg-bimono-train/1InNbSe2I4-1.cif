@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I3InSeNbSeI
+_chemical_formula_sum              "I4 In1 Se2 Nb1"
+_cell_length_a       5.147405334845485
+_cell_length_b       7.428117650594902
+_cell_length_c       21.922275925879717
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.32487085441153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.31647026336458045  0.6050142954836395  0.6578822369831552  1.0000
+  I   I2        1.0  0.43972560092613466  0.8700410510912945  0.4182094855681073  1.0000
+  I   I3        1.0  0.7219806732665321  0.4339811893495436  0.34211776301684504  1.0000
+  In  In1       1.0  0.6510636661407515  0.26203889605840325  0.45421055938991717  1.0000
+  Se  Se1       1.0  0.2005776131337277  0.37990982224743847  0.488624948556554  1.0000
+  Nb  Nb1       1.0  0.2801928687070926  0.6944629624328055  0.5390332075246861  1.0000
+  Se  Se2       1.0  0.8316066308222693  0.6948898458855698  0.5347291263063869  1.0000
+  I   I4        1.0  0.55591364944279  0.08651537441428862  0.5796189466715133  1.0000

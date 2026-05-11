@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfTeSeMnCrNbTeSe
+_chemical_formula_sum              "Hf1 Te2 Se2 Mn1 Cr1 Nb1"
+_cell_length_a       5.039011525874296
+_cell_length_b       5.000687771353012
+_cell_length_c       19.364512945853473
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00199504719691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.2562434932269212  0.7609228157446771  0.5399795303005014  1.0000
+  Te  Te1       1.0  0.2561787613820166  0.2552641833707408  0.612758372488271  1.0000
+  Se  Se1       1.0  0.7562164449534189  0.7429933657749151  0.5869715544858197  1.0000
+  Mn  Mn1       1.0  0.2564643302213058  0.2764888097923407  0.4560473619338473  1.0000
+  Cr  Cr1       1.0  0.756290754439886  0.2419876651878118  0.5403958421190751  1.0000
+  Nb  Nb1       1.0  0.7563976047037333  0.7246377161164264  0.4517084687035518  1.0000
+  Te  Te2       1.0  0.25643163274738545  0.7830814287155073  0.38746098732753104  1.0000
+  Se  Se2       1.0  0.7565164760165013  0.23877570897892975  0.4082235827437143  1.0000

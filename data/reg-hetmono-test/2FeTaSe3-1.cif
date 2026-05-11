@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2Se4Fe2Se2
+_chemical_formula_sum              "Ta2 Se6 Fe2"
+_cell_length_a       3.415604195383822
+_cell_length_b       9.807189536504534
+_cell_length_c       34.40380437746747
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00211133816701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5021399110375617  0.5677215175457694  0.5062709372300017  1.0000
+  Ta  Ta2       1.0  0.002139202786164715  0.20273338865833138  0.49373074724153193  1.0000
+  Se  Se1       1.0  0.0021379057681449876  0.6321481955285424  0.5589453978247615  1.0000
+  Se  Se2       1.0  0.5021392386927024  0.13835388165175339  0.44103968320633113  1.0000
+  Se  Se3       1.0  0.5021378373782637  0.32255171839856656  0.5414820420855476  1.0000
+  Se  Se4       1.0  0.002137781457423271  0.4478517769027076  0.4585049932877878  1.0000
+  Fe  Fe1       1.0  0.002140815338522506  0.7861427738211147  0.5049566221123626  1.0000
+  Fe  Fe2       1.0  0.5021403857460534  0.9844180587687464  0.4950474061088063  1.0000
+  Se  Se5       1.0  0.5021414105531538  0.7778720119419031  0.4570616106283898  1.0000
+  Se  Se6       1.0  0.002141273430552536  0.9924434019321006  0.5429568741103826  1.0000

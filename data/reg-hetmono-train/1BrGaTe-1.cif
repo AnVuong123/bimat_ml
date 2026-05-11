@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       GaBrTe
+_chemical_formula_sum              "Ga1 Br1 Te1"
+_cell_length_a       4.136748943702346
+_cell_length_b       3.9957162986950263
+_cell_length_c       18.16452935251048
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.38288096400595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.04585502087407388  0.28716664726633434  0.5030078703795939  1.0000
+  Br  Br1       1.0  0.0458874560284912  0.7869926103070152  0.4128926136455851  1.0000
+  Te  Te1       1.0  0.5458566426809197  0.2870002649919352  0.5871073863544151  1.0000

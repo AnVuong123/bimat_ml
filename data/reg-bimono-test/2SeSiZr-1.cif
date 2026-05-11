@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2ZrSeZrSe
+_chemical_formula_sum              "Si2 Zr2 Se2"
+_cell_length_a       3.5482595648555852
+_cell_length_b       3.548259564855587
+_cell_length_c       36.8832
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.5  5.082999914640771e-18  0.5  1.0000
+  Si  Si2       1.0  0.0  0.5  0.5  1.0000
+  Zr  Zr1       1.0  0.5  0.5  0.5588759757403678  1.0000
+  Se  Se1       1.0  6.224757459640979e-18  0.0  0.5904521068381395  1.0000
+  Zr  Zr2       1.0  0.0  2.838195389075794e-18  0.4411240242596322  1.0000
+  Se  Se2       1.0  0.5  0.5  0.4095478931618614  1.0000

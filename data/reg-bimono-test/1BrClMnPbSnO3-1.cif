@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PbMnSnOClO2Br
+_chemical_formula_sum              "Pb1 Mn1 Sn1 O3 Cl1 Br1"
+_cell_length_a       3.7033908118314884
+_cell_length_b       6.105316194061224
+_cell_length_c       21.31194108390298
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.96771762245031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.31164672551952777  0.8547610149777943  0.5342689242498252  1.0000
+  Mn  Mn1       1.0  0.8070444460030411  0.3179246796745831  0.4308731872805942  1.0000
+  Sn  Sn1       1.0  0.8110848744481433  0.3351090585145892  0.5728676445288385  1.0000
+  O   O1        1.0  0.8102768185571262  0.08747705374405221  0.5031829908166842  1.0000
+  Cl  Cl1       1.0  0.8120894824035874  0.6381046867467163  0.6480846127308041  1.0000
+  O   O2        1.0  0.8090614525399074  0.5432399191180894  0.4998062183317903  1.0000
+  O   O3        1.0  0.31119472303507095  0.21484821411584784  0.5965944942558195  1.0000
+  Br  Br1       1.0  0.30682656299517225  0.2829221020252868  0.3519153872691957  1.0000

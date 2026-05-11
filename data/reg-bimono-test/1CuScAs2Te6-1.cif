@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CuTe6ScAs2
+_chemical_formula_sum              "Cu1 Te6 Sc1 As2"
+_cell_length_a       7.019716782881208
+_cell_length_b       7.019509249235093
+_cell_length_c       33.499359288
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99902202266335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9999470365633503  0.9999735182816751  0.5  1.0000
+  Te  Te1       1.0  0.6796718220646094  0.7085298994294094  0.553836818744267  1.0000
+  Te  Te2       1.0  0.0289813254439654  0.32044314552392184  0.5538297622187958  1.0000
+  Te  Te3       1.0  0.2916043799851607  0.9711490678997221  0.5538331319017284  1.0000
+  Te  Te4       1.0  0.6796718220646015  0.9711419226352133  0.44616318125573395  1.0000
+  Te  Te5       1.0  0.29160437998516964  0.320455312085451  0.4461668680982726  1.0000
+  Te  Te6       1.0  0.02898132544396093  0.7085381799200493  0.44617023778120635  1.0000
+  Sc  Sc1       1.0  0.3334393777836652  0.6667196888918435  0.5  1.0000
+  As  As1       1.0  0.6667492487798986  0.3333687993426306  0.5377903125898187  1.0000
+  As  As2       1.0  0.6667492487798992  0.33338044943727685  0.4622096874101831  1.0000

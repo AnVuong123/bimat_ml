@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiNaBiCo2Na
+_chemical_formula_sum              "Bi2 Na2 Co2"
+_cell_length_a       4.422324307794984
+_cell_length_b       4.422324307794996
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.999881165582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9873660230607256  0.9873660230607126  0.4247614464793433  1.0000
+  Na  Na1       1.0  0.48732725969080476  0.4873272596908058  0.38809653490285084  1.0000
+  Bi  Bi2       1.0  0.4873977537973208  0.4873977537973203  0.5752374285306705  1.0000
+  Co  Co1       1.0  0.4874157191378838  0.9873481689899916  0.4999994035244758  1.0000
+  Co  Co2       1.0  0.987348168990003  0.48741571913788356  0.4999994035244758  1.0000
+  Na  Na2       1.0  0.9874347779721081  0.9874347779720918  0.6119020525515824  1.0000

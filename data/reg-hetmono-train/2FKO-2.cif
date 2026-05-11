@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       K2OFOF
+_chemical_formula_sum              "K2 O2 F2"
+_cell_length_a       5.347382075031942
+_cell_length_b       5.341353794129414
+_cell_length_c       18.615232076943553
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99444241006137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9650230576271761  0.9794261897864844  0.500473928773963  1.0000
+  K   K2        1.0  0.46558938542636263  0.4795071718449659  0.499535310912734  1.0000
+  O   O1        1.0  0.4651455838447517  0.9791956151338078  0.5288126726312893  1.0000
+  F   F1        1.0  0.4667413097075753  0.9784374406588747  0.44742527740144894  1.0000
+  O   O2        1.0  0.9652266988365111  0.47976512370548213  0.47117909524494644  1.0000
+  F   F2        1.0  0.9650663423523325  0.48038510429309383  0.5525653956613964  1.0000

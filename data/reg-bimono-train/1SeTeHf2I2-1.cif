@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfSeHfITeI
+_chemical_formula_sum              "Hf2 Se1 I2 Te1"
+_cell_length_a       3.8740915084802428
+_cell_length_b       6.951387054305254
+_cell_length_c       18.695449525386284
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.00631059612057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.22963512351878776  0.5890189405579005  0.5125429247243435  1.0000
+  Se  Se1       1.0  0.7296100702539788  0.4812628273147003  0.5986659176578176  1.0000
+  Hf  Hf2       1.0  0.729405484727179  0.19685662046472008  0.503944599404662  1.0000
+  I   I1        1.0  0.7297559830586676  0.8154967867430823  0.42240884622438474  1.0000
+  Te  Te1       1.0  0.22947102377347947  0.31202734177572317  0.40130343581281036  1.0000
+  I   I2        1.0  0.22919391087318378  0.9759352068818541  0.5955280573692897  1.0000

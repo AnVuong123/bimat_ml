@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2O2N4
+_chemical_formula_sum              "Na2 O2 N4"
+_cell_length_a       3.540646095422522
+_cell_length_b       5.315691419676941
+_cell_length_c       34.3578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.0  0.03450310026146528  0.5348355301791672  1.0000
+  Na  Na2       1.0  0.5000000000000034  0.5345031002614621  0.4651644698208272  1.0000
+  O   O1        1.0  0.0  0.829529371918031  0.47158293564504467  1.0000
+  O   O2        1.0  0.5000000000000034  0.3295293719180394  0.528417064354956  1.0000
+  N   N1        1.0  3.3110741630648725e-17  0.0016787550783309492  0.44315173984697337  1.0000
+  N   N2        1.0  0.5000000000000034  0.501678755078322  0.5568482601530224  1.0000
+  N   N3        1.0  1.517120502057224e-17  0.22424146140064444  0.444404030687759  1.0000
+  N   N4        1.0  0.5000000000000034  0.7242414614006397  0.5555959693122396  1.0000

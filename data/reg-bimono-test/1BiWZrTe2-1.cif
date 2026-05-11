@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TeWTeZrBi
+_chemical_formula_sum              "Te2 W1 Zr1 Bi1"
+_cell_length_a       4.758813371629654
+_cell_length_b       4.758769066208375
+_cell_length_c       19.271615414690352
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99889569173652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8272245994546338  0.837901219896597  0.38889629260102304  1.0000
+  W   W1        1.0  0.8271777816864354  0.8378949724094271  0.5370749140746474  1.0000
+  Te  Te2       1.0  0.49388170297119016  0.1712369800349023  0.6099204903799307  1.0000
+  Zr  Zr1       1.0  0.49386197914511104  0.171239951271946  0.4556620965405248  1.0000
+  Bi  Bi1       1.0  0.16047897820282045  0.5045278617975091  0.513075066369417  1.0000

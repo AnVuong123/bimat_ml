@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb2Fe2Se3I2Se
+_chemical_formula_sum              "Sb2 Fe2 Se4 I2"
+_cell_length_a       3.725483536665954
+_cell_length_b       12.111081660926105
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.0  0.25491888854501166  0.44357145545498855  1.0000
+  Sb  Sb2       1.0  0.9999999999999996  0.754918888544991  0.5564285445450066  1.0000
+  Fe  Fe1       1.0  0.5000000000000215  0.5198016994048402  0.492863074128302  1.0000
+  Fe  Fe2       1.0  0.5000000000000207  0.019801699404822026  0.5071369258716985  1.0000
+  Se  Se1       1.0  0.5000000000000234  0.31687401639498014  0.4940202671784445  1.0000
+  Se  Se2       1.0  0.5000000000000215  0.8168740163949871  0.5059797328215558  1.0000
+  Se  Se3       1.0  0.0  0.5456089788828046  0.5411473206837121  1.0000
+  I   I1        1.0  0.0  0.5639261969966008  0.43696315118440276  1.0000
+  I   I2        1.0  6.8741313174569405e-18  0.06392619699659483  0.5630368488156025  1.0000
+  Se  Se4       1.0  0.0  0.04560897888280593  0.45885267931627205  1.0000

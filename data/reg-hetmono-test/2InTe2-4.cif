@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In2Te4
+_chemical_formula_sum              "In2 Te4"
+_cell_length_a       7.4766602745362505
+_cell_length_b       7.691979376000078
+_cell_length_c       16.60002446309235
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.49999999999109196  0.9999999999818624  0.5000000000151038  1.0000
+  In  In2       1.0  0.9999999999899809  0.5000000000173631  0.49999999998645517  1.0000
+  Te  Te1       1.0  0.13264946924174553  0.13485643539408732  0.50138535978154  1.0000
+  Te  Te2       1.0  0.6326553247574376  0.3650146074798904  0.49851951742858236  1.0000
+  Te  Te3       1.0  0.867350530769698  0.8651435646385752  0.49861464021559326  1.0000
+  Te  Te4       1.0  0.3673446752518869  0.6349853924874961  0.501480482572888  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TeZrNiINi2IS
+_chemical_formula_sum              "Te1 Zr1 Ni3 I2 S1"
+_cell_length_a       3.9270399450222344
+_cell_length_b       6.132027771078169
+_cell_length_c       20.13870772258818
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.00556067876244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7426445565991998  0.8440103372379085  0.4237027836703261  1.0000
+  Zr  Zr1       1.0  0.2427065645737345  0.5725121086694338  0.5100899374317869  1.0000
+  Ni  Ni1       1.0  0.7428648813935208  0.27552822480856337  0.4520790524694727  1.0000
+  I   I1        1.0  0.24275677768573  0.3661050619098718  0.37241714330993403  1.0000
+  Ni  Ni2       1.0  0.7424254276767174  0.9742759224199469  0.5511011327682988  1.0000
+  Ni  Ni3       1.0  0.24269711877937478  0.019836733196688553  0.4757944300653136  1.0000
+  I   I2        1.0  0.24216552135288613  0.85546883813168  0.6275828566900659  1.0000
+  S   S1        1.0  0.7427247807269222  0.35511276251201446  0.5579947293614824  1.0000

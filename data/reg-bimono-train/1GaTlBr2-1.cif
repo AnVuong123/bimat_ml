@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrTlGaBr
+_chemical_formula_sum              "Br2 Tl1 Ga1"
+_cell_length_a       6.008555522108142
+_cell_length_b       5.933575880632745
+_cell_length_c       17.19840357309373
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    81.95223304676635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7930811045865661  0.33194010799344625  0.43608698726743883  1.0000
+  Tl  Tl1       1.0  0.29293926413129484  0.20624157486102485  0.4988484737134017  1.0000
+  Ga  Ga1       1.0  0.746936295185453  0.7509502704639468  0.5010264731160621  1.0000
+  Br  Br2       1.0  0.16219124478380587  0.7104014878372389  0.5639130127325612  1.0000

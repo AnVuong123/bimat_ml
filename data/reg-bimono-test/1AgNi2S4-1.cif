@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       S2AgNi2S2
+_chemical_formula_sum              "S4 Ag1 Ni2"
+_cell_length_a       3.3720759478222777
+_cell_length_b       3.37208401177101
+_cell_length_c       38.2051074
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99954146192042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.9999987994425894  2.561909431048143e-05  0.374810532978347  1.0000
+  S   S2        1.0  0.9999987994425893  2.5619094310333506e-05  0.6251894670216535  1.0000
+  Ag  Ag1       1.0  0.33331723953482306  0.6666849333490543  0.5  1.0000
+  Ni  Ni1       1.0  0.666665835247837  0.33337244863002924  0.4061759700724372  1.0000
+  Ni  Ni2       1.0  0.666665835247837  0.33337244863002924  0.5938240299275617  1.0000
+  S   S3        1.0  0.3333280158420004  0.6667081091156392  0.5631225425598025  1.0000
+  S   S4        1.0  0.3333280158420004  0.6667081091156392  0.43687745744019746  1.0000

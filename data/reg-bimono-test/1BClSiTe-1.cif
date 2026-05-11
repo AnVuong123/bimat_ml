@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiBTeCl
+_chemical_formula_sum              "Si1 B1 Te1 Cl1"
+_cell_length_a       3.573808064883765
+_cell_length_b       3.725298968397536
+_cell_length_c       18.664435236591157
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    87.19188804787316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.6378688146406334  0.7801917208020619  0.48794195801946677  1.0000
+  B   B1        1.0  0.5672386750853627  0.2911236588250517  0.5260839304341824  1.0000
+  Te  Te1       1.0  0.06742782908031998  0.437229094037013  0.5981662501474229  1.0000
+  Cl  Cl1       1.0  0.043449564973625066  0.8163008862383635  0.40183374985257725  1.0000

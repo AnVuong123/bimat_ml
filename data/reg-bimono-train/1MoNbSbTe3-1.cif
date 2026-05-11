@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeNbMoSbTe2
+_chemical_formula_sum              "Te3 Nb1 Mo1 Sb1"
+_cell_length_a       4.715717565511741
+_cell_length_b       4.694713814138721
+_cell_length_c       18.455868534354682
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99444324507934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.749738289974536  0.7480822245195715  0.40683252008903315  1.0000
+  Nb  Nb1       1.0  0.24983838866683164  0.7481964717596608  0.4965827899849983  1.0000
+  Mo  Mo1       1.0  0.7497732752176745  0.2482033353431247  0.4965157580487912  1.0000
+  Sb  Sb1       1.0  0.2501411974597724  0.2483183063050271  0.5933148603406299  1.0000
+  Te  Te2       1.0  0.24976706099418414  0.24815171098104882  0.40956723133109457  1.0000
+  Te  Te3       1.0  0.7499871305693779  0.7482404774571474  0.5900414803934395  1.0000

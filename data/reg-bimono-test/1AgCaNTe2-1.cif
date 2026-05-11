@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaTeAgTeN
+_chemical_formula_sum              "Ca1 Te2 Ag1 N1"
+_cell_length_a       3.8344164851004603
+_cell_length_b       3.5259389008765756
+_cell_length_c       20.452551385580385
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.97471296301251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8556581016956324  0.45807367565903373  0.47153817747341226  1.0000
+  Te  Te1       1.0  0.3552563699939496  0.958118912363879  0.36672157141728506  1.0000
+  Ag  Ag1       1.0  0.3550160187764178  0.956921157218005  0.5817304022483768  1.0000
+  Te  Te2       1.0  0.8551126417186801  0.4569920151086325  0.6341255609912776  1.0000
+  N   N1        1.0  0.3562671148821171  0.9583707521768894  0.4664421906769342  1.0000

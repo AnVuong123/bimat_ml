@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SBrSMnCrIBrI
+_chemical_formula_sum              "S2 Br2 Mn1 Cr1 I2"
+_cell_length_a       4.6353639387135575
+_cell_length_b       6.475491589758878
+_cell_length_c       21.127249487846502
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.96709052367892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.532528625422017  0.5306008899970859  0.5206642796174362  1.0000
+  Br  Br1       1.0  0.08252313626892979  0.6282420150941972  0.6450082153706573  1.0000
+  S   S2        1.0  0.1835975165020487  0.8337387734687008  0.4898244671296484  1.0000
+  Mn  Mn1       1.0  0.01601350693297091  0.49732680477860536  0.5396496079658846  1.0000
+  Cr  Cr1       1.0  0.7005784526923738  0.8671169803945549  0.4742494662207223  1.0000
+  I   I1        1.0  0.649794431004539  0.7708792643381231  0.35499178462934283  1.0000
+  Br  Br2       1.0  0.9043555730603349  0.27519609090431063  0.43633624014736355  1.0000
+  I   I2        1.0  0.8121558313282493  0.09029683139033902  0.5908476550688962  1.0000

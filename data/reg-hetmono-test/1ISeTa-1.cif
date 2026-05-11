@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SeTaI
+_chemical_formula_sum              "Se1 Ta1 I1"
+_cell_length_a       3.575425895276021
+_cell_length_b       3.5754565906605023
+_cell_length_c       18.611354321577334
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00872810912058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.4992406550443913  0.16859879259659089  0.4029798084766335  1.0000
+  Ta  Ta1       1.0  0.8327282835970541  0.8355360590584906  0.4883886580171171  1.0000
+  I   I1        1.0  0.16535200457300286  0.5018267717902234  0.5970201915233665  1.0000

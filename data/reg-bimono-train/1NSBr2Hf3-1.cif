@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NSHf3Br2
+_chemical_formula_sum              "N1 S1 Hf3 Br2"
+_cell_length_a       5.660750495497252
+_cell_length_b       3.351832776723269
+_cell_length_c       21.72889361467526
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    107.26634493438024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.42550239382710814  0.4526683300798182  0.44519253126095865  1.0000
+  S   S1        1.0  0.2635940308145499  0.8720628052023003  0.5771317074839928  1.0000
+  Hf  Hf1       1.0  0.590861551313696  0.5358863629117638  0.5462087867298061  1.0000
+  Hf  Hf2       1.0  0.6849153390743865  0.08318851432432814  0.4243586403491275  1.0000
+  Hf  Hf3       1.0  0.17331234657369138  0.8258065256854988  0.46886090063121477  1.0000
+  Br  Br1       1.0  0.9322441687105721  0.7066136012606642  0.3451625348717547  1.0000
+  Br  Br2       1.0  0.7471567757386928  0.6233636163771721  0.654837465128245  1.0000

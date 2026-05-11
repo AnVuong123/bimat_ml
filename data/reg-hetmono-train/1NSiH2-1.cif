@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SiNH2
+_chemical_formula_sum              "Si1 N1 H2"
+_cell_length_a       3.3326130836714243
+_cell_length_b       3.3326130836716263
+_cell_length_c       16.716
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  1.3322676295501878e-15  0.9999999999999966  0.49595204526962494  1.0000
+  N   N1        1.0  0.33333333212492766  0.6666666666666667  0.5180893690965105  1.0000
+  H   H1        1.0  7.262258102902994e-17  1.6266495022311186e-18  0.40656379647592067  1.0000
+  H   H2        1.0  0.33333333212492766  0.6666666666666667  0.5794893943887321  1.0000

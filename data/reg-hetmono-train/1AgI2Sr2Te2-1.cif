@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgTe2SrISrI
+_chemical_formula_sum              "Ag1 Te2 Sr2 I2"
+_cell_length_a       5.439843124870495
+_cell_length_b       5.439843124870412
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    77.56980763723791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9529151531175433  0.9529151531175479  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4551999431346776  0.9414548830431427  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9414548830431331  0.4551999431346879  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.4259829842767693  0.4259829842767721  0.39641033180196666  1.0000
+  I   I1        1.0  0.058440364186834126  0.0584403641868338  0.3290920747919009  1.0000
+  Sr  Sr2       1.0  0.4259829842847212  0.4259829842847279  0.6035896681791345  1.0000
+  I   I2        1.0  0.05844036420588806  0.058440364205888065  0.6709079252004176  1.0000

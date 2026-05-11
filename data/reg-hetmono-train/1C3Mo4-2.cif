@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo4C3
+_chemical_formula_sum              "Mo4 C3"
+_cell_length_a       3.045208887914772
+_cell_length_b       3.045208887914665
+_cell_length_c       21.472824178515083
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.3333333333333251  0.6666666666666513  0.41723625213369564  1.0000
+  Mo  Mo2       1.0  0.66666666666669  0.33333333333333326  0.5279966944785064  1.0000
+  Mo  Mo3       1.0  4.440892098500626e-16  1.3322676295501878e-15  0.3061559819145609  1.0000
+  Mo  Mo4       1.0  1.1459554545424708e-15  0.9999999999999997  0.6390374888865594  1.0000
+  C   C1        1.0  4.1819395265233424e-16  4.01992735564815e-16  0.4726223727734227  1.0000
+  C   C2        1.0  0.6666666666666662  0.3333333333333331  0.26289899075551526  1.0000
+  C   C3        1.0  0.3333333333333126  0.666666666666666  0.6822811400926251  1.0000

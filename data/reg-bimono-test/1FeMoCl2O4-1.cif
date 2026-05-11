@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OFeOClMoO2Cl
+_chemical_formula_sum              "O4 Fe1 Cl2 Mo1"
+_cell_length_a       4.847271799280837
+_cell_length_b       4.846131806260059
+_cell_length_c       19.11360265381265
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    96.50331443663319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.37874171231497233  0.6380555591704337  0.49388052359501106  1.0000
+  Fe  Fe1       1.0  0.12375964601985404  0.8848870057628142  0.47694463080672544  1.0000
+  O   O2        1.0  0.3640093353132079  0.12512935696109012  0.5458741706832835  1.0000
+  Cl  Cl1       1.0  0.8165739129560462  0.5786169495637097  0.6076037128259332  1.0000
+  Mo  Mo1       1.0  0.6122566082288449  0.3734401301390112  0.5094332824636657  1.0000
+  O   O3        1.0  0.8806182125474976  0.6418703597437703  0.44108638910270037  1.0000
+  O   O4        1.0  0.8768929721310766  0.1400673364202106  0.49401507990879173  1.0000
+  Cl  Cl2       1.0  0.39495744082530665  0.1558860007251129  0.3923741512664663  1.0000

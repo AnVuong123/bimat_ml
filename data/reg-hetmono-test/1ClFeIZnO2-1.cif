@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnClIOFeO
+_chemical_formula_sum              "Zn1 Cl1 I1 O2 Fe1"
+_cell_length_a       3.505939940750582
+_cell_length_b       3.6517570790260905
+_cell_length_c       20.720990478957283
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99854365325002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.24864237084793064  0.7482831800811763  0.4332957830835997  1.0000
+  Cl  Cl1       1.0  0.7486073672795452  0.7515027123870596  0.3618879157375773  1.0000
+  I   I1        1.0  0.25714226559996917  0.24775790200939354  0.6379773118449296  1.0000
+  O   O1        1.0  0.7502444273945307  0.748377892769196  0.5246727161674807  1.0000
+  Fe  Fe1       1.0  0.7497963016691325  0.2483719083888574  0.5277389573512887  1.0000
+  O   O2        1.0  0.24927073107000544  0.24856996941757098  0.47938149339470665  1.0000

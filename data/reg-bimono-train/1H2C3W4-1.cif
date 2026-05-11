@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       W4C3H2
+_chemical_formula_sum              "W4 C3 H2"
+_cell_length_a       3.1140850914779525
+_cell_length_b       3.114085091477927
+_cell_length_c       24.915693862083256
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.33333333333333026  0.6666666666666657  0.4465423656229872  1.0000
+  W   W2        1.0  0.6666666666666633  0.3333333333333333  0.5537880956416232  1.0000
+  W   W3        1.0  1.1261582241021418e-17  1.8651491783717057e-17  0.35702166822287196  1.0000
+  W   W4        1.0  0.0  0.0  0.6433099858021593  1.0000
+  C   C1        1.0  2.8235129651411478e-18  7.148250803244555e-18  0.5001652944558372  1.0000
+  C   C2        1.0  0.6666666666666633  0.3333333333333333  0.3967757938747623  1.0000
+  C   C3        1.0  0.33333333333333026  0.6666666666666657  0.6035559978033894  1.0000
+  H   H1        1.0  0.6666666666666633  0.3333333333333333  0.6885290390208775  1.0000
+  H   H2        1.0  0.33333333333333026  0.6666666666666657  0.31180671099582835  1.0000

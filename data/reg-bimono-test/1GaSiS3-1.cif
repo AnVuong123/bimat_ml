@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GaSiS3
+_chemical_formula_sum              "Ga1 Si1 S3"
+_cell_length_a       6.521903976563744
+_cell_length_b       6.522150941584348
+_cell_length_c       31.887703586999997
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00082629172279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  3.087586067142785e-05  0.9999712874157949  0.512698690357261  1.0000
+  Si  Si1       1.0  0.6666904541939678  0.33330797706536075  0.5132031375475531  1.0000
+  S   S1        1.0  0.006715088689926091  0.39002054203346964  0.5132242928653357  1.0000
+  S   S2        1.0  0.38338103657066464  0.9932933125971645  0.5132304052311076  1.0000
+  S   S3        1.0  0.6099826493849677  0.6166067594942936  0.5132271233879162  1.0000

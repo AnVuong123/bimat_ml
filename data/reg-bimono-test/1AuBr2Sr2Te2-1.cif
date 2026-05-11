@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuTe2SrBrSrBr
+_chemical_formula_sum              "Au1 Te2 Sr2 Br2"
+_cell_length_a       5.395605663873979
+_cell_length_b       5.395605663874009
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    102.50565114571718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.023669843734985152  0.023669843734711593  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4956888079568705  0.9132199987833189  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.9132199987834339  0.49568880795693715  0.4999999999929247  1.0000
+  Sr  Sr1       1.0  0.41108407013389636  0.4110840701338324  0.3960518707743863  1.0000
+  Br  Br1       1.0  0.03160714540423612  0.03160714540422915  0.33022434747202983  1.0000
+  Sr  Sr2       1.0  0.411084070141731  0.41108407014171666  0.6039481292067148  1.0000
+  Br  Br2       1.0  0.031607145423292196  0.03160714542329446  0.6697756525202679  1.0000

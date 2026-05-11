@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeGeInAgBrIn
+_chemical_formula_sum              "Te1 Ge1 In2 Ag1 Br1"
+_cell_length_a       4.1345786524731825
+_cell_length_b       4.627819997509346
+_cell_length_c       22.21758525650334
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00909382792582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.24852916734806238  0.25087071014037504  0.6624295613851797  1.0000
+  Ge  Ge1       1.0  0.7496136279901906  0.7526751416706357  0.4926481755567334  1.0000
+  In  In1       1.0  0.7486484085856893  0.2522461815440658  0.5740753771344708  1.0000
+  Ag  Ag1       1.0  0.24976459563402728  0.7513323592360768  0.5743062557772648  1.0000
+  Br  Br1       1.0  0.2517007482956704  0.2565719230066955  0.3375704386148204  1.0000
+  In  In2       1.0  0.75201388132303  0.2530459941502432  0.4205913307121219  1.0000

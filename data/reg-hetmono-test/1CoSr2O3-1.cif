@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoO3Sr2
+_chemical_formula_sum              "Co1 O3 Sr2"
+_cell_length_a       3.5766393654015
+_cell_length_b       3.5766393654015256
+_cell_length_c       34.787520661806894
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.4249138223489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.91320830630947  0.08679169369052984  0.5000489689864821  1.0000
+  O   O1        1.0  0.5339152483996017  0.4660847516004064  0.5000500300458773  1.0000
+  O   O2        1.0  0.9628745645549123  0.037125435445088874  0.5583278468509928  1.0000
+  O   O3        1.0  0.9627988837247352  0.03720111627526943  0.4417666683276448  1.0000
+  Sr  Sr1       1.0  0.45195223807627144  0.5480477619237248  0.5640737214608026  1.0000
+  Sr  Sr2       1.0  0.45188063405331447  0.548119365946687  0.4360293988344609  1.0000

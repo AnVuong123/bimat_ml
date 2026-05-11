@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SInSb2NaS5
+_chemical_formula_sum              "S6 In1 Sb2 Na1"
+_cell_length_a       7.08846990219988
+_cell_length_b       7.088469902199906
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.91560105326519
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3192841216966946  0.034056597117814  0.4527148152053773  1.0000
+  In  In1       1.0  0.004929051887853488  0.9950709481121472  0.5  1.0000
+  Sb  Sb1       1.0  0.491452711471031  0.8472350246576328  0.48602400670695545  1.0000
+  Sb  Sb2       1.0  0.15276497534236855  0.5085472885289758  0.5139759932930444  1.0000
+  Na  Na1       1.0  0.6283855106033713  0.3716144893966323  0.5  1.0000
+  S   S2        1.0  0.7235284883305263  0.7549280567279516  0.4477566471228411  1.0000
+  S   S3        1.0  0.24507194327204407  0.2764715116694785  0.5522433528771586  1.0000
+  S   S4        1.0  0.6821675833238874  0.013488547982258847  0.5423430299873702  1.0000
+  S   S5        1.0  0.9865114520177506  0.31783241667612583  0.4576569700126326  1.0000
+  S   S6        1.0  0.9659434028821923  0.6807158783033085  0.5472851847946238  1.0000

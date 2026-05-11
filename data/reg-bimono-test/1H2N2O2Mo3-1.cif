@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo3N2O2H2
+_chemical_formula_sum              "Mo3 N2 O2 H2"
+_cell_length_a       2.8504238307461645
+_cell_length_b       2.8504238307461587
+_cell_length_c       25.446239163396843
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  5.464186233962315e-16  5.470983483896856e-16  0.49999924405788304  1.0000
+  Mo  Mo2       1.0  0.6666666666666666  0.3333333333333336  0.6122185556596488  1.0000
+  Mo  Mo3       1.0  0.6666666666666664  0.3333333333333333  0.3877842209318434  1.0000
+  N   N1        1.0  0.33333333333333176  0.6666666666666665  0.553331146525781  1.0000
+  N   N2        1.0  0.33333333333333154  0.6666666666666663  0.4466728655011617  1.0000
+  O   O1        1.0  7.289375988199912e-16  7.294967087228031e-16  0.6674330647351996  1.0000
+  O   O2        1.0  3.643184740464257e-16  3.642056489253955e-16  0.33256730235857956  1.0000
+  H   H1        1.0  7.703352632985231e-16  7.703652354890589e-16  0.706041539037059  1.0000
+  H   H2        1.0  3.2170720072778386e-16  3.215757954097284e-16  0.29396158999042493  1.0000

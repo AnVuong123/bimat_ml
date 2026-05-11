@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrOIPdCuO
+_chemical_formula_sum              "Br1 O2 I1 Pd1 Cu1"
+_cell_length_a       3.4513197472810138
+_cell_length_b       3.9716076056550325
+_cell_length_c       20.643106965534912
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0064106960497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.814524502639974  0.7480487212265284  0.6368433618089215  1.0000
+  O   O1        1.0  0.22318029683602242  0.24848206911515433  0.5252172823825008  1.0000
+  I   I1        1.0  0.22408806352996677  0.24865346526769425  0.3630169211324692  1.0000
+  Pd  Pd1       1.0  0.7246851184757459  0.2486096971939794  0.461865524529351  1.0000
+  Cu  Cu1       1.0  0.2784515835020951  0.7484574414236572  0.5515752600733903  1.0000
+  O   O2        1.0  0.702680705846264  0.7485678244591496  0.4861894755471149  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrITiW
+_chemical_formula_sum              "Br1 I1 Ti1 W1"
+_cell_length_a       3.5707260518711825
+_cell_length_b       3.5713314397982288
+_cell_length_c       19.601578540959352
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    101.90185804819839
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.33547167626095686  0.6626508239088895  0.617292149222383  1.0000
+  I   I1        1.0  0.6582883506829363  0.33979614614481174  0.38284294591865875  1.0000
+  Ti  Ti1       1.0  0.7183555772892054  0.27983865862630286  0.5386072473047755  1.0000
+  W   W1        1.0  0.2915204628830466  0.7066367190061531  0.47522706678403753  1.0000

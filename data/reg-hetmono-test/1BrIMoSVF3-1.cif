@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FSMoFBrVIF
+_chemical_formula_sum              "F3 S1 Mo1 Br1 V1 I1"
+_cell_length_a       5.227151591536359
+_cell_length_b       4.850980579132853
+_cell_length_c       20.748832355930336
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.54493989414712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8844180575735896  0.04693141681758522  0.5628538316324125  1.0000
+  S   S1        1.0  0.5097582561344131  0.37934710719953335  0.531451755248361  1.0000
+  Mo  Mo1       1.0  0.12894976744602218  0.09591445733376093  0.48382240511422414  1.0000
+  F   F2        1.0  0.13473179685676256  0.681300717585853  0.4894011885794794  1.0000
+  Br  Br1       1.0  0.32221522239177836  0.7766551211849132  0.6385338764445516  1.0000
+  V   V1        1.0  0.49043123413354084  0.9140500441948117  0.5331511932188395  1.0000
+  I   I1        1.0  0.25034825897779805  0.19359422201023552  0.36146612355544844  1.0000
+  F   F3        1.0  0.7103508295104038  0.9169122707968972  0.45469640840547826  1.0000

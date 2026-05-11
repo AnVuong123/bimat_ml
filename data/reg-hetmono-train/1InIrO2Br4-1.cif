@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrOBrOInBrIrBr
+_chemical_formula_sum              "Br4 O2 In1 Ir1"
+_cell_length_a       5.539710626179707
+_cell_length_b       5.540932702730397
+_cell_length_c       18.59246019798247
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.58709246446077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.11767817812732588  0.60912675455748  0.40343165447154866  1.0000
+  O   O1        1.0  0.6524742142022697  0.611996096733327  0.5001392551122489  1.0000
+  Br  Br2       1.0  0.6569883930788901  0.14696732315319908  0.40338932664832866  1.0000
+  O   O2        1.0  0.12324978585027009  0.14285234748713896  0.49961367956476566  1.0000
+  In  In1       1.0  0.38789437319885633  0.8774430920389314  0.5000205891458096  1.0000
+  Br  Br3       1.0  0.11878137434365225  0.6075940844024872  0.5966106733516711  1.0000
+  Ir  Ir1       1.0  0.8879067921699211  0.3774556543345085  0.4999569704021045  1.0000
+  Br  Br4       1.0  0.6581016357025063  0.14563721153672637  0.5965245997604488  1.0000

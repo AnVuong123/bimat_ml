@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SnSeSSnSeSnS
+_chemical_formula_sum              "Sn3 Se2 S2"
+_cell_length_a       5.80850667311014
+_cell_length_b       5.4590202583590175
+_cell_length_c       18.578747119664474
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01466027135622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.31748508927614  0.7496337856718235  0.4170449736740212  1.0000
+  Se  Se1       1.0  0.21304506324798567  0.2495706998121916  0.4036870705916281  1.0000
+  S   S1        1.0  0.23860604711142605  0.749391912515558  0.5579377260585918  1.0000
+  Sn  Sn2       1.0  0.23168772315016448  0.24961202646407799  0.5494211864814073  1.0000
+  Se  Se2       1.0  0.7451854036403691  0.2490943484068614  0.5963129294083721  1.0000
+  Sn  Sn3       1.0  0.7648384997916462  0.7493272232940639  0.5577733809914569  1.0000
+  S   S2        1.0  0.7447897900115066  0.750129280893912  0.42612447928296776  1.0000

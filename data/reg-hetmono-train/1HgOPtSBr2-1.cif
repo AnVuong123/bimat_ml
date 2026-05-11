@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OSHgPtBr2
+_chemical_formula_sum              "O1 S1 Hg1 Pt1 Br2"
+_cell_length_a       3.762517424318085
+_cell_length_b       4.072448706929259
+_cell_length_c       21.575317858896042
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99874374303617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.24409817562104907  0.7525146987526428  0.5516059286549881  1.0000
+  S   S1        1.0  0.7448218206766362  0.25314959316075275  0.5052382770498803  1.0000
+  Hg  Hg1       1.0  0.7521666974511848  0.7538024037227996  0.4362153653172155  1.0000
+  Pt  Pt1       1.0  0.24447041311873713  0.25238645833450024  0.5719629719431656  1.0000
+  Br  Br1       1.0  0.2503262572190688  0.7505303840622667  0.34761006430808034  1.0000
+  Br  Br2       1.0  0.7443932313591503  0.25187715250766113  0.6523937666711425  1.0000

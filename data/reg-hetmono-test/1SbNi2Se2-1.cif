@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2SbSe2
+_chemical_formula_sum              "Ni2 Sb1 Se2"
+_cell_length_a       3.775446216934595
+_cell_length_b       3.77539887515994
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00043055285184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999986127601428  2.5649026986902596e-07  0.46071833762817915  1.0000
+  Ni  Ni2       1.0  0.9999993109769021  2.712277821383846e-07  0.5392815866659365  1.0000
+  Sb  Sb1       1.0  0.6666607584382881  0.3333231950377492  0.4999999927931242  1.0000
+  Se  Se1       1.0  0.3333352807892413  0.6666731515863914  0.4305353015338987  1.0000
+  Se  Se2       1.0  0.33333593830442343  0.6666731539217975  0.5694647159292535  1.0000

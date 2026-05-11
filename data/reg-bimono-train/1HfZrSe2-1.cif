@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfSeZrSe
+_chemical_formula_sum              "Hf1 Se2 Zr1"
+_cell_length_a       3.6148303512934032
+_cell_length_b       3.584232189324305
+_cell_length_c       18.897565467704418
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01933522150877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.23423946619753025  0.7540713852860395  0.5468744135888503  1.0000
+  Se  Se1       1.0  0.736033066424278  0.2534865258794984  0.6031796451552438  1.0000
+  Zr  Zr1       1.0  0.7622517887842988  0.2469065870209912  0.45071839388134  1.0000
+  Se  Se2       1.0  0.26044454873827255  0.7475800307567617  0.39683544939417337  1.0000

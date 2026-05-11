@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co5InCl2
+_chemical_formula_sum              "Co5 In1 Cl2"
+_cell_length_a       3.611995062051491
+_cell_length_b       3.6119950620514727
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000009321126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0173049986248025  0.01730499862480245  0.5000037673811292  1.0000
+  Co  Co2       1.0  0.5172534781053726  0.01728767487639533  0.41079292566015047  1.0000
+  Co  Co3       1.0  0.017287674876395338  0.5172534781053718  0.41079292566015047  1.0000
+  Co  Co4       1.0  0.5172534957019627  0.01728808301743403  0.5892329273932235  1.0000
+  Co  Co5       1.0  0.017288083017433998  0.5172534957019627  0.5892329273932235  1.0000
+  In  In1       1.0  0.5172751080153087  0.5172751080153091  0.5000009740902964  1.0000
+  Cl  Cl1       1.0  0.01728440369877746  0.01728440369877736  0.34062821846111063  1.0000
+  Cl  Cl2       1.0  0.017286455832308183  0.01728645583230822  0.6593723037771406  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Re2Br6
+_chemical_formula_sum              "Re2 Br6"
+_cell_length_a       6.072470401908633
+_cell_length_b       6.072470401908632
+_cell_length_c       18.208035782009667
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.6666666666666669  0.33333333333333354  0.5000309313498998  1.0000
+  Re  Re2       1.0  0.3333333333333332  0.6666666666666671  0.4999691232984949  1.0000
+  Br  Br1       1.0  0.3461600095313445  0.9999651165522326  0.4112742982139615  1.0000
+  Br  Br2       1.0  0.6538051070208905  0.6538399904686588  0.4112742982139615  1.0000
+  Br  Br3       1.0  3.488344776644177e-05  0.3461948929791092  0.4112742982139615  1.0000
+  Br  Br4       1.0  0.34619574068544506  3.6498128090438296e-05  0.5887256889815323  1.0000
+  Br  Br5       1.0  0.6538407574426434  0.6538042593145514  0.5887256889815323  1.0000
+  Br  Br6       1.0  0.9999635018719096  0.34615924255735586  0.5887256889815323  1.0000

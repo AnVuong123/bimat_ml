@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Co2F2Co2
+_chemical_formula_sum              "F4 Co4"
+_cell_length_a       2.730038474231431
+_cell_length_b       2.7288908669953487
+_cell_length_c       29.331461307794598
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01391228231337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0001111317019223639  0.0005856135951293836  0.24519457842657186  1.0000
+  F   F2        1.0  0.3332462255415216  0.6659269799596056  0.397783579466579  1.0000
+  Co  Co1       1.0  0.00017948318274223563  0.9997533737597676  0.3541788829061619  1.0000
+  Co  Co2       1.0  0.33322053353229475  0.6668217950614841  0.28879744452926187  1.0000
+  F   F3        1.0  0.0001111317019223639  0.0005856135951293836  0.48576504663317466  1.0000
+  F   F4        1.0  0.6669760389171064  0.3352442483696528  0.6383540476731818  1.0000
+  Co  Co3       1.0  4.278282583875816e-05  0.0014178545694906906  0.5947493511127647  1.0000
+  Co  Co4       1.0  0.6670017309263334  0.3343494332677742  0.5293679123949337  1.0000

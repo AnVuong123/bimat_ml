@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SbCuBrSbS2BrSBrI
+_chemical_formula_sum              "Sb2 Cu1 Br3 S3 I1"
+_cell_length_a       7.679467119114525
+_cell_length_b       4.91470870519189
+_cell_length_c       21.80639617460724
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.50230104686678
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.2596663773388559  0.31651122975362417  0.5458084624328258  1.0000
+  Cu  Cu1       1.0  0.09855664851469612  0.7323768290058432  0.43442351307043314  1.0000
+  Br  Br1       1.0  0.8578447075117391  0.5765270291963445  0.35827851833801894  1.0000
+  Sb  Sb2       1.0  0.6359699758264853  0.11737547416117722  0.4328217521373486  1.0000
+  S   S1        1.0  0.5819972595997923  0.5086942989404006  0.49190889112907005  1.0000
+  S   S2        1.0  0.08704210853277862  0.22950135685918874  0.4467003831456846  1.0000
+  Br  Br2       1.0  0.3956685818786982  0.9714989385212541  0.34333154877446376  1.0000
+  S   S3        1.0  0.2948245311531689  0.8389538326402123  0.5125487875734324  1.0000
+  Br  Br3       1.0  0.9526739869756671  0.13590489251430785  0.6063567866462036  1.0000
+  I   I1        1.0  0.4580953549032068  0.4552031815908765  0.6558382642880953  1.0000

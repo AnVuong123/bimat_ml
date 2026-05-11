@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrIMoBrTeBrOsBr
+_chemical_formula_sum              "Br4 I1 Mo1 Te1 Os1"
+_cell_length_a       6.251019394342342
+_cell_length_b       6.296713976332853
+_cell_length_c       18.524696953069018
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.3104544258353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.17269115347905542  0.836594587859501  0.5708494999465835  1.0000
+  I   I1        1.0  0.5055460332580272  0.49175183351819574  0.5823725437059687  1.0000
+  Mo  Mo1       1.0  0.5433722831719602  0.13241905846068205  0.4982056435972626  1.0000
+  Br  Br2       1.0  0.8421733716300039  0.5080744617249421  0.42738095872238446  1.0000
+  Te  Te1       1.0  0.17378959498572263  0.1631580823661991  0.4221793131946496  1.0000
+  Br  Br3       1.0  0.8354434063955082  0.13879497307534963  0.5951350772970425  1.0000
+  Os  Os1       1.0  0.8327623712567994  0.8612606902746128  0.4989805142763111  1.0000
+  Br  Br4       1.0  0.5336748749923267  0.8390444050009648  0.40486492270295743  1.0000

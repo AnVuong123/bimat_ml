@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       O2BaTa2O5
+_chemical_formula_sum              "O7 Ba1 Ta2"
+_cell_length_a       4.013484596158646
+_cell_length_b       4.013484596158653
+_cell_length_c       38.17133338240001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.0  0.0  0.39250531210326317  1.0000
+  O   O2        1.0  2.097780846236538e-17  0.0  0.6074946878967382  1.0000
+  Ba  Ba1       1.0  0.5000000000000001  0.49999999999999944  0.4999999999999998  1.0000
+  Ta  Ta1       1.0  9.897669639469709e-19  0.0  0.43992357872674404  1.0000
+  Ta  Ta2       1.0  0.0  0.0  0.5600764212732556  1.0000
+  O   O3        1.0  1.1125426745341134e-18  1.6903662463213444e-19  0.4999999999999998  1.0000
+  O   O4        1.0  2.553720115898958e-22  0.49999999999999944  0.44661557983958555  1.0000
+  O   O5        1.0  0.5000000000000001  8.969112999559497e-19  0.44661557983958555  1.0000
+  O   O6        1.0  3.205329314866699e-19  0.49999999999999944  0.553384420160414  1.0000
+  O   O7        1.0  0.5000000000000001  5.048914461001939e-19  0.553384420160414  1.0000

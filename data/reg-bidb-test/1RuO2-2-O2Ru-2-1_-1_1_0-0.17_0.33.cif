@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuO2RuO2
+_chemical_formula_sum              "Ru2 O4"
+_cell_length_a       2.907563311985136
+_cell_length_b       2.907563311985136
+_cell_length_c       22.322991948053684
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  5.272464397936534e-22  0.0  0.38820252366554137  1.0000
+  O   O1        1.0  0.6666666679595112  0.3333333331624656  0.4404285721590834  1.0000
+  O   O2        1.0  0.6666666679595112  0.3333333331624656  0.33597646845247  1.0000
+  Ru  Ru2       1.0  0.1666666665812328  0.3333333331624656  0.6117974826932082  1.0000
+  O   O3        1.0  0.5000000013782785  0.0  0.6640235316347188  1.0000
+  O   O4        1.0  0.5000000013782785  0.0  0.5595714274801368  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SnBrOH
+_chemical_formula_sum              "Sn1 Br1 O1 H1"
+_cell_length_a       4.096625272345283
+_cell_length_b       4.093319993644255
+_cell_length_c       18.771272254946822
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.10012368175269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.16480421479254995  0.15827411600386687  0.4982280353293523  1.0000
+  Br  Br1       1.0  0.8335945136355946  0.48766131051305317  0.39954670616550847  1.0000
+  O   O1        1.0  0.500734875909035  0.8215545384376615  0.5485053637364882  1.0000
+  H   H1        1.0  0.5008223633010669  0.8203891458594733  0.6004532938344915  1.0000

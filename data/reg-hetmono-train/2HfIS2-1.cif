@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ISHfSHfIS2
+_chemical_formula_sum              "I2 S4 Hf2"
+_cell_length_a       5.025781149418055
+_cell_length_b       6.3717001003363825
+_cell_length_c       21.292158288530675
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.55575724423556
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7640262977503172  0.5225006115950381  0.6475877021431401  1.0000
+  S   S1        1.0  0.8359917741547988  0.6759023029757724  0.4714473841819998  1.0000
+  Hf  Hf1       1.0  0.6358249023645727  0.28038946302302237  0.5305731406565407  1.0000
+  S   S2        1.0  0.16172782679339678  0.32995174026712454  0.5286427833836245  1.0000
+  Hf  Hf2       1.0  0.36174689228808027  0.7254432094324417  0.4695682668892074  1.0000
+  I   I2        1.0  0.23372168667196502  0.4832997241679779  0.3525891758840381  1.0000
+  S   S3        1.0  0.5541880440896015  0.10878537160065857  0.4235144712837642  1.0000
+  S   S4        1.0  0.44443360636785173  0.8970462453686996  0.5766208837929293  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiIOTiPdINO
+_chemical_formula_sum              "Ti2 I2 O2 Pd1 N1"
+_cell_length_a       3.336920861201436
+_cell_length_b       3.8845518675789683
+_cell_length_c       23.59623522970391
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    89.97236853765116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.7532610582825164  0.7877997701145184  0.5095708367741393  1.0000
+  I   I1        1.0  0.7542076590807703  0.2810093035202982  0.6821618111159438  1.0000
+  O   O1        1.0  0.25383591996190663  0.7835315999790995  0.579260538607103  1.0000
+  Ti  Ti2       1.0  0.2539746871831807  0.2849556396005267  0.5862373775228853  1.0000
+  Pd  Pd1       1.0  0.24529256486366405  0.058498796312969996  0.39478699636816833  1.0000
+  I   I2        1.0  0.7453007776748857  0.28016409529322117  0.3177104458859268  1.0000
+  N   N1        1.0  0.7537375194999479  0.28134198734729243  0.5389969872902709  1.0000
+  O   O2        1.0  0.25293514697197733  0.7611074435428953  0.4707879389493098  1.0000

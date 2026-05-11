@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       H2Ru2
+_chemical_formula_sum              "H2 Ru2"
+_cell_length_a       2.6782039942362132
+_cell_length_b       2.678497114489398
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01749029042318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.660914823134049  0.32757231826755095  0.3560503390928373  1.0000
+  H   H2        1.0  0.9925879966089103  0.9946486118276587  0.6392877630705882  1.0000
+  Ru  Ru1       1.0  0.9931984181067415  0.994471709591001  0.5531126906582917  1.0000
+  Ru  Ru2       1.0  0.6602797024118003  0.32770743045038225  0.44222546397182433  1.0000

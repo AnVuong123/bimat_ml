@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2Te4H2
+_chemical_formula_sum              "Fe2 Te4 H2"
+_cell_length_a       3.539989428726873
+_cell_length_b       5.10920169897882
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.96780018175478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9234797299402422  0.9570548232010913  0.5594028975105901  1.0000
+  Fe  Fe2       1.0  0.4221580057811  0.4532688405529098  0.4408874003243822  1.0000
+  Te  Te1       1.0  0.9223491133188626  0.455592041151607  0.5342888067388925  1.0000
+  Te  Te2       1.0  0.42328860462706996  0.9547669240833798  0.4660054542772971  1.0000
+  Te  Te3       1.0  0.9218017742991803  0.46325400252706117  0.35039058979105175  1.0000
+  Te  Te4       1.0  0.42383863509311326  0.94721794653909  0.6499148379394729  1.0000
+  H   H1        1.0  0.42188312407643064  0.2659322827327445  0.6744679823978076  1.0000
+  H   H2        1.0  0.9237607647827993  0.14472464478740926  0.3257083395058182  1.0000

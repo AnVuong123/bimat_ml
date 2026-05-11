@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrINbBrO2
+_chemical_formula_sum              "Zr1 I1 Nb1 Br1 O2"
+_cell_length_a       3.4875305618272225
+_cell_length_b       5.46688610967152
+_cell_length_c       20.201308015209776
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.60838692438901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.5736651591238138  0.9468068199604712  0.544959460619159  1.0000
+  I   I1        1.0  0.7283256598560802  0.25579541337129097  0.37126308822939447  1.0000
+  Nb  Nb1       1.0  0.81476429351742  0.4279453083321262  0.4961397252343977  1.0000
+  Br  Br1       1.0  0.9360449749213071  0.6715773328721958  0.6287369117706054  1.0000
+  O   O1        1.0  0.19273106211459856  0.18468326992972842  0.5316372406195872  1.0000
+  O   O2        1.0  0.4267047245004781  0.6514305724027868  0.48336333898754585  1.0000

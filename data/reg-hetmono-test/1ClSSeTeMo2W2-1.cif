@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       WClSeMoTeWSMo
+_chemical_formula_sum              "W2 Cl1 Se1 Mo2 Te1 S1"
+_cell_length_a       6.424270071939915
+_cell_length_b       3.2499530345258085
+_cell_length_c       20.83641363464917
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000004
+_cell_angle_gamma    90.00316768507003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.383556859563664  0.7512300811393468  0.5254302274349368  1.0000
+  Cl  Cl1       1.0  0.9045015971320857  0.2509556172601759  0.35992380014593034  1.0000
+  Se  Se1       1.0  0.14522928743441235  0.25124169922623424  0.5825398526488393  1.0000
+  Mo  Mo1       1.0  0.7637578549587973  0.25121383142140913  0.5353344452617449  1.0000
+  Te  Te1       1.0  0.6095120652529674  0.7511857122302358  0.6404406774060636  1.0000
+  W   W2        1.0  0.125516432008176  0.25120823551028953  0.4593566776491793  1.0000
+  S   S1        1.0  0.35376209892903754  0.7512076943190652  0.4096147186765984  1.0000
+  Mo  Mo2       1.0  0.736640039957308  0.7512361378753789  0.4473892221335147  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5GaCl2
+_chemical_formula_sum              "Fe5 Ga1 Cl2"
+_cell_length_a       3.5829312513026985
+_cell_length_b       3.5829312513027105
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99931504617112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.01729466114979335  0.017294661149793205  0.49999726135715244  1.0000
+  Fe  Fe2       1.0  0.517268365147582  0.01727332803542156  0.4148133830626726  1.0000
+  Fe  Fe3       1.0  0.01727332803542151  0.5172683651475827  0.4148133830626726  1.0000
+  Fe  Fe4       1.0  0.5172680715217843  0.017274112873939054  0.5852027009642401  1.0000
+  Fe  Fe5       1.0  0.01727411287393903  0.5172680715217853  0.5852027009642401  1.0000
+  Ga  Ga1       1.0  0.5172815408584003  0.5172815408584005  0.5000138426037117  1.0000
+  Cl  Cl1       1.0  0.017278534031657466  0.017278534031657466  0.33861165130300586  1.0000
+  Cl  Cl2       1.0  0.01727966759449104  0.017279667594491014  0.661392615481003  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       O4Sn2Cu2O2
+_chemical_formula_sum              "O6 Sn2 Cu2"
+_cell_length_a       3.149457842498617
+_cell_length_b       10.600242221190731
+_cell_length_c       36.085629600000004
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5000000000000193  0.3474967486331405  0.5167622614403647  1.0000
+  O   O2        1.0  0.5000000000000193  0.6525032513668415  0.5167622614403647  1.0000
+  O   O3        1.0  0.5000000000000193  0.8474967486331227  0.4832377385596352  1.0000
+  O   O4        1.0  0.5000000000000193  0.15250325136684403  0.4832377385596352  1.0000
+  Sn  Sn1       1.0  0.5000000000000193  0.4999999999999994  0.5489019983468806  1.0000
+  Sn  Sn2       1.0  0.5000000000000193  2.8501458164041096e-18  0.45109800165309083  1.0000
+  Cu  Cu1       1.0  0.0  0.2499999999999997  0.5  1.0000
+  Cu  Cu2       1.0  1.9136315270328288e-18  0.7500000000000027  0.5  1.0000
+  O   O5        1.0  2.43637448530663e-18  0.4999999999999994  0.5812100548082398  1.0000
+  O   O6        1.0  0.0  0.0  0.4187899451917743  1.0000

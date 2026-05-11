@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Se2Br2
+_chemical_formula_sum              "Ta2 Se2 Br2"
+_cell_length_a       4.99941226298398
+_cell_length_b       3.479260668155923
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000000000036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.49999999999999994  1.409360397251922e-11  0.47187015370462265  1.0000
+  Ta  Ta2       1.0  0.9999999999962992  0.49999999999999994  0.531237792943193  1.0000
+  Se  Se1       1.0  0.49999999999999994  0.49999999999999994  0.5646224489232223  1.0000
+  Se  Se2       1.0  0.9999999999999207  0.999999999999923  0.4384940353917604  1.0000
+  Br  Br1       1.0  0.49999999999999994  0.49999999999999994  0.37392994832191634  1.0000
+  Br  Br2       1.0  9.130574848605538e-14  0.999999999999999  0.6291405640070566  1.0000

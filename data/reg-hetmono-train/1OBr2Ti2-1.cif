@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2Br2O
+_chemical_formula_sum              "Ti2 Br2 O1"
+_cell_length_a       3.420482406838414
+_cell_length_b       3.420553505435355
+_cell_length_c       20.47330317625023
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.04007192039121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8338520295450127  0.830382659492058  0.45488866995061267  1.0000
+  Ti  Ti2       1.0  0.16755738182731303  0.49669480388355036  0.5451147381692061  1.0000
+  Br  Br1       1.0  0.8344225750765666  0.8301275760530052  0.6334905927736992  1.0000
+  Br  Br2       1.0  0.1672186745466161  0.49730355651229013  0.3664831127386161  1.0000
+  O   O1        1.0  0.500590811729693  0.16342759071817192  0.4999831277956719  1.0000

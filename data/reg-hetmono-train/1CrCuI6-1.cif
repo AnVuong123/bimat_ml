@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I3CuI2CrI
+_chemical_formula_sum              "I6 Cu1 Cr1"
+_cell_length_a       6.987424062308039
+_cell_length_b       6.986767780579075
+_cell_length_c       18.16551473597923
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.91055493913898
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8186982982755988  0.46087287347938105  0.5866752345305584  1.0000
+  I   I2        1.0  0.46920807600514397  0.8303421027245113  0.5871285476153092  1.0000
+  I   I3        1.0  0.8179043317951533  0.17908461544332804  0.4129880307600763  1.0000
+  Cu  Cu1       1.0  0.15850082054212364  0.4898423388001004  0.4999976010946427  1.0000
+  I   I4        1.0  0.18890229912425033  0.18111094549917486  0.5871027648024146  1.0000
+  I   I5        1.0  0.1872962522664704  0.829275345165158  0.4134663877875056  1.0000
+  Cr  Cr1       1.0  0.4918490766030446  0.15647630953408007  0.5000196220051248  1.0000
+  I   I6        1.0  0.467177817978356  0.45926273423351277  0.4128703578560389  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe2TeFeRhBrISe
+_chemical_formula_sum              "Fe3 Te1 Rh1 Br1 I1 Se1"
+_cell_length_a       3.734227296516823
+_cell_length_b       5.425123909741647
+_cell_length_c       21.4548720250482
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99649623395673
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.24320497965840981  0.10689996681755484  0.4877376298222052  1.0000
+  Fe  Fe2       1.0  0.24318682431420394  0.5966124100601304  0.48941286274778373  1.0000
+  Te  Te1       1.0  0.7431924650579684  0.35108422389676985  0.5564557002917457  1.0000
+  Fe  Fe3       1.0  0.743126797754876  0.35276837521479154  0.43051260944262576  1.0000
+  Rh  Rh1       1.0  0.7432211548592542  0.8519733300660942  0.5568212112781724  1.0000
+  Br  Br1       1.0  0.24316898808924153  0.3416580132130702  0.3494559831409316  1.0000
+  I   I1        1.0  0.24320435380013233  0.8527438355431505  0.6507740993053982  1.0000
+  Se  Se1       1.0  0.743148466065508  0.8475018972623849  0.4364458022859046  1.0000

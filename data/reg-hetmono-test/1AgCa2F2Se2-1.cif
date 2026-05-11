@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgSe2CaFCaF
+_chemical_formula_sum              "Ag1 Se2 Ca2 F2"
+_cell_length_a       5.116620424635284
+_cell_length_b       5.116620424635288
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.25509566396963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9149969878749681  0.914996987874975  0.5000000000419801  1.0000
+  Se  Se1       1.0  0.4140988371297905  0.8853889767592369  0.4999999999929247  1.0000
+  Se  Se2       1.0  0.8853889767592382  0.41409883712978557  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.37737789235661  0.37737789235660585  0.4137258868331483  1.0000
+  F   F1        1.0  0.17454792041997086  0.17454792041996908  0.34940031144856226  1.0000
+  Ca  Ca2       1.0  0.37737789236456887  0.3773778923645697  0.5862741131479529  1.0000
+  F   F2        1.0  0.17454792043902645  0.1745479204390257  0.6505996885437587  1.0000

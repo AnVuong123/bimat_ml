@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Tl2As2
+_chemical_formula_sum              "Tl2 As2"
+_cell_length_a       4.072481728490362
+_cell_length_b       3.794414022895683
+_cell_length_c       20.10106137
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.222543424166007  0.7855464999999976  0.625577309276132  1.0000
+  Tl  Tl2       1.0  0.222543424166007  0.7856282999999962  0.37442028072386807  1.0000
+  As  As1       1.0  0.6986635237043686  0.7855889399999979  0.50000121  1.0000
+  As  As2       1.0  0.10672907136967842  0.2855889399999993  0.50000121  1.0000

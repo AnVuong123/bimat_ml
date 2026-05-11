@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2O4Cl2
+_chemical_formula_sum              "Ni2 O4 Cl2"
+_cell_length_a       3.1081004475738343
+_cell_length_b       3.82991950747347
+_cell_length_c       20.719375187991915
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01018348144781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9229294111196714  0.9589904581780727  0.5403268644148936  1.0000
+  Ni  Ni2       1.0  0.42290958984655663  0.4515603074257041  0.45965024789644754  1.0000
+  O   O1        1.0  0.9227311276476484  0.45610431157816156  0.5211210280324122  1.0000
+  O   O2        1.0  0.4231604856004911  0.9544776193198112  0.47882655535309726  1.0000
+  O   O3        1.0  0.9229838445017227  0.4872261621474042  0.4002326334827948  1.0000
+  O   O4        1.0  0.42280806132068033  0.9231621677457266  0.5998107926555434  1.0000
+  Cl  Cl1       1.0  0.42331692142211863  0.13071123458334075  0.6714617433467082  1.0000
+  Cl  Cl2       1.0  0.9224291856093567  0.2798166504242301  0.32857373812431595  1.0000

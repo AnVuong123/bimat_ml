@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OVSeFeSe
+_chemical_formula_sum              "O1 V1 Se2 Fe1"
+_cell_length_a       3.7925718200304597
+_cell_length_b       3.928234405837578
+_cell_length_c       18.349134335295183
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00198498298894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.24859737767841378  0.2504933770879412  0.500026757718121  1.0000
+  V   V1        1.0  0.7484431151419274  0.25200526955230296  0.5000288763839275  1.0000
+  Se  Se1       1.0  0.7485666124066777  0.750985917714524  0.5912613716292057  1.0000
+  Fe  Fe1       1.0  0.24886008447736457  0.7502869683440109  0.5000240617605398  1.0000
+  Se  Se2       1.0  0.7489741751647233  0.7510592852357978  0.40873862837079433  1.0000

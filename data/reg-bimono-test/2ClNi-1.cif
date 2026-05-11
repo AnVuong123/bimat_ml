@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Cl2Ni2
+_chemical_formula_sum              "Cl2 Ni2"
+_cell_length_a       3.5311184600308585
+_cell_length_b       3.5329007111198325
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98331355042615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9999562051432438  0.0002208354563681332  0.4023258542033611  1.0000
+  Cl  Cl2       1.0  0.3333767728554996  0.6664453398822423  0.5977420825508202  1.0000
+  Ni  Ni1       1.0  0.9998311769688765  0.0002318010737325085  0.5389635373126491  1.0000
+  Ni  Ni2       1.0  0.33350322953562844  0.6664336197897184  0.46110624969027963  1.0000

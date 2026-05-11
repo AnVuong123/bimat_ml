@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5TlBr2
+_chemical_formula_sum              "Ni5 Tl1 Br2"
+_cell_length_a       3.7656291447091776
+_cell_length_b       3.7656291447091976
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000350129186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9963459651609065  0.9963459651609069  0.5000052885684295  1.0000
+  Ni  Ni2       1.0  0.49624735746383625  0.9962954698169835  0.4149473690599618  1.0000
+  Ni  Ni3       1.0  0.9962954698169815  0.49624735746383597  0.4149473690599618  1.0000
+  Ni  Ni4       1.0  0.49624578705709926  0.9962965855847707  0.5850189120155815  1.0000
+  Ni  Ni5       1.0  0.996296585584771  0.4962457870570976  0.5850189120155815  1.0000
+  Tl  Tl1       1.0  0.49635657168573305  0.49635657168573294  0.49999738084972717  1.0000
+  Br  Br1       1.0  0.9963260523116596  0.9963260523116603  0.3432900256573752  1.0000
+  Br  Br2       1.0  0.9963267342822786  0.9963267342822786  0.6566860381098213  1.0000

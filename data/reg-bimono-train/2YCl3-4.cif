@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y2Cl6
+_chemical_formula_sum              "Y2 Cl6"
+_cell_length_a       5.944194106535512
+_cell_length_b       6.770670353096631
+_cell_length_c       18.57116686
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.3309456145823068  0.4866752783810273  0.49999973999999997  1.0000
+  Y   Y2        1.0  0.6690543854176827  0.9866752783810401  0.49999973999999997  1.0000
+  Cl  Cl1       1.0  0.5587142138171575  0.26563280188898136  0.59339662401052  1.0000
+  Cl  Cl2       1.0  0.44128578618282144  0.7656328018890214  0.4066038859894842  1.0000
+  Cl  Cl3       1.0  0.44128578618282144  0.7656328018890214  0.59339662401052  1.0000
+  Cl  Cl4       1.0  0.5587142138171575  0.26563280188898136  0.4066038859894842  1.0000
+  Cl  Cl5       1.0  0.07529263304997724  0.15208343878829936  0.49999973999999997  1.0000
+  Cl  Cl6       1.0  0.9247073669500377  0.6520834387883307  0.49999973999999997  1.0000

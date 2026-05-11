@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiISIS
+_chemical_formula_sum              "Ti1 I2 S2"
+_cell_length_a       4.370049288034904
+_cell_length_b       6.392246772007602
+_cell_length_c       20.483878936599314
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    136.9956217318141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.49618203441736036  0.6168560831703825  0.4999964872197732  1.0000
+  I   I1        1.0  0.6409407300639648  0.5515607478570231  0.3789145814231312  1.0000
+  S   S1        1.0  0.23771595346816926  0.8343343223926738  0.5358917383229701  1.0000
+  I   I2        1.0  0.35236225814926275  0.40749743805077693  0.6211555455848679  1.0000
+  S   S2        1.0  0.7540674721458076  0.09248841283695207  0.46427690618320044  1.0000

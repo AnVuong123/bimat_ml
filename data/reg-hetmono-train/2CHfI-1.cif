@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IHfCIHfC
+_chemical_formula_sum              "I2 Hf2 C2"
+_cell_length_a       3.8385415942692447
+_cell_length_b       3.7938809454608986
+_cell_length_c       36.45516200000001
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    123.58006145290031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.11544912122569094  0.02140258191236501  0.5955595204271414  1.0000
+  Hf  Hf1       1.0  0.7937519777876527  0.3849647366364462  0.5358372608940393  1.0000
+  C   C1        1.0  0.47472438855498733  0.6917622253551291  0.5158601492803091  1.0000
+  I   I2        1.0  0.5515175027060767  0.3117348192949607  0.40435251256522003  1.0000
+  Hf  Hf2       1.0  0.8725786403658179  0.9483341251958546  0.46407655152431565  1.0000
+  C   C2        1.0  0.19193879502804045  0.6418000656972335  0.48404932902900716  1.0000

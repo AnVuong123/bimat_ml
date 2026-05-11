@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnTeCl
+_chemical_formula_sum              "Mn1 Te1 Cl1"
+_cell_length_a       3.5266519635870304
+_cell_length_b       3.9746875176896435
+_cell_length_c       32.97399952620633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.34781165583557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.9925371090339931  0.21177427515383013  0.5005432030325863  1.0000
+  Te  Te1       1.0  0.31339143979721584  0.853735129102509  0.5483514270889844  1.0000
+  Cl  Cl1       1.0  0.5556102561417365  0.337825306833994  0.45352560529648644  1.0000

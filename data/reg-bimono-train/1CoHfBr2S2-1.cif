@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SCoBrHfBrS
+_chemical_formula_sum              "S2 Co1 Br2 Hf1"
+_cell_length_a       3.5234713690568857
+_cell_length_b       5.178455456262623
+_cell_length_c       20.15940503391162
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9998535852304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7511853463588463  0.718587488950864  0.473204175070572  1.0000
+  Co  Co1       1.0  0.2511609590232094  0.8019473512729959  0.5436007207589556  1.0000
+  Br  Br1       1.0  0.7511631421201038  0.7826030821374804  0.6276727497234575  1.0000
+  Hf  Hf1       1.0  0.7512053683589527  0.1862172150719988  0.47393528524318557  1.0000
+  Br  Br2       1.0  0.2511952793979782  0.242579427025462  0.37211510146030075  1.0000
+  S   S2        1.0  0.2511678865320972  0.26830874999958765  0.5552480819072579  1.0000

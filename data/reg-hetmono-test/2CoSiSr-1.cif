@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCo2SiSrSi
+_chemical_formula_sum              "Sr2 Co2 Si2"
+_cell_length_a       3.926405771727599
+_cell_length_b       3.926405771727303
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9999973805543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.9957738553581238  0.9957738553581285  0.6325674545152294  1.0000
+  Co  Co1       1.0  0.49577624957746896  0.9958215717562694  0.4998675873371526  1.0000
+  Co  Co2       1.0  0.9958215717562656  0.49577624957746874  0.49986758733709524  1.0000
+  Si  Si1       1.0  0.4958660821370315  0.4958660821370348  0.5583087479562892  1.0000
+  Sr  Sr2       1.0  0.4958229273157612  0.4958229273157617  0.36716432965279916  1.0000
+  Si  Si2       1.0  0.9957313335335601  0.9957313335335624  0.4414161504798855  1.0000

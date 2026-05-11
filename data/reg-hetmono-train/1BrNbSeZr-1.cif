@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeBrZrNb
+_chemical_formula_sum              "Se1 Br1 Zr1 Nb1"
+_cell_length_a       4.425325012665701
+_cell_length_b       3.5784802372700786
+_cell_length_c       18.683247000467606
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0001607269857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.25298027997431843  0.749247525678136  0.4003284059563537  1.0000
+  Br  Br1       1.0  0.7529792068424814  0.24925688449412775  0.5995542817058132  1.0000
+  Zr  Zr1       1.0  0.7530003613563893  0.7492519969523457  0.4853516685817485  1.0000
+  Nb  Nb1       1.0  0.25297865428717276  0.24922291398261945  0.504422536320155  1.0000

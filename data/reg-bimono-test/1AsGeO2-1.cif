@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AsO2Ge
+_chemical_formula_sum              "As1 O2 Ge1"
+_cell_length_a       4.845503079610193
+_cell_length_b       4.605843235421014
+_cell_length_c       16.54789899408894
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    57.86577016295603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.779042423106426  0.7944765827067893  0.5467695639140108  1.0000
+  O   O1        1.0  0.3712867839309751  0.900300184139309  0.5319299694711562  1.0000
+  O   O2        1.0  0.762112864421917  0.10472550633270927  0.47860563387437854  1.0000
+  Ge  Ge1       1.0  0.07918424555374189  0.2054471762611657  0.45323012572156063  1.0000

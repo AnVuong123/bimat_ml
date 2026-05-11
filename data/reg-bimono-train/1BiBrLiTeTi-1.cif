@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TiBiBrLiTe
+_chemical_formula_sum              "Ti1 Bi1 Br1 Li1 Te1"
+_cell_length_a       3.2697690297651985
+_cell_length_b       7.8174378042476365
+_cell_length_c       18.745431708065293
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.98106810063442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.9388565926488107  0.4006373291989385  0.507794831939739  1.0000
+  Bi  Bi1       1.0  0.4385489782450293  0.09374675299764385  0.5041816349082225  1.0000
+  Br  Br1       1.0  0.439064884333768  0.525743871324627  0.5999328917958706  1.0000
+  Li  Li1       1.0  0.9381480249762985  0.8068355624077097  0.4492910406256173  1.0000
+  Te  Te1       1.0  0.43837152540830915  0.5329996305657222  0.3997802870111433  1.0000

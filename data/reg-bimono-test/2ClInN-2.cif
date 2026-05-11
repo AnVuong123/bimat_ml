@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClN2In2Cl
+_chemical_formula_sum              "Cl2 N2 In2"
+_cell_length_a       3.6253228549664125
+_cell_length_b       3.734477174098495
+_cell_length_c       21.643241652317442
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.77497660939179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3907591525507172  0.22091454187216672  0.6534715029993236  1.0000
+  N   N1        1.0  0.12039619610667979  0.6387296419401806  0.544808214851867  1.0000
+  N   N2        1.0  0.8877384221754959  0.0377562427168566  0.45500281235434725  1.0000
+  In  In1       1.0  0.21707261514594353  0.691724526344582  0.4305094595264959  1.0000
+  In  In2       1.0  0.7917070739425341  0.9854630459001309  0.5693338309850694  1.0000
+  Cl  Cl2       1.0  0.619600013227251  0.4484681054024642  0.34652849700067645  1.0000

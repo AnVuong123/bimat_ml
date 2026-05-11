@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te2Rh4
+_chemical_formula_sum              "Te2 Rh4"
+_cell_length_a       3.9397728892836463
+_cell_length_b       4.660763821424206
+_cell_length_c       19.283025573306002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    114.99615632107901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7587815597842404  0.16066428706317487  0.38914885915638747  1.0000
+  Te  Te2       1.0  0.24540693224190724  0.13311897483026028  0.6108891667201619  1.0000
+  Rh  Rh1       1.0  0.5493259184295439  0.7420165439746758  0.5688887218492369  1.0000
+  Rh  Rh2       1.0  0.4548110174591224  0.5516760294072947  0.4311463413715545  1.0000
+  Rh  Rh3       1.0  0.8573509236639834  0.3575423173673088  0.5242112246086442  1.0000
+  Rh  Rh4       1.0  0.14682158536053472  0.9362682715058854  0.4758249341242085  1.0000

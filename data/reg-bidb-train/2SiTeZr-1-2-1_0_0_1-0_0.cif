@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Si2ZrTeZrTeSi2ZrTeZrTe
+_chemical_formula_sum              "Si4 Zr4 Te4"
+_cell_length_a       3.6781063697108314
+_cell_length_b       3.6781063697108314
+_cell_length_c       49.92921541150045
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4999999986799143  0.0  0.3693548926817755  1.0000
+  Si  Si2       1.0  0.0  0.4999999986799143  0.3693548926817755  1.0000
+  Zr  Zr1       1.0  0.4999999986799143  0.4999999986799143  0.41219300885027715  1.0000
+  Te  Te1       1.0  0.0  0.0  0.4399149381574456  1.0000
+  Zr  Zr2       1.0  0.0  0.0  0.3265167765132738  1.0000
+  Te  Te2       1.0  0.4999999986799143  0.4999999986799143  0.2987948472061054  1.0000
+  Si  Si3       1.0  0.4999999986799143  0.0  0.5670765269721896  1.0000
+  Si  Si4       1.0  0.0  0.4999999986799143  0.5670765269721896  1.0000
+  Zr  Zr3       1.0  0.4999999986799143  0.4999999986799143  0.6099146431406913  1.0000
+  Te  Te3       1.0  0.0  0.0  0.6376365722475762  1.0000
+  Zr  Zr4       1.0  0.0  0.0  0.5242384108036879  1.0000
+  Te  Te4       1.0  0.4999999986799143  0.4999999986799143  0.49651648149651956  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In2ZnTe4
+_chemical_formula_sum              "In2 Zn1 Te4"
+_cell_length_a       4.4008303689753685
+_cell_length_b       4.400829401620007
+_cell_length_c       39.21798
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999272867832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  4.224282236479695e-05  2.112141118236125e-05  0.38937228433250004  1.0000
+  In  In2       1.0  0.6667159503954695  0.33335797519774013  0.5050205435776518  1.0000
+  Zn  Zn1       1.0  0.33338372241881076  0.666691861209402  0.616318345253943  1.0000
+  Te  Te1       1.0  0.33337624691163403  0.6666881234558051  0.35493814439969623  1.0000
+  Te  Te2       1.0  0.33338271541701386  0.6666913577085084  0.5427176841145783  1.0000
+  Te  Te3       1.0  4.857201960145609e-05  2.428600980075045e-05  0.4597649117672594  1.0000
+  Te  Te4       1.0  5.065721189232656e-05  2.5328605946129805e-05  0.6333158225937638  1.0000

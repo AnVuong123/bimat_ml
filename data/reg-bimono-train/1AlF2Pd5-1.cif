@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd5AlF2
+_chemical_formula_sum              "Pd5 Al1 F2"
+_cell_length_a       3.909132595057009
+_cell_length_b       3.9091325950569913
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.63953855778783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.05484268059582204  0.05484268059582245  0.4999841973178255  1.0000
+  Pd  Pd2       1.0  0.5407608784299558  0.03994797054817776  0.4167302227893905  1.0000
+  Pd  Pd3       1.0  0.03994797054817794  0.5407608784299519  0.4167302227893905  1.0000
+  Pd  Pd4       1.0  0.540757421332273  0.03994668796705164  0.5832389530454922  1.0000
+  Pd  Pd5       1.0  0.039946687967051024  0.5407574213322704  0.5832389530454924  1.0000
+  Al  Al1       1.0  0.5432155852836598  0.5432155852836626  0.4999845244457537  1.0000
+  F   F1        1.0  0.9406082576858092  0.9406082576858167  0.3504110030169377  1.0000
+  F   F2        1.0  0.9405985881469799  0.9405985881469818  0.6495584128196639  1.0000

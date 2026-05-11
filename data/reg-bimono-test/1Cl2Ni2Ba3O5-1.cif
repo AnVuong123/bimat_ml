@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ni2O4Ba2Cl2BaO
+_chemical_formula_sum              "Ni2 O5 Ba3 Cl2"
+_cell_length_a       3.9591389286812695
+_cell_length_b       3.9591389286812633
+_cell_length_c       40.172447796
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  2.1219602024519736e-20  3.1675600896038513e-17  0.4526254223507596  1.0000
+  Ni  Ni2       1.0  0.0  2.342960105280172e-17  0.5473745776492405  1.0000
+  O   O1        1.0  1.6721923095905942e-18  0.499999999999998  0.5552485804850094  1.0000
+  O   O2        1.0  0.49999999999999734  4.234236702345009e-19  0.5552485804850094  1.0000
+  O   O3        1.0  0.0  0.499999999999998  0.4447514195149907  1.0000
+  O   O4        1.0  0.49999999999999734  2.944602116043342e-18  0.4447514195149907  1.0000
+  Ba  Ba1       1.0  0.49999999999999734  0.499999999999998  0.6012109749687825  1.0000
+  Ba  Ba2       1.0  0.49999999999999734  0.499999999999998  0.3987890250312175  1.0000
+  Cl  Cl1       1.0  0.0  6.346636837472189e-19  0.3642358465033291  1.0000
+  Cl  Cl2       1.0  0.0  1.6005718874797287e-18  0.6357641534966709  1.0000
+  Ba  Ba3       1.0  0.49999999999999734  0.499999999999998  0.5  1.0000
+  O   O5        1.0  0.0  6.05331300181589e-19  0.5  1.0000

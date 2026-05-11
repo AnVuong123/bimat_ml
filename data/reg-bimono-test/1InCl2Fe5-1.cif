@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe5InCl2
+_chemical_formula_sum              "Fe5 In1 Cl2"
+_cell_length_a       3.683553989913659
+_cell_length_b       3.6835539899136562
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999732381319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.017317983133050448  0.017317983133050448  0.5000031298244055  1.0000
+  Fe  Fe2       1.0  0.5172832834614783  0.017286369784607514  0.4095463563525384  1.0000
+  Fe  Fe3       1.0  0.01728636978460749  0.5172832834614769  0.4095463563525384  1.0000
+  Fe  Fe4       1.0  0.5172844629726937  0.017286204814574813  0.5904706719478839  1.0000
+  Fe  Fe5       1.0  0.01728620481457477  0.5172844629726931  0.5904706719478839  1.0000
+  In  In1       1.0  0.517213844848156  0.5172138448481548  0.4999915448384046  1.0000
+  Cl  Cl1       1.0  0.017272011127447785  0.017272011127447806  0.3347822251013406  1.0000
+  Cl  Cl2       1.0  0.01727270243573664  0.017272702435736583  0.6652329053857644  1.0000

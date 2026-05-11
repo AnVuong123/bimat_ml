@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgO2V
+_chemical_formula_sum              "Ag1 O2 V1"
+_cell_length_a       2.7662545193019374
+_cell_length_b       2.766254519301951
+_cell_length_c       33.926159999999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.33333333333333104  0.6666666666666263  0.577752983303719  1.0000
+  O   O1        1.0  0.9999999999999998  1.8595714930181786e-17  0.4361672436588107  1.0000
+  O   O2        1.0  0.9999999999999999  0.9999999999999999  0.503488117239378  1.0000
+  V   V1        1.0  0.33333333333333076  0.6666666666666261  0.46883018367655976  1.0000

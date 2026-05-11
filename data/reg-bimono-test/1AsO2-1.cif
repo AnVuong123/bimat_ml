@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       OAsO
+_chemical_formula_sum              "O2 As1"
+_cell_length_a       3.2387854159349696
+_cell_length_b       3.2392694455661872
+_cell_length_c       17.029231073964702
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    125.36641648537227
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1918754838277055  0.4896992352745446  0.4403416313680104  1.0000
+  As  As1       1.0  0.7954597722107687  0.8863660975886257  0.5017350691206036  1.0000
+  O   O2        1.0  0.5344580023049954  0.1469396471824392  0.5597940005162941  1.0000

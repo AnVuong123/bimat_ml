@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TaTe2Cr
+_chemical_formula_sum              "Ta1 Te2 Cr1"
+_cell_length_a       3.9834063818191887
+_cell_length_b       3.9809820305479406
+_cell_length_c       19.244375718985953
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.10413296066264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.3329011602456311  0.666557666075928  0.5310987743841268  1.0000
+  Te  Te1       1.0  0.3330478520429747  0.6672080473883216  0.3897040428867641  1.0000
+  Te  Te2       1.0  0.6661651720337098  0.33359859178910767  0.6102802205104598  1.0000
+  Cr  Cr1       1.0  0.6661791177493582  0.3338010890517176  0.4643127064032748  1.0000

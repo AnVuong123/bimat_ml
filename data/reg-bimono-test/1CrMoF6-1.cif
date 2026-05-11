@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrMoF6
+_chemical_formula_sum              "Cr1 Mo1 F6"
+_cell_length_a       5.0606616621287674
+_cell_length_b       5.053344978273614
+_cell_length_c       33.64480807111449
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    103.76206895538083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.2939699455721457  0.2228843396638614  0.49999060611749807  1.0000
+  Mo  Mo1       1.0  0.7939737554211148  0.7228770745009431  0.5000057124161446  1.0000
+  F   F1        1.0  0.04581016451471154  0.9934076387479231  0.462452087355585  1.0000
+  F   F2        1.0  0.5181184095673287  0.9594452596945666  0.49913575618264744  1.0000
+  F   F3        1.0  0.5402358934648828  0.4542024006305517  0.46243344373954076  1.0000
+  F   F4        1.0  0.5421180241369932  0.4521966402938908  0.537542798929196  1.0000
+  F   F5        1.0  0.06989234864028254  0.48639133821942426  0.5008802583620566  1.0000
+  F   F6        1.0  0.047789053627909917  0.991656732601646  0.5375598106594051  1.0000

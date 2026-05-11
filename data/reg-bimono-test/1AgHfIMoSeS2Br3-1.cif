@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BrMoBrIHfAgSeSBrS
+_chemical_formula_sum              "Br3 Mo1 I1 Hf1 Ag1 Se1 S2"
+_cell_length_a       6.56093556910688
+_cell_length_b       6.774037671805902
+_cell_length_c       20.53695959947667
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    120.43046875819417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8076038680845679  0.17727640392064384  0.3744564062326325  1.0000
+  Mo  Mo1       1.0  0.8333679935408219  0.520780110302371  0.4504507709293633  1.0000
+  Br  Br2       1.0  0.16692826358974247  0.8314476220333077  0.37402262679692755  1.0000
+  I   I1        1.0  0.6107768277867399  0.17038367215284908  0.634804754634122  1.0000
+  Hf  Hf1       1.0  0.5015600781486612  0.8048087599505713  0.4509650249291533  1.0000
+  Ag  Ag1       1.0  0.09227776894003101  0.171498460860216  0.5158901017654145  1.0000
+  Se  Se1       1.0  0.5053405841864407  0.17651422046501222  0.5121551955270037  1.0000
+  S   S1        1.0  0.15151040686632067  0.5568055773116533  0.5173323955258416  1.0000
+  Br  Br3       1.0  0.5189066990647013  0.5268460832933145  0.3651952453658776  1.0000
+  S   S2        1.0  0.7780074620228956  0.7726540922903268  0.5229270580229286  1.0000

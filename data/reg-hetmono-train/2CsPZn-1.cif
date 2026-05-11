@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs2P2Zn2
+_chemical_formula_sum              "Cs2 P2 Zn2"
+_cell_length_a       4.2350886057514945
+_cell_length_b       4.235167400046456
+_cell_length_c       21.23110108
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.1937263417083933  0.8687010279872067  0.6467531545072862  1.0000
+  Cs  Cs2       1.0  0.6937263417083934  0.3679276320127933  0.35324684549271357  1.0000
+  P   P1        1.0  0.6940331410703167  0.3685651964006676  0.564881037777312  1.0000
+  P   P2        1.0  0.1940331410703164  0.8680634535993329  0.43511896222268787  1.0000
+  Zn  Zn1       1.0  0.19437062435810937  0.36820271397196624  0.4999992714879253  1.0000
+  Zn  Zn2       1.0  0.6943706243581098  0.8684259460280339  0.5000007285120747  1.0000

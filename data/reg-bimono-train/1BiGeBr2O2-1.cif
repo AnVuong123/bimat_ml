@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeBr2O2Bi
+_chemical_formula_sum              "Ge1 Br2 O2 Bi1"
+_cell_length_a       3.9929116059330836
+_cell_length_b       3.9928819748067124
+_cell_length_c       20.886733818338595
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00007353266884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6648284733151321  0.16822632057707915  0.4716964019044442  1.0000
+  Br  Br1       1.0  0.664797141984425  0.16808641221158993  0.6411095274635604  1.0000
+  Br  Br2       1.0  0.6646772308951728  0.1685973383851296  0.359351290719177  1.0000
+  O   O1        1.0  0.16483854117984315  0.16807791615306558  0.5022706282200754  1.0000
+  O   O2        1.0  0.6648493193071539  0.6680400870225165  0.5022714053448321  1.0000
+  Bi  Bi1       1.0  0.16487120922670792  0.668130132411428  0.5638752327661296  1.0000

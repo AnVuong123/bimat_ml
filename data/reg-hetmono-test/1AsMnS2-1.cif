@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AsSMnS
+_chemical_formula_sum              "As1 S2 Mn1"
+_cell_length_a       3.737640595226665
+_cell_length_b       3.7383483853551365
+_cell_length_c       17.584991975271105
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01218102619258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.25330692135393307  0.25070824934591684  0.5602598691049127  1.0000
+  S   S1        1.0  0.25432113460971684  0.2473521377407835  0.42631076497565557  1.0000
+  Mn  Mn1       1.0  0.7568041045093795  0.7394945306072584  0.43929200474503466  1.0000
+  S   S2        1.0  0.7522338116563437  0.7541603304227248  0.5737862167735394  1.0000

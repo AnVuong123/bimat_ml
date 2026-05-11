@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeIN3IGa
+_chemical_formula_sum              "Fe1 I2 N3 Ga1"
+_cell_length_a       3.528404568588424
+_cell_length_b       3.9012648854427248
+_cell_length_c       22.34661619519473
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    107.49708435823365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7384250199170065  0.8222677549353704  0.5448875607189358  1.0000
+  I   I1        1.0  0.7370442052154381  0.8549003265360033  0.6643461403195184  1.0000
+  N   N1        1.0  0.9043759249810144  0.36209562644272  0.5487109499362791  1.0000
+  N   N2        1.0  0.7572244579604137  0.8409682590829923  0.4608693862276538  1.0000
+  N   N3        1.0  0.1881710035737336  0.6220973978712431  0.5476238082795911  1.0000
+  I   I2        1.0  0.256662099020324  0.3479716475945787  0.3356167688323108  1.0000
+  Ga  Ga1       1.0  0.2625754567465709  0.8547866943865757  0.4222149155353461  1.0000

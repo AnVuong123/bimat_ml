@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfGeISeIS
+_chemical_formula_sum              "Hf1 Ge1 I2 Se1 S1"
+_cell_length_a       3.979953617806493
+_cell_length_b       5.284695657079645
+_cell_length_c       21.481195498302068
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.95899808110761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.7595014177383069  0.5588216941513231  0.44948321678805686  1.0000
+  Ge  Ge1       1.0  0.259441996361139  0.0017477935949923307  0.5548951450025007  1.0000
+  I   I1        1.0  0.2596848468030944  0.4975787395773686  0.34914257917315733  1.0000
+  Se  Se1       1.0  0.25943758251888194  0.5123800616588395  0.5298891671825242  1.0000
+  I   I2        1.0  0.7593494419981621  0.016710011887715627  0.6508574208268427  1.0000
+  S   S1        1.0  0.7595224860238223  0.009646965465391982  0.4601127537112369  1.0000

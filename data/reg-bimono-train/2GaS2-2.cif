@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga2S4
+_chemical_formula_sum              "Ga2 S4"
+_cell_length_a       2.9783346314959394
+_cell_length_b       6.376165617332651
+_cell_length_c       16.2670050174248
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99997223019764
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5000000000011726  1.9659104429902254e-12  0.499999999990874  1.0000
+  Ga  Ga2       1.0  3.918012383741918e-13  0.5000000000025422  0.49999999999081296  1.0000
+  S   S1        1.0  0.4999994097739039  0.2994274670810211  0.4056287185832643  1.0000
+  S   S2        1.0  1.3906338287572595e-06  0.20058378952200362  0.5943497549985343  1.0000
+  S   S3        1.0  0.5000005902326603  0.7005725329154141  0.5943712814014311  1.0000
+  S   S4        1.0  0.9999986093650962  0.7994162104754695  0.4056502449858269  1.0000

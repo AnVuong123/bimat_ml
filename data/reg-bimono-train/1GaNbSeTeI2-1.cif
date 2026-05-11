@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbTeGaSeI2
+_chemical_formula_sum              "Nb1 Te1 Ga1 Se1 I2"
+_cell_length_a       3.7374293793957496
+_cell_length_b       7.3475665893086815
+_cell_length_c       19.90413859321215
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.74999567528857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.4925890149676358  0.7949141020990104  0.49667468615580224  1.0000
+  Te  Te1       1.0  0.12205175615280782  0.0539404420269659  0.44606423798560285  1.0000
+  Ga  Ga1       1.0  0.236536032181653  0.2824589005169787  0.5613589145476224  1.0000
+  Se  Se1       1.0  0.8840298112218464  0.578257154632443  0.5482738873924061  1.0000
+  I   I1        1.0  0.591702185801394  0.993508215949537  0.6231071786424505  1.0000
+  I   I2        1.0  0.40126268783035407  0.6125759275812833  0.37695423402988953  1.0000

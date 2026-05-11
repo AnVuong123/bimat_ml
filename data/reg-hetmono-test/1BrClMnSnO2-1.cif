@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OMnOSnClBr
+_chemical_formula_sum              "O2 Mn1 Sn1 Cl1 Br1"
+_cell_length_a       3.5425609724152154
+_cell_length_b       4.036889580752603
+_cell_length_c       20.726979912370872
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00473259619808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.24915991154484068  0.7511537326773644  0.48941344890443744  1.0000
+  Mn  Mn1       1.0  0.24641237563829005  0.2511874939016134  0.44879234776108273  1.0000
+  O   O2        1.0  0.7503690297878813  0.25108371353574904  0.524699488264318  1.0000
+  Sn  Sn1       1.0  0.7489698398415511  0.7510887128147195  0.5457887872275506  1.0000
+  Cl  Cl1       1.0  0.2498347572488204  0.7505179406390394  0.6381511768010305  1.0000
+  Br  Br1       1.0  0.7459243150187389  0.2505685979255321  0.36187975893588903  1.0000

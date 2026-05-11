@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgTlGaTe4
+_chemical_formula_sum              "Hg1 Tl1 Ga1 Te4"
+_cell_length_a       4.458260062595854
+_cell_length_b       4.458267895779388
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000581212607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9999995377898698  0.999999768894935  0.5026721948477578  1.0000
+  Tl  Tl1       1.0  0.6666585180344222  0.3333292590172073  0.390877445640951  1.0000
+  Ga  Ga1       1.0  0.3333429098024736  0.6666714549012269  0.6087579148126606  1.0000
+  Te  Te1       1.0  0.6666583157220519  0.33332915786102246  0.46308890263028246  1.0000
+  Te  Te2       1.0  0.33333934993706654  0.6666696749685241  0.5424771446271208  1.0000
+  Te  Te3       1.0  0.33332569078144453  0.666662845390714  0.3551457583176675  1.0000
+  Te  Te4       1.0  0.6666757079227427  0.33333785396136495  0.636976435190811  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiSeNiBiSeClBiSe2Cl
+_chemical_formula_sum              "Ni2 Se4 Bi2 Cl2"
+_cell_length_a       3.670848855668411
+_cell_length_b       12.390888188871452
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5000000000000234  0.5667166491491104  0.49999980899969965  1.0000
+  Se  Se1       1.0  0.9999999999999991  0.5933253667601133  0.541383459064691  1.0000
+  Ni  Ni2       1.0  0.5000000000000264  0.06671679661751491  0.49999946660558187  1.0000
+  Bi  Bi1       1.0  0.9999999999999997  0.8154366968861168  0.5491192293292204  1.0000
+  Se  Se2       1.0  0.5000000000000151  0.8615941493080665  0.495938378027794  1.0000
+  Cl  Cl1       1.0  0.0  0.07023214959126903  0.5462382134697834  1.0000
+  Bi  Bi2       1.0  2.0850387804929288e-18  0.3179933621905332  0.45088212474175104  1.0000
+  Se  Se3       1.0  0.5000000000000234  0.27183997262725734  0.5040611146719147  1.0000
+  Se  Se4       1.0  2.128703135838997e-18  0.5401125106196801  0.4586156266957604  1.0000
+  Cl  Cl2       1.0  1.8591985704656648e-17  0.06320179300157369  0.4537612095053487  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Zr2CTe2
+_chemical_formula_sum              "Zr2 C1 Te2"
+_cell_length_a       3.5003264263032525
+_cell_length_b       3.499874953860135
+_cell_length_c       19.439802017423197
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.95163127759584
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6666856425386972  0.2581405756673737  0.4365646422228706  1.0000
+  Zr  Zr2       1.0  0.3333177815993768  0.5914193457074233  0.5634362679983953  1.0000
+  C   C1        1.0  0.9999803186063942  0.9247709604768377  0.49999414407548853  1.0000
+  Te  Te1       1.0  0.6665865245282065  0.2580717487584917  0.67461690404946  1.0000
+  Te  Te2       1.0  0.333379160770897  0.5914907499534152  0.32538765761294447  1.0000

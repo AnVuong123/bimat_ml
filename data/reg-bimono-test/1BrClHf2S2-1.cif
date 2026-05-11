@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2Hf2BrCl
+_chemical_formula_sum              "S2 Hf2 Br1 Cl1"
+_cell_length_a       3.648850446766819
+_cell_length_b       5.023194592417138
+_cell_length_c       20.4437328832434
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00260918289878
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7468505539087533  0.24404503207076558  0.44539322041969776  1.0000
+  S   S2        1.0  0.24713596326133747  0.7437643766820083  0.5447092118625393  1.0000
+  Hf  Hf1       1.0  0.7470917238772402  0.7439722669295059  0.4560535742596452  1.0000
+  Hf  Hf2       1.0  0.24710651091984367  0.24371720676218242  0.5343121409070415  1.0000
+  Br  Br1       1.0  0.7471252051307155  0.24354524842878691  0.6331394054680035  1.0000
+  Cl  Cl1       1.0  0.24694002541123178  0.744230554460724  0.3668605945319965  1.0000

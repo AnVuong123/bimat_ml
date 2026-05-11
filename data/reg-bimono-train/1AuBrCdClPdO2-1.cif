@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdAuOPdBrClO
+_chemical_formula_sum              "Cd1 Au1 O2 Pd1 Br1 Cl1"
+_cell_length_a       4.221003701422057
+_cell_length_b       4.538079327997184
+_cell_length_c       20.699147636034844
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    100.49694869978434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8791364946532569  0.06748057972637381  0.4273659338941191  1.0000
+  Au  Au1       1.0  0.16209780483635283  0.6813888041385622  0.5411992100770054  1.0000
+  O   O1        1.0  0.8041858943486083  0.5311145957597035  0.4733450398713395  1.0000
+  Pd  Pd1       1.0  0.6404919192787251  0.2228979195217753  0.5472392345768458  1.0000
+  Br  Br1       1.0  0.5137795865937442  0.85865962777483  0.6377010216131016  1.0000
+  Cl  Cl1       1.0  0.3606511935294576  0.0014176873189239991  0.36225259268730553  1.0000
+  O   O2        1.0  0.13895141154053237  0.17506332627733856  0.5333278769660552  1.0000

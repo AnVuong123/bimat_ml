@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       I2As2
+_chemical_formula_sum              "I2 As2"
+_cell_length_a       4.326897452746886
+_cell_length_b       4.198605160917005
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    100.03156206257037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.957337717214029  0.04705683455409186  0.35944994855325874  1.0000
+  I   I2        1.0  0.3759941917379978  0.6196116554207156  0.6406040858831473  1.0000
+  As  As1       1.0  0.976492677496387  0.03158151205011191  0.4966062978154967  1.0000
+  As  As2       1.0  0.3568389676620798  0.6350864789751332  0.5034473214661216  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NMoBrTiNBr
+_chemical_formula_sum              "N2 Mo1 Br2 Ti1"
+_cell_length_a       3.3968560998396704
+_cell_length_b       4.100732879560473
+_cell_length_c       20.310797814823413
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00030972002007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.2506293143006815  0.2502693285278303  0.5196879595278044  1.0000
+  Mo  Mo1       1.0  0.7505337950919326  0.25032802659680503  0.47213988691223185  1.0000
+  Br  Br1       1.0  0.7508351226784364  0.7500451075235112  0.6307382866798918  1.0000
+  Ti  Ti1       1.0  0.25048323388797117  0.7503873738537753  0.5318469066105623  1.0000
+  N   N2        1.0  0.7505857177303702  0.7502647651115097  0.47368162392497754  1.0000
+  Br  Br2       1.0  0.25099134884601504  0.2505774996347004  0.36926171332010804  1.0000

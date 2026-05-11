@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BeOBBeO4
+_chemical_formula_sum              "Be2 O5 B1"
+_cell_length_a       4.513586794172826
+_cell_length_b       4.514215487485873
+_cell_length_c       34.41084
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99253561942677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  7.379322531151344e-05  3.469802883742474e-05  0.4856344006073451  1.0000
+  O   O1        1.0  1.1801437185728487e-05  3.3710677330469074e-06  0.4385063125776945  1.0000
+  B   B1        1.0  0.3334096834911143  0.6666974000800555  0.5000271663629631  1.0000
+  Be  Be2       1.0  0.6667327110213261  0.3333637276510758  0.5144024324038727  1.0000
+  O   O2        1.0  0.6667636351053802  0.333391797637844  0.5615307735733998  1.0000
+  O   O3        1.0  0.027345577027352897  0.666714397275293  0.5000256351704727  1.0000
+  O   O4        1.0  0.6394643248617421  0.9727328823086098  0.5000302950345462  1.0000
+  O   O5        1.0  0.3333880135089625  0.3606412099057428  0.5000269587978188  1.0000

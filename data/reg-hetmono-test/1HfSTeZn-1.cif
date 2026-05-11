@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeHfZnS
+_chemical_formula_sum              "Te1 Hf1 Zn1 S1"
+_cell_length_a       3.820429631199006
+_cell_length_b       3.820640348642917
+_cell_length_c       19.51849228282164
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98700907098909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.3314302135893904  0.6622702104251852  0.3842509908719128  1.0000
+  Hf  Hf1       1.0  0.6654844202475014  0.3296033403741905  0.4787103816541588  1.0000
+  Zn  Zn1       1.0  0.33267046716508747  0.6635970731378132  0.578619642802455  1.0000
+  S   S1        1.0  0.6659493384778525  0.33015792797736043  0.6157490091280872  1.0000

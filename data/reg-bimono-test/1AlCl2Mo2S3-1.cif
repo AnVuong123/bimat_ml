@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlClSMo2S2Cl
+_chemical_formula_sum              "Al1 Cl2 S3 Mo2"
+_cell_length_a       3.2455967477400116
+_cell_length_b       4.878908754668052
+_cell_length_c       22.659314994638297
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000359045438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7502746497238716  0.24658486143078762  0.49993606475768043  1.0000
+  Cl  Cl1       1.0  0.7503066648405239  0.7487179446387229  0.3309999616191105  1.0000
+  S   S1        1.0  0.25027388654759414  0.24746421027416757  0.4234901753147167  1.0000
+  Mo  Mo1       1.0  0.25068256591775084  0.7456921631939711  0.5901333133214298  1.0000
+  Mo  Mo2       1.0  0.25034879360906004  0.7475487047638453  0.40985390392578747  1.0000
+  S   S2        1.0  0.25035446888158913  0.24573849437045459  0.5763922159598645  1.0000
+  S   S3        1.0  0.7505452274838456  0.7465778408623345  0.5000091679054481  1.0000
+  Cl  Cl2       1.0  0.7507654346589981  0.7444633025697459  0.6690055501294705  1.0000

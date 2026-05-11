@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2S2Br2
+_chemical_formula_sum              "Si2 S2 Br2"
+_cell_length_a       4.824983259016359
+_cell_length_b       3.5494817657713087
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.49999999999999994  0.9999999999999984  0.4638975421194077  1.0000
+  Si  Si2       1.0  4.308477672309341e-16  0.5  0.5399748373598575  1.0000
+  S   S1        1.0  0.49999999999999994  0.5  0.5404293474462558  1.0000
+  S   S2        1.0  0.9999999999999992  0.9999999999999996  0.4634583760219545  1.0000
+  Br  Br1       1.0  0.49999999999999994  0.5  0.37542696746197823  1.0000
+  Br  Br2       1.0  1.3802047089170206e-15  0.0  0.6284718216123794  1.0000

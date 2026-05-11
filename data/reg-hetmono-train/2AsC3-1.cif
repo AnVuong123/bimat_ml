@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CAsC4AsC
+_chemical_formula_sum              "C6 As2"
+_cell_length_a       5.775356788443195
+_cell_length_b       5.775356788443195
+_cell_length_c       15.000000000000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    60.00707605043413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.9735841637327157  0.9735841637327154  0.5000000494389868  1.0000
+  As  As1       1.0  0.16669223083353343  0.16669223083353338  0.4999998698083572  1.0000
+  C   C2        1.0  0.5528860553051135  0.9735315163741104  0.5000000486042323  1.0000
+  C   C3        1.0  0.9735315163741104  0.5528860553051135  0.5000000486042323  1.0000
+  C   C4        1.0  0.6931345962350787  0.11378038792589013  0.5000000488789409  1.0000
+  C   C5        1.0  0.11378038792589021  0.6931345962350786  0.5000000488789409  1.0000
+  As  As2       1.0  0.49997400035369544  0.49997400035369527  0.4999998681877295  1.0000
+  C   C6        1.0  0.693081896289813  0.6930818962898126  0.5000000491232166  1.0000

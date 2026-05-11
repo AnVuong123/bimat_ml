@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrOMoOICr
+_chemical_formula_sum              "Br1 O2 Mo1 I1 Cr1"
+_cell_length_a       3.4803956768414612
+_cell_length_b       4.008425553675164
+_cell_length_c       20.7582200049548
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.01037831434276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.25034353144746146  0.24732203804131156  0.6386973450416358  1.0000
+  O   O1        1.0  0.749468815964416  0.7478519285770868  0.5275213819042666  1.0000
+  Mo  Mo1       1.0  0.24931561597080404  0.7479956012867391  0.4659879375857275  1.0000
+  O   O2        1.0  0.24942075934723992  0.24788357892777843  0.4906696080397689  1.0000
+  I   I1        1.0  0.7493629999497166  0.747381437026658  0.36130265495836433  1.0000
+  Cr  Cr1       1.0  0.7500047611472659  0.24795834886581286  0.5515614589641076  1.0000

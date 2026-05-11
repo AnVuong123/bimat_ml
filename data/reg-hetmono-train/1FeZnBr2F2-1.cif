@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnFBrFBrFe
+_chemical_formula_sum              "Zn1 F2 Br2 Fe1"
+_cell_length_a       4.118131323532296
+_cell_length_b       5.920324503129149
+_cell_length_c       18.86987135850125
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.77388897047979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.6343081953694848  0.39105432515020416  0.4995411690074792  1.0000
+  F   F1        1.0  0.801878655242128  0.7536339312598475  0.5018481218095943  1.0000
+  Br  Br1       1.0  0.5067404260746947  0.12765134796056904  0.39745898938633206  1.0000
+  F   F2        1.0  0.17909895501128367  0.4883518184810371  0.4980030839663571  1.0000
+  Br  Br2       1.0  0.5044520128264106  0.13233329987816939  0.6025410106136679  1.0000
+  Fe  Fe1       1.0  0.332821883791243  0.8514422846909977  0.5004388650898712  1.0000

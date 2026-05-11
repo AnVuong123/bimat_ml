@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeI2Ag
+_chemical_formula_sum              "Se1 I2 Ag1"
+_cell_length_a       4.690395555716584
+_cell_length_b       4.1743580124517115
+_cell_length_c       20.074575808371993
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    116.38025000604787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.24474691768908607  0.7526553907122632  0.4788082545028126  1.0000
+  I   I1        1.0  0.9174864013522506  0.5885726760692319  0.37156697759635704  1.0000
+  I   I2        1.0  0.573664408987384  0.9161811203246251  0.6285728450525948  1.0000
+  Ag  Ag1       1.0  0.2728538701358513  0.2665740376491523  0.5573828141262429  1.0000

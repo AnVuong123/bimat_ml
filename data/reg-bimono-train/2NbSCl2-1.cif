@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NbSCl2NbSCl2
+_chemical_formula_sum              "Nb2 S2 Cl4"
+_cell_length_a       5.019139306478749
+_cell_length_b       6.759144211390259
+_cell_length_c       34.532920735510814
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000052447156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.9715893243164782  0.5680020562947552  0.499996411281734  1.0000
+  S   S1        1.0  0.5404466960446928  0.5437030683793153  0.49998823891006267  1.0000
+  Cl  Cl1       1.0  0.053622104124768796  0.28971516005235  0.45237030460514055  1.0000
+  Cl  Cl2       1.0  0.03902345275624864  0.7897543872477264  0.44490154016566347  1.0000
+  Nb  Nb2       1.0  0.9715892581268388  0.01145915413177061  0.5000035848147742  1.0000
+  S   S2        1.0  0.5404466367864091  0.03575815881736255  0.5000117571421382  1.0000
+  Cl  Cl3       1.0  0.05362210422522163  0.2897459743615738  0.5476296914025162  1.0000
+  Cl  Cl4       1.0  0.03902345237224586  0.7897069067432477  0.5550984560065299  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeSiMnCl
+_chemical_formula_sum              "Se1 Si1 Mn1 Cl1"
+_cell_length_a       4.434582505200946
+_cell_length_b       4.434768797265436
+_cell_length_c       17.851653622451824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99983123478907
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.834623763607811  0.16587002617553592  0.4182928928630227  1.0000
+  Si  Si1       1.0  0.5013945991287372  0.49917540354139267  0.4620576653312125  1.0000
+  Mn  Mn1       1.0  0.1680981262918038  0.832402627187875  0.4354224031970186  1.0000
+  Cl  Cl1       1.0  0.500500068321449  0.49834349630849567  0.5802819008672678  1.0000

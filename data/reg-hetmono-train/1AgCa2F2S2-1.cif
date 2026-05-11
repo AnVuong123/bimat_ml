@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgS2CaFCaF
+_chemical_formula_sum              "Ag1 S2 Ca2 F2"
+_cell_length_a       4.85507947395378
+_cell_length_b       4.855079473953812
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.81659575165372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.918786575543934  0.9187865755439334  0.5000000000419801  1.0000
+  S   S1        1.0  0.4189932140389763  0.8973826126694764  0.4999999999929247  1.0000
+  S   S2        1.0  0.8973826126694817  0.4189932140389779  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.3858035329301322  0.38580353293013314  0.4164947122334902  1.0000
+  F   F1        1.0  0.15588709906973072  0.1558870990697312  0.35687823667310437  1.0000
+  Ca  Ca2       1.0  0.38580353293809  0.3858035329380909  0.5835052877476109  1.0000
+  F   F2        1.0  0.155887099088785  0.15588709908878648  0.643121763319218  1.0000

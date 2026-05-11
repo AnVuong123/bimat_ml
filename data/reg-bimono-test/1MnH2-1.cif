@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       MnH2
+_chemical_formula_sum              "Mn1 H2"
+_cell_length_a       2.526654308686729
+_cell_length_b       2.5266543086867284
+_cell_length_c       17.32221162
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  5.596591501491473e-18  1.2183212852754032e-17  0.49999996664317625  1.0000
+  H   H1        1.0  0.6666666658083492  0.3333333362285973  0.5592564511662578  1.0000
+  H   H2        1.0  0.6666666658083492  0.3333333362285973  0.4407435262133476  1.0000

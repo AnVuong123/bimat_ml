@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2O4Fe2O4
+_chemical_formula_sum              "Fe4 O8"
+_cell_length_a       2.791637968006418
+_cell_length_b       3.824397257760825
+_cell_length_c       44.446482883351834
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.0  0.0  0.36508068214499656  1.0000
+  Fe  Fe2       1.0  0.49999999856599997  0.5000000002927487  0.40753388198427487  1.0000
+  O   O1        1.0  0.49999999856599997  5.707367692257286e-62  0.39706424052307615  1.0000
+  O   O2        1.0  0.0  0.5000000002927487  0.3755503236061953  1.0000
+  O   O3        1.0  0.49999999856599997  5.707367692257286e-62  0.34011146842987283  1.0000
+  O   O4        1.0  0.0  0.5000000002927487  0.4325030956993986  1.0000
+  Fe  Fe3       1.0  0.0  0.5000000002927487  0.5164224184001179  1.0000
+  Fe  Fe4       1.0  0.49999999856599997  5.707367692257286e-62  0.5588756180144065  1.0000
+  O   O5        1.0  0.49999999856599997  0.5000000002927487  0.5484059765532079  1.0000
+  O   O6        1.0  0.0  0.0  0.5268920598613167  1.0000
+  O   O7        1.0  0.49999999856599997  0.5000000002927487  0.49145320446000457  1.0000
+  O   O8        1.0  0.0  0.0  0.58384483195452  1.0000

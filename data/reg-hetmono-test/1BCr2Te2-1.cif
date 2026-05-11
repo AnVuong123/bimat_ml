@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cr2BTe2
+_chemical_formula_sum              "Cr2 B1 Te2"
+_cell_length_a       3.278669397253806
+_cell_length_b       3.278739652828568
+_cell_length_c       19.430547128714363
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99907544718242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.26551462573365586  0.5988387729483229  0.4502619023781079  1.0000
+  Cr  Cr2       1.0  0.5988641121496076  0.26554339616551537  0.5497390491163889  1.0000
+  B   B1        1.0  0.9321868926222325  0.932188322194812  0.5000201295977311  1.0000
+  Te  Te1       1.0  0.2655266243241851  0.5988882743044748  0.6467975554030125  1.0000
+  Te  Te2       1.0  0.5988222568102417  0.26546438079889273  0.3531898487531602  1.0000

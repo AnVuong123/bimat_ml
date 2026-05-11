@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgICrISeSb
+_chemical_formula_sum              "Ag1 I2 Cr1 Se1 Sb1"
+_cell_length_a       6.988975846635716
+_cell_length_b       5.267643244471215
+_cell_length_c       20.630898885934737
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    138.31033168200977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2235048454028038  0.3627836403198026  0.43766589427903013  1.0000
+  I   I1        1.0  0.7245590780544847  0.7807807417076525  0.3632997775186082  1.0000
+  Cr  Cr1       1.0  0.7242160241228278  0.7941568713808272  0.5048693140270032  1.0000
+  I   I2        1.0  0.7309677303470785  0.7902048644451778  0.6364984821790554  1.0000
+  Se  Se1       1.0  0.7221333811978621  0.300203259145936  0.4952041500830147  1.0000
+  Sb  Sb1       1.0  0.22141798896588877  0.6132951680178669  0.5591566905798788  1.0000

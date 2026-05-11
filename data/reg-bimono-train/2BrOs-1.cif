@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Br2Os2
+_chemical_formula_sum              "Br2 Os2"
+_cell_length_a       3.516740500186986
+_cell_length_b       3.5167616893797695
+_cell_length_c       18.85580293064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99980065039507
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9998285773546426  0.0001684201289833175  0.36058126310875355  1.0000
+  Br  Br2       1.0  0.3335046794674308  0.6664982240638401  0.6394880954953813  1.0000
+  Os  Os1       1.0  0.9999863067708674  1.8356061381437573e-05  0.5340467118529114  1.0000
+  Os  Os2       1.0  0.3333470959327934  0.6666483121728023  0.46602149236967344  1.0000

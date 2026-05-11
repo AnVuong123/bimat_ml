@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgISeIAuS
+_chemical_formula_sum              "Ag1 I2 Se1 Au1 S1"
+_cell_length_a       5.079774901727811
+_cell_length_b       4.985926301423603
+_cell_length_c       19.616946464596175
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    71.29570501708044
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9562824956692627  0.7088832872135277  0.4394992706695368  1.0000
+  I   I1        1.0  0.957912716884287  0.7085029962313815  0.5916367439825678  1.0000
+  Se  Se1       1.0  0.4566976653640968  0.7092707711662489  0.382322499250109  1.0000
+  I   I2        1.0  0.4577583127731316  0.20835940738483566  0.6176775007498911  1.0000
+  Au  Au1       1.0  0.4568621860129836  0.2092750223286101  0.42072511196924994  1.0000
+  S   S1        1.0  0.956789175894243  0.20886500168872635  0.4022330468281344  1.0000

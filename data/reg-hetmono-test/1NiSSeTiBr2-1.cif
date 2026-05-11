@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Br2SNiSeTi
+_chemical_formula_sum              "Br2 S1 Ni1 Se1 Ti1"
+_cell_length_a       6.3222570075753
+_cell_length_b       3.474763795472303
+_cell_length_c       18.149858540616655
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0081815568553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.09118226480603843  0.28842761188237476  0.4345787653504228  1.0000
+  Br  Br2       1.0  0.5730605472336544  0.7879008971996481  0.4131957726904544  1.0000
+  S   S1        1.0  0.3180970460050157  0.7875305908884961  0.585758643796053  1.0000
+  Ni  Ni1       1.0  0.9899508883772284  0.7880805062855711  0.5256285057563397  1.0000
+  Se  Se1       1.0  0.8061833099288708  0.28780817187278845  0.5867607478571308  1.0000
+  Ti  Ti1       1.0  0.4599685512920365  0.2874290117094032  0.5150737764565312  1.0000

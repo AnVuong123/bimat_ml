@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt5InCl2
+_chemical_formula_sum              "Pt5 In1 Cl2"
+_cell_length_a       4.021220769063589
+_cell_length_b       4.021220769063589
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.0795381868063287  0.07953818680632868  0.5000062624318407  1.0000
+  Pt  Pt2       1.0  0.5428485957812402  0.05551733128267982  0.41064699278530487  1.0000
+  Pt  Pt3       1.0  0.055517331282679896  0.5428485957812402  0.41064699278530487  1.0000
+  Pt  Pt4       1.0  0.542871390222955  0.055543179662806065  0.5893641695013511  1.0000
+  Pt  Pt5       1.0  0.05554317966280607  0.542871390222955  0.5893641695013511  1.0000
+  In  In1       1.0  0.5686083434028023  0.5686083434028023  0.5000053227448886  1.0000
+  Cl  Cl1       1.0  0.8815390304816467  0.8815390304816463  0.32798134465437534  1.0000
+  Cl  Cl2       1.0  0.8815578462334234  0.881557846233423  0.6720293080952032  1.0000

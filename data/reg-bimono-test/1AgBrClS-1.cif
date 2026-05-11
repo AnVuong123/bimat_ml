@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       BrSAgCl
+_chemical_formula_sum              "Br1 S1 Ag1 Cl1"
+_cell_length_a       6.970923752847174
+_cell_length_b       3.9038739870792263
+_cell_length_c       19.81602196251591
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    32.90886785515413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7592938300576523  0.8648142335708663  0.3783164166401018  1.0000
+  S   S1        1.0  0.8664927325976813  0.7048426526402285  0.48854962635380145  1.0000
+  Ag  Ag1       1.0  0.12074611178137996  0.8237343689625238  0.5486524011582189  1.0000
+  Cl  Cl1       1.0  0.2671850220494875  0.10408031151467445  0.6215131553125528  1.0000

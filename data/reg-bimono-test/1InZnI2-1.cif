@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnInI2
+_chemical_formula_sum              "Zn1 In1 I2"
+_cell_length_a       4.1876180865050125
+_cell_length_b       4.187026149846639
+_cell_length_c       20.027856278287118
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.1040963459804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7579078408068102  0.24798664928178146  0.6178969621234635  1.0000
+  In  In1       1.0  0.24260122678093124  0.7534692363694485  0.374478421244265  1.0000
+  I   I1        1.0  0.25760253871197036  0.7481429297425393  0.6255215787557349  1.0000
+  I   I2        1.0  0.7431211109357949  0.2523123298871378  0.44942866877149795  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgSIMnOI
+_chemical_formula_sum              "Ag1 S1 I2 Mn1 O1"
+_cell_length_a       3.3686628540355565
+_cell_length_b       4.627211448145948
+_cell_length_c       21.723009040644914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98067630548047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2499406950198325  0.24906880093743983  0.42697782549676  1.0000
+  S   S1        1.0  0.7502924715087805  0.24831467061660717  0.5141181589355939  1.0000
+  I   I1        1.0  0.25452424119389366  0.7463717248743755  0.6546247288013824  1.0000
+  Mn  Mn1       1.0  0.7502456612203589  0.747731524835423  0.5439548098962455  1.0000
+  O   O1        1.0  0.2503449726730792  0.7484919200909397  0.5119361805178408  1.0000
+  I   I2        1.0  0.24644741741918205  0.7492075582402627  0.34492926358838255  1.0000

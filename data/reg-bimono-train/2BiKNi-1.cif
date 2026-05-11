@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiKBiNi2K
+_chemical_formula_sum              "Bi2 K2 Ni2"
+_cell_length_a       4.673405700107292
+_cell_length_b       4.673405700107295
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9998619080801
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9713728603401293  0.9713728603401307  0.43486835375025645  1.0000
+  K   K1        1.0  0.47114591767544467  0.47114591767544406  0.3626098073901434  1.0000
+  Bi  Bi2       1.0  0.4707977632660817  0.47079776326607986  0.5651316350267476  1.0000
+  Ni  Ni1       1.0  0.47154492421761385  0.9706289555842933  0.5000001785859124  1.0000
+  Ni  Ni2       1.0  0.970628955584297  0.4715449242176121  0.5000001785859124  1.0000
+  K   K2        1.0  0.9710266855264653  0.9710266855264614  0.6373903948630454  1.0000

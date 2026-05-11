@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SeNiSeSnSe2
+_chemical_formula_sum              "Se4 Ni1 Sn1"
+_cell_length_a       3.914773521821885
+_cell_length_b       5.923293231803805
+_cell_length_c       18.885022940346456
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    82.02834234523068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.9215189304469315  0.08362821444522528  0.4389298364656272  1.0000
+  Ni  Ni1       1.0  0.4561450728697773  0.9060975591587762  0.47864673773441685  1.0000
+  Se  Se2       1.0  0.34267598895689  0.615749208149254  0.3971401053464862  1.0000
+  Sn  Sn1       1.0  0.8615675424428285  0.5055460318272909  0.4931950580246011  1.0000
+  Se  Se3       1.0  0.4381198458966637  0.015572691656492221  0.594207647436946  1.0000
+  Se  Se4       1.0  0.3589458757122678  0.41329989052099747  0.6028598946535139  1.0000

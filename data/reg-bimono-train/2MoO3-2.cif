@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo2O6
+_chemical_formula_sum              "Mo2 O6"
+_cell_length_a       5.231383208404971
+_cell_length_b       5.10064547857425
+_cell_length_c       19.33782574
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.0  0.3076668688642094  0.5263894963210441  1.0000
+  Mo  Mo2       1.0  0.5000000000000011  0.8076668688642096  0.4736105036789559  1.0000
+  O   O1        1.0  0.24362231493374728  0.04545243537962108  0.4869101211316835  1.0000
+  O   O2        1.0  0.25637768506625463  0.5454524353796197  0.5130898788683165  1.0000
+  O   O3        1.0  0.7436223149337482  0.5454524353796197  0.5130898788683165  1.0000
+  O   O4        1.0  0.7563776850662565  0.04545243537962108  0.4869101211316835  1.0000
+  O   O5        1.0  0.0  0.24476269445294122  0.6113454420142735  1.0000
+  O   O6        1.0  0.5000000000000011  0.744762694452941  0.38865455798572673  1.0000

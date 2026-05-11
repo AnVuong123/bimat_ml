@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnPdF2Cl2
+_chemical_formula_sum              "Zn1 Pd1 F2 Cl2"
+_cell_length_a       4.219339936580096
+_cell_length_b       5.826938642237593
+_cell_length_c       18.529798596640486
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.21577953119413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.23931876176267194  0.7508759894833248  0.48506517289595363  1.0000
+  Pd  Pd1       1.0  0.9559101059909004  0.18432744022940076  0.5269404946972378  1.0000
+  F   F1        1.0  0.7869270338550909  0.8471472888997164  0.4756438205122735  1.0000
+  F   F2        1.0  0.41970679841596803  0.11242724661579098  0.5251931177895169  1.0000
+  Cl  Cl1       1.0  0.0851595003396414  0.44916944565519745  0.4047534548680834  1.0000
+  Cl  Cl2       1.0  0.13669135329230306  0.5426409460096134  0.5952465451319167  1.0000

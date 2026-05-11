@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb2Fe2S3Br2S
+_chemical_formula_sum              "Sb2 Fe2 S4 Br2"
+_cell_length_a       3.5425573570774733
+_cell_length_b       11.501925806472617
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.0  0.25555841779060967  0.44447697437148875  1.0000
+  Sb  Sb2       1.0  0.9999999999999997  0.7555584177905985  0.5555230256284921  1.0000
+  Fe  Fe1       1.0  0.5000000000000219  0.5191691300565472  0.49396690395543436  1.0000
+  Fe  Fe2       1.0  0.5000000000000201  0.01916913005653137  0.5060330960445661  1.0000
+  S   S1        1.0  0.5000000000000263  0.3170733783892233  0.4923110301937318  1.0000
+  S   S2        1.0  0.5000000000000219  0.8170733783892236  0.5076889698062685  1.0000
+  S   S3        1.0  0.0  0.5493247212501452  0.5395284319007675  1.0000
+  Br  Br1       1.0  6.872051957733829e-19  0.5599022544263548  0.44221034745637605  1.0000
+  Br  Br2       1.0  1.0380659059885422e-17  0.059902254426340326  0.5577896525436279  1.0000
+  S   S4        1.0  0.0  0.049324721250141014  0.4604715680992166  1.0000

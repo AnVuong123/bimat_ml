@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2SrS7
+_chemical_formula_sum              "Ta2 Sr1 S7"
+_cell_length_a       4.77462763756099
+_cell_length_b       4.774627637560992
+_cell_length_c       37.85731800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.0  1.0302571373046222e-16  0.4250775631899384  1.0000
+  Ta  Ta2       1.0  2.1935097159239625e-17  0.0  0.5718303917730326  1.0000
+  Sr  Sr1       1.0  0.5000000000000029  0.5000000000000017  0.49845771945525724  1.0000
+  S   S1        1.0  0.0  0.500000000000002  0.43973421138072977  1.0000
+  S   S2        1.0  0.5000000000000029  2.1322735101882666e-17  0.43973421138072977  1.0000
+  S   S3        1.0  1.0569818196774286e-17  0.500000000000002  0.557170635161504  1.0000
+  S   S4        1.0  0.5000000000000029  0.0  0.557170635161504  1.0000
+  S   S5        1.0  3.6609300496145865e-18  8.393403719506361e-18  0.3678168593294973  1.0000
+  S   S6        1.0  8.254030913218448e-18  1.918708599323708e-18  0.6290902778631595  1.0000
+  S   S7        1.0  1.7180451398365729e-18  0.0  0.49844908829126156  1.0000

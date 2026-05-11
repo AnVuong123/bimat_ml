@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuO2SrISrI
+_chemical_formula_sum              "Au1 O2 Sr2 I2"
+_cell_length_a       4.292090462757699
+_cell_length_b       4.292090462757703
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9841909869315697  0.9841909869315698  0.4999999999999882  1.0000
+  O   O1        1.0  0.48417851935045986  0.9830246012162093  0.5000000000000013  1.0000
+  O   O2        1.0  0.9830246012162092  0.4841785193504598  0.5000000000000013  1.0000
+  Sr  Sr1       1.0  0.4848457514072988  0.4848457514072997  0.41885061776454074  1.0000
+  I   I1        1.0  0.9848314834524354  0.9848314834524355  0.3359363703096697  1.0000
+  Sr  Sr2       1.0  0.484845751407299  0.48484575140729896  0.5811493822354669  1.0000
+  I   I2        1.0  0.9848314834524586  0.9848314834524587  0.6640636296903484  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeOBrSOFeBr
+_chemical_formula_sum              "Fe2 O2 Br2 S1"
+_cell_length_a       4.698339372928567
+_cell_length_b       5.608008859105808
+_cell_length_c       19.606651989820506
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    116.86777650721747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3434449018275305  0.6999330538052382  0.493925552615517  1.0000
+  O   O1        1.0  0.15436118040608957  0.3679445194251876  0.5363914610470165  1.0000
+  Br  Br1       1.0  0.2761955020324248  0.5494908316183594  0.38252831213673705  1.0000
+  S   S1        1.0  0.8198100382551156  0.6655330416908679  0.5130803012710474  1.0000
+  O   O2        1.0  0.5314308523338849  0.050398433445665726  0.4662903719772112  1.0000
+  Fe  Fe2       1.0  0.7470659095561047  0.2671310973885276  0.5299667588105481  1.0000
+  Br  Br2       1.0  0.47121000189421075  0.9510100995358097  0.6175090640097238  1.0000

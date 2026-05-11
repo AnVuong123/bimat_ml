@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pt2Te2Cl2
+_chemical_formula_sum              "Pt2 Te2 Cl2"
+_cell_length_a       5.739046804984462
+_cell_length_b       3.7335095225455355
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.4999999999999999  0.0  0.45520982152406114  1.0000
+  Pt  Pt2       1.0  3.6392180170323316e-16  0.5  0.5447902751263208  1.0000
+  Te  Te1       1.0  0.4999999999999999  0.5  0.539544942795215  1.0000
+  Te  Te2       1.0  0.0  1.2480370611745018e-17  0.46045515226832673  1.0000
+  Cl  Cl1       1.0  0.4999999999999999  0.5  0.37743579112870773  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.6225643071652137  1.0000

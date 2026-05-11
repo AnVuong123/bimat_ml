@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaCuTe6Sb2
+_chemical_formula_sum              "Ga1 Cu1 Te6 Sb2"
+_cell_length_a       7.151843869814583
+_cell_length_b       7.151843869814534
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00503523161555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9999958272617546  4.172738245451792e-06  0.5  1.0000
+  Cu  Cu1       1.0  0.666669170228337  0.3333308297716596  0.5  1.0000
+  Te  Te1       1.0  0.7288516446773644  0.6593240543920343  0.5522989301270175  1.0000
+  Te  Te2       1.0  0.9304548614316155  0.2711247533190749  0.5522993212879135  1.0000
+  Te  Te3       1.0  0.340688319880749  0.06956553336111737  0.5522965667921913  1.0000
+  Te  Te4       1.0  0.3406759456079679  0.2711483553226317  0.4477010698729834  1.0000
+  Te  Te5       1.0  0.9304344666388777  0.6593116801192404  0.44770343320780975  1.0000
+  Te  Te6       1.0  0.7288752466809184  0.06954513856838784  0.44770067871208746  1.0000
+  Sb  Sb1       1.0  0.3333257560687213  0.6666712426278831  0.5436928354982522  1.0000
+  Sb  Sb2       1.0  0.33332875737211204  0.6666742439312723  0.456307164501749  1.0000

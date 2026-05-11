@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2P2Te4
+_chemical_formula_sum              "Cu2 P2 Te4"
+_cell_length_a       4.271370929367858
+_cell_length_b       6.655058912177642
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  7.142407257853683e-20  0.005910680644017736  0.4638941083802657  1.0000
+  Cu  Cu2       1.0  1.2758099046577135e-17  0.5059106806440163  0.5361058916197342  1.0000
+  P   P1        1.0  0.5  0.5046667116050205  0.42871170902877714  1.0000
+  P   P2        1.0  0.5  0.004666711605020087  0.5712882909712224  1.0000
+  Te  Te1       1.0  0.5  0.13433143010507845  0.43395174205138737  1.0000
+  Te  Te2       1.0  0.5  0.6343314301050766  0.5660482579486142  1.0000
+  Te  Te3       1.0  0.0  0.6210285687861911  0.4670557257498195  1.0000
+  Te  Te4       1.0  3.1575907184070617e-18  0.1210285687861912  0.5329442742501803  1.0000

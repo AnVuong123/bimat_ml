@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrMn2GeSrGe
+_chemical_formula_sum              "Sr2 Mn2 Ge2"
+_cell_length_a       4.018052307544062
+_cell_length_b       4.01805230754406
+_cell_length_c       34.390512
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.5  0.5  0.5822958431157436  1.0000
+  Mn  Mn1       1.0  0.5  5.627321523396437e-18  0.5  1.0000
+  Mn  Mn2       1.0  2.346915816575616e-17  0.5  0.5  1.0000
+  Ge  Ge1       1.0  8.377571410686715e-18  0.0  0.5421012415769062  1.0000
+  Sr  Sr2       1.0  8.148385049037317e-19  2.0890711876874614e-17  0.41770415688425616  1.0000
+  Ge  Ge2       1.0  0.5  0.5  0.45789875842309496  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnClZnBr
+_chemical_formula_sum              "Mn1 Cl1 Zn1 Br1"
+_cell_length_a       3.848758645980641
+_cell_length_b       6.052816975851035
+_cell_length_c       18.2199207348512
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.60588340187837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3746013501106748  0.25451667178211795  0.5174643952280309  1.0000
+  Cl  Cl1       1.0  0.9294545014784149  0.3635921609137163  0.5883626438805551  1.0000
+  Zn  Zn1       1.0  0.17228833646974853  0.8436471782288082  0.4655266303019144  1.0000
+  Br  Br1       1.0  0.520234641777951  0.5473376467641057  0.41163735611944474  1.0000

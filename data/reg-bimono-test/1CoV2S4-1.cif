@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SVSCoVS2
+_chemical_formula_sum              "S4 V2 Co1"
+_cell_length_a       3.2644797078183356
+_cell_length_b       3.2648239605795606
+_cell_length_c       38.37088052501407
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99651203565638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7252357490056716  0.4504714980113419  0.6098112525840235  1.0000
+  V   V1        1.0  0.05840736262736997  0.11681472525473922  0.42733516553259665  1.0000
+  S   S2        1.0  0.7251377563707138  0.45027551274142685  0.46658702971152033  1.0000
+  Co  Co1       1.0  0.05845938460468217  0.11691876920936375  0.5000009317720014  1.0000
+  V   V2        1.0  0.05851076975566662  0.11702153951133278  0.5726672490518983  1.0000
+  S   S3        1.0  0.3917807459299369  0.7835614918598699  0.5334153358364458  1.0000
+  S   S4        1.0  0.3916825889830382  0.7833651779660723  0.39019118411937315  1.0000

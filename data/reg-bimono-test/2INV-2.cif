@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NVIVNI
+_chemical_formula_sum              "N2 V2 I2"
+_cell_length_a       3.717185053073049
+_cell_length_b       3.0128943338991743
+_cell_length_c       21.87263437010394
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.91151051917461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.12233656485581737  0.461020410296249  0.46227292245465484  1.0000
+  V   V1        1.0  0.1544379826360927  0.47695941624003824  0.5494684413587855  1.0000
+  I   I1        1.0  0.7123550480900463  0.7562829707458862  0.34203988222867676  1.0000
+  V   V2        1.0  0.7153965858538318  0.7575508747900627  0.47056095081991006  1.0000
+  N   N2        1.0  0.5728243674636498  0.1860760829899111  0.5323815106049854  1.0000
+  I   I2        1.0  0.01395164467578014  0.9064551337600693  0.6567317693024589  1.0000

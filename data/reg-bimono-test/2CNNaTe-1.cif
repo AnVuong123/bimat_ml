@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Te2C2N2
+_chemical_formula_sum              "Na2 Te2 C2 N2"
+_cell_length_a       4.286924697238193
+_cell_length_b       6.133230939705048
+_cell_length_c       34.3578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  2.5660485363697923e-19  0.9515704115862907  0.5643320906193959  1.0000
+  Na  Na2       1.0  0.5000000000000027  0.45157041158628514  0.43566790938059746  1.0000
+  Te  Te1       1.0  3.5276083699465256e-17  0.8047273228309343  0.47041061738866125  1.0000
+  Te  Te2       1.0  0.5000000000000027  0.30472732283095044  0.5295893826113387  1.0000
+  C   C1        1.0  1.6483647213823097e-17  0.08386309987876966  0.43892966861218163  1.0000
+  C   C2        1.0  0.5000000000000027  0.5838630998787598  0.5610703313878197  1.0000
+  N   N1        1.0  0.0  0.2502248187028109  0.42152454171741627  1.0000
+  N   N2        1.0  0.5000000000000027  0.7502248187028039  0.5784754582825862  1.0000

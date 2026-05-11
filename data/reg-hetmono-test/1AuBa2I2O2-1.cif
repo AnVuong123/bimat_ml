@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuO2BaIBaI
+_chemical_formula_sum              "Au1 O2 Ba2 I2"
+_cell_length_a       4.3932045813734755
+_cell_length_b       4.393204581373537
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00725249216435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9736754288371832  0.9736754288371837  0.5000000000419801  1.0000
+  O   O1        1.0  0.4737190863164732  0.9744675812460978  0.4999999999929247  1.0000
+  O   O2        1.0  0.9744675812461043  0.47371908631646936  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.47387009846494677  0.4738700984649452  0.4126268142006792  1.0000
+  I   I1        1.0  0.9743753002910145  0.9743753002910145  0.3278905258839067  1.0000
+  Ba  Ba2       1.0  0.47387009847290734  0.47387009847290074  0.587373185780422  1.0000
+  I   I2        1.0  0.9743753003100694  0.9743753003100694  0.6721094741084155  1.0000

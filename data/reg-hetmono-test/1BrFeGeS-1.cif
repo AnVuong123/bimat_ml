@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       FeBrSGe
+_chemical_formula_sum              "Fe1 Br1 S1 Ge1"
+_cell_length_a       3.9193356759189006
+_cell_length_b       3.910667393836625
+_cell_length_c       18.688596001753954
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00552042274255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.16608117198603212  0.8283784079587068  0.5738880634128604  1.0000
+  Br  Br1       1.0  0.17592824185785388  0.8422375192316908  0.40131425599312626  1.0000
+  S   S1        1.0  0.500281296233609  0.49557073726814227  0.5986857440068739  1.0000
+  Ge  Ge1       1.0  0.8343363046264468  0.16361730442519148  0.4975816468784878  1.0000

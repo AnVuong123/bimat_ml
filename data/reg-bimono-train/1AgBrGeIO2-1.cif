@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrOGeIAgO
+_chemical_formula_sum              "Br1 O2 Ge1 I1 Ag1"
+_cell_length_a       3.2883448717399895
+_cell_length_b       3.739519009372685
+_cell_length_c       21.712657044338222
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99290071679414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.7477926853555764  0.7496915044143412  0.3452438081112479  1.0000
+  O   O1        1.0  0.747393651926197  0.749685998363302  0.48641761429645003  1.0000
+  Ge  Ge1       1.0  0.24762889363096516  0.7496724877090237  0.4367469794241012  1.0000
+  I   I1        1.0  0.2562760927126762  0.24990053408824733  0.6547138407851764  1.0000
+  Ag  Ag1       1.0  0.75885083630522  0.24965206229864215  0.5470485339210608  1.0000
+  O   O2        1.0  0.24654654042877364  0.24970030774232743  0.4478225471216332  1.0000

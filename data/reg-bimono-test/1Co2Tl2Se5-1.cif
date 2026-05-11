@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2Tl2Se5
+_chemical_formula_sum              "Co2 Tl2 Se5"
+_cell_length_a       3.908393930980506
+_cell_length_b       3.9083552164402624
+_cell_length_c       43.3341712
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00032767461654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  4.4160037830290086e-05  8.832007566058012e-05  0.5459481191805362  1.0000
+  Co  Co2       1.0  0.33338000210236435  0.6667600042047293  0.4665447966282847  1.0000
+  Tl  Tl1       1.0  0.6666355295908455  0.3332710591816771  0.621869790427338  1.0000
+  Tl  Tl2       1.0  0.6666777189282616  0.3333554378565092  0.38053932094713167  1.0000
+  Se  Se1       1.0  0.9999740248008231  0.9999480496016462  0.6559391871489435  1.0000
+  Se  Se2       1.0  3.5977926044440415e-05  7.19558520888859e-05  0.4932008065316057  1.0000
+  Se  Se3       1.0  1.4885937099345718e-05  2.9771874198691762e-05  0.3467173122751223  1.0000
+  Se  Se4       1.0  0.6667099484066309  0.3334198968132479  0.5571033928526223  1.0000
+  Se  Se5       1.0  0.6667264262796017  0.3334528525591895  0.44332116062853383  1.0000

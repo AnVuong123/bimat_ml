@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       OAlAs2LiO5
+_chemical_formula_sum              "O6 Al1 As2 Li1"
+_cell_length_a       5.5811189304640045
+_cell_length_b       5.58111893046399
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.28554130630963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.30797321139777384  0.020844354116500645  0.4710113207571282  1.0000
+  Al  Al1       1.0  0.00022034559250280153  0.999779654407498  0.5  1.0000
+  As  As1       1.0  0.5007989226511053  0.8503583223247067  0.48860974413642777  1.0000
+  As  As2       1.0  0.14964167767530281  0.49920107734890473  0.5113902558635721  1.0000
+  Li  Li1       1.0  0.6492396366629811  0.3507603633370234  0.5  1.0000
+  O   O2        1.0  0.7394263929731071  0.7922646108709237  0.4611592955528167  1.0000
+  O   O3        1.0  0.2077353891290849  0.2605736070269002  0.5388407044471841  1.0000
+  O   O4        1.0  0.6871684329218289  0.02134901511804843  0.5269142454149153  1.0000
+  O   O5        1.0  0.9786509848819703  0.31283156707818405  0.4730857545850854  1.0000
+  O   O6        1.0  0.979155645883503  0.6920267886022353  0.528988679242872  1.0000

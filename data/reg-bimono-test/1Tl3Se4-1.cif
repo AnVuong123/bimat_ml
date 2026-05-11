@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl3Se4
+_chemical_formula_sum              "Tl3 Se4"
+_cell_length_a       4.156920478564882
+_cell_length_b       4.156920478564871
+_cell_length_c       40.50312
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  1.9984014443252818e-15  4.165421042648721e-17  0.49999999999999994  1.0000
+  Tl  Tl2       1.0  0.6666666666666672  0.33333333333333337  0.5908936885897405  1.0000
+  Tl  Tl3       1.0  0.33333333333333104  0.6666666666666642  0.4091063114102595  1.0000
+  Se  Se1       1.0  1.9984014443252818e-15  0.0  0.37536258965667263  1.0000
+  Se  Se2       1.0  1.9984014443252818e-15  0.0  0.6246374103433263  1.0000
+  Se  Se3       1.0  0.6666666666666672  0.33333333333333337  0.45757802339325604  1.0000
+  Se  Se4       1.0  0.33333333333333104  0.6666666666666642  0.5424219766067437  1.0000

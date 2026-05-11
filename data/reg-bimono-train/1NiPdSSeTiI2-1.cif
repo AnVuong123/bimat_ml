@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiINiSSePdI
+_chemical_formula_sum              "Ti1 I2 Ni1 S1 Se1 Pd1"
+_cell_length_a       6.195857689068572
+_cell_length_b       6.195711149938823
+_cell_length_c       21.173405916760856
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    145.6660263094037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.4936992768472935  0.1773267928437893  0.5226376861651189  1.0000
+  I   I1        1.0  0.42124653353253344  0.2497315810204035  0.6462039034374976  1.0000
+  Ni  Ni1       1.0  0.07974322708020659  0.5917807845946443  0.43308759769307453  1.0000
+  S   S1        1.0  0.9035625084668562  0.7678178520768961  0.468455000828165  1.0000
+  Se  Se1       1.0  0.15736742343587298  0.5129785501109186  0.5320162658901423  1.0000
+  Pd  Pd1       1.0  0.801129867698651  0.8688779832419937  0.569459691959888  1.0000
+  I   I2        1.0  0.611582478998498  0.0596042322417799  0.3539958278702856  1.0000

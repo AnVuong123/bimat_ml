@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Mn2O3Cl2O
+_chemical_formula_sum              "Bi2 Mn2 O4 Cl2"
+_cell_length_a       3.590726989066134
+_cell_length_b       8.091577667259969
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.0  0.22780770990758792  0.43962504391357243  1.0000
+  Bi  Bi2       1.0  0.9999999999999998  0.7278077099075893  0.5603749560864237  1.0000
+  Mn  Mn1       1.0  0.5000000000000235  0.5510035714053525  0.49014648579363773  1.0000
+  Mn  Mn2       1.0  0.5000000000000259  0.05100357140532389  0.5098535142063627  1.0000
+  O   O1        1.0  0.5000000000000281  0.297252677976106  0.47157339433665013  1.0000
+  O   O2        1.0  0.5000000000000235  0.797252677976103  0.5284266056633502  1.0000
+  O   O3        1.0  0.0  0.5367836988645369  0.5213635614418635  1.0000
+  Cl  Cl1       1.0  1.8273272154501266e-17  0.5881257606586466  0.4349839315154205  1.0000
+  Cl  Cl2       1.0  4.018438017323067e-17  0.08812576065862408  0.5650160684845874  1.0000
+  O   O4        1.0  0.0  0.03678369886453059  0.4786364385581207  1.0000

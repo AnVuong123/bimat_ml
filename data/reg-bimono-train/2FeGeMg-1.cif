@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2MgGeMgGe
+_chemical_formula_sum              "Fe2 Mg2 Ge2"
+_cell_length_a       3.7466264141407577
+_cell_length_b       3.746768028410021
+_cell_length_c       19.180294225182035
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9957488729185274  0.9957489821565916  0.4999781101009665  1.0000
+  Fe  Fe2       1.0  0.4955914661212539  0.4955955767802369  0.5000295708140514  1.0000
+  Mg  Mg1       1.0  0.9955156837451705  0.495818331666998  0.6134868919250815  1.0000
+  Ge  Ge1       1.0  0.49544867400839687  0.9958530597779434  0.5860950609287021  1.0000
+  Mg  Mg2       1.0  0.4958174257560855  0.9955137297590813  0.3865125198727055  1.0000
+  Ge  Ge2       1.0  0.9958656721320848  0.4954629975841503  0.4139010865498267  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Cl2S4
+_chemical_formula_sum              "Li2 Cl2 S4"
+_cell_length_a       6.1891619162984775
+_cell_length_b       6.1891619162984775
+_cell_length_c       33.7155184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.0  8.454782113122951e-18  0.5  1.0000
+  Li  Li2       1.0  0.49999999999999506  0.499999999999997  0.5  1.0000
+  Cl  Cl1       1.0  0.49999999999999506  0.0  0.43874173860111926  1.0000
+  Cl  Cl2       1.0  0.0  0.499999999999997  0.5612582613988836  1.0000
+  S   S1        1.0  0.7051935098271621  0.20519350982716145  0.47035193589261726  1.0000
+  S   S2        1.0  0.29480649017283517  0.794806490172828  0.47035193589261726  1.0000
+  S   S3        1.0  0.20519350982716392  0.29480649017283506  0.5296480641073825  1.0000
+  S   S4        1.0  0.7948064901728282  0.7051935098271599  0.5296480641073825  1.0000

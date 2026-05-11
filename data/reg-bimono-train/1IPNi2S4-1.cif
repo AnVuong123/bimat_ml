@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S2NiSPNiSI
+_chemical_formula_sum              "S4 Ni2 P1 I1"
+_cell_length_a       5.723828813741265
+_cell_length_b       5.331128892774365
+_cell_length_c       19.18558298216636
+_cell_angle_alpha    90.00000000000003
+_cell_angle_beta     89.99999999999994
+_cell_angle_gamma    119.3672952233855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.1729042984168183  0.2594567932703495  0.5915600183851094  1.0000
+  S   S2        1.0  0.5289269905202296  0.9178259561669698  0.5135884243927437  1.0000
+  Ni  Ni1       1.0  0.8844518511255464  0.3492612048674716  0.5297791448336093  1.0000
+  S   S3        1.0  0.8520334233940521  0.6250111284408845  0.6090814646095716  1.0000
+  P   P1        1.0  0.5070170795830676  0.6804657402834062  0.6049386698852658  1.0000
+  Ni  Ni2       1.0  0.11791637623879943  0.8960513864591968  0.5178356738503015  1.0000
+  S   S4        1.0  0.8284778767840414  0.5731011407537633  0.4456127105480166  1.0000
+  I   I1        1.0  0.20080763532405901  0.10354293738382304  0.3909185353904283  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IrCl3NiClBr2
+_chemical_formula_sum              "Ir1 Cl4 Ni1 Br2"
+_cell_length_a       6.228290739326417
+_cell_length_b       6.174557461739036
+_cell_length_c       17.7322006159185
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.25962248402483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.4948828714328352  0.49878403420337175  0.5025555475143498  1.0000
+  Cl  Cl1       1.0  0.19813277041405325  0.5304501225219357  0.5766279019469119  1.0000
+  Cl  Cl2       1.0  0.18509951905542862  0.17358412311179738  0.42971926780961234  1.0000
+  Cl  Cl3       1.0  0.8254638684582242  0.8014785207738397  0.5757025917629446  1.0000
+  Ni  Ni1       1.0  0.16218340603478099  0.8372260791863072  0.503628770101511  1.0000
+  Cl  Cl4       1.0  0.4643217169688808  0.16988417052140908  0.5770406526267744  1.0000
+  Br  Br1       1.0  0.4843261966103284  0.8215647566166006  0.42295934737322577  1.0000
+  Br  Br2       1.0  0.8295114518411546  0.5091414052491269  0.42370302692386214  1.0000

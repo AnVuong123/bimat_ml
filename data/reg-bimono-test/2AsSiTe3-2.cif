@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Si2As2Te6
+_chemical_formula_sum              "Si2 As2 Te6"
+_cell_length_a       7.263962862895258
+_cell_length_b       7.263647893802577
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00037519230905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  3.7636284132001275e-06  1.1348375645283175e-05  0.5097076318426087  1.0000
+  Si  Si2       1.0  0.3333383863933412  0.6666696897136788  0.49025021677134  1.0000
+  As  As1       1.0  0.6666416324993498  0.3333350042270421  0.4333209112693953  1.0000
+  As  As2       1.0  0.6666986209514258  0.3333424539256412  0.566707264364918  1.0000
+  Te  Te1       1.0  0.2659859416375075  0.014378091950768949  0.4028247193672075  1.0000
+  Te  Te2       1.0  0.9856290913416136  0.2516676733789678  0.4028231326745011  1.0000
+  Te  Te3       1.0  0.7483438059848717  0.7339919156818613  0.40282053534792545  1.0000
+  Te  Te4       1.0  0.06741064613194347  0.6524378558582857  0.5971237697717319  1.0000
+  Te  Te5       1.0  0.34757252968663627  0.41493319061178663  0.5971260014925991  1.0000
+  Te  Te6       1.0  0.5850808286329243  0.9326254343008454  0.59712947780848  1.0000

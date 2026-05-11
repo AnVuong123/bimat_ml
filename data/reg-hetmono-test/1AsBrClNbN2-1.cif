@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClNAsNbNBr
+_chemical_formula_sum              "Cl1 N2 As1 Nb1 Br1"
+_cell_length_a       3.471344243127777
+_cell_length_b       4.1773504428366
+_cell_length_c       20.65353285000483
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    89.34323160905592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2361945351446174  0.2291141923206595  0.3631340000990797  1.0000
+  N   N1        1.0  0.25009901229185055  0.1624298590583475  0.5045457004407137  1.0000
+  As  As1       1.0  0.3097965802165227  0.755154311234729  0.5454272606909522  1.0000
+  Nb  Nb1       1.0  0.748090296156495  0.23361596988670477  0.45655385095259077  1.0000
+  N   N2        1.0  0.724165239866571  0.6713921875395604  0.47942951109603404  1.0000
+  Br  Br1       1.0  0.729758431669817  0.9598192851244735  0.6368659999009203  1.0000

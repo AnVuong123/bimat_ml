@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsO6In2As
+_chemical_formula_sum              "As2 O6 In2"
+_cell_length_a       4.940687133741395
+_cell_length_b       4.94068713374139
+_cell_length_c       35.187
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99984860367432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  2.8189104109349492e-05  0.999971810895891  0.5  1.0000
+  O   O1        1.0  0.3299635315817102  0.28172611291278643  0.5306372075835067  1.0000
+  O   O2        1.0  0.9518453630037734  0.6700385213931314  0.5306372260450163  1.0000
+  O   O3        1.0  0.7182701642725019  0.048152239505685035  0.5306366007896898  1.0000
+  O   O4        1.0  0.7182738870872118  0.6700364684182871  0.46936279241649326  1.0000
+  O   O5        1.0  0.9518477604943134  0.28172983572749694  0.46936339921031023  1.0000
+  O   O6        1.0  0.3299614786068651  0.04815463699622469  0.4693627739549837  1.0000
+  In  In1       1.0  1.6131207628964293e-05  0.9999974432080205  0.5857574848224917  1.0000
+  In  In2       1.0  2.5567919801350314e-06  0.9999838687923714  0.4142425151775094  1.0000
+  As  As2       1.0  0.6666940466515856  0.3333059533484133  0.5  1.0000

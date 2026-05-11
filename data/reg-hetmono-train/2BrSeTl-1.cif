@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2Br2Tl2
+_chemical_formula_sum              "Se2 Br2 Tl2"
+_cell_length_a       4.219467661721949
+_cell_length_b       7.017674665376313
+_cell_length_c       20.076133844466177
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999993
+_cell_angle_gamma    90.11604037804287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.754513286582292  0.23102239179635878  0.44175563339156465  1.0000
+  Se  Se2       1.0  0.25422053311034176  0.731081255728874  0.5583379195935078  1.0000
+  Br  Br1       1.0  0.747833681823711  0.6573072368297029  0.3735779038984298  1.0000
+  Br  Br2       1.0  0.24235641326104007  0.15724605367979172  0.6264220961015702  1.0000
+  Tl  Tl1       1.0  0.7547290748524198  0.86692282794538  0.48288911103309545  1.0000
+  Tl  Tl2       1.0  0.25592012024634614  0.3669767310319515  0.5171709049159844  1.0000

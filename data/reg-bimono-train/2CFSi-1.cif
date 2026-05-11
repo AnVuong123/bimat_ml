@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2C2F2
+_chemical_formula_sum              "Si2 C2 F2"
+_cell_length_a       3.7349068749386953
+_cell_length_b       2.7479685944374515
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.4999999999999999  0.0  0.45618038934541044  1.0000
+  Si  Si2       1.0  1.223643601002925e-16  0.5  0.543819535032779  1.0000
+  C   C1        1.0  0.4999999999999999  0.5  0.5263470297528229  1.0000
+  C   C2        1.0  9.711930421061092e-20  8.705403420397963e-18  0.47365299672185107  1.0000
+  F   F1        1.0  0.4999999999999999  0.5  0.39577104956819004  1.0000
+  F   F2        1.0  7.864662505475941e-19  7.559273408321384e-18  0.6042289103396897  1.0000

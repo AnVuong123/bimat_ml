@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2Ni2Se2
+_chemical_formula_sum              "I2 Ni2 Se2"
+_cell_length_a       5.074444932883155
+_cell_length_b       3.3715655046142294
+_cell_length_c       21.02688893
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000062431792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4345793899725076  0.49819251300353273  0.6433655640145876  1.0000
+  I   I2        1.0  0.9345793803401401  0.49805495534980637  0.3566344385808501  1.0000
+  Ni  Ni1       1.0  0.2969770258361102  0.498121572397476  0.5220643684663383  1.0000
+  Ni  Ni2       1.0  0.796976909100105  0.49812583004914607  0.47793562295663533  1.0000
+  Se  Se1       1.0  0.9739042659787817  0.9981185119989296  0.545924425488068  1.0000
+  Se  Se2       1.0  0.4739043028190758  0.998128954278893  0.45407556173397273  1.0000

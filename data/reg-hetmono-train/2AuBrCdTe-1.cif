@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd2Te2Au2Br2
+_chemical_formula_sum              "Cd2 Te2 Au2 Br2"
+_cell_length_a       4.6418552128684505
+_cell_length_b       7.485323930168264
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.49999999999999933  0.10856143363081916  0.5144835087541905  1.0000
+  Cd  Cd2       1.0  0.4999999999999999  0.6085614336308269  0.48551649124580964  1.0000
+  Te  Te1       1.0  0.5  0.2818934997587437  0.4503151547502203  1.0000
+  Te  Te2       1.0  0.5  0.7818934997587178  0.5496848452497725  1.0000
+  Au  Au1       1.0  0.0  0.1156139150876882  0.45945859459117894  1.0000
+  Au  Au2       1.0  0.0  0.6156139150876241  0.5405414054088211  1.0000
+  Br  Br1       1.0  2.404855664465973e-17  0.25053180637233236  0.5492871381896415  1.0000
+  Br  Br2       1.0  4.0280177994462487e-17  0.7505318063723244  0.450712861810359  1.0000

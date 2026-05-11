@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeSbO6Ge
+_chemical_formula_sum              "Ge2 Sb1 O6"
+_cell_length_a       5.302627131809247
+_cell_length_b       5.302625327549229
+_cell_length_c       33.223698680311806
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.01817229555792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6663473817988376  0.3336739475086325  0.4962859922454348  1.0000
+  Sb  Sb1       1.0  0.3330112341611112  0.6670110689488945  0.4962919480481727  1.0000
+  O   O1        1.0  0.6896104552501299  0.023610783359516274  0.46652825003943865  1.0000
+  O   O2        1.0  0.33301250073009936  0.31040819893270943  0.46652905185822274  1.0000
+  O   O3        1.0  0.9764068349611613  0.667010627290692  0.4665290701723372  1.0000
+  O   O4        1.0  0.9763898392212421  0.31039032079343043  0.5260483678672893  1.0000
+  O   O5        1.0  0.3329984875288943  0.023632830017226825  0.5260483364991877  1.0000
+  O   O6        1.0  0.6896313383585299  0.6669968436553378  0.5260483586488244  1.0000
+  Ge  Ge2       1.0  0.9996740816825062  0.00034731168996244237  0.4962859974167361  1.0000

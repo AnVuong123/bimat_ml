@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuTe2CaFCaF
+_chemical_formula_sum              "Cu1 Te2 Ca2 F2"
+_cell_length_a       5.264573062214504
+_cell_length_b       5.264573062214484
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    97.81596106918069
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9494259985964102  0.949425998596425  0.5000000000419801  1.0000
+  Te  Te1       1.0  0.4355557377250536  0.8822384906099972  0.4999999999929247  1.0000
+  Te  Te2       1.0  0.8822384906099804  0.43555573772504463  0.4999999999929247  1.0000
+  Ca  Ca1       1.0  0.3678390613041623  0.36783906130416577  0.4059573542241524  1.0000
+  F   F1        1.0  0.15766341755129193  0.15766341755129243  0.3422228973493298  1.0000
+  Ca  Ca2       1.0  0.3678390613121232  0.36783906131212557  0.5940426457569488  1.0000
+  F   F2        1.0  0.157663417570347  0.15766341757034993  0.6577771026429947  1.0000

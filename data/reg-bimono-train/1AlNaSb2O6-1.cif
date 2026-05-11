@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       OAlSb2NaO5
+_chemical_formula_sum              "O6 Al1 Sb2 Na1"
+_cell_length_a       6.009155715949049
+_cell_length_b       6.009155715949094
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.91798424543003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.29468819254259127  0.023297046386665982  0.47269734179317846  1.0000
+  Al  Al1       1.0  0.9996855388483412  0.00031446115165961687  0.5  1.0000
+  Sb  Sb1       1.0  0.5135357260709846  0.8569972783886619  0.4875486656023709  1.0000
+  Sb  Sb2       1.0  0.14300272161132727  0.4864642739290058  0.5124513343976286  1.0000
+  Na  Na1       1.0  0.6317829271354544  0.36821707286453675  0.5  1.0000
+  O   O2        1.0  0.7727353260970973  0.8180192582948914  0.458540103332637  1.0000
+  O   O3        1.0  0.18198074170509293  0.22726467390289365  0.5414598966673627  1.0000
+  O   O4        1.0  0.7111023696506427  0.025169654378480733  0.5279106135019085  1.0000
+  O   O5        1.0  0.974830345621506  0.28889763034934685  0.4720893864980922  1.0000
+  O   O6        1.0  0.9767029536133249  0.7053118074574047  0.5273026582068218  1.0000

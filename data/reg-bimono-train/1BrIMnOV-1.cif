@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       VMnOBrI
+_chemical_formula_sum              "V1 Mn1 O1 Br1 I1"
+_cell_length_a       3.647384960866397
+_cell_length_b       5.202674808452759
+_cell_length_c       20.312586474831143
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    134.52067169580278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.3427400009890889  0.7363345248135473  0.45319471139230333  1.0000
+  Mn  Mn1       1.0  0.34297219111734867  0.2370995362020242  0.5331025468421673  1.0000
+  O   O1        1.0  0.8429669092989301  0.7365782242510663  0.4879916174542965  1.0000
+  Br  Br1       1.0  0.8421562813614345  0.23631235854878307  0.3692291973399388  1.0000
+  I   I1        1.0  0.8371363646107115  0.23157383569039447  0.6307708026600614  1.0000

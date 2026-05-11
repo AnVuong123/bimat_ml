@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClSClAuSeHf
+_chemical_formula_sum              "Cl2 S1 Au1 Se1 Hf1"
+_cell_length_a       5.117360018074429
+_cell_length_b       6.357696591366824
+_cell_length_c       18.954970529134563
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.56525759469564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.4886056975988051  0.46304405989763525  0.604325420159731  1.0000
+  S   S1        1.0  0.16113624214834935  0.8557334817076065  0.5361313890038295  1.0000
+  Cl  Cl2       1.0  0.44044859011036397  0.45530008592442817  0.39567457984026905  1.0000
+  Au  Au1       1.0  0.6515178897814087  0.8351001662800516  0.5393382090647459  1.0000
+  Se  Se1       1.0  0.850424289876784  0.16448598471668066  0.4628463931183356  1.0000
+  Hf  Hf1       1.0  0.39972014560513774  0.2339900823371508  0.49906184309115914  1.0000

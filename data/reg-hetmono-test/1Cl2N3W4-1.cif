@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       W4N3Cl2
+_chemical_formula_sum              "W4 N3 Cl2"
+_cell_length_a       3.2979168251722566
+_cell_length_b       3.2979168251722424
+_cell_length_c       24.915693862083256
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.33333333333332815  0.6666666666666649  0.44908987947966683  1.0000
+  W   W2        1.0  0.666666666666665  0.33333333333333315  0.5512466892675888  1.0000
+  W   W3        1.0  1.234072738093874e-17  0.0  0.3697722628354003  1.0000
+  W   W4        1.0  0.0  0.0  0.6305599193887097  1.0000
+  N   N1        1.0  0.0  0.0  0.5001593205866302  1.0000
+  N   N2        1.0  0.666666666666665  0.33333333333333315  0.3929299979300637  1.0000
+  N   N3        1.0  0.33333333333332815  0.6666666666666649  0.6073922408679105  1.0000
+  Cl  Cl1       1.0  0.666666666666665  0.33333333333333315  0.7055607343294643  1.0000
+  Cl  Cl2       1.0  0.33333333333332815  0.6666666666666649  0.29477290067793854  1.0000

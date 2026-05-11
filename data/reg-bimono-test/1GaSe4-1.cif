@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Se3GaSe
+_chemical_formula_sum              "Se4 Ga1"
+_cell_length_a       3.5266262833047635
+_cell_length_b       6.405432379947347
+_cell_length_c       34.18228619753993
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.97894029631117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8138499310702672  0.6276998621406227  0.5519040639823147  1.0000
+  Se  Se2       1.0  0.8166934303259366  0.6333868606519164  0.43094973674605663  1.0000
+  Se  Se3       1.0  0.44768147812748943  0.8953629562550199  0.5304961770785495  1.0000
+  Ga  Ga1       1.0  0.7100711532843575  0.420142306568757  0.48790690325995095  1.0000
+  Se  Se4       1.0  0.06977391826802792  0.13954783653613068  0.484078305943995  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InGaSBrIClSInIS
+_chemical_formula_sum              "In2 Ga1 S3 Br1 I2 Cl1"
+_cell_length_a       6.878057663305078
+_cell_length_b       7.571804184865352
+_cell_length_c       20.836333307066
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    123.89398166674644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.4046023489437553  0.671513871693498  0.5164334401159094  1.0000
+  Ga  Ga1       1.0  0.9960947348892081  0.8044156859396144  0.438983742850268  1.0000
+  S   S1        1.0  0.19013833748353448  0.2880078867450552  0.5045609104218713  1.0000
+  Br  Br1       1.0  0.8420488073406998  0.43499625961412025  0.4047446283846502  1.0000
+  I   I1        1.0  0.7263636950071081  0.23136305780965666  0.6284657089957258  1.0000
+  Cl  Cl1       1.0  0.9206679891893726  0.9460367785163155  0.3599481679176539  1.0000
+  S   S2        1.0  0.798747473314965  0.7295819240672693  0.5353069064037047  1.0000
+  In  In2       1.0  0.5561106283985857  0.3076083859480252  0.5110034904535253  1.0000
+  I   I2        1.0  0.2510782282963256  0.7249153083438016  0.640051832082346  1.0000
+  S   S3        1.0  0.3917186798816196  0.9385583745282978  0.45132354894608934  1.0000

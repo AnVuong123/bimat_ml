@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VSeIN
+_chemical_formula_sum              "V1 Se1 I1 N1"
+_cell_length_a       2.8813390275597768
+_cell_length_b       2.91442410260506
+_cell_length_c       20.738241102048356
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00928616348483
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.9944505571724498  0.25374090474006716  0.48003094510287486  1.0000
+  Se  Se1       1.0  0.995312742161736  0.2536112826089951  0.36151508701429336  1.0000
+  I   I1        1.0  0.9951220384465009  0.2535087503121625  0.6369661622465257  1.0000
+  N   N1        1.0  0.49472450768218235  0.7543948177371039  0.48737133807796845  1.0000

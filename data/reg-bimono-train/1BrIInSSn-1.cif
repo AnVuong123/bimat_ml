@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrSnSInI
+_chemical_formula_sum              "Br1 Sn1 S1 In1 I1"
+_cell_length_a       5.149589531108126
+_cell_length_b       6.0129924138922215
+_cell_length_c       18.94862844992679
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    82.87894475522033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.5633405668796492  0.8035248388171486  0.6039527382611004  1.0000
+  Sn  Sn1       1.0  0.9759113668009759  0.6850449829584648  0.5079355850082863  1.0000
+  S   S1        1.0  0.9587889792514596  0.2581733111045482  0.5102013258523619  1.0000
+  In  In1       1.0  0.4701045863906042  0.17368187475877847  0.5071189436345797  1.0000
+  I   I1        1.0  0.5580806522705279  0.7988590555112639  0.3960057748601581  1.0000

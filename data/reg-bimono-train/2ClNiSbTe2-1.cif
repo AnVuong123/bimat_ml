@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiTeNiSbTeClSbTe2Cl
+_chemical_formula_sum              "Ni2 Te4 Sb2 Cl2"
+_cell_length_a       3.826823709390529
+_cell_length_b       12.801966812280591
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.500000000000008  0.566713406804793  0.5000005809832315  1.0000
+  Te  Te1       1.0  0.9999999999999999  0.5950246791937092  0.5451650649867715  1.0000
+  Ni  Ni2       1.0  0.5000000000000079  0.06670610926081642  0.5000035313132022  1.0000
+  Sb  Sb1       1.0  1.7462144951730587e-16  0.8204784585008974  0.5528775177885846  1.0000
+  Te  Te2       1.0  0.5000000000000033  0.8588750988825551  0.49645838081315646  1.0000
+  Cl  Cl1       1.0  0.0  0.07256237293906001  0.5455230708615934  1.0000
+  Sb  Sb2       1.0  0.0  0.3129556872075701  0.4471255198615218  1.0000
+  Te  Te3       1.0  0.5000000000000034  0.27455074177628436  0.5035361660236005  1.0000
+  Te  Te4       1.0  1.047761561409867e-18  0.5383788858802275  0.4548376812434597  1.0000
+  Cl  Cl2       1.0  1.1787261131232491e-17  0.06085995524602136  0.4544777652250995  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdBaSTlBaAuS4
+_chemical_formula_sum              "Cd1 Ba2 S5 Tl1 Au1"
+_cell_length_a       4.44194748650276
+_cell_length_b       4.441947486502757
+_cell_length_c       39.36258
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.0  2.1560157378367902e-16  0.3416040494128036  1.0000
+  Ba  Ba1       1.0  0.4999999999999994  0.5000000000000011  0.4277683758322132  1.0000
+  S   S1        1.0  0.0  0.0  0.4055430464776624  1.0000
+  Tl  Tl1       1.0  0.0  1.4818981743497742e-17  0.6519636108929143  1.0000
+  Ba  Ba2       1.0  0.5000000000000012  0.5000000000000011  0.5698360116853569  1.0000
+  Au  Au1       1.0  0.0  0.0  0.5137570658714146  1.0000
+  S   S2        1.0  0.5000000000000012  0.5000000000000011  0.6516254564792564  1.0000
+  S   S3        1.0  0.0  4.068635028972006e-18  0.5792611753852251  1.0000
+  S   S4        1.0  0.5000000000000012  1.6394580216776763e-18  0.4888942069933213  1.0000
+  S   S5        1.0  7.694131192648195e-18  0.5000000000000011  0.4888942069933213  1.0000

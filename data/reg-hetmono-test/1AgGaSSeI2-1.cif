@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgSeSI2Ga
+_chemical_formula_sum              "Ag1 Se1 S1 I2 Ga1"
+_cell_length_a       7.162091494641311
+_cell_length_b       4.497054648977404
+_cell_length_c       18.9586056723337
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.28213936890953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.6964302593613149  0.08915408441765381  0.5204656577395032  1.0000
+  Se  Se1       1.0  0.5802966938848728  0.5313097599686734  0.5671305362682258  1.0000
+  S   S1        1.0  0.39542700187108887  0.9388467303584038  0.4551436811080746  1.0000
+  I   I1        1.0  0.030392321507041607  0.2545249141363585  0.6043986247388161  1.0000
+  I   I2        1.0  0.9925433922044222  0.23467124274841994  0.3955863145295028  1.0000
+  Ga  Ga1       1.0  0.2796534010254779  0.3814462185173418  0.49195828340937986  1.0000

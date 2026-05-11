@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ru2Te2Cl2
+_chemical_formula_sum              "Ru2 Te2 Cl2"
+_cell_length_a       5.05028063566322
+_cell_length_b       3.789794504183314
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.4999999999999998  4.3788118290052053e-17  0.43678858187620023  1.0000
+  Ru  Ru2       1.0  0.9999999999999999  0.49999999999999994  0.5632110490296961  1.0000
+  Te  Te1       1.0  0.4999999999999998  0.49999999999999994  0.5210907382208432  1.0000
+  Te  Te2       1.0  0.0  0.0  0.4789086416638261  1.0000
+  Cl  Cl1       1.0  0.4999999999999998  0.49999999999999994  0.3628999421010546  1.0000
+  Cl  Cl2       1.0  1.1232618052040802e-19  3.763527234454866e-18  0.6370996249890525  1.0000

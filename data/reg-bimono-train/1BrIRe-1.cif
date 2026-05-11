@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ReIBr
+_chemical_formula_sum              "Re1 I1 Br1"
+_cell_length_a       3.831576253879024
+_cell_length_b       3.8352403707919462
+_cell_length_c       17.853232920253188
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.88307805148267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.8346461418254174  0.833134871507482  0.4991900071801343  1.0000
+  I   I1        1.0  0.18300788005470253  0.4844600728228784  0.5800073937266934  1.0000
+  Br  Br1       1.0  0.49002717814663244  0.1783944461072535  0.4199679626585407  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FeTe2FeAsTe2AsTe
+_chemical_formula_sum              "Fe2 Te5 As2"
+_cell_length_a       6.756883102044107
+_cell_length_b       6.49691816552452
+_cell_length_c       33.250524140341405
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.73768425948005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6238763107088123  0.9857749369392514  0.5024494970347548  1.0000
+  Te  Te1       1.0  0.3820555122142594  0.06298020133605307  0.5543414310056073  1.0000
+  Te  Te2       1.0  0.3599697391466769  0.6536358306022714  0.45075817244264177  1.0000
+  Fe  Fe2       1.0  0.37901384561354157  0.36333301065307594  0.5024520807276118  1.0000
+  As  As1       1.0  0.0014245414792323496  0.6724025370808042  0.5339090327107984  1.0000
+  Te  Te3       1.0  0.6208303346030942  0.6824527528817902  0.5543374973251335  1.0000
+  Te  Te4       1.0  0.0014205541761936628  0.2531657811507238  0.5394835029294175  1.0000
+  As  As2       1.0  0.0014449624078045759  0.7243030007274138  0.4603716380400867  1.0000
+  Te  Te5       1.0  0.6429191925451913  0.295061828510208  0.450757050658318  1.0000

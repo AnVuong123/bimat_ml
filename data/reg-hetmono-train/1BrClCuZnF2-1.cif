@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZnBrClF2Cu
+_chemical_formula_sum              "Zn1 Br1 Cl1 F2 Cu1"
+_cell_length_a       3.7944835269343242
+_cell_length_b       6.0403454394558755
+_cell_length_c       18.463363797458218
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.61781841078084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8638920954566928  0.22444406807865858  0.517236006648953  1.0000
+  Br  Br1       1.0  0.9803728585914966  0.4676616518852821  0.4062098370738108  1.0000
+  Cl  Cl1       1.0  0.023381141588880165  0.5367264514898888  0.5937901629261891  1.0000
+  F   F1        1.0  0.2964138209304257  0.09178792395007963  0.5434354644852691  1.0000
+  F   F2        1.0  0.7058341968086415  0.9108783652458078  0.46528207769771396  1.0000
+  Cu  Cu1       1.0  0.13476729540242843  0.777346123683586  0.4923796192754815  1.0000

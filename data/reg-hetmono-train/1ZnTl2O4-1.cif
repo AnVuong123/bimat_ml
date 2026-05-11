@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl2ZnO4
+_chemical_formula_sum              "Tl2 Zn1 O4"
+_cell_length_a       3.4674525830659944
+_cell_length_b       3.4674503789574644
+_cell_length_c       39.21798
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997897266582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  4.284163705655957e-05  2.1420818527966813e-05  0.4177931502100362  1.0000
+  Tl  Tl2       1.0  0.6667159384370672  0.33335796921853333  0.5062427399876618  1.0000
+  Zn  Zn1       1.0  0.3333771467472492  0.6666885733736373  0.5868487973013132  1.0000
+  O   O1        1.0  0.3333755032556214  0.6666877516278374  0.396254494618727  1.0000
+  O   O2        1.0  0.3333851553884107  0.6666925776942239  0.5317193331685192  1.0000
+  O   O3        1.0  4.4253132746286834e-05  2.2126566373233507e-05  0.4730976141191463  1.0000
+  O   O4        1.0  4.405457722192463e-05  2.2027288610879666e-05  0.5920461401612389  1.0000

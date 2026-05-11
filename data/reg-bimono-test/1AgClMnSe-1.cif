@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnClAgSe
+_chemical_formula_sum              "Mn1 Cl1 Ag1 Se1"
+_cell_length_a       4.540176521782316
+_cell_length_b       4.24782312140379
+_cell_length_c       17.975478117965046
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.91701631747951
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7220745953184912  0.24836606574176068  0.5059096595926257  1.0000
+  Cl  Cl1       1.0  0.32466788795903423  0.2493487564513005  0.4172350771857552  1.0000
+  Ag  Ag1       1.0  0.2212476186212775  0.7505717522166978  0.5141279178280272  1.0000
+  Se  Se1       1.0  0.7320535392466292  0.7479352070614517  0.582764922814245  1.0000

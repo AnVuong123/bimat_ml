@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoSeIrSeGaSe2
+_chemical_formula_sum              "Mo1 Se4 Ir1 Ga1"
+_cell_length_a       3.648057288791594
+_cell_length_b       6.668470822001158
+_cell_length_c       18.584884100746812
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    100.60263723493198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.8316428458557767  0.5726859562108981  0.49173865562050206  1.0000
+  Se  Se1       1.0  0.7310009536525366  0.286883156922056  0.596462620944211  1.0000
+  Ir  Ir1       1.0  0.6426545727885755  0.9678405583374531  0.5087596429428934  1.0000
+  Se  Se2       1.0  0.4005484735793645  0.7247665525462293  0.4113113170620408  1.0000
+  Ga  Ga1       1.0  0.23488728202823947  0.2637319445570095  0.49960104636698544  1.0000
+  Se  Se3       1.0  0.07296021682129183  0.811882051590573  0.5853169995012479  1.0000
+  Se  Se4       1.0  0.7259454668721196  0.22581337847268831  0.40350790632984834  1.0000

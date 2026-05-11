@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2BiTe2
+_chemical_formula_sum              "Ni2 Bi1 Te2"
+_cell_length_a       4.009042180844293
+_cell_length_b       4.009034557730852
+_cell_length_c       35.11107744
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000681443509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9999983248473955  1.1874768262839552e-06  0.4587204173055423  1.0000
+  Ni  Ni2       1.0  9.658964627913897e-08  1.2024985019977607e-06  0.5412795429356112  1.0000
+  Bi  Bi1       1.0  0.6666644844871111  0.3333302846694059  0.49999993207336035  1.0000
+  Te  Te1       1.0  0.33333346465359676  0.6666686166945224  0.4268690601438282  1.0000
+  Te  Te2       1.0  0.33333349020088077  0.6666686250784167  0.5731309077099186  1.0000

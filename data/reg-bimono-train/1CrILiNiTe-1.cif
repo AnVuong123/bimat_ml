@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NiCrLiITe
+_chemical_formula_sum              "Ni1 Cr1 Li1 I1 Te1"
+_cell_length_a       4.803812230568703
+_cell_length_b       4.03450717806949
+_cell_length_c       18.767118243907888
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    114.81381314112846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.317790986861102  0.5958399743264773  0.5198899918684585  1.0000
+  Cr  Cr1       1.0  0.45780642708506236  0.16670826281149304  0.43704559874999305  1.0000
+  Li  Li1       1.0  0.8905703180783185  0.8829228495419031  0.5104384280205018  1.0000
+  I   I1        1.0  0.4231416401459836  0.14836890389139745  0.6003648560995974  1.0000
+  Te  Te1       1.0  0.06837340056668158  0.4722212751644474  0.39963514390040245  1.0000

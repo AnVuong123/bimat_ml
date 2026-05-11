@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2Ti2F2Ti2
+_chemical_formula_sum              "F4 Ti4"
+_cell_length_a       2.8883782326423
+_cell_length_b       2.890315053288549
+_cell_length_c       29.74265431982657
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97783547231884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  1.7637569905165673e-05  0.00021297347408743626  0.2348521303743791  1.0000
+  F   F2        1.0  0.3333137934938772  0.6664597565438899  0.3991566116574234  1.0000
+  Ti  Ti1       1.0  1.7707825667585052e-05  0.0003473415587403018  0.3550941999470336  1.0000
+  Ti  Ti2       1.0  0.3333156463081875  0.6663239305848904  0.2789135650367997  1.0000
+  F   F3        1.0  0.3333137934938772  0.6664597565438899  0.492771118286845  1.0000
+  F   F4        1.0  0.6666099521175083  0.33270654132323235  0.6570755995698893  1.0000
+  Ti  Ti3       1.0  0.3333138652147019  0.6665941206343665  0.613013187523282  1.0000
+  Ti  Ti4       1.0  0.6666118049318186  0.33257071536423277  0.5368325529492656  1.0000

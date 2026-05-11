@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiCl2TiGaClSeCl
+_chemical_formula_sum              "Ti2 Cl4 Ga1 Se1"
+_cell_length_a       7.582763868815735
+_cell_length_b       6.215772623682397
+_cell_length_c       18.492028767824333
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    128.59479940801896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.8397960467184933  0.852852074903738  0.5000224190258318  1.0000
+  Cl  Cl1       1.0  0.11775530374912092  0.1192573181510232  0.4055801607365987  1.0000
+  Cl  Cl2       1.0  0.6655718683830374  0.4738504609863382  0.4113412050821495  1.0000
+  Ti  Ti2       1.0  0.3960663577936332  0.39050335783070567  0.49998662370619945  1.0000
+  Ga  Ga1       1.0  0.9615232536892588  0.4430720705113808  0.4999969876042627  1.0000
+  Cl  Cl3       1.0  0.11784037829893908  0.11871096089384153  0.5944198392634014  1.0000
+  Se  Se1       1.0  0.5033118055941233  0.8448228284839552  0.5000711018783139  1.0000
+  Cl  Cl4       1.0  0.6655997632393904  0.4739612252160876  0.5885973355124137  1.0000

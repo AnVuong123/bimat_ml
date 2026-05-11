@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Te2IrMn
+_chemical_formula_sum              "Te2 Ir1 Mn1"
+_cell_length_a       3.9568208908634164
+_cell_length_b       3.9722670993996085
+_cell_length_c       19.06724916506938
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.10135968078403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.8361354576547589  0.6687806479662466  0.6066817157302137  1.0000
+  Te  Te2       1.0  0.1685361777348256  0.33453882636069626  0.39339825958093627  1.0000
+  Ir  Ir1       1.0  0.8360908050167756  0.6684381737348098  0.46453244792926446  1.0000
+  Mn  Mn1       1.0  0.16789961963887898  0.3345416032201338  0.5375262999102859  1.0000

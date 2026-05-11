@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CuS2BaIBaI
+_chemical_formula_sum              "Cu1 S2 Ba2 I2"
+_cell_length_a       4.700104565252582
+_cell_length_b       4.7001045652525235
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.92007590140636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9730994459654004  0.9730994459654013  0.5000000000419801  1.0000
+  S   S1        1.0  0.47330737079357055  0.9737580403421673  0.4999999999929247  1.0000
+  S   S2        1.0  0.9737580403421616  0.47330737079356944  0.4999999999929247  1.0000
+  Ba  Ba1       1.0  0.47414496994414795  0.47414496994415284  0.39715600722979283  1.0000
+  I   I1        1.0  0.9749547213214346  0.9749547213214345  0.3261146676851193  1.0000
+  Ba  Ba2       1.0  0.47414496995210537  0.47414496995210853  0.6028439927513083  1.0000
+  I   I2        1.0  0.9749547213404893  0.9749547213404897  0.6738853323072016  1.0000

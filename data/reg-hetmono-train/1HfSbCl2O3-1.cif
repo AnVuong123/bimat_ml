@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SbHfO2Cl2O
+_chemical_formula_sum              "Sb1 Hf1 O3 Cl2"
+_cell_length_a       4.029058913519685
+_cell_length_b       5.718476644319101
+_cell_length_c       20.975443892247462
+_cell_angle_alpha    90.00000000000003
+_cell_angle_beta     89.99999999999993
+_cell_angle_gamma    110.62061586647546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.8828647337571388  0.21173568238673307  0.5523338440554802  1.0000
+  Hf  Hf1       1.0  0.5762715627304227  0.5986325855735231  0.4678600624897221  1.0000
+  O   O1        1.0  0.4324754708692965  0.3108401737265293  0.5435566533114266  1.0000
+  O   O2        1.0  0.035540360061642115  0.5173378699879727  0.4838908697510584  1.0000
+  Cl  Cl1       1.0  0.5479351405200299  0.5459522407499343  0.3575607515892635  1.0000
+  Cl  Cl2       1.0  0.7373448921105975  0.9201176504576958  0.6424399680151722  1.0000
+  O   O3        1.0  0.7537391337701068  0.9533381687341903  0.4876438710577768  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HOMnO3SiH
+_chemical_formula_sum              "H2 O4 Mn1 Si1"
+_cell_length_a       4.656129706241346
+_cell_length_b       5.128403159767648
+_cell_length_c       17.375119534522042
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    104.15804279735788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.6362386952322222  0.8767367878093812  0.5683425314672239  1.0000
+  O   O1        1.0  0.42126049323239717  0.8076464220534474  0.564531051426452  1.0000
+  Mn  Mn1       1.0  0.8852265128063173  0.31066961818272587  0.46125835702105533  1.0000
+  O   O2        1.0  0.11999188301365753  0.6284648746628422  0.43507718474581836  1.0000
+  O   O3        1.0  0.015685926448747115  0.05421606390366943  0.5097880570442292  1.0000
+  O   O4        1.0  0.5285486139860844  0.10859951330378008  0.4316516094040725  1.0000
+  Si  Si1       1.0  0.27957175703790305  0.9014456861232828  0.4854969765605471  1.0000
+  H   H2        1.0  0.7762174457095165  0.42315569315636653  0.5339238604922292  1.0000

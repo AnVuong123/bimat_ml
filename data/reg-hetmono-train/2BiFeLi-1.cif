@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiLiBiFe2Li
+_chemical_formula_sum              "Bi2 Li2 Fe2"
+_cell_length_a       3.9303600610047393
+_cell_length_b       3.930360061004681
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00004130846193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.9873915215704472  0.9873915215704601  0.39385928937877696  1.0000
+  Li  Li1       1.0  0.48726233954253173  0.4872623395425325  0.3940070553828019  1.0000
+  Bi  Bi2       1.0  0.48737502890268436  0.4873750289026883  0.6061399753870915  1.0000
+  Fe  Fe1       1.0  0.487653300166706  0.9871145740478496  0.4999990789292841  1.0000
+  Fe  Fe2       1.0  0.9871145740478421  0.4876533001667093  0.4999990789292841  1.0000
+  Li  Li2       1.0  0.9875050782439077  0.9875050782439156  0.605991756681142  1.0000

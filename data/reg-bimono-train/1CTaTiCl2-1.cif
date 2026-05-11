@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TaTiClCCl
+_chemical_formula_sum              "Ta1 Ti1 Cl2 C1"
+_cell_length_a       3.2935246553037243
+_cell_length_b       3.293721137668608
+_cell_length_c       20.604707833444582
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99089147226937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.5326573557058388  0.8485344289125977  0.5481606025603409  1.0000
+  Ti  Ti1       1.0  0.199394489657271  0.18164890950928744  0.4452062411116271  1.0000
+  Cl  Cl1       1.0  0.532381460909505  0.8479041454391606  0.3641009356088277  1.0000
+  C   C1        1.0  0.8661495070436344  0.5151285667498291  0.49634677475953487  1.0000
+  Cl  Cl2       1.0  0.19921206331878152  0.18238605785244755  0.6359940951585399  1.0000

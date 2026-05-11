@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       SeONb
+_chemical_formula_sum              "Se1 O1 Nb1"
+_cell_length_a       3.18204733551303
+_cell_length_b       3.1925792024772695
+_cell_length_c       17.683814833016672
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99901944402436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.26135541021026903  0.23759631426444072  0.5755004886047108  1.0000
+  O   O1        1.0  0.26153841332676026  0.7374913856226434  0.4243091748207701  1.0000
+  Nb  Nb1       1.0  0.7617729247488133  0.7375767999077613  0.4861126794524483  1.0000

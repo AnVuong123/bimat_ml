@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsBrSnSrOIO
+_chemical_formula_sum              "As1 Br1 Sn1 Sr1 O2 I1"
+_cell_length_a       4.8782860884244625
+_cell_length_b       4.259785445489011
+_cell_length_c       22.644639855745872
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    106.37048442977304
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0025265951021483848  0.2868131882336189  0.4348279288879907  1.0000
+  Br  Br1       1.0  0.03510751962179559  0.619019676911888  0.6687347917158855  1.0000
+  Sn  Sn1       1.0  0.5372055210562369  0.7557203963036243  0.46776013295633473  1.0000
+  Sr  Sr1       1.0  0.4634960345613457  0.28696780206656103  0.6086649151244959  1.0000
+  O   O1        1.0  0.4835080890058704  0.8000534923115435  0.5529164887551301  1.0000
+  I   I1        1.0  0.9018187185776213  0.5041477376915623  0.3313046859819142  1.0000
+  O   O2        1.0  0.8287322445354628  0.4857118508789644  0.48616350039559914  1.0000

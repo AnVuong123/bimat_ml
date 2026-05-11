@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Co2ClS
+_chemical_formula_sum              "Co2 Cl1 S1"
+_cell_length_a       3.5097364531366613
+_cell_length_b       3.5108967629008885
+_cell_length_c       18.307753756037794
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0124891536934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4930347876948321  0.15090960919037547  0.47936652956824394  1.0000
+  Co  Co2       1.0  0.8263703603180959  0.8175131147507794  0.5616301616063643  1.0000
+  Cl  Cl1       1.0  0.8263083651862599  0.8176726464673267  0.41007892760304293  1.0000
+  S   S1        1.0  0.15963303307456558  0.48410617734002964  0.5897470008532661  1.0000

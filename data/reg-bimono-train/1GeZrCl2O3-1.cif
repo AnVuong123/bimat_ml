@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ZrOGeO2Cl2
+_chemical_formula_sum              "Zr1 O3 Ge1 Cl2"
+_cell_length_a       3.8841330162206034
+_cell_length_b       5.844527199867742
+_cell_length_c       20.945927562635326
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.38753592594406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.3136609818995139  0.4308289969836635  0.4702799502380778  1.0000
+  O   O1        1.0  0.7652447912041844  0.3338504204100211  0.49105813942193177  1.0000
+  Ge  Ge1       1.0  0.6219325230500662  0.047443526710662695  0.5394306112686023  1.0000
+  O   O2        1.0  0.15418476910572182  0.11159046053547371  0.5269711221772593  1.0000
+  O   O3        1.0  0.47856657455357327  0.758894016642463  0.5014695143373503  1.0000
+  Cl  Cl1       1.0  0.6229740337421098  0.049394705505670045  0.6419349367746541  1.0000
+  Cl  Cl2       1.0  0.3067740462695733  0.4138355544438824  0.35806383744482656  1.0000

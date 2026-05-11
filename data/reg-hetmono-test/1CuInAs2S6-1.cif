@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       InCuS6As2
+_chemical_formula_sum              "In1 Cu1 S6 As2"
+_cell_length_a       6.251493454247386
+_cell_length_b       6.251493454247398
+_cell_length_c       33.425904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00230350874278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9999987470998442  1.2529001557842061e-06  0.5  1.0000
+  Cu  Cu1       1.0  0.6667226860377626  0.3332773139622387  0.5  1.0000
+  S   S1        1.0  0.6712937524268013  0.652435232220529  0.5496028105507684  1.0000
+  S   S2        1.0  0.9811019471785541  0.3287032934436136  0.5496015029759558  1.0000
+  S   S3        1.0  0.34759080684574056  0.018911986241243905  0.5496003419330047  1.0000
+  S   S4        1.0  0.3475647677794717  0.32870624757320305  0.4503971894492299  1.0000
+  S   S5        1.0  0.9810880137587543  0.6524091931542606  0.4503996580669949  1.0000
+  S   S6        1.0  0.6712967065563894  0.018898052821442413  0.4503984970240441  1.0000
+  As  As1       1.0  0.3333194373219189  0.6666769061559057  0.5366612241766433  1.0000
+  As  As2       1.0  0.33332309384409636  0.6666805626780823  0.46333877582335864  1.0000

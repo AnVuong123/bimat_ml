@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NZrMnBr2OBr2
+_chemical_formula_sum              "N1 Zr1 Mn1 Br4 O1"
+_cell_length_a       8.376083379990872
+_cell_length_b       3.9413188834681594
+_cell_length_c       18.639756807350196
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    118.07039832918834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.37708328384145134  0.849361811979419  0.5006784739172317  1.0000
+  Zr  Zr1       1.0  0.8790783336781914  0.8752955582554894  0.49968952686103596  1.0000
+  Mn  Mn1       1.0  0.3773505221173503  0.46285050733062044  0.4996379486054034  1.0000
+  Br  Br1       1.0  0.15597421988076587  0.14363865003472528  0.4023647307913199  1.0000
+  Br  Br2       1.0  0.1501546375616906  0.14004263949761475  0.5976142226123192  1.0000
+  O   O1        1.0  0.8786499416560853  0.370690707377051  0.4899035183052715  1.0000
+  Br  Br3       1.0  0.6056386952817854  0.5953969095899287  0.5970478574694134  1.0000
+  Br  Br4       1.0  0.5999249101470613  0.5877710418587315  0.40291757884259527  1.0000

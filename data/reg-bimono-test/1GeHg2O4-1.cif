@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg2GeO4
+_chemical_formula_sum              "Hg2 Ge1 O4"
+_cell_length_a       6.927260866465411
+_cell_length_b       6.523694584625971
+_cell_length_c       32.267544
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.06836733065201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5  0.0  0.5291961093590165  1.0000
+  Hg  Hg2       1.0  4.384231008951703e-18  1.882005625285445e-18  0.4708038906409844  1.0000
+  Ge  Ge1       1.0  0.4999999999999999  0.5  0.5  1.0000
+  O   O1        1.0  0.5598852943080369  0.33096303318409626  0.5356885696010532  1.0000
+  O   O2        1.0  0.7289222611239404  0.6690369668159034  0.46431143039894696  1.0000
+  O   O3        1.0  0.44011470569196276  0.6690369668159034  0.5356885696010532  1.0000
+  O   O4        1.0  0.271077738876059  0.33096303318409653  0.46431143039894696  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PdGa2Se4
+_chemical_formula_sum              "Pd1 Ga2 Se4"
+_cell_length_a       3.92055034931952
+_cell_length_b       3.921368412327808
+_cell_length_c       38.86338
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99309925442766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.0  0.0  0.5000000000000001  1.0000
+  Ga  Ga1       1.0  0.6666451886458065  0.3332903772916121  0.4043834796563963  1.0000
+  Ga  Ga2       1.0  0.33335481135419415  0.6667096227083883  0.5956165203436043  1.0000
+  Se  Se1       1.0  0.6666443328323572  0.33328866566471366  0.6245974523135605  1.0000
+  Se  Se2       1.0  0.3333556671676413  0.6667113343352827  0.37540254768644016  1.0000
+  Se  Se3       1.0  0.6669050469990926  0.33381009399818445  0.4672981649117863  1.0000
+  Se  Se4       1.0  0.33309495300090625  0.6661899060018126  0.5327018350882138  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2NbSbNbSb
+_chemical_formula_sum              "Si2 Nb2 Sb2"
+_cell_length_a       3.5682206472194653
+_cell_length_b       3.568220647219468
+_cell_length_c       35.56395
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  8.660794557678145e-29  0.5  0.5  1.0000
+  Si  Si2       1.0  0.4999999999999999  0.0  0.5  1.0000
+  Nb  Nb1       1.0  0.4999999999999999  0.5  0.5555007159568518  1.0000
+  Sb  Sb1       1.0  1.923244854598702e-18  0.0  0.5940634749811547  1.0000
+  Nb  Nb2       1.0  0.0  9.906385276182874e-19  0.4444992840431479  1.0000
+  Sb  Sb2       1.0  0.4999999999999999  0.5  0.4059365250188447  1.0000

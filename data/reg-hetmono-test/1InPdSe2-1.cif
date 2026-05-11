@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SePdInSe
+_chemical_formula_sum              "Se2 Pd1 In1"
+_cell_length_a       4.134380743106697
+_cell_length_b       4.16350000348919
+_cell_length_c       19.03232400129515
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.96705347630332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.16995557409207296  0.5395385929660101  0.6059335686230634  1.0000
+  Pd  Pd1       1.0  0.502142446514951  0.204294835618694  0.5942878004672242  1.0000
+  In  In1       1.0  0.501573966095353  0.16825323947793278  0.45853753424730126  1.0000
+  Se  Se2       1.0  0.8334307798791567  0.8350045657650771  0.39406643137693664  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn4Cl8
+_chemical_formula_sum              "Mn4 Cl8"
+_cell_length_a       7.56922057
+_cell_length_b       7.7853205800000005
+_cell_length_c       20.5728187
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7500013300000001  0.01591099  0.56912401  1.0000
+  Mn  Mn2       1.0  0.25  0.51475214  0.43087598999999993  1.0000
+  Mn  Mn3       1.0  0.25  0.014752140000000002  0.43087598999999993  1.0000
+  Mn  Mn4       1.0  0.7499986700000001  0.51591099  0.56912401  1.0000
+  Cl  Cl1       1.0  0.7499757400000001  0.26586018  0.6354413  1.0000
+  Cl  Cl2       1.0  0.25  0.26480296000000003  0.36455869999999996  1.0000
+  Cl  Cl3       1.0  0.25  0.76480296  0.36455869999999996  1.0000
+  Cl  Cl4       1.0  0.7500242600000001  0.7658601800000001  0.6354413  1.0000
+  Cl  Cl5       1.0  0.0  0.015331570000000001  0.49999999999999994  1.0000
+  Cl  Cl6       1.0  0.5  0.51533157  0.49999999999999994  1.0000
+  Cl  Cl7       1.0  0.0  0.51533157  0.49999999999999994  1.0000
+  Cl  Cl8       1.0  0.5  0.015331570000000001  0.49999999999999994  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       S2BrGaOsCl
+_chemical_formula_sum              "S2 Br1 Ga1 Os1 Cl1"
+_cell_length_a       3.6251057031269793
+_cell_length_b       4.596967587696486
+_cell_length_c       20.75502489934823
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00132215025184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.7472895210806436  0.24822073093334543  0.5365420072256941  1.0000
+  S   S2        1.0  0.24748034605327468  0.7482043012257803  0.4883346949128547  1.0000
+  Br  Br1       1.0  0.747508619526594  0.2481134013776816  0.3613582752307622  1.0000
+  Ga  Ga1       1.0  0.2474842272531549  0.24810852911146955  0.44897233212908827  1.0000
+  Os  Os1       1.0  0.7475449203388459  0.7482644182444014  0.559678583424673  1.0000
+  Cl  Cl1       1.0  0.2476084931003656  0.7481000772343125  0.6386417247692378  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SeGaAs2NaSe5
+_chemical_formula_sum              "Se6 Ga1 As2 Na1"
+_cell_length_a       6.917591139425737
+_cell_length_b       6.917591139425777
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.2871355832695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.3034482196479659  0.01675876658566974  0.4522483001913845  1.0000
+  Ga  Ga1       1.0  0.0008503639635737184  0.999149636036427  0.5  1.0000
+  As  As1       1.0  0.4794272172127738  0.8328137482856912  0.48695423152156847  1.0000
+  As  As2       1.0  0.1671862517143189  0.5205727827872328  0.5130457684784314  1.0000
+  Na  Na1       1.0  0.6284651116124479  0.3715348883875549  0.5  1.0000
+  Se  Se2       1.0  0.7167536294363641  0.7581264394309595  0.44620645109959245  1.0000
+  Se  Se3       1.0  0.24187356056904344  0.28324637056363344  0.5537935489004059  1.0000
+  Se  Se4       1.0  0.6765514070565549  0.9977596618150335  0.543933705468962  1.0000
+  Se  Se5       1.0  0.0022403381849776445  0.32344859294344985  0.4560662945310384  1.0000
+  Se  Se6       1.0  0.9832412334143293  0.6965517803520359  0.5477516998086153  1.0000

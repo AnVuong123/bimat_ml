@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       InISI2SCuI
+_chemical_formula_sum              "In1 I4 S2 Cu1"
+_cell_length_a       4.934647229091729
+_cell_length_b       4.542934393771409
+_cell_length_c       22.360804685789155
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    85.20863910983331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.25054152422644305  0.5178385471520595  0.5360564817251131  1.0000
+  I   I1        1.0  0.24926193435999566  0.5171446115846805  0.6645663602933376  1.0000
+  S   S1        1.0  0.7505221212946293  0.5178234895927462  0.49914500872681444  1.0000
+  I   I2        1.0  0.7492659787728391  0.01717547731796263  0.6644219001807885  1.0000
+  I   I3        1.0  0.7504349893753307  0.01741524032669773  0.3390597106607031  1.0000
+  S   S2        1.0  0.25056960139309176  0.01780594998167251  0.48306532945550174  1.0000
+  Cu  Cu1       1.0  0.7506073502539224  0.017781722199595916  0.46610517033397353  1.0000
+  I   I4        1.0  0.25030395571433217  0.5174396654660576  0.33578455683655783  1.0000

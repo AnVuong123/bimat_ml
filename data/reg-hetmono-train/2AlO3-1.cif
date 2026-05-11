@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O3Al2O3
+_chemical_formula_sum              "O6 Al2"
+_cell_length_a       5.515419465141974
+_cell_length_b       5.515326402122722
+_cell_length_c       31.9866
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02585425261915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.999874062647308  0.08437373260386673  0.4700469927626605  1.0000
+  O   O2        1.0  0.5750758165087804  0.2348808707098678  0.47006600201012394  1.0000
+  O   O3        1.0  0.4247161679351739  0.6596751411776939  0.47007546450602433  1.0000
+  Al  Al1       1.0  0.6665835750519007  0.9932051686147857  0.49918801118983336  1.0000
+  Al  Al2       1.0  0.3334003811399043  0.3264044184797694  0.4991891394401117  1.0000
+  O   O4        1.0  0.575036267427171  0.6599505909977723  0.5283714852021916  1.0000
+  O   O5        1.0  0.00011068611223249781  0.23497362355399748  0.528319423405349  1.0000
+  O   O6        1.0  0.4251479308607516  0.08498132496741177  0.5283894202354326  1.0000

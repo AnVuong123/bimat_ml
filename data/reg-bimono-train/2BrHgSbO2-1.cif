@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       O4Hg2Sb2Br2
+_chemical_formula_sum              "O4 Hg2 Sb2 Br2"
+_cell_length_a       4.221864105786186
+_cell_length_b       7.465863457859675
+_cell_length_c       36.36461788082604
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  1.5781937798068373e-20  0.5763761635020697  0.5008620633621556  1.0000
+  O   O2        1.0  0.4999999999999956  0.8889556093697875  0.49913631747364445  1.0000
+  O   O3        1.0  0.0  0.1642142071098479  0.48707948543204754  1.0000
+  O   O4        1.0  0.4999999999999975  0.30113882024169747  0.5129193385435256  1.0000
+  Hg  Hg1       1.0  0.4999999999999975  0.6707387114308638  0.461436945097112  1.0000
+  Hg  Hg2       1.0  0.0  0.7945881201843034  0.5385630990697676  1.0000
+  Sb  Sb1       1.0  1.482216079716159e-18  0.3429085264572099  0.5289690767472881  1.0000
+  Sb  Sb2       1.0  0.4999999999999975  0.12243116536482283  0.4710306045322637  1.0000
+  Br  Br1       1.0  0.4999999999999975  0.485643858036654  0.405856530384822  1.0000
+  Br  Br2       1.0  0.0  0.9796629265142527  0.5941463587822226  1.0000

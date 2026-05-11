@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Te2N4
+_chemical_formula_sum              "K2 Te2 N4"
+_cell_length_a       3.3240930696645865
+_cell_length_b       6.747198584620288
+_cell_length_c       34.3578
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    89.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.9999999999999998  0.15039587680265298  0.46203146795892197  1.0000
+  K   K2        1.0  0.5000000000000029  0.6503958768028291  0.5379685320406011  1.0000
+  Te  Te1       1.0  7.472913897203082e-15  0.6503803547752622  0.44649881144000575  1.0000
+  Te  Te2       1.0  0.5000000000000028  0.15038035477518208  0.5535011885597676  1.0000
+  N   N1        1.0  0.9999999999999999  0.14897719947429944  0.3714575993057017  1.0000
+  N   N2        1.0  0.5000000000000028  0.6489771994736591  0.6285424006941389  1.0000
+  N   N3        1.0  0.9999999999999994  0.14788862372858402  0.3393806599087914  1.0000
+  N   N4        1.0  0.5000000000000029  0.6478886237288203  0.6606193400910684  1.0000

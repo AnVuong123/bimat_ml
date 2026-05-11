@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TaSb2
+_chemical_formula_sum              "Ta1 Sb2"
+_cell_length_a       3.2789697190987486
+_cell_length_b       3.2789697190987472
+_cell_length_c       18.127
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  2.963540416716548e-16  2.4410298710989104e-16  0.5000000000000522  1.0000
+  Sb  Sb1       1.0  0.666666666666667  0.33333333333333376  0.6218119595423506  1.0000
+  Sb  Sb2       1.0  0.33333333333333365  0.6666666666666671  0.3781880404577509  1.0000

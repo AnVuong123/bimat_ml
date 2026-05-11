@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrOHfIOMn2O
+_chemical_formula_sum              "Br1 O3 Hf1 I1 Mn2"
+_cell_length_a       4.222843876332214
+_cell_length_b       5.776428682391242
+_cell_length_c       21.394844033943418
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999997
+_cell_angle_gamma    111.44110744807854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.4826765689095561  0.6877939324866112  0.6494482507981326  1.0000
+  O   O1        1.0  0.9828510983177717  0.6875423205518035  0.5205962272535232  1.0000
+  Hf  Hf1       1.0  0.48284588912513215  0.6875657781730687  0.5324764357726895  1.0000
+  I   I1        1.0  0.9824821334763145  0.6870902289629058  0.35055174920186727  1.0000
+  O   O2        1.0  0.6400798597583581  0.0016125157782386752  0.480425297154492  1.0000
+  Mn  Mn1       1.0  0.8311361441854513  0.3834577188477815  0.45406212987326333  1.0000
+  Mn  Mn2       1.0  0.13514265417529844  0.9916071135990343  0.45402742674672236  1.0000
+  O   O3        1.0  0.32602395706858306  0.37349938842215835  0.48045669954738723  1.0000

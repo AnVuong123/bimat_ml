@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd5InBr2
+_chemical_formula_sum              "Pd5 In1 Br2"
+_cell_length_a       4.097127123782351
+_cell_length_b       4.097127123782351
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.0028929048919571283  0.002892904891957148  0.49994773610170623  1.0000
+  Pd  Pd2       1.0  0.5031110998462341  0.002920340587576097  0.41422686203311526  1.0000
+  Pd  Pd3       1.0  0.002920340587576127  0.5031110998462341  0.41422686203311526  1.0000
+  Pd  Pd4       1.0  0.5031090268776996  0.0029201699773586903  0.5856745089789372  1.0000
+  Pd  Pd5       1.0  0.0029201699773586695  0.5031090268776996  0.5856745089789372  1.0000
+  In  In1       1.0  0.5027948772139256  0.5027948772139256  0.4999445440949139  1.0000
+  Br  Br1       1.0  0.003738093069291921  0.003738093069291921  0.33715421349791647  1.0000
+  Br  Br2       1.0  0.0037392632892474837  0.0037392632892474338  0.6627788868474344  1.0000

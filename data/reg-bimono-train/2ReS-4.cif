@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ReSReS
+_chemical_formula_sum              "Re2 S2"
+_cell_length_a       2.980631465637602
+_cell_length_b       4.270338409386609
+_cell_length_c       17.5485859
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.0  0.05515380518827386  0.4766721960093362  1.0000
+  S   S1        1.0  0.9999999999999996  0.3005686702829224  0.5987801837707691  1.0000
+  Re  Re2       1.0  0.5000000013368595  0.5731374891296995  0.5175334406137234  1.0000
+  S   S2        1.0  5.81781033415051e-18  0.5704925026988857  0.4070473268973465  1.0000

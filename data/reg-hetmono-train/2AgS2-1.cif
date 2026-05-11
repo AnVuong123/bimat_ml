@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag2S4
+_chemical_formula_sum              "Ag2 S4"
+_cell_length_a       5.882598840342593
+_cell_length_b       6.039062047321117
+_cell_length_c       16.3588724507124
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.5000000033872193  0.9999999961465623  0.49999999644667953  1.0000
+  Ag  Ag2       1.0  0.9999999969795341  0.5000000071485167  0.49999999663514333  1.0000
+  S   S1        1.0  0.09983007158353117  0.10330912356084307  0.46578542237827125  1.0000
+  S   S2        1.0  0.5998300026905936  0.39669087621875193  0.5342145891419209  1.0000
+  S   S3        1.0  0.9001699378627782  0.8966908892388503  0.5342145646998089  1.0000
+  S   S4        1.0  0.40016999004472636  0.6033091328256855  0.46578539751017817  1.0000

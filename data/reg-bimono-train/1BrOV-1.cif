@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       VBrO
+_chemical_formula_sum              "V1 Br1 O1"
+_cell_length_a       5.11476240955256
+_cell_length_b       3.8724401150692955
+_cell_length_c       32.589790572248525
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    139.12020055016205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.8409331759024917  0.0009690618953053399  0.5138934145328623  1.0000
+  Br  Br1       1.0  0.8409905697266221  0.5009511056976694  0.46568697548408483  1.0000
+  O   O1        1.0  0.3410568164523863  0.5009235515298859  0.5360523652582351  1.0000

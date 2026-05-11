@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiSeMoNiSeNiTeSe
+_chemical_formula_sum              "Ni3 Se3 Mo1 Te1"
+_cell_length_a       3.4318135169937185
+_cell_length_b       6.717332018357694
+_cell_length_c       18.689410356457064
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00330654386244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25242492178579845  0.6881618597711151  0.5598937437569199  1.0000
+  Se  Se1       1.0  0.7526049582317932  0.12639890911459045  0.4197979103775199  1.0000
+  Mo  Mo1       1.0  0.7524111452129448  0.42159838068103356  0.5002315596511364  1.0000
+  Ni  Ni2       1.0  0.25244377703510396  0.08845736132708344  0.509928586074785  1.0000
+  Se  Se2       1.0  0.2523912060843691  0.3582946946798365  0.5982360110349197  1.0000
+  Ni  Ni3       1.0  0.752408927742374  0.8043785626705855  0.4739501767632151  1.0000
+  Te  Te1       1.0  0.25241472523176095  0.6188700283991562  0.4012967695050262  1.0000
+  Se  Se3       1.0  0.752422152883101  0.8955082646584019  0.598703230494974  1.0000

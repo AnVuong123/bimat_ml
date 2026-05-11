@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       PbSbTe6Pb
+_chemical_formula_sum              "Pb2 Sb1 Te6"
+_cell_length_a       7.198529395905386
+_cell_length_b       7.198529223419727
+_cell_length_c       33.223698680311806
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.9960480791401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.6663776468669091  0.33363102937929073  0.4962731858081021  1.0000
+  Sb  Sb1       1.0  0.3329771887982841  0.6669772060190408  0.4962563735146009  1.0000
+  Te  Te1       1.0  0.6432284208179192  0.9772284296019804  0.4390344584058769  1.0000
+  Te  Te2       1.0  0.333010956802617  0.35680858334868165  0.4390262405819215  1.0000
+  Te  Te3       1.0  0.02280857482030191  0.6670109687416464  0.43902624005716695  1.0000
+  Te  Te4       1.0  0.02314632754290967  0.3571463418836664  0.5535508980437936  1.0000
+  Te  Te5       1.0  0.33301986567590697  0.9768822360468836  0.5535548284634576  1.0000
+  Te  Te6       1.0  0.6428822073828588  0.6670198790911082  0.5535548261593377  1.0000
+  Pb  Pb2       1.0  0.99963100978154  0.0003776433611312631  0.4962731855245521  1.0000

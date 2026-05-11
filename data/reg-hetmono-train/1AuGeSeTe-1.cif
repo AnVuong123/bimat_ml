@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       GeSeAuTe
+_chemical_formula_sum              "Ge1 Se1 Au1 Te1"
+_cell_length_a       4.644207504835352
+_cell_length_b       4.316888691162449
+_cell_length_c       18.139077729472216
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98052796103968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.25021556069115647  0.2502286073889821  0.514152382099977  1.0000
+  Se  Se1       1.0  0.7502529823728998  0.25031394405743257  0.5854657581721574  1.0000
+  Au  Au1       1.0  0.7501972758684213  0.750293685640078  0.4996124172673607  1.0000
+  Te  Te1       1.0  0.25012717874636636  0.7502030407276898  0.41416219388833175  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       WBTeMoTe
+_chemical_formula_sum              "W1 B1 Te2 Mo1"
+_cell_length_a       4.0467092185728495
+_cell_length_b       4.045240622065796
+_cell_length_c       19.380270916002175
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00478440836338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.4989036599746164  0.8282831130680691  0.5314488552829988  1.0000
+  B   B1        1.0  0.832183593381838  0.4948305750403578  0.5016700470307092  1.0000
+  Te  Te1       1.0  0.16555980105602214  0.16151498470907075  0.6134414813064558  1.0000
+  Mo  Mo1       1.0  0.1655658281505123  0.16146369992814405  0.4680124669288664  1.0000
+  Te  Te2       1.0  0.4988154696152564  0.8281742050471934  0.3865924867526826  1.0000

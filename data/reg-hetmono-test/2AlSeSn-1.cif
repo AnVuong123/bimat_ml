@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2Sn2Se2
+_chemical_formula_sum              "Al2 Sn2 Se2"
+_cell_length_a       4.123584189965489
+_cell_length_b       4.123584189965481
+_cell_length_c       38.17081506
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9999999999999987  8.881784197001252e-16  0.5874518697127793  1.0000
+  Al  Al2       1.0  0.3333333333333333  0.666666666666667  0.4125481302872202  1.0000
+  Sn  Sn1       1.0  0.9999999999999987  8.881784197001252e-16  0.5176262299647091  1.0000
+  Sn  Sn2       1.0  0.3333333333333333  0.666666666666667  0.48237377003529086  1.0000
+  Se  Se1       1.0  0.6666666666666684  0.3333333333333336  0.3874623267708114  1.0000
+  Se  Se2       1.0  0.6666666666666684  0.3333333333333336  0.6125376732291883  1.0000

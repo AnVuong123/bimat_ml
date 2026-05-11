@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuInBrIS2
+_chemical_formula_sum              "Cu1 In1 Br1 I1 S2"
+_cell_length_a       4.2507176646901605
+_cell_length_b       4.400090488704861
+_cell_length_c       21.627851139588362
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    90.05853709954769
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.8627140587179454  0.2509792039506196  0.4335484919690844  1.0000
+  In  In1       1.0  0.7325252795267334  0.749938245477619  0.5573494214378106  1.0000
+  Br  Br1       1.0  0.18655695553125798  0.25651671349117106  0.3467750888238611  1.0000
+  I   I1        1.0  0.18234400636411702  0.7457696338615736  0.6532249111761389  1.0000
+  S   S1        1.0  0.5285968552072452  0.24963158606399308  0.5148052452059727  1.0000
+  S   S2        1.0  0.015321942943543165  0.7510153771366526  0.45352509581315226  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrAl2Te4
+_chemical_formula_sum              "Cr1 Al2 Te4"
+_cell_length_a       4.193266629530769
+_cell_length_b       4.193266629530766
+_cell_length_c       39.45524608
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  7.923290995210807e-18  1.5846581990421496e-17  0.4999999999999997  1.0000
+  Al  Al1       1.0  0.6666666666666696  0.33333333333333426  0.3979797110802175  1.0000
+  Al  Al2       1.0  0.3333333333333347  0.6666666666666666  0.6020202889197807  1.0000
+  Te  Te1       1.0  0.6666666666666696  0.33333333333333426  0.46397607474104785  1.0000
+  Te  Te2       1.0  0.3333333333333347  0.6666666666666666  0.5360239252589517  1.0000
+  Te  Te3       1.0  0.6666666666666696  0.33333333333333426  0.6329690771728208  1.0000
+  Te  Te4       1.0  0.3333333333333347  0.6666666666666666  0.3670309228271789  1.0000

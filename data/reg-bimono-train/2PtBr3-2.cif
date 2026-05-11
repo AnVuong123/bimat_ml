@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt2Br6
+_chemical_formula_sum              "Pt2 Br6"
+_cell_length_a       7.006496972511065
+_cell_length_b       7.006496972511064
+_cell_length_c       18.28451071040098
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.6666666666666665  0.33333333333333315  0.5001827954738983  1.0000
+  Pt  Pt2       1.0  0.33333333333333315  0.6666666666666663  0.4998172681057406  1.0000
+  Br  Br1       1.0  0.48725760957295916  3.5338316295897554e-05  0.4099349449764127  1.0000
+  Br  Br2       1.0  0.5127777287433306  0.5127423904270414  0.4099349449764127  1.0000
+  Br  Br3       1.0  0.9999646616837081  0.4872222712566701  0.4099349449764127  1.0000
+  Br  Br4       1.0  0.48722266066784925  0.9999650325228298  0.5900650378150415  1.0000
+  Br  Br5       1.0  0.512742371854984  0.5127773393321484  0.5900650378150415  1.0000
+  Br  Br6       1.0  3.4967477169542275e-05  0.4872576281450232  0.5900650378150415  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaOClNiOCl
+_chemical_formula_sum              "Ta1 O2 Cl2 Ni1"
+_cell_length_a       3.918972852876284
+_cell_length_b       5.507083812884382
+_cell_length_c       18.906058412102052
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    110.55537273944239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.06479286959893714  0.16174433271005642  0.4998480440337911  1.0000
+  O   O1        1.0  0.5637680396029123  0.17610805383900982  0.4995752826536877  1.0000
+  Cl  Cl1       1.0  0.9255282598625485  0.9062406307444809  0.603301765152744  1.0000
+  Ni  Ni1       1.0  0.7839795067927255  0.6350986368670303  0.500937260212886  1.0000
+  O   O2        1.0  0.23089518559098754  0.5287963875833468  0.5005512572562723  1.0000
+  Cl  Cl2       1.0  0.9246528465608415  0.9047849154063556  0.39669823484725597  1.0000

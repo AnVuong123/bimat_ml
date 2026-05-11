@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SnCl4Sn
+_chemical_formula_sum              "Sn2 Cl4"
+_cell_length_a       7.296158121962121
+_cell_length_b       7.296158121961831
+_cell_length_c       33.2232
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    134.03110287577783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.1583572790702154  0.8416427209295178  0.4776997223005869  1.0000
+  Cl  Cl1       1.0  0.3432470356546103  0.6567529643455472  0.5170716464475178  1.0000
+  Cl  Cl2       1.0  0.6867759563027869  0.31322404369726514  0.4829358065924689  1.0000
+  Cl  Cl3       1.0  0.949460530356713  0.05053946964323742  0.45336623913487734  1.0000
+  Cl  Cl4       1.0  0.08052363575985752  0.9194763642401681  0.5466557521300409  1.0000
+  Sn  Sn2       1.0  0.871656410098905  0.12834358990108086  0.5222739901631316  1.0000

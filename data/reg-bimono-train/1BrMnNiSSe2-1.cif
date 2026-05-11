@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnSeNiSeSBr
+_chemical_formula_sum              "Mn1 Se2 Ni1 S1 Br1"
+_cell_length_a       4.519237001422366
+_cell_length_b       4.524629487395288
+_cell_length_c       18.109166028350096
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.89741021190737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.34256009274036014  0.5865429936444168  0.5175110940731829  1.0000
+  Se  Se1       1.0  0.40350090986635545  0.13318399961649052  0.5858450914714312  1.0000
+  Ni  Ni1       1.0  0.8990811135513458  0.14273735551103064  0.5188327384977615  1.0000
+  Se  Se2       1.0  0.8891250453459407  0.6475879359821303  0.5858134824555931  1.0000
+  S   S1        1.0  0.12820741238564212  0.3721113546450776  0.4259280770965585  1.0000
+  Br  Br1       1.0  0.6228496614168825  0.867167712104676  0.41415490852856884  1.0000

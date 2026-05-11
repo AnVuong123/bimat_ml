@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2As2O4
+_chemical_formula_sum              "Ag2 As2 O4"
+_cell_length_a       3.038963328167786
+_cell_length_b       5.358902094762297
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.0  0.04050702248609321  0.48305983139016906  1.0000
+  Ag  Ag2       1.0  3.580134938371886e-16  0.5405070224860924  0.5169401686098308  1.0000
+  As  As1       1.0  0.5  0.4719740535731236  0.4226441266475384  1.0000
+  As  As2       1.0  0.49999999999999994  0.971974053573117  0.5773558733524614  1.0000
+  O   O1        1.0  0.5  0.1651880128853129  0.4363483890651767  1.0000
+  O   O2        1.0  0.49999999999999994  0.665188012885318  0.5636516109348209  1.0000
+  O   O3        1.0  1.0109762871364222e-17  0.5882092301787614  0.4523112971388906  1.0000
+  O   O4        1.0  0.0  0.08820923017875489  0.5476887028611093  1.0000

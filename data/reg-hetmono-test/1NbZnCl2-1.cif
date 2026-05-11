@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       NbZnCl2
+_chemical_formula_sum              "Nb1 Zn1 Cl2"
+_cell_length_a       3.188540916791133
+_cell_length_b       3.2331598581487504
+_cell_length_c       20.481040194354904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.09839482863119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.8213309518813049  0.13855386684593554  0.5514905579912417  1.0000
+  Zn  Zn1       1.0  0.17340740019997075  0.8423503230754811  0.4421061812296511  1.0000
+  Cl  Cl1       1.0  0.519550281227337  0.5304078574771317  0.36607874253801004  1.0000
+  Cl  Cl2       1.0  0.4897910632917967  0.48250591358412054  0.6338673942669746  1.0000

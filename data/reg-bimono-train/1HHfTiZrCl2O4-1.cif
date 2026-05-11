@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HOHfCl2TiZrO3
+_chemical_formula_sum              "H1 O4 Hf1 Cl2 Ti1 Zr1"
+_cell_length_a       3.959210288280293
+_cell_length_b       5.579304245261717
+_cell_length_c       20.96054842361704
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    97.42109726226076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.2948830192780094  0.8748305469496438  0.6165958509849266  1.0000
+  O   O1        1.0  0.2337969472842757  0.7271971653593555  0.40907699962778815  1.0000
+  Hf  Hf1       1.0  0.7444724635651067  0.8220720917388427  0.4126913621667176  1.0000
+  Cl  Cl1       1.0  0.7681131049417359  0.19877498446904598  0.3571036558272243  1.0000
+  Cl  Cl2       1.0  0.7665979310497314  0.2892057134490245  0.6424732878986691  1.0000
+  Ti  Ti1       1.0  0.24226467424893303  0.6534371203493309  0.5031657767024859  1.0000
+  Zr  Zr1       1.0  0.660543925730637  0.2111210529579659  0.5299927630008036  1.0000
+  O   O2        1.0  0.34246505184513504  0.8845905958669338  0.5709123103089132  1.0000
+  O   O3        1.0  0.7277865447749171  0.5745782690066399  0.49201814805558014  1.0000
+  O   O4        1.0  0.1803945880157463  0.2945675667359127  0.5090115166577186  1.0000

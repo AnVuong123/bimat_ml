@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl2CuGaClS2
+_chemical_formula_sum              "Cl3 Cu1 Ga1 S2"
+_cell_length_a       7.784561756942172
+_cell_length_b       4.591506531020937
+_cell_length_c       18.57696052536939
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    112.77682161966686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.09888219881418892  0.7556261734809604  0.4579031353310242  1.0000
+  Cl  Cl2       1.0  0.2621578991158317  0.3818814088718876  0.5962741057796983  1.0000
+  Cu  Cu1       1.0  0.8303274734512711  0.5648759899053646  0.5242618290977392  1.0000
+  Ga  Ga1       1.0  0.35185562161119804  0.17418850035029654  0.5029105416175852  1.0000
+  Cl  Cl3       1.0  0.46140932608472535  0.43722735255747996  0.4037258942203014  1.0000
+  S   S1        1.0  0.7890382678364434  0.02531600599241111  0.5140644487310568  1.0000
+  S   S2        1.0  0.6002444541476949  0.1409934322266324  0.573204985826445  1.0000

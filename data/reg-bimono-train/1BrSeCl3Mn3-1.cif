@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnBrSeCl3Mn2
+_chemical_formula_sum              "Mn3 Br1 Se1 Cl3"
+_cell_length_a       6.434652087858002
+_cell_length_b       6.613641011217317
+_cell_length_c       18.442939451399702
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.54159608465537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.007883850973749995  0.9983572870031145  0.5041191412655992  1.0000
+  Br  Br1       1.0  0.05820429350439262  0.7381725534376254  0.40665968783142104  1.0000
+  Se  Se1       1.0  0.34446682462604733  0.40643334730526387  0.5078797291395443  1.0000
+  Cl  Cl1       1.0  0.06361305607078156  0.7448705424291492  0.591280222951465  1.0000
+  Cl  Cl2       1.0  0.7277514382150141  0.06837692011859896  0.41680132580564383  1.0000
+  Cl  Cl3       1.0  0.7244297034234067  0.06606828368942635  0.5933403121685792  1.0000
+  Mn  Mn2       1.0  0.9285765704562754  0.4029379923945759  0.5064935243392518  1.0000
+  Mn  Mn3       1.0  0.4169661300960926  0.8135540287895785  0.5041798759090238  1.0000

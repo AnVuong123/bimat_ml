@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SPbHgClPbClS
+_chemical_formula_sum              "S2 Pb2 Hg1 Cl2"
+_cell_length_a       4.443701405575575
+_cell_length_b       7.5258081145237785
+_cell_length_c       33.842086877324824
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.17138047059142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6914511292483297  0.3829022584966681  0.4822597539066226  1.0000
+  Pb  Pb1       1.0  0.7669454639510093  0.5338909279020105  0.5560822773684739  1.0000
+  Hg  Hg1       1.0  0.5331945872960527  0.06638917459210543  0.5000008514377985  1.0000
+  Cl  Cl1       1.0  0.9216519918364876  0.8433039836729732  0.4275711260311229  1.0000
+  Pb  Pb2       1.0  0.2994417406259694  0.5988834812519487  0.4439197137171533  1.0000
+  Cl  Cl2       1.0  0.14473716435060746  0.28947432870121925  0.5724292362161811  1.0000
+  S   S2        1.0  0.37493711080567876  0.7498742216113697  0.5177407325553499  1.0000

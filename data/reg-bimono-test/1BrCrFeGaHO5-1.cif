@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CrOFeHBrGaO4
+_chemical_formula_sum              "Cr1 O5 Fe1 H1 Br1 Ga1"
+_cell_length_a       5.291081322362914
+_cell_length_b       5.320687485214881
+_cell_length_c       18.757859254427775
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    121.13842683749178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.8533066111209632  0.6742329528926836  0.5054342066068451  1.0000
+  O   O1        1.0  0.19512912810815355  0.7027711292317933  0.4564243551490489  1.0000
+  Fe  Fe1       1.0  0.4903346062913836  0.03827857401177396  0.5065217021252233  1.0000
+  H   H1        1.0  0.7778771828298074  0.9820208890195292  0.3998324061542168  1.0000
+  Br  Br1       1.0  0.5132044729307202  0.705142928868148  0.6001675938457832  1.0000
+  Ga  Ga1       1.0  0.16455610219721695  0.3460236111797613  0.5019028131831982  1.0000
+  O   O2        1.0  0.17141285649063298  0.020077259227809875  0.5532366365370832  1.0000
+  O   O3        1.0  0.8223550493702249  0.3382890893462336  0.5527636507080669  1.0000
+  O   O4        1.0  0.8091351637162284  0.9980088280419076  0.45119981901390127  1.0000
+  O   O5        1.0  0.5073046084422275  0.35409675587542  0.4544739832110393  1.0000

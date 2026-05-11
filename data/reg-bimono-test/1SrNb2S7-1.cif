@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       S2SrNb2S5
+_chemical_formula_sum              "S7 Sr1 Nb2"
+_cell_length_a       4.770432133962889
+_cell_length_b       4.770432133962897
+_cell_length_c       38.17133338240001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  2.4452592444760392e-20  0.0  0.37010832188424986  1.0000
+  S   S2        1.0  6.163109011026524e-17  4.4451433513881464e-17  0.6298916781157522  1.0000
+  Sr  Sr1       1.0  0.500000000000001  0.4999999999999999  0.4999999999999998  1.0000
+  Nb  Nb1       1.0  2.2650579296807214e-18  0.0  0.4264893235230386  1.0000
+  Nb  Nb2       1.0  2.1978738100594777e-17  0.0  0.5735106764769607  1.0000
+  S   S3        1.0  0.0  0.0  0.4999999999999998  1.0000
+  S   S4        1.0  0.0  0.4999999999999999  0.4417735357911679  1.0000
+  S   S5        1.0  0.500000000000001  6.041935649873415e-18  0.4417735357911679  1.0000
+  S   S6        1.0  3.950752690334358e-18  0.4999999999999999  0.5582264642088316  1.0000
+  S   S7        1.0  0.500000000000001  4.47953678913184e-19  0.5582264642088316  1.0000

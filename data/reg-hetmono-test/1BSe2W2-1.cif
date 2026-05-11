@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       W2BSe2
+_chemical_formula_sum              "W2 B1 Se2"
+_cell_length_a       3.3116410141787656
+_cell_length_b       3.312837342309266
+_cell_length_c       19.46435317848812
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.98805500220607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.23557867470726362  0.5689822778103696  0.4430184171484954  1.0000
+  W   W2        1.0  0.569233476115393  0.23607318289572254  0.5569696887048297  1.0000
+  B   B1        1.0  0.9024060608961259  0.9025748473076954  0.4999979883992872  1.0000
+  Se  Se1       1.0  0.236273156472595  0.569802957409389  0.6486432595626098  1.0000
+  Se  Se2       1.0  0.5690179517882356  0.23508736971692967  0.3513497497163436  1.0000

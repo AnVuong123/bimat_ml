@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       InClO2SnCl
+_chemical_formula_sum              "In1 Cl2 O2 Sn1"
+_cell_length_a       3.7108278395240686
+_cell_length_b       3.7137959348227496
+_cell_length_c       21.483490754279426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.06099873589083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.8305973926017582  0.16663017952606235  0.5712708445514568  1.0000
+  Cl  Cl1       1.0  0.4957837277064785  0.4994979030597418  0.6509077124878596  1.0000
+  O   O1        1.0  0.8311789574551298  0.1672289491071991  0.4627767795704853  1.0000
+  O   O2        1.0  0.16373742749712344  0.8332176093552808  0.5436277026499589  1.0000
+  Sn  Sn1       1.0  0.16417504946496161  0.8335492619824223  0.434374566544985  1.0000
+  Cl  Cl2       1.0  0.49684038018752696  0.5023590950788166  0.3490907444928961  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SGeInS
+_chemical_formula_sum              "S2 Ge1 In1"
+_cell_length_a       3.8838537818473804
+_cell_length_b       3.807986767741005
+_cell_length_c       19.6525136359567
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.89457204256271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.6922340478993964  0.3165037576816821  0.6188206931373518  1.0000
+  Ge  Ge1       1.0  0.3007262039662459  0.6822013119984379  0.42203236211428913  1.0000
+  In  In1       1.0  0.34224301350345554  0.6608079094605279  0.5608075808789156  1.0000
+  S   S2        1.0  0.6654929900554891  0.3317296918523798  0.3809897678318318  1.0000

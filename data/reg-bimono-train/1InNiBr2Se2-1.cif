@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiBr2Se2In
+_chemical_formula_sum              "Ni1 Br2 Se2 In1"
+_cell_length_a       3.6814867738110246
+_cell_length_b       5.489672883064905
+_cell_length_c       20.654097590205605
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02843473968836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.7493564175078393  0.24801893688781132  0.5590193287612473  1.0000
+  Br  Br1       1.0  0.7494376838684909  0.7477139429376771  0.36304078864370176  1.0000
+  Br  Br2       1.0  0.24925121227244362  0.24807167660824342  0.636961483687628  1.0000
+  Se  Se1       1.0  0.749373808469915  0.7480773335408107  0.5539040901525768  1.0000
+  Se  Se2       1.0  0.24946902644416022  0.24807381848362106  0.4849081216497811  1.0000
+  In  In1       1.0  0.24934261891251966  0.7481256924125455  0.4608552172010594  1.0000

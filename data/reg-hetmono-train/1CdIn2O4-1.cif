@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdIn2O4
+_chemical_formula_sum              "Cd1 In2 O4"
+_cell_length_a       3.4764690490459196
+_cell_length_b       3.4764664447636937
+_cell_length_c       39.30476960000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99997521941008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9999984893044092  0.9999992446522044  0.5000036151298188  1.0000
+  In  In1       1.0  0.6666642937232097  0.3333321468616052  0.41827284894096567  1.0000
+  In  In2       1.0  0.3333379210981026  0.6666689605490468  0.5817145470412145  1.0000
+  O   O1        1.0  0.6666636062814123  0.33333180314070376  0.4696961783301984  1.0000
+  O   O2        1.0  0.33333363908307173  0.6666668195415352  0.5302937832848773  1.0000
+  O   O3        1.0  0.33333061933680547  0.6666653096684  0.4005399829348797  1.0000
+  O   O4        1.0  0.6666714097754387  0.3333357048877173  0.5994745854858125  1.0000

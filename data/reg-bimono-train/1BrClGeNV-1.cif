@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeNVClBr
+_chemical_formula_sum              "Ge1 N1 V1 Cl1 Br1"
+_cell_length_a       5.142907055700633
+_cell_length_b       3.3989962350720115
+_cell_length_c       20.36037485179753
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.0
+_cell_angle_gamma    131.3859502983996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9986982603652815  0.8346739734359582  0.553610800052962  1.0000
+  N   N1        1.0  0.31861407448924767  0.15527106267736526  0.47600903205732126  1.0000
+  V   V1        1.0  0.34398997794065356  0.6806372333439183  0.4361576840873429  1.0000
+  Cl  Cl1       1.0  0.8437780584433325  0.18070619311472308  0.36840730320303544  1.0000
+  Br  Br1       1.0  0.331670120517423  0.6677335014831424  0.6316217149462622  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZrCoF6
+_chemical_formula_sum              "Zr1 Co1 F6"
+_cell_length_a       5.504500039520215
+_cell_length_b       5.5090712567940265
+_cell_length_c       17.77979631911228
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.93692626047687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.13045801136061094  0.8702443660115231  0.5000250888890801  1.0000
+  Co  Co1       1.0  0.46351024340960034  0.536292546039274  0.5000195255931651  1.0000
+  F   F1        1.0  0.16874796083372834  0.5806083823679382  0.561207292364806  1.0000
+  F   F2        1.0  0.8022801747035486  0.8329528014601238  0.5609717595120968  1.0000
+  F   F3        1.0  0.42080712287803945  0.197501241893451  0.5610955648421643  1.0000
+  F   F4        1.0  0.8026123358638978  0.5792909548061054  0.43913097226953185  1.0000
+  F   F5        1.0  0.16755813383808332  0.19782566608130064  0.43896529784478694  1.0000
+  F   F6        1.0  0.4197896553788441  0.8316604835275648  0.43875511884021984  1.0000

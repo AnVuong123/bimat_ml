@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfClZrO2Br
+_chemical_formula_sum              "Hf1 Cl1 Zr1 O2 Br1"
+_cell_length_a       3.8291028596701477
+_cell_length_b       5.9335901445819745
+_cell_length_c       19.111649185299704
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.78917251303199
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.04389927518436431  0.7557517603850374  0.5118400254091148  1.0000
+  Cl  Cl1       1.0  0.9564550881858861  0.5843885142220044  0.39243081155805487  1.0000
+  Zr  Zr1       1.0  0.7806636728075349  0.22964318282928126  0.47760097258999595  1.0000
+  O   O1        1.0  0.22518842167573497  0.11885646264825274  0.4604640018955902  1.0000
+  O   O2        1.0  0.5962488863345351  0.8605671934800744  0.5306728946703131  1.0000
+  Br  Br1       1.0  0.8724082491969715  0.40919846353866635  0.6075691884419451  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Rh2Te2F2
+_chemical_formula_sum              "Rh2 Te2 F2"
+_cell_length_a       5.254911152550687
+_cell_length_b       3.6216560392070196
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.4999999999999997  1.016790079248384e-16  0.44439980067585894  1.0000
+  Rh  Rh2       1.0  0.9999999999999999  0.5  0.5556001515430616  1.0000
+  Te  Te1       1.0  0.4999999999999997  0.5  0.5276891516011502  1.0000
+  Te  Te2       1.0  4.619754787697012e-18  1.477893820374245e-18  0.4723107998632989  1.0000
+  F   F1        1.0  0.4999999999999997  0.5  0.3840841037973643  1.0000
+  F   F2        1.0  2.3820008111284e-18  5.816656334284821e-18  0.6159158523360766  1.0000

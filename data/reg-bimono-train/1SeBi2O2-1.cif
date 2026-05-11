@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiOBiOSe
+_chemical_formula_sum              "Bi2 O2 Se1"
+_cell_length_a       3.8116401703737735
+_cell_length_b       3.8121420395156056
+_cell_length_c       22.162984280000003
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99835932832802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.34092247892933164  0.8903442915616075  0.5951877216544286  1.0000
+  O   O1        1.0  0.34056263257063996  0.8898447266802304  0.370981541670362  1.0000
+  Bi  Bi2       1.0  0.007536242556383228  0.22337801378161684  0.4048136360213938  1.0000
+  O   O2        1.0  0.007764344880854131  0.2238388781397673  0.6290179171230705  1.0000
+  Se  Se1       1.0  0.6744092542007357  0.5568753442864869  0.5000011021640416  1.0000

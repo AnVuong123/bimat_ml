@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl3NbMoCl
+_chemical_formula_sum              "Cl4 Nb1 Mo1"
+_cell_length_a       3.219311036520017
+_cell_length_b       5.931314100393359
+_cell_length_c       18.517033838987963
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99990566771623
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7699287168143758  0.611418470501938  0.40503247254474467  1.0000
+  Cl  Cl2       1.0  0.2699354072638952  0.09834323947732732  0.42252916718368416  1.0000
+  Cl  Cl3       1.0  0.7699315745054042  0.2341972945721793  0.578451523140355  1.0000
+  Nb  Nb1       1.0  0.26992823020047885  0.4684009858542464  0.496010520702846  1.0000
+  Mo  Mo1       1.0  0.7699325781777188  0.8695194271235441  0.5053010565168331  1.0000
+  Cl  Cl4       1.0  0.26993172738330284  0.7365019245560722  0.5949675274552553  1.0000

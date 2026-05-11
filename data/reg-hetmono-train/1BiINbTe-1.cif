@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TeINbBi
+_chemical_formula_sum              "Te1 I1 Nb1 Bi1"
+_cell_length_a       5.427741962920181
+_cell_length_b       3.971180664150591
+_cell_length_c       19.575393404537728
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    111.36802748236825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.08366082520065077  0.9511287062053035  0.3831340624940616  1.0000
+  I   I1        1.0  0.9548887066859788  0.3942861273175555  0.6168659375059383  1.0000
+  Nb  Nb1       1.0  0.10965972716393196  0.46446354893882424  0.48103606351486977  1.0000
+  Bi  Bi1       1.0  0.5277947793156915  0.1733327866313049  0.4917308782862121  1.0000

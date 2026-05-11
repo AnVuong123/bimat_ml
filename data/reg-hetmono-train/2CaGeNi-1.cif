@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CaNi2GeCaGe
+_chemical_formula_sum              "Ca2 Ni2 Ge2"
+_cell_length_a       4.093341692318865
+_cell_length_b       4.093341692318454
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00001024265151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.9959449541059668  0.9959449541059773  0.6108534102774861  1.0000
+  Ni  Ni1       1.0  0.495739862124209  0.9958559019251781  0.49987315307532887  1.0000
+  Ni  Ni2       1.0  0.9958559019251808  0.49573986212420657  0.49987315307527147  1.0000
+  Ge  Ge1       1.0  0.4958823944405233  0.495882394440521  0.5644135794842391  1.0000
+  Ca  Ca2       1.0  0.4956506461827344  0.4956506461827387  0.38888018002483005  1.0000
+  Ge  Ge2       1.0  0.9957140816606798  0.9957140816606858  0.4352988121870615  1.0000

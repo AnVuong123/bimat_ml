@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ZrClHfCl2Se
+_chemical_formula_sum              "Zr1 Cl3 Hf1 Se1"
+_cell_length_a       3.4906854701803995
+_cell_length_b       6.181249555644855
+_cell_length_c       18.6113783125225
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.00942384499021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.2515277338057945  0.5235531886913688  0.4986891729916492  1.0000
+  Cl  Cl1       1.0  0.7515047159660279  0.3166611034915724  0.5813577038750924  1.0000
+  Hf  Hf1       1.0  0.7522308029067559  0.9500516582612332  0.49855877738614407  1.0000
+  Cl  Cl2       1.0  0.25240521044375275  0.8369847278190359  0.5970193649476931  1.0000
+  Cl  Cl3       1.0  0.7516492579957483  0.6539998181250284  0.40298017329441727  1.0000
+  Se  Se1       1.0  0.2523525616339784  0.158348583557616  0.4184096864244545  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KMnS2
+_chemical_formula_sum              "K1 Mn1 S2"
+_cell_length_a       3.497012424231216
+_cell_length_b       3.9881032744984126
+_cell_length_c       34.7691965612814
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    115.98752879240071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.7154106464817708  0.36815923104451487  0.43654300467003043  1.0000
+  Mn  Mn1       1.0  0.9859404837939466  0.910182850346001  0.5347972122333224  1.0000
+  S   S1        1.0  0.6559018537803779  0.24955291325979714  0.5642784688169099  1.0000
+  S   S2        1.0  0.40326453524813993  0.7444331252460719  0.4914210341319932  1.0000

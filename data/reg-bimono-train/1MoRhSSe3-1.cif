@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2SMoRhSe
+_chemical_formula_sum              "Se3 S1 Mo1 Rh1"
+_cell_length_a       3.4214220830167195
+_cell_length_b       5.958515634720378
+_cell_length_c       18.379516731796883
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99355736392705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.4989781888120518  0.1663381695260521  0.42518372983216285  1.0000
+  Se  Se2       1.0  0.49925715337047116  0.8307675328920284  0.5919908087573972  1.0000
+  S   S1        1.0  0.9992339067289839  0.6685798231898409  0.4081083492667605  1.0000
+  Mo  Mo1       1.0  0.499261503627222  0.5603628365346789  0.4943715216064012  1.0000
+  Rh  Rh1       1.0  0.9990945530058862  0.9614620766428268  0.4970568315488748  1.0000
+  Se  Se3       1.0  0.9993108382406305  0.32513557894389294  0.5681382423834171  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CdOFCl
+_chemical_formula_sum              "Cd1 O1 F1 Cl1"
+_cell_length_a       3.7660942898197582
+_cell_length_b       3.766077584178468
+_cell_length_c       33.44460934999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00068956137416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3332972986470086  0.6666296987346736  0.4922170009875558  1.0000
+  O   O1        1.0  0.6666302033793536  0.33329986744369516  0.5198835018921594  1.0000
+  F   F1        1.0  0.6666098658539458  0.333296532366718  0.5635140840838427  1.0000
+  Cl  Cl1       1.0  0.9999670047225071  0.9999688868558587  0.44695645380240234  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       WClMnSSeBrMo
+_chemical_formula_sum              "W1 Cl1 Mn1 S1 Se1 Br1 Mo1"
+_cell_length_a       3.314189441911477
+_cell_length_b       5.411520631119205
+_cell_length_c       20.572859173748714
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00106430273658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.2501473022817094  0.6209750109082639  0.45705586103806534  1.0000
+  Cl  Cl1       1.0  0.7501825662821455  0.6284126189936644  0.3645880119361147  1.0000
+  Mn  Mn1       1.0  0.7501303789477162  0.40083321137208294  0.5335773240921712  1.0000
+  S   S1        1.0  0.2501481953856441  0.6066749067515574  0.5909227802981112  1.0000
+  Se  Se1       1.0  0.25009658255199774  0.14142940636738485  0.46451205151395203  1.0000
+  Br  Br1       1.0  0.749984419096314  0.140361934969958  0.6353415046489927  1.0000
+  Mo  Mo1       1.0  0.7501463712977652  0.867014080879718  0.5327875163348886  1.0000

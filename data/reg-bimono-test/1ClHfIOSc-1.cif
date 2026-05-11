@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OClScHfI
+_chemical_formula_sum              "O1 Cl1 Sc1 Hf1 I1"
+_cell_length_a       3.5217706350607556
+_cell_length_b       3.520926131615101
+_cell_length_c       21.029950190848865
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    120.00808208717821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.5026390923710818  0.5019897484888838  0.4831194141909999  1.0000
+  Cl  Cl1       1.0  0.8363322723196376  0.1683238917098245  0.35796187861887435  1.0000
+  Sc  Sc1       1.0  0.16941532090128553  0.8350784005785382  0.4351957655797335  1.0000
+  Hf  Hf1       1.0  0.8357507079043259  0.16891355024128374  0.5417344889099649  1.0000
+  I   I1        1.0  0.16892548564946588  0.8357459594670914  0.6416277954984821  1.0000

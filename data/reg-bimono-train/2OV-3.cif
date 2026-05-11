@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       VOVO
+_chemical_formula_sum              "V2 O2"
+_cell_length_a       2.6947397715406147
+_cell_length_b       4.918843583662314
+_cell_length_c       17.1802356
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.0  0.012995526206255393  0.5010077411418246  1.0000
+  O   O1        1.0  0.0  0.33592213944502325  0.5624903311790141  1.0000
+  V   V2        1.0  0.5000000008851352  0.4584180973508555  0.49188372922220386  1.0000
+  O   O2        1.0  0.0  0.6924546732476361  0.4445965147752389  1.0000

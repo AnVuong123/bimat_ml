@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Bi2Mn2S3Cl2S
+_chemical_formula_sum              "Bi2 Mn2 S4 Cl2"
+_cell_length_a       3.715313684140253
+_cell_length_b       11.724385996941626
+_cell_length_c       35.19677800000001
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  6.64779154889515e-19  0.2682463924879291  0.44762876731094986  1.0000
+  Bi  Bi2       1.0  0.9999999999999997  0.7682463924879162  0.5523712326890424  1.0000
+  Mn  Mn1       1.0  0.5000000000000296  0.5267543551820884  0.49778998236787597  1.0000
+  Mn  Mn2       1.0  0.500000000000034  0.026754355182072528  0.5022100176321245  1.0000
+  S   S1        1.0  0.5000000000000303  0.3084923344193464  0.4980294686458497  1.0000
+  S   S2        1.0  0.5000000000000296  0.8084923344193516  0.5019705313541507  1.0000
+  S   S3        1.0  0.0  0.5545576020088984  0.5446182121304276  1.0000
+  Cl  Cl1       1.0  0.0  0.542938971930268  0.44843465375431996  1.0000
+  Cl  Cl2       1.0  6.478476712028302e-18  0.04293897193025233  0.5515653462456839  1.0000
+  S   S4        1.0  0.0  0.05455760200889632  0.4553817878695565  1.0000

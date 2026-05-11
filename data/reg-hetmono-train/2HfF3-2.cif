@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2F6
+_chemical_formula_sum              "Hf2 F6"
+_cell_length_a       5.329378591397351
+_cell_length_b       5.329378591397355
+_cell_length_c       17.999162651827724
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6666666666666666  0.3333333333333332  0.5000001052878309  1.0000
+  Hf  Hf2       1.0  0.33333333333333565  0.6666666666666663  0.49999989419061197  1.0000
+  F   F1        1.0  0.6552994385552403  3.77530632561434e-07  0.4323705650696599  1.0000
+  F   F2        1.0  0.3447009389753896  0.3447005614447551  0.4323705650696599  1.0000
+  F   F3        1.0  0.9999996224693678  0.6552990610246079  0.4323705650696599  1.0000
+  F   F4        1.0  0.34470056133662835  0.9999996225900049  0.5676294348007846  1.0000
+  F   F5        1.0  0.6552990612533733  0.6552994386633685  0.5676294348007846  1.0000
+  F   F6        1.0  3.7740999915741825e-07  0.3447009387466271  0.5676294348007846  1.0000

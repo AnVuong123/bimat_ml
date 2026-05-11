@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       O2BrSnBrSnO
+_chemical_formula_sum              "O3 Br2 Sn2"
+_cell_length_a       3.4942739088673855
+_cell_length_b       5.191834379129035
+_cell_length_c       21.314818304608448
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99441811723923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7401102772351357  0.31250741389898695  0.4951720459916986  1.0000
+  O   O2        1.0  0.23931202483002167  0.7588846205932805  0.5426556145778106  1.0000
+  Br  Br1       1.0  0.7393365399724622  0.11881246739265679  0.6481321166890531  1.0000
+  Sn  Sn1       1.0  0.2393887324949108  0.535884120857435  0.45754913072744713  1.0000
+  Br  Br2       1.0  0.23971752491684398  0.3386456312983107  0.35186788331094687  1.0000
+  Sn  Sn2       1.0  0.7393353482389249  0.9641333497649863  0.537694203750898  1.0000
+  O   O3        1.0  0.7391955279085217  0.7730965678365069  0.44944408206171643  1.0000

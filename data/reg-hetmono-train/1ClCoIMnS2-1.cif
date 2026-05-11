@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MnSClSCoI
+_chemical_formula_sum              "Mn1 S2 Cl1 Co1 I1"
+_cell_length_a       3.467504105341041
+_cell_length_b       4.691379517935296
+_cell_length_c       20.533341328026598
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.96484333333196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.250014786911056  0.25124173175180065  0.554840358890724  1.0000
+  S   S1        1.0  0.24732766603893408  0.7512199634838387  0.529875619737723  1.0000
+  Cl  Cl1       1.0  0.749713748924467  0.2514987973650039  0.6347525843115064  1.0000
+  S   S2        1.0  0.7494150214202935  0.251185272395733  0.4762613610826741  1.0000
+  Co  Co1       1.0  0.7472119284912374  0.7512048047204088  0.4592622578588779  1.0000
+  I   I1        1.0  0.247160361495857  0.7512167604786254  0.3652422746314117  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AuInSeCl2S
+_chemical_formula_sum              "Au1 In1 Se1 Cl2 S1"
+_cell_length_a       4.512531509796203
+_cell_length_b       7.017420438354101
+_cell_length_c       18.622605572570116
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.5250371236244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.23116299246943056  0.44782965490585125  0.528871286781827  1.0000
+  In  In1       1.0  0.9484752220521361  0.8856400002786791  0.49071300728566875  1.0000
+  Se  Se1       1.0  0.36726544361519914  0.7219197744307364  0.44094646331865145  1.0000
+  Cl  Cl1       1.0  0.07629804170924984  0.1565323624233871  0.40273633948661886  1.0000
+  Cl  Cl2       1.0  0.0705086466451603  0.12295012248894512  0.597263660513381  1.0000
+  S   S1        1.0  0.776970235640929  0.540663699991243  0.5619116969163782  1.0000

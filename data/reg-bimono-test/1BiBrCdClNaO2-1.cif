@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdOBiBrClONa
+_chemical_formula_sum              "Cd1 O2 Bi1 Br1 Cl1 Na1"
+_cell_length_a       3.7666645686259113
+_cell_length_b       5.459074306550114
+_cell_length_c       20.352230868675207
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    93.516773816097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.929575156317667  0.37125688253517763  0.49412576317344337  1.0000
+  O   O1        1.0  0.9926422025563395  0.9884031353874327  0.5253399755195624  1.0000
+  Bi  Bi1       1.0  0.4837721750275004  0.8427356850139777  0.5746496223795501  1.0000
+  Br  Br1       1.0  0.7833053439003287  0.23212358284162724  0.3685099706461908  1.0000
+  Cl  Cl1       1.0  0.9340479554554749  0.4935289117366957  0.631490029353809  1.0000
+  O   O2        1.0  0.44814473397035187  0.5941627535602912  0.49573505237942955  1.0000
+  Na  Na1       1.0  0.23787207307836838  0.8620491627334375  0.4124921494337747  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       VGa2O4
+_chemical_formula_sum              "V1 Ga2 O4"
+_cell_length_a       3.203924633268983
+_cell_length_b       3.2031446646621684
+_cell_length_c       38.817623999999995
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99194734267945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  8.933092167897078e-17  1.7867595191583565e-16  0.5  1.0000
+  Ga  Ga1       1.0  0.3333463537672104  0.6666731768836031  0.5760295965748592  1.0000
+  Ga  Ga2       1.0  0.6666536462327816  0.3333268231163899  0.42397040342514014  1.0000
+  O   O1        1.0  0.33323642674474324  0.6666182133723654  0.409009890044173  1.0000
+  O   O2        1.0  0.6667635732552468  0.33338178662762186  0.5909901099558268  1.0000
+  O   O3        1.0  0.33346977540112954  0.6667348877005622  0.5263369935921464  1.0000
+  O   O4        1.0  0.6665302245988592  0.33326511229942685  0.47366300640785364  1.0000

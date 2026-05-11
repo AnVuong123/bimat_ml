@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuZnISClS
+_chemical_formula_sum              "Cu1 Zn1 I1 S2 Cl1"
+_cell_length_a       3.4876457764518776
+_cell_length_b       4.8125060295552595
+_cell_length_c       21.02285190784327
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98898999348806
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7455298013764714  0.752693191383299  0.5675641014722604  1.0000
+  Zn  Zn1       1.0  0.24614603032760127  0.2519060399033136  0.4614922766956345  1.0000
+  I   I1        1.0  0.7334216654462491  0.249608790869084  0.35670584414575  1.0000
+  S   S1        1.0  0.2439077374915941  0.7520426141299398  0.49241367457391394  1.0000
+  Cl  Cl1       1.0  0.2474983522288026  0.7533292753872263  0.6432696446722784  1.0000
+  S   S2        1.0  0.7478627438235745  0.25265430345247464  0.5416178942575781  1.0000

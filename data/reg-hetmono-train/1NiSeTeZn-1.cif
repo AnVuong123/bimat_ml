@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SeTeZnNi
+_chemical_formula_sum              "Se1 Te1 Zn1 Ni1"
+_cell_length_a       3.87080361529397
+_cell_length_b       3.872291436763884
+_cell_length_c       18.72391905457165
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0114604226714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.16959048168712726  0.8323540946816892  0.4005192502247589  1.0000
+  Te  Te1       1.0  0.8368419143836298  0.16651144172373994  0.5994873985543178  1.0000
+  Zn  Zn1       1.0  0.8365168929196969  0.16613405720933583  0.4527251871333795  1.0000
+  Ni  Ni1       1.0  0.16972695703105284  0.8327426446405184  0.5327297383322877  1.0000

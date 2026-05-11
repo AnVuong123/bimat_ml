@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt5AlCl2
+_chemical_formula_sum              "Pt5 Al1 Cl2"
+_cell_length_a       3.9677467877491743
+_cell_length_b       3.967746787749171
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000090129004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9998213243256993  0.9998213243256984  0.4999913272079149  1.0000
+  Pt  Pt2       1.0  0.4997912322459503  0.9998079418589638  0.41722650016161306  1.0000
+  Pt  Pt3       1.0  0.999807941858967  0.4997912322459476  0.41722650016161306  1.0000
+  Pt  Pt4       1.0  0.4997912791157381  0.9998079151902317  0.5827550277659564  1.0000
+  Pt  Pt5       1.0  0.999807915190232  0.4997912791157372  0.5827550277659564  1.0000
+  Al  Al1       1.0  0.49979214317209225  0.49979214317209153  0.4999905945219144  1.0000
+  Cl  Cl1       1.0  0.9998300813323244  0.999830081332323  0.33796513988834703  1.0000
+  Cl  Cl2       1.0  0.9998302247067125  0.9998302247067087  0.6620155022165451  1.0000

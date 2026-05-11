@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SiCuClCuS2Cl2CuCl
+_chemical_formula_sum              "Si1 Cu3 Cl4 S2"
+_cell_length_a       3.681939061404141
+_cell_length_b       6.048841512621382
+_cell_length_c       23.175943438535203
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    92.41993556498677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.7409318901673078  0.7490546209517036  0.6046036908306963  1.0000
+  Cu  Cu1       1.0  0.11883391607803576  0.7329493635322191  0.47442586061137715  1.0000
+  Cl  Cl1       1.0  0.16458228324408386  0.22978571507318757  0.3236114214677262  1.0000
+  Cu  Cu2       1.0  0.32241482265967636  0.29080333292508986  0.5641009652782346  1.0000
+  S   S1        1.0  0.8440377565870276  0.48520734122477027  0.5383760527869235  1.0000
+  S   S2        1.0  0.29325813882851426  0.9218738146415414  0.557821311379861  1.0000
+  Cl  Cl2       1.0  0.6199637840247653  0.7707158113354295  0.4121565882674066  1.0000
+  Cl  Cl3       1.0  0.8451544909617057  0.9539070791471898  0.6763885785322737  1.0000
+  Cu  Cu3       1.0  0.6543309776677404  0.06687421199155397  0.3534770418183442  1.0000
+  Cl  Cl4       1.0  0.4485217369091161  0.49956007418333415  0.6579121912090692  1.0000

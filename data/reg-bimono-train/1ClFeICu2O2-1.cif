@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2FeClIO2
+_chemical_formula_sum              "Cu2 Fe1 Cl1 I1 O2"
+_cell_length_a       3.658123911055374
+_cell_length_b       5.673733211901077
+_cell_length_c       19.9016326159936
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.80413974063818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.3602425422513285  0.09944920386308809  0.44144709953023226  1.0000
+  Cu  Cu2       1.0  0.7758830433025055  0.9315298269773262  0.5355757378918266  1.0000
+  Fe  Fe1       1.0  0.04677715577747733  0.47297109448322855  0.49397259985677067  1.0000
+  Cl  Cl1       1.0  0.9197463764596604  0.21864667983270825  0.3768846036474487  1.0000
+  I   I1        1.0  0.9449465275375759  0.2704773539309038  0.6231055455177817  1.0000
+  O   O1        1.0  0.21886401282058623  0.8175693241500084  0.50532013558464  1.0000
+  O   O2        1.0  0.5320150851233345  0.44348098374554223  0.4874130983622914  1.0000

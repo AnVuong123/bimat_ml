@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PdIPdOClO
+_chemical_formula_sum              "Pd2 I1 O2 Cl1"
+_cell_length_a       3.441599078844413
+_cell_length_b       4.157391853281643
+_cell_length_c       20.517314322401916
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00133045067662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.2513448848246142  0.25029538030105325  0.4651837001066029  1.0000
+  I   I1        1.0  0.7514189226273394  0.251923526858329  0.3655651022838874  1.0000
+  Pd  Pd2       1.0  0.7513076205343886  0.7497584470874642  0.5551710636793443  1.0000
+  O   O1        1.0  0.2512169344543383  0.7502774542712707  0.48933170683296073  1.0000
+  Cl  Cl1       1.0  0.25136139746136926  0.7484883179397676  0.6344429939348112  1.0000
+  O   O2        1.0  0.7512463664624026  0.24974876609681837  0.5327029794708982  1.0000

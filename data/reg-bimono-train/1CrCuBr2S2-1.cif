@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SCuBrCrBrS
+_chemical_formula_sum              "S2 Cu1 Br2 Cr1"
+_cell_length_a       4.525351807110439
+_cell_length_b       4.543054447555321
+_cell_length_c       18.152161265956522
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.96095225951869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5907624711651386  0.3495480458512644  0.4131739405635339  1.0000
+  Cu  Cu1       1.0  0.10094839105430041  0.3470045333297514  0.446375248219326  1.0000
+  Br  Br1       1.0  0.9144397937827905  0.16145260119696467  0.5708178650169591  1.0000
+  Cr  Cr1       1.0  0.6347911454444695  0.8822107814425786  0.4733708074554755  1.0000
+  Br  Br2       1.0  0.4295535306929449  0.6757516799251069  0.5868260594364666  1.0000
+  S   S2        1.0  0.10526525517986646  0.8365096901156108  0.41378749821967153  1.0000

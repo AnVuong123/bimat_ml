@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SeW2Se2Cl2
+_chemical_formula_sum              "Se3 W2 Cl2"
+_cell_length_a       3.3214769221933813
+_cell_length_b       5.838574010765634
+_cell_length_c       20.76594062354459
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.25281740989315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.982417487634636  0.7311523501114917  0.5167878408672896  1.0000
+  W   W1        1.0  0.4786839796513902  0.5056306908016097  0.4464377843284022  1.0000
+  W   W2        1.0  0.9920381203845696  0.11966114130504746  0.4514512486050104  1.0000
+  Se  Se2       1.0  0.47099901141412204  0.2262909571689381  0.5409866946741485  1.0000
+  Se  Se3       1.0  0.4806648056216042  0.8950655323957514  0.37854944327997225  1.0000
+  Cl  Cl1       1.0  0.9772617767479591  0.39849366458202684  0.36128484236971264  1.0000
+  Cl  Cl2       1.0  0.08392903915033363  0.37015982804704506  0.6388494450129509  1.0000

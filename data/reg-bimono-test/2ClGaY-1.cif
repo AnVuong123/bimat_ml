@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YClGaYClGa
+_chemical_formula_sum              "Y2 Cl2 Ga2"
+_cell_length_a       4.093752971385883
+_cell_length_b       4.093761222174449
+_cell_length_c       38.023466479999996
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99993332933191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  2.0181954842879435e-06  4.036390958057824e-06  0.5546641900703504  1.0000
+  Cl  Cl1       1.0  0.6666703304598907  0.33334066091977255  0.5957249850065206  1.0000
+  Ga  Ga1       1.0  0.3333337560736414  0.6666675121472748  0.5096220583981805  1.0000
+  Y   Y2        1.0  0.9999979818045263  0.999995963609042  0.44533580992964966  1.0000
+  Cl  Cl2       1.0  0.3333296695401176  0.6666593390802272  0.4042750149934792  1.0000
+  Ga  Ga2       1.0  0.6666662439263671  0.3333324878527256  0.49037794160181947  1.0000

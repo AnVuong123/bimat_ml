@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2Se2Br2Ti2Se2Br2
+_chemical_formula_sum              "Ti4 Se4 Br4"
+_cell_length_a       5.09035076022975
+_cell_length_b       3.59085085702299
+_cell_length_c       32.78625460737231
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.4999999999774328  4.694618377247612e-19  0.3008928890517957  1.0000
+  Ti  Ti2       1.0  0.0  0.5000000004145271  0.350044859574151  1.0000
+  Se  Se1       1.0  0.4999999999774328  0.5000000004145271  0.357332136296094  1.0000
+  Se  Se2       1.0  0.0  0.0  0.2936056010446356  1.0000
+  Br  Br1       1.0  0.4999999999774328  0.5000000004145271  0.24243943857535535  1.0000
+  Br  Br2       1.0  0.0  0.0  0.4084983164557145  1.0000
+  Ti  Ti3       1.0  0.4999999999774328  0.5000000004145271  0.5483925643631488  1.0000
+  Ti  Ti4       1.0  0.0  0.0  0.5975445348855041  1.0000
+  Se  Se3       1.0  0.4999999999774328  4.694618377247612e-19  0.6048318116074471  1.0000
+  Se  Se4       1.0  0.0  0.5000000004145271  0.5411052763559887  1.0000
+  Br  Br3       1.0  0.4999999999774328  4.694618377247612e-19  0.4899391138867084  1.0000
+  Br  Br4       1.0  0.0  0.5000000004145271  0.6559979917670676  1.0000

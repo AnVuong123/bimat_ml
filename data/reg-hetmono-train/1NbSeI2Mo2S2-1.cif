@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MoNbMoSISISe
+_chemical_formula_sum              "Mo2 Nb1 S2 I2 Se1"
+_cell_length_a       4.047792289061281
+_cell_length_b       5.967360368319394
+_cell_length_c       20.881519819591773
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.97497950053607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7396443707020968  0.3934720038447131  0.4624341121029813  1.0000
+  Nb  Nb1       1.0  0.24043703269707964  0.11655829293207229  0.5294880595597105  1.0000
+  Mo  Mo2       1.0  0.7403614848017526  0.7148493439851693  0.5520288808352655  1.0000
+  S   S1        1.0  0.23989898038689414  0.5259260465350005  0.5117369918019515  1.0000
+  I   I1        1.0  0.24045828436127858  0.8455411928342942  0.6410782267716186  1.0000
+  S   S2        1.0  0.7397275096498859  0.29666014323321127  0.5781776352423302  1.0000
+  I   I2        1.0  0.23854172579566119  0.3988568239084887  0.3589017401878309  1.0000
+  Se  Se1       1.0  0.7374751695392646  0.9600972429687211  0.4531170778157573  1.0000

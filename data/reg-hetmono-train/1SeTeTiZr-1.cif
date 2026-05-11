@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZrTeSeTi
+_chemical_formula_sum              "Zr1 Te1 Se1 Ti1"
+_cell_length_a       4.716326713589434
+_cell_length_b       3.813015797261619
+_cell_length_c       18.232299143113295
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9873862742894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.7525387020355259  0.747857934294826  0.5286888131654306  1.0000
+  Te  Te1       1.0  0.7525444122954312  0.24776692072561518  0.410868638555818  1.0000
+  Se  Se1       1.0  0.2525394078384937  0.7477914874977369  0.5892707924880367  1.0000
+  Ti  Ti1       1.0  0.25253355082186435  0.24779316012056887  0.4902061522088534  1.0000

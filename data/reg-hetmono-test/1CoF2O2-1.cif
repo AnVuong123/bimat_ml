@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OFCoOF
+_chemical_formula_sum              "O2 F2 Co1"
+_cell_length_a       3.0100973423751247
+_cell_length_b       3.0096622651395237
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00478212657299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.33340552549806146  0.6668110509961256  0.5475271857412395  1.0000
+  F   F1        1.0  0.3331865202609404  0.6663730405218835  0.630225871553085  1.0000
+  Co  Co1       1.0  5.083455421313726e-10  1.0166907010346408e-09  0.5000000007763244  1.0000
+  O   O2        1.0  0.6665944752850714  0.3331889505701429  0.45247281517769394  1.0000
+  F   F2        1.0  0.6668134797339159  0.3336269594678326  0.36977412935763354  1.0000

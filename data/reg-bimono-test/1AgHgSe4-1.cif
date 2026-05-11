@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se3AgSeHg
+_chemical_formula_sum              "Se4 Ag1 Hg1"
+_cell_length_a       7.347290005696632
+_cell_length_b       3.980213764402767
+_cell_length_c       19.28345018301973
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    128.10312010958256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.7431498744425754  0.10960131245177054  0.403767303694014  1.0000
+  Se  Se2       1.0  0.1494298042761014  0.6416643384509008  0.38856299406250866  1.0000
+  Se  Se3       1.0  0.8708869584417535  0.4620969288643477  0.6113898633010075  1.0000
+  Ag  Ag1       1.0  0.24220043321160617  0.2610372729636127  0.47785982947979283  1.0000
+  Se  Se4       1.0  0.2605505034247099  0.8026187128664338  0.574083943668489  1.0000
+  Hg  Hg1       1.0  0.7379409812831268  0.727276547677494  0.5152004153246088  1.0000

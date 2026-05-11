@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ONiO3As
+_chemical_formula_sum              "O4 Ni1 As1"
+_cell_length_a       4.328120594597728
+_cell_length_b       4.325354431928882
+_cell_length_c       16.977821153820766
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.02250100439291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8724205992911852  0.6090838006465856  0.5582328401491695  1.0000
+  Ni  Ni1       1.0  0.1378777150966152  0.8740251108121355  0.499919066963257  1.0000
+  O   O2        1.0  0.8726112651899273  0.1396514438972517  0.4417872076409369  1.0000
+  O   O3        1.0  0.4034265437500919  0.6088501224165958  0.4417527980798741  1.0000
+  O   O4        1.0  0.40312428698987757  0.13951435208215973  0.5582472019201259  1.0000
+  As  As1       1.0  0.637849097644586  0.37412377672007074  0.5000086059148952  1.0000

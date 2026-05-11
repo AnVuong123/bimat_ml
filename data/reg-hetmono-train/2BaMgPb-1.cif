@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       MgPbBa2MgPb
+_chemical_formula_sum              "Mg2 Pb2 Ba2"
+_cell_length_a       5.0876058923566445
+_cell_length_b       5.0876058923566445
+_cell_length_c       34.62559999999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.0  0.9999999999999999  0.4198463757266852  1.0000
+  Pb  Pb1       1.0  0.5000000000000012  0.5000000000000013  0.42472207835794096  1.0000
+  Ba  Ba1       1.0  0.0  0.5000000000000012  0.5000000000000001  1.0000
+  Ba  Ba2       1.0  0.5000000000000012  1.4229255720766825e-18  0.5000000000000001  1.0000
+  Mg  Mg2       1.0  0.5000000000000012  0.5000000000000013  0.5801536242733167  1.0000
+  Pb  Pb2       1.0  0.0  0.0  0.5752779216420594  1.0000

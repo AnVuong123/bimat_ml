@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrSCuMnOBr
+_chemical_formula_sum              "Br2 S1 Cu1 Mn1 O1"
+_cell_length_a       3.5049276211869884
+_cell_length_b       6.80658398396034
+_cell_length_c       18.635032959586376
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.91383345407588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.032664375901467466  0.42579734308315903  0.4024235893731515  1.0000
+  S   S1        1.0  0.779381173984014  0.9191385170064682  0.45651376633512386  1.0000
+  Cu  Cu1       1.0  0.18574680430078697  0.7318968792549272  0.4887750867039542  1.0000
+  Mn  Mn1       1.0  0.932135947449592  0.22441400779619525  0.5081046023096695  1.0000
+  O   O1        1.0  0.4249817573712817  0.21028218751620956  0.5272565083819093  1.0000
+  Br  Br2       1.0  0.08809569421702508  0.536876980462814  0.5972228268052934  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I3AgIAu
+_chemical_formula_sum              "I4 Ag1 Au1"
+_cell_length_a       5.806090441618563
+_cell_length_b       5.844560087702293
+_cell_length_c       18.70645993080232
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.03925726498079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8783411048670193  0.12705150255037875  0.4014939635869063  1.0000
+  I   I2        1.0  0.3668873710819644  0.12806958691600656  0.5986598450503865  1.0000
+  I   I3        1.0  0.8789401415754463  0.6218909356071426  0.5984800677848696  1.0000
+  Ag  Ag1       1.0  0.6227949231994502  0.875261297070431  0.5004440956294317  1.0000
+  I   I4        1.0  0.36817197820736997  0.6229739560121594  0.4014523770722419  1.0000
+  Au  Au1       1.0  0.12323914896489746  0.374915026565966  0.4997684253714278  1.0000

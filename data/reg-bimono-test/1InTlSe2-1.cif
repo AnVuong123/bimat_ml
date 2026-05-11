@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TlInSe2
+_chemical_formula_sum              "Tl1 In1 Se2"
+_cell_length_a       4.203999328186844
+_cell_length_b       4.204094449297959
+_cell_length_c       18.273291425145754
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.77004016568107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.24625552664317252  0.755435646790612  0.5831238384035969  1.0000
+  In  In1       1.0  0.7269534163992473  0.27454411395641615  0.437497607979264  1.0000
+  Se  Se1       1.0  0.741869610159542  0.25934682958537003  0.588923067121265  1.0000
+  Se  Se2       1.0  0.29064220333979834  0.7108080892970798  0.4116665473300316  1.0000

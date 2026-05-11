@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2S2Cl2Co2S2Cl2
+_chemical_formula_sum              "Co4 S4 Cl4"
+_cell_length_a       4.4392718813852365
+_cell_length_b       3.3086523675969346
+_cell_length_c       32.51472908078752
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.49999999984397925  0.0  0.297344121674159  1.0000
+  Co  Co2       1.0  0.0  0.4999999988519594  0.35902951031807456  1.0000
+  S   S1        1.0  0.49999999984397925  0.4999999988519594  0.34249845792441946  1.0000
+  S   S2        1.0  0.0  0.0  0.31387480438919957  1.0000
+  Cl  Cl1       1.0  0.49999999984397925  0.4999999988519594  0.2486398505708906  1.0000
+  Cl  Cl2       1.0  0.0  0.0  0.4077346136595551  1.0000
+  Co  Co3       1.0  0.49999999984397925  0.4999999988519594  0.5429969192156769  1.0000
+  Co  Co4       1.0  0.0  0.0  0.6046823081671453  1.0000
+  S   S3        1.0  0.49999999984397925  0.0  0.5881512557734903  1.0000
+  S   S4        1.0  0.0  0.4999999988519594  0.5595276022382704  1.0000
+  Cl  Cl3       1.0  0.49999999984397925  0.0  0.49429264841996146  1.0000
+  Cl  Cl4       1.0  0.0  0.4999999988519594  0.653387411508626  1.0000

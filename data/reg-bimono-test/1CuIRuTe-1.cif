@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ICuTeRu
+_chemical_formula_sum              "I1 Cu1 Te1 Ru1"
+_cell_length_a       3.6724961181075337
+_cell_length_b       3.9927725471415867
+_cell_length_c       18.737422268663178
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00491092280478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.24784411682096968  0.2506270117154552  0.5995961506320667  1.0000
+  Cu  Cu1       1.0  0.7478183685051717  0.25065358655107306  0.482685408581327  1.0000
+  Te  Te1       1.0  0.7476900607224845  0.7505765839835173  0.4002612419742019  1.0000
+  Ru  Ru1       1.0  0.24779276769751257  0.7505419569136307  0.5022705894407731  1.0000

@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BrSiBr
+_chemical_formula_sum              "Br2 Si1"
+_cell_length_a       3.9828372900236393
+_cell_length_b       3.9846522024598268
+_cell_length_c       18.148062889227234
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.02256147425219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8368764210020943  0.4895129739456629  0.4132672476274055  1.0000
+  Si  Si1       1.0  0.17200190783777103  0.17094981503237688  0.49999650524421274  1.0000
+  Br  Br2       1.0  0.5027289195826681  0.8228593228732087  0.5867327523725945  1.0000

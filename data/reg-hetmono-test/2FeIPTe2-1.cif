@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       I2P2Te4Fe2
+_chemical_formula_sum              "I2 P2 Te4 Fe2"
+_cell_length_a       3.8912251136060596
+_cell_length_b       9.932782047711198
+_cell_length_c       35.49007473912486
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  7.849738840834921e-19  0.14992742046693475  0.5527281922715773  1.0000
+  I   I2        1.0  1.2442787415482593e-16  0.01225736787076661  0.4472717578144408  1.0000
+  P   P1        1.0  5.4839342281654687e-17  0.37005640998398714  0.4288336768303829  1.0000
+  P   P2        1.0  4.146510131492931e-18  0.7921290848123569  0.5711653348347149  1.0000
+  Te  Te1       1.0  0.49999999999998945  0.8228602638779255  0.5237746258718511  1.0000
+  Te  Te2       1.0  0.49999999999998945  0.3393233836668208  0.4762261224111957  1.0000
+  Te  Te3       1.0  1.0397524265314303e-17  0.618285896768138  0.4513407920351416  1.0000
+  Te  Te4       1.0  0.0  0.5438979709318673  0.5486588343481303  1.0000
+  Fe  Fe1       1.0  0.49999999999998945  0.5810940481551704  0.49999952632397  1.0000
+  Fe  Fe2       1.0  0.49999999999998945  0.08109038102801408  0.5000003794413762  1.0000

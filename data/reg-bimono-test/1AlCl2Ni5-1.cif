@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni5AlCl2
+_chemical_formula_sum              "Ni5 Al1 Cl2"
+_cell_length_a       3.5871092304572674
+_cell_length_b       3.5871092304572674
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.02997923997853714  0.029979239978537044  0.49999178607026296  1.0000
+  Ni  Ni2       1.0  0.5300451325109637  0.030021960758503406  0.4214104725627971  1.0000
+  Ni  Ni3       1.0  0.030021960758503368  0.5300451325109637  0.4214104725627971  1.0000
+  Ni  Ni4       1.0  0.5300460195454526  0.030023639551157118  0.5785778289523241  1.0000
+  Ni  Ni5       1.0  0.030023639551157142  0.5300460195454526  0.5785778289523241  1.0000
+  Al  Al1       1.0  0.5300011868415494  0.5300011868415494  0.49997917698424216  1.0000
+  Cl  Cl1       1.0  0.03018648923577017  0.0301864892357701  0.35265779668098685  1.0000
+  Cl  Cl2       1.0  0.030190215206964605  0.03019021520696454  0.6473149844619214  1.0000

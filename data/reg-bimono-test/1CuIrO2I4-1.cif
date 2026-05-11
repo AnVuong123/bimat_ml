@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       OCuI2OI2Ir
+_chemical_formula_sum              "O2 Cu1 I4 Ir1"
+_cell_length_a       5.706818874710463
+_cell_length_b       5.708463493348197
+_cell_length_c       18.886192489313704
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    78.06244572040704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.904804898550328  0.6203390483985289  0.500031517240259  1.0000
+  Cu  Cu1       1.0  0.07729355241905438  0.3031995518951903  0.49975921352023184  1.0000
+  I   I1        1.0  0.8654749979819526  0.09087450680323712  0.602756249804769  1.0000
+  I   I2        1.0  0.42804407092894814  0.6545662594603758  0.39761097592921224  1.0000
+  O   O2        1.0  0.3946205849662223  0.1305867882625488  0.500157134516213  1.0000
+  I   I3        1.0  0.4292846122974422  0.6547496129387975  0.602884488006585  1.0000
+  I   I4        1.0  0.8644768543686379  0.09081107459078835  0.397115511993415  1.0000
+  Ir  Ir1       1.0  0.6384544219411254  0.8642184902107393  0.5001196102412251  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga3Te4
+_chemical_formula_sum              "Ga3 Te4"
+_cell_length_a       4.080529003014096
+_cell_length_b       4.08052900301411
+_cell_length_c       40.50312
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  2.220446049250313e-15  2.3529381183883134e-17  0.49999999999999994  1.0000
+  Ga  Ga2       1.0  0.6666666666666665  0.3333333333333322  0.5903797460214879  1.0000
+  Ga  Ga3       1.0  0.3333333333333322  0.6666666666666643  0.409620253978512  1.0000
+  Te  Te1       1.0  2.220446049250313e-15  0.0  0.3757972232674599  1.0000
+  Te  Te2       1.0  2.220446049250313e-15  1.3190229543111593e-18  0.6242027767325418  1.0000
+  Te  Te3       1.0  0.6666666666666665  0.3333333333333322  0.4591637341569959  1.0000
+  Te  Te4       1.0  0.3333333333333322  0.6666666666666643  0.5408362658430039  1.0000

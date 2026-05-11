@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiCuMoO2Br2
+_chemical_formula_sum              "Li1 Cu1 Mo1 O2 Br2"
+_cell_length_a       3.824293432305812
+_cell_length_b       5.445208011994841
+_cell_length_c       19.915234404856452
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    110.55698542864914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.07578381609312825  0.28955657151053743  0.42633873611579803  1.0000
+  Cu  Cu1       1.0  0.6671217004367311  0.47214708872847416  0.5269745215833587  1.0000
+  Mo  Mo1       1.0  0.40005074907949323  0.9379381467917337  0.5090693611829482  1.0000
+  O   O1        1.0  0.2115926568281459  0.5611408486442917  0.49247152285357254  1.0000
+  O   O2        1.0  0.9073335131469619  0.9524630538367963  0.5084347531242774  1.0000
+  Br  Br1       1.0  0.4449507220620508  0.02757987321898754  0.3771532231913061  1.0000
+  Br  Br2       1.0  0.5135843739903274  0.16469029854628436  0.6229335315790905  1.0000

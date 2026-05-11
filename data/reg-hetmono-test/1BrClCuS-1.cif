@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ClCuBrS
+_chemical_formula_sum              "Cl1 Cu1 Br1 S1"
+_cell_length_a       3.592930147022175
+_cell_length_b       3.8359422934499263
+_cell_length_c       19.63566025296935
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    69.92614227328458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.4069223574411245  0.1187097325198749  0.38195812635665427  1.0000
+  Cu  Cu1       1.0  0.94663342827902  0.11419555623997846  0.5387972879135535  1.0000
+  Br  Br1       1.0  0.8590323123221263  0.6091722735899175  0.6180418736433457  1.0000
+  S   S1        1.0  0.5263292228643089  0.9055057207878808  0.4793491006329935  1.0000

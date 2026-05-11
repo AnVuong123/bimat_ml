@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuS2CaClCaCl
+_chemical_formula_sum              "Au1 S2 Ca2 Cl2"
+_cell_length_a       4.82811274923835
+_cell_length_b       4.82811274923835
+_cell_length_c       21.07899318448914
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9516979670208559  0.9516979670208556  0.49999999999926714  1.0000
+  S   S1        1.0  0.4528834026843569  0.9221114354816582  0.5000000000006184  1.0000
+  S   S2        1.0  0.9221114354816577  0.4528834026843569  0.5000000000006184  1.0000
+  Ca  Ca1       1.0  0.41705626389949335  0.41705626389949374  0.4149719540509397  1.0000
+  Cl  Cl1       1.0  0.10513418263510203  0.10513418263510217  0.34674433435992513  1.0000
+  Ca  Ca2       1.0  0.417056263899377  0.41705626389937744  0.5850280459496017  1.0000
+  Cl  Cl2       1.0  0.10513418263422634  0.10513418263422589  0.6532556656401266  1.0000

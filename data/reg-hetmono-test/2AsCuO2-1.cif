@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cu2As2O4
+_chemical_formula_sum              "Cu2 As2 O4"
+_cell_length_a       2.9819250719397457
+_cell_length_b       5.538108375437003
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.0  0.1317326052135818  0.49860899613950344  1.0000
+  Cu  Cu2       1.0  0.9999999999999997  0.6317326052135739  0.5013910038604965  1.0000
+  As  As1       1.0  0.5  0.3961342185409097  0.4264386330076655  1.0000
+  As  As2       1.0  0.5  0.8961342185409105  0.5735613669923376  1.0000
+  O   O1        1.0  0.5  0.162947300596631  0.4592294590839314  1.0000
+  O   O2        1.0  0.5  0.6629473005966258  0.5407705409160696  1.0000
+  O   O3        1.0  0.0  0.5751605659031306  0.4471165110548665  1.0000
+  O   O4        1.0  0.0  0.07516056590313198  0.5528834889451333  1.0000

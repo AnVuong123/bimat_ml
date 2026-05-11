@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SGeI2ZrISI
+_chemical_formula_sum              "S2 Ge1 I4 Zr1"
+_cell_length_a       5.174444613323252
+_cell_length_b       5.174855571219078
+_cell_length_c       21.207737428881174
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    104.0786263554621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3950930056453033  0.9910719021959645  0.4946476015089669  1.0000
+  Ge  Ge1       1.0  0.429655075486433  0.43248893522343873  0.5173752487913127  1.0000
+  I   I1        1.0  0.012384911155615134  0.015865797552894398  0.353644514185013  1.0000
+  I   I2        1.0  0.3834407921330079  0.38545061591682933  0.646355485814987  1.0000
+  Zr  Zr1       1.0  0.8565414137513995  0.859442113502758  0.48385436440255786  1.0000
+  I   I3        1.0  0.884020586097069  0.8861798292092861  0.6277592946865144  1.0000
+  S   S2        1.0  0.9881389439530558  0.3979119353178471  0.4947295006497076  1.0000
+  I   I4        1.0  0.5206664408410547  0.5240316348912778  0.36423568660552746  1.0000

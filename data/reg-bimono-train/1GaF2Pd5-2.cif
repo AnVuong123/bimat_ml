@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd5GaF2
+_chemical_formula_sum              "Pd5 Ga1 F2"
+_cell_length_a       3.9283575705268103
+_cell_length_b       3.928357570526758
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999976104816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.02571667107391879  0.025716671073918812  0.49996867965850467  1.0000
+  Pd  Pd2       1.0  0.525675970521756  0.025705431088512042  0.4172305985684758  1.0000
+  Pd  Pd3       1.0  0.025705431088511994  0.5256759705217572  0.4172305985684758  1.0000
+  Pd  Pd4       1.0  0.5256748811891171  0.025705704352955557  0.5827381136785971  1.0000
+  Pd  Pd5       1.0  0.02570570435295548  0.5256748811891148  0.5827381136785971  1.0000
+  Ga  Ga1       1.0  0.5257174072198547  0.5257174072198482  0.4999930362422998  1.0000
+  F   F1        1.0  0.02580037224051232  0.025800372240512202  0.35572386519466126  1.0000
+  F   F2        1.0  0.025806066728536376  0.025806066728536314  0.6442354665845613  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ClInTeIn2
+_chemical_formula_sum              "Cl1 In3 Te1"
+_cell_length_a       6.534921426515679
+_cell_length_b       4.3232723987324935
+_cell_length_c       19.1191882612365
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    109.2150758858873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.09409999179114961  0.5090715427941854  0.3922760682892586  1.0000
+  In  In1       1.0  0.7098221481685153  0.8467240330704395  0.4067974978543509  1.0000
+  Te  Te1       1.0  0.8812210436350262  0.9093141903874151  0.5554457967776698  1.0000
+  In  In2       1.0  0.2888955605565846  0.11021207454627562  0.4693093819341509  1.0000
+  In  In3       1.0  0.5858980740501902  0.26138523857520857  0.6077239317107415  1.0000

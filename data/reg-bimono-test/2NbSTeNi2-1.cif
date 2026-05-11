@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Ni4Te2S2
+_chemical_formula_sum              "Nb2 Ni4 Te2 S2"
+_cell_length_a       3.4986971566049325
+_cell_length_b       6.521425507047516
+_cell_length_c       35.04820008
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.0  0.002924387738265441  0.5128845325878435  1.0000
+  Nb  Nb2       1.0  0.0  0.5029243877382644  0.4871154674121564  1.0000
+  Ni  Ni1       1.0  0.5000000000000003  0.6960850522318849  0.5335696945780617  1.0000
+  Ni  Ni2       1.0  0.5000000000000003  0.19608505223188466  0.46643030542193836  1.0000
+  Ni  Ni3       1.0  0.5000000000000003  0.8097840590230301  0.46642627593282643  1.0000
+  Ni  Ni4       1.0  0.5000000000000003  0.30978405902303185  0.5335737240671737  1.0000
+  Te  Te1       1.0  3.9053583842651166e-19  0.0029523696603141903  0.42697999432486095  1.0000
+  Te  Te2       1.0  2.859083186636247e-18  0.5029523696603143  0.5730200056751384  1.0000
+  S   S1        1.0  0.5000000000000003  0.0029336055413772683  0.563765164912265  1.0000
+  S   S2        1.0  0.5000000000000003  0.5029336055413771  0.4362348350877344  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       VCl2GeClSClS
+_chemical_formula_sum              "V1 Cl4 Ge1 S2"
+_cell_length_a       5.843220932403335
+_cell_length_b       6.263778121733297
+_cell_length_c       18.278208862416527
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    107.48328620016946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.6288930187425982  0.37587732884753516  0.4998522016453078  1.0000
+  Cl  Cl1       1.0  0.4409928516684012  0.10879899267696644  0.5896753310757148  1.0000
+  Cl  Cl2       1.0  0.8022393604233679  0.6474243465007037  0.4103246689242853  1.0000
+  Ge  Ge1       1.0  0.12548660113180518  0.8729881253524647  0.5000980654811541  1.0000
+  Cl  Cl3       1.0  0.8018315829810455  0.6475493077956228  0.5895669758812049  1.0000
+  S   S1        1.0  0.27461319829613623  0.511161224096808  0.498152953581023  1.0000
+  Cl  Cl4       1.0  0.4417447766727129  0.10638987528902286  0.41041404153187827  1.0000
+  S   S2        1.0  0.9684276437531537  0.25170410099311896  0.5003355203091027  1.0000

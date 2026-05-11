@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClBrInBrScBrS
+_chemical_formula_sum              "Cl1 Br3 In1 Sc1 S1"
+_cell_length_a       5.2931968915325704
+_cell_length_b       6.926016034531792
+_cell_length_c       18.724677057561934
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    112.12010772683418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9312976286818054  0.2742042859968021  0.5904500693941122  1.0000
+  Br  Br1       1.0  0.259166370608727  0.8852200512938894  0.5994590466396781  1.0000
+  In  In1       1.0  0.5030357546052455  0.1722031015127202  0.5000818012161172  1.0000
+  Br  Br2       1.0  0.9346592934456727  0.29379507278999767  0.4005409533603217  1.0000
+  Sc  Sc1       1.0  0.11986948710642575  0.5654815068442062  0.5059660825510319  1.0000
+  Br  Br3       1.0  0.24761095731322805  0.8772487462546038  0.4067671315644151  1.0000
+  S   S1        1.0  0.5781487129082251  0.5397481571326896  0.5081747477953976  1.0000

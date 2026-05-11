@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SeGaSb2LiSe5
+_chemical_formula_sum              "Se6 Ga1 Sb2 Li1"
+_cell_length_a       7.003120361140374
+_cell_length_b       7.003120361140435
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.0357905202334
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.3088452777278474  0.056683184907830995  0.4504405203608533  1.0000
+  Ga  Ga1       1.0  0.0035994207003517843  0.9964005792996489  0.5  1.0000
+  Sb  Sb1       1.0  0.4898053482080047  0.8487882235881024  0.4841929127744146  1.0000
+  Sb  Sb2       1.0  0.15121177641189612  0.5101946517919935  0.5158070872255851  1.0000
+  Li  Li1       1.0  0.6317418448952583  0.3682581551047441  0.5  1.0000
+  Se  Se2       1.0  0.7344353972253287  0.7333395423202496  0.44650975750351474  1.0000
+  Se  Se3       1.0  0.2666604576797436  0.26556460277466953  0.5534902424964878  1.0000
+  Se  Se4       1.0  0.6950186246640134  0.024601833617738045  0.5453229011294006  1.0000
+  Se  Se5       1.0  0.9753981663822652  0.3049813753359898  0.4546770988706026  1.0000
+  Se  Se6       1.0  0.9433168150921698  0.6911547222721488  0.5495594796391484  1.0000

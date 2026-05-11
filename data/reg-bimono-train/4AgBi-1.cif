@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Bi2Ag2Bi2Ag2
+_chemical_formula_sum              "Bi4 Ag4"
+_cell_length_a       4.65139635163475
+_cell_length_b       5.520966263308229
+_cell_length_c       35.0138370552
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  2.8387429397117577e-22  0.0  0.5769120638009997  1.0000
+  Bi  Bi2       1.0  1.1088554493592355e-17  0.5000000000000003  0.423087936198998  1.0000
+  Ag  Ag1       1.0  0.5  4.618132628355851e-19  0.5237762717294471  1.0000
+  Ag  Ag2       1.0  0.5  0.5000000000000003  0.47622372827055287  1.0000
+  Bi  Bi3       1.0  0.5  2.839350269419393e-18  0.4377305211406106  1.0000
+  Bi  Bi4       1.0  0.5  0.5000000000000003  0.5622694788593885  1.0000
+  Ag  Ag3       1.0  0.0  0.7500000000000001  0.5  1.0000
+  Ag  Ag4       1.0  0.0  0.25  0.5  1.0000

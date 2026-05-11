@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrTeNOsCr
+_chemical_formula_sum              "Br1 Te1 N1 Os1 Cr1"
+_cell_length_a       3.0890029436313937
+_cell_length_b       4.972336698547919
+_cell_length_c       20.33544104882146
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    128.41815893818173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9115766380083132  0.014791157488340638  0.36898625442094934  1.0000
+  Te  Te1       1.0  0.23845418187490627  0.8420934625005555  0.6306724320578024  1.0000
+  N   N1        1.0  0.4449400503764463  0.5484928695462272  0.4948133073951616  1.0000
+  Os  Os1       1.0  0.2097903900510681  0.8132916209382188  0.46287529740310646  1.0000
+  Cr  Cr1       1.0  0.6823800543011973  0.285849841671645  0.5299120216359972  1.0000

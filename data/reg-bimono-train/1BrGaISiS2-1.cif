@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SiSGaISBr
+_chemical_formula_sum              "Si1 S2 Ga1 I1 Br1"
+_cell_length_a       3.536893086206123
+_cell_length_b       5.48790067352914
+_cell_length_c       20.71475802572729
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98964646678722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.24899968262860242  0.7053716675768915  0.4641659444264433  1.0000
+  S   S1        1.0  0.7488887766796632  0.7711497562990615  0.5385626012220373  1.0000
+  Ga  Ga1       1.0  0.7485663804866827  0.20649941808951058  0.5478584910758576  1.0000
+  I   I1        1.0  0.7492199728284893  0.7338203570683302  0.3620401085919644  1.0000
+  S   S2        1.0  0.2487548459611396  0.2950974805189321  0.471124629028987  1.0000
+  Br  Br1       1.0  0.2476721004894481  0.2478591719380441  0.6382318570031014  1.0000

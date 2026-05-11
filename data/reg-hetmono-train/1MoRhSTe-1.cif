@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MoRhTeS
+_chemical_formula_sum              "Mo1 Rh1 Te1 S1"
+_cell_length_a       3.954641960272765
+_cell_length_b       4.093049570798299
+_cell_length_c       17.95926227485136
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00081972375061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.7520445208144985  0.24653452484035124  0.5181387917204021  1.0000
+  Rh  Rh1       1.0  0.25194480942169745  0.7463987533750359  0.5106082045852014  1.0000
+  Te  Te1       1.0  0.252082786227563  0.24641698710948856  0.41759124034072986  1.0000
+  S   S1        1.0  0.7519253617228079  0.746564669550722  0.5823815690769136  1.0000

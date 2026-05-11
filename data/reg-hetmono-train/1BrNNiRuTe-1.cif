@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       NTeNiRuBr
+_chemical_formula_sum              "N1 Te1 Ni1 Ru1 Br1"
+_cell_length_a       3.427115233230441
+_cell_length_b       3.4257044862987382
+_cell_length_c       20.722640504327106
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    122.80088493500509
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.42281243589632816  0.2392552520026017  0.48189040173829106  1.0000
+  Te  Te1       1.0  0.9595122398177643  0.6985165826396913  0.6376434687954483  1.0000
+  Ni  Ni1       1.0  0.2881759609464147  0.37091778018623633  0.5598711323626664  1.0000
+  Ru  Ru1       1.0  0.7500986402500927  0.9121483575483051  0.45234478200198874  1.0000
+  Br  Br1       1.0  0.077342467964362  0.5861993921070431  0.3622039933613832  1.0000

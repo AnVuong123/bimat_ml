@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2Zn2I2Zn2
+_chemical_formula_sum              "I4 Zn4"
+_cell_length_a       4.191618063540222
+_cell_length_b       4.191618065937709
+_cell_length_c       30.159152964076497
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.95625804706995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.16859394691885676  0.33487061697803794  0.22494778179217803  1.0000
+  I   I2        1.0  0.4977814903052095  0.9985990413677794  0.40079323860314964  1.0000
+  Zn  Zn1       1.0  0.8306268992415238  0.6645590173002973  0.3521858956931499  1.0000
+  Zn  Zn2       1.0  0.8359035230078035  0.6690532622978713  0.2735515748677335  1.0000
+  I   I3        1.0  0.4977814903052095  0.9985990413677794  0.5415631904335922  1.0000
+  I   I4        1.0  0.1685939469188565  0.3348706169780377  0.7174086472445639  1.0000
+  Zn  Zn3       1.0  0.8357485347522321  0.6689106410455179  0.6688013043345642  1.0000
+  Zn  Zn4       1.0  0.8304719147466312  0.6644163988015159  0.5901669835091478  1.0000

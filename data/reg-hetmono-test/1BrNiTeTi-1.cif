@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TiNiBrTe
+_chemical_formula_sum              "Ti1 Ni1 Br1 Te1"
+_cell_length_a       3.486146015435952
+_cell_length_b       3.5250197935678975
+_cell_length_c       19.729624420578002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.13860536227632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.17104678812764834  0.3301644331988653  0.4723081418945194  1.0000
+  Ni  Ni1       1.0  0.8265759803715816  0.6811265667705946  0.5433538524209353  1.0000
+  Br  Br1       1.0  0.836103540268571  0.6635823405068956  0.3801969766688637  1.0000
+  Te  Te1       1.0  0.1664659491937556  0.33470609555584097  0.6200012351610145  1.0000

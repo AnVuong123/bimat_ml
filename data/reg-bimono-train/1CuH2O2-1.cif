@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHCuOH
+_chemical_formula_sum              "O2 H2 Cu1"
+_cell_length_a       3.2303110485743955
+_cell_length_b       3.2304811953988044
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99825773254827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3331348921045707  0.6662697842091407  0.5529048588362967  1.0000
+  H   H1        1.0  0.3331770257835594  0.6663540515671181  0.6045635521977956  1.0000
+  Cu  Cu1       1.0  6.785018491462724e-12  1.3569685201173074e-11  0.4999999999470875  1.0000
+  O   O2        1.0  0.6668651079296781  0.33373021585935553  0.44709514110483256  1.0000
+  H   H2        1.0  0.666822974191212  0.3336459483824236  0.3954364475787692  1.0000

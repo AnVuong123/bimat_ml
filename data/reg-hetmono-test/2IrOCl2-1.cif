@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IrClOClIrCl2O
+_chemical_formula_sum              "Ir2 Cl4 O2"
+_cell_length_a       5.193356881653973
+_cell_length_b       5.193504859648857
+_cell_length_c       18.203464177804875
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    92.56879775357179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.11694565416713629  0.12441656522657975  0.499993837647346  1.0000
+  Cl  Cl1       1.0  0.3737697321022361  0.38078111309223756  0.41226750391077477  1.0000
+  O   O1        1.0  0.8680707332711882  0.37333365339259106  0.5000080143737382  1.0000
+  Cl  Cl2       1.0  0.860469341407018  0.8676718022658644  0.4122742897599873  1.0000
+  Ir  Ir2       1.0  0.6169429655329567  0.6244144937990725  0.4999929454543212  1.0000
+  Cl  Cl3       1.0  0.3734322284630028  0.3811776178611845  0.5877320866070939  1.0000
+  Cl  Cl4       1.0  0.8601164760369183  0.8680421083130017  0.5877090120749702  1.0000
+  O   O2        1.0  0.36578809099374343  0.8754655806748582  0.4999835290892137  1.0000

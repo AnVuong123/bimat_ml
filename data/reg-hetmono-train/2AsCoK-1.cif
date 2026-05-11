@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsKAsCo2K
+_chemical_formula_sum              "As2 K2 Co2"
+_cell_length_a       3.8608862195400437
+_cell_length_b       3.86088621954007
+_cell_length_c       18.976024634714364
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9999795041711
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9910484387914663  0.9910484387914649  0.4306039097062724  1.0000
+  K   K1        1.0  0.49060201885600085  0.49060201885600263  0.3360769615502538  1.0000
+  As  As2       1.0  0.49141093489398335  0.49141093489399  0.5693979476577801  1.0000
+  Co  Co1       1.0  0.49114429598496223  0.991315168178888  0.5000008863868038  1.0000
+  Co  Co2       1.0  0.991315168178899  0.4911442959849649  0.5000008863868038  1.0000
+  K   K2        1.0  0.991853844025528  0.9918538440255364  0.6639210189441028  1.0000

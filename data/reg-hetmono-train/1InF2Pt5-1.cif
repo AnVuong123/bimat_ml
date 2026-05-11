@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pt5InF2
+_chemical_formula_sum              "Pt5 In1 F2"
+_cell_length_a       3.9766010301131347
+_cell_length_b       3.9766010301131685
+_cell_length_c       22.25468099018198
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.86050344339182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.09470006330274472  0.09470006330274433  0.4999848622981991  1.0000
+  Pt  Pt2       1.0  0.5507078054823801  0.0673432065956115  0.4095559823927134  1.0000
+  Pt  Pt3       1.0  0.06734320659561185  0.5507078054823774  0.4095559823927134  1.0000
+  Pt  Pt4       1.0  0.5507025896228493  0.06734128328321039  0.5904141613341635  1.0000
+  Pt  Pt5       1.0  0.0673412832832104  0.5507025896228475  0.5904141613341637  1.0000
+  In  In1       1.0  0.5830349640385696  0.5830349640385698  0.4999848861812508  1.0000
+  F   F1        1.0  0.8633517793019385  0.8633517793019309  0.3406632147934884  1.0000
+  F   F2        1.0  0.8633455835274003  0.8633455835274013  0.6593060628368677  1.0000

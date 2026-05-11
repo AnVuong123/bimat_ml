@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NiTeNiSbTeBrSbTe2Br
+_chemical_formula_sum              "Ni2 Te4 Sb2 Br2"
+_cell_length_a       3.8789528084253764
+_cell_length_b       11.58874440998927
+_cell_length_c       35.30245859132974
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.500000000000009  0.5667194746763606  0.4999996907979441  1.0000
+  Te  Te1       1.0  0.9999999999999997  0.5675838983354323  0.5468759347445388  1.0000
+  Ni  Ni2       1.0  0.500000000000009  0.06670534621217546  0.5000006456274225  1.0000
+  Sb  Sb1       1.0  1.54724314777194e-17  0.8127732954969107  0.5613008794863876  1.0000
+  Te  Te2       1.0  0.500000000000009  0.8471559308951703  0.5034649201195915  1.0000
+  Br  Br1       1.0  0.0  0.08786961622805632  0.5494896182154818  1.0000
+  Sb  Sb2       1.0  0.0  0.32067170733322037  0.438709774898149  1.0000
+  Te  Te3       1.0  0.5000000000000089  0.2862894494500386  0.49652441652409907  1.0000
+  Te  Te4       1.0  0.0  0.5658171592547463  0.4531240688094264  1.0000
+  Br  Br2       1.0  6.5127262395964515e-18  0.04555944333950185  0.4505102011013584  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       RuRhSe2Te2
+_chemical_formula_sum              "Ru1 Rh1 Se2 Te2"
+_cell_length_a       3.665077047571524
+_cell_length_b       5.945456194622194
+_cell_length_c       18.517501903205233
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    89.99827566547499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.23953393314832683  0.11626480735893487  0.4926872787856846  1.0000
+  Rh  Rh1       1.0  0.7393556538139545  0.5164958970617639  0.491734089788986  1.0000
+  Se  Se1       1.0  0.739563676527829  0.9036868429778379  0.4322215989615503  1.0000
+  Se  Se2       1.0  0.2394480880439651  0.4075074163577722  0.4050222345975193  1.0000
+  Te  Te1       1.0  0.7396687800577183  0.20525280042213112  0.5949777654024805  1.0000
+  Te  Te2       1.0  0.23926337064444098  0.722925220030033  0.5765208428525481  1.0000

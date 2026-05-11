@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Si2TaBiTaBi
+_chemical_formula_sum              "Si2 Ta2 Bi2"
+_cell_length_a       3.457234637516506
+_cell_length_b       3.457234637516506
+_cell_length_c       35.75134
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  1.5313803987515414e-27  0.5  0.5  1.0000
+  Si  Si2       1.0  0.49999999999999994  0.0  0.5  1.0000
+  Ta  Ta1       1.0  0.49999999999999994  0.5  0.5551603966803146  1.0000
+  Bi  Bi1       1.0  1.1052158687703755e-17  3.822458142592275e-18  0.6089183151773601  1.0000
+  Ta  Ta2       1.0  8.031109212175252e-19  1.1783090478833215e-18  0.4448396033196853  1.0000
+  Bi  Bi2       1.0  0.5  0.5  0.39108168482264155  1.0000

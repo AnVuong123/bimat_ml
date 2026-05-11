@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrGa2O4
+_chemical_formula_sum              "Cr1 Ga2 O4"
+_cell_length_a       3.204214871624872
+_cell_length_b       3.204499448720529
+_cell_length_c       38.817623999999995
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00293796586057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.9999999999999998  0.9999999999999997  0.5  1.0000
+  Ga  Ga1       1.0  0.33340841418083345  0.6667042070904142  0.5757357852228421  1.0000
+  Ga  Ga2       1.0  0.6665915858191701  0.33329579290958217  0.42426421477715753  1.0000
+  O   O1        1.0  0.3332869225869219  0.6666434612934521  0.4093629701363244  1.0000
+  O   O2        1.0  0.6667130774130763  0.3333565387065346  0.5906370298636744  1.0000
+  O   O3        1.0  0.3334003264120583  0.6667001632060214  0.5255550908131532  1.0000
+  O   O4        1.0  0.6665996735879396  0.3332998367939647  0.4744449091868468  1.0000

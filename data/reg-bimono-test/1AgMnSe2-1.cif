@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AgSe2Mn
+_chemical_formula_sum              "Ag1 Se2 Mn1"
+_cell_length_a       4.244906685494523
+_cell_length_b       4.2466226328690695
+_cell_length_c       18.360441975378986
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.97027366609258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.663279085075519  0.34006455079706915  0.4472079623284566  1.0000
+  Se  Se1       1.0  0.32965913782179296  0.6734866504436142  0.40857701708515437  1.0000
+  Se  Se2       1.0  0.6618600979596296  0.3393351126266839  0.5914701168307293  1.0000
+  Mn  Mn1       1.0  0.32869490896753684  0.672843264778853  0.5436828520520031  1.0000

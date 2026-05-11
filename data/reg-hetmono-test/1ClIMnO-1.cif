@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnIClO
+_chemical_formula_sum              "Mn1 I1 Cl1 O1"
+_cell_length_a       4.030062462549033
+_cell_length_b       3.4476507472344755
+_cell_length_c       33.66426047099031
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.91496592152222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.23432178660375547  0.7324630043925504  0.48539293605590383  1.0000
+  I   I1        1.0  0.5272291164744974  0.7303888020610209  0.5638206922217736  1.0000
+  Cl  Cl1       1.0  0.6926681371113403  0.7328064525598112  0.4452586286780819  1.0000
+  O   O1        1.0  0.1665119212770113  0.23254188402360942  0.4933450134008028  1.0000

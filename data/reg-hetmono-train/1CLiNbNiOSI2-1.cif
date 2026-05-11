@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SNbCNiLiI2O
+_chemical_formula_sum              "S1 Nb1 C1 Ni1 Li1 I2 O1"
+_cell_length_a       3.26600067223766
+_cell_length_b       6.655544787292371
+_cell_length_c       21.547183229044684
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    103.8279057842315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5389961305911021  0.9027138135632242  0.5221974634574867  1.0000
+  Nb  Nb1       1.0  0.21352736637860573  0.1970406718154484  0.514993160144374  1.0000
+  C   C1        1.0  0.15027116901750223  0.15825006503698352  0.419144568519731  1.0000
+  Ni  Ni1       1.0  0.5840392030605259  0.018584114631660986  0.42279679309844775  1.0000
+  Li  Li1       1.0  0.8079760583090797  0.4234913143952226  0.42256561538663745  1.0000
+  I   I1        1.0  0.44375860305776776  0.6989431465530027  0.34895268019824677  1.0000
+  I   I2        1.0  0.1881343212959568  0.2174099014993717  0.653959916684394  1.0000
+  O   O1        1.0  0.7782016326231801  0.37085505240077715  0.5163434322140718  1.0000

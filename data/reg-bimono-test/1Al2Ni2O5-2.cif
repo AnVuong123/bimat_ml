@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni2Al2O5
+_chemical_formula_sum              "Ni2 Al2 O5"
+_cell_length_a       3.026436255939904
+_cell_length_b       3.025159023895985
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0139673549299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.9997542953423156  0.9995085906846313  0.46974286166710294  1.0000
+  Ni  Ni2       1.0  0.9997542953423152  0.9995085906846306  0.5302571383328972  1.0000
+  Al  Al1       1.0  0.3334971579349393  0.6669943158698712  0.4019385399366665  1.0000
+  Al  Al2       1.0  0.33349715793493917  0.6669943158698712  0.5980614600633334  1.0000
+  O   O1        1.0  0.6659105298944048  0.3318210597888066  0.5  1.0000
+  O   O2        1.0  0.3335740138024447  0.6671480276048821  0.44326882076714363  1.0000
+  O   O3        1.0  0.33357401380244467  0.6671480276048821  0.5567311792328565  1.0000
+  O   O4        1.0  0.6668614629157598  0.33372292583151825  0.38758714960548  1.0000
+  O   O5        1.0  0.6668614629157597  0.33372292583151836  0.6124128503945224  1.0000

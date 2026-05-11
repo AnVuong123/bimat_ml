@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Se6CuTlSb2
+_chemical_formula_sum              "Se6 Cu1 Tl1 Sb2"
+_cell_length_a       6.829174428790212
+_cell_length_b       6.82926332403757
+_cell_length_c       33.524452
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99958386310232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.027376286595421476  0.07822815281173041  0.44715018597904577  1.0000
+  Se  Se2       1.0  0.28747201930559735  0.63837547954155  0.4471432123200812  1.0000
+  Se  Se3       1.0  0.7273425158889687  0.33829690391538325  0.4471476863171138  1.0000
+  Se  Se4       1.0  0.7273512739924807  0.07822785329860416  0.5528498575640617  1.0000
+  Se  Se5       1.0  0.2874539039856591  0.33829723347717783  0.5528522216249626  1.0000
+  Se  Se6       1.0  0.027403493842123476  0.6383756907035947  0.5528568348835773  1.0000
+  Cu  Cu1       1.0  0.014046996848050478  0.3515940971134861  0.5000000000992584  1.0000
+  Tl  Tl1       1.0  0.34739597317575716  0.01829217144126077  0.49999999954660274  1.0000
+  Sb  Sb1       1.0  0.6807389296064549  0.6849557378512184  0.4573497641386568  1.0000
+  Sb  Sb2       1.0  0.680716794408379  0.6849558130190674  0.5426502352250527  1.0000

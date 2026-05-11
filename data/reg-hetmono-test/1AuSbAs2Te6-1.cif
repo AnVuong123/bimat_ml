@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SbTe6As2Au
+_chemical_formula_sum              "Sb1 Te6 As2 Au1"
+_cell_length_a       7.188072216677359
+_cell_length_b       7.187981555122391
+_cell_length_c       33.51516779999999
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00014653493322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  3.450292874140892e-05  0.9999623595928532  0.5094565123904907  1.0000
+  Te  Te1       1.0  0.6545738578416295  0.5868377529557803  0.5568138860487887  1.0000
+  Te  Te2       1.0  0.9323657268576938  0.3454254333009505  0.556814644425607  1.0000
+  Te  Te3       1.0  0.4131650007342243  0.0676196240019915  0.5568149310272836  1.0000
+  Te  Te4       1.0  0.6976903993263616  0.9778183918642408  0.44305001508604624  1.0000
+  Te  Te5       1.0  0.2802396932018174  0.3023070894448243  0.44304902712359234  1.0000
+  Te  Te6       1.0  0.022175634021316615  0.7197614105400902  0.44304968977428805  1.0000
+  As  As1       1.0  0.3333821929257669  0.6666470577689371  0.473404524046959  1.0000
+  As  As2       1.0  0.3333669338790757  0.666620264526665  0.5499739155996056  1.0000
+  Au  Au1       1.0  0.6667054783229223  0.33330043770844037  0.45052587794147786  1.0000

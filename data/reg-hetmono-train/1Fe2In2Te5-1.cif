@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2In2Te5
+_chemical_formula_sum              "Fe2 In2 Te5"
+_cell_length_a       4.250519820332253
+_cell_length_b       4.250476123553255
+_cell_length_c       41.662368
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00034007491149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9999952894935055  0.9999905789870109  0.4708594470263129  1.0000
+  Fe  Fe2       1.0  0.9999952894935056  0.9999905789870112  0.5291405529736872  1.0000
+  In  In1       1.0  0.3333208353426181  0.6666416706852315  0.3724262609359125  1.0000
+  In  In2       1.0  0.3333208353426181  0.6666416706852315  0.6275737390640873  1.0000
+  Te  Te1       1.0  0.6666770441587682  0.33335408831753605  0.5  1.0000
+  Te  Te2       1.0  0.3333334018453008  0.6666668036905969  0.4407354490758816  1.0000
+  Te  Te3       1.0  0.3333334018453008  0.6666668036905969  0.5592645509241185  1.0000
+  Te  Te4       1.0  0.6666577050633427  0.33331541012668486  0.33783033856726824  1.0000
+  Te  Te5       1.0  0.6666577050633427  0.33331541012668486  0.6621696614327339  1.0000

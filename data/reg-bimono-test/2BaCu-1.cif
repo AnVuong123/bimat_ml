@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ba2Cu2
+_chemical_formula_sum              "Ba2 Cu2"
+_cell_length_a       4.45756647447298
+_cell_length_b       4.457209794336542
+_cell_length_c       33.984896
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00264718105166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9999738017081561  0.9999476034163121  0.5616389591929991  1.0000
+  Ba  Ba2       1.0  0.9999738017081561  0.9999476034163121  0.43836104080700145  1.0000
+  Cu  Cu1       1.0  0.33330896632136336  0.6666179326427267  0.5  1.0000
+  Cu  Cu2       1.0  0.6666434354196283  0.3332868708392573  0.5  1.0000

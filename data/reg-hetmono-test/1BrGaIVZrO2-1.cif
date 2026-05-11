@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaIOZrVOBr
+_chemical_formula_sum              "Ga1 I1 O2 Zr1 V1 Br1"
+_cell_length_a       3.4922536165472713
+_cell_length_b       4.878529041078273
+_cell_length_c       21.2018645434982
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    90.23423474124158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.26036803141468834  0.2322688513321638  0.3996051286129887  1.0000
+  I   I1        1.0  0.7433568849230296  0.667788412110682  0.3542278775801272  1.0000
+  O   O1        1.0  0.7665748208773551  0.2004882083002909  0.5457542852113701  1.0000
+  Zr  Zr1       1.0  0.26734763509702003  0.4146382141638924  0.5552693189855925  1.0000
+  V   V1        1.0  0.7662482784926997  0.9443560116559209  0.472869089800485  1.0000
+  O   O2        1.0  0.26597219341512857  0.734635534454865  0.5015736147606127  1.0000
+  Br  Br1       1.0  0.7682450169371403  0.6192894345052877  0.6461091822059079  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Se2SiCo3
+_chemical_formula_sum              "Se2 Si1 Co3"
+_cell_length_a       3.805728386164246
+_cell_length_b       3.8056893101854996
+_cell_length_c       20.22163904
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00040426419554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.8333256228225576  0.500050506247449  0.6167103545302096  1.0000
+  Se  Se2       1.0  0.8333256267907594  0.5000505113633387  0.3832887593073713  1.0000
+  Si  Si1       1.0  0.49999278745085146  0.8333854829232924  0.5000013811645312  1.0000
+  Co  Co1       1.0  0.16666316409354662  0.16672743234690998  0.5642368642909512  1.0000
+  Co  Co2       1.0  0.1666631579684236  0.16672741960545717  0.4357630714648903  1.0000
+  Co  Co3       1.0  0.8333289064393936  0.5000577984974881  0.49999971942679805  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       S3Na3BSNa
+_chemical_formula_sum              "S4 Na4 B1"
+_cell_length_a       5.603143801174102
+_cell_length_b       7.205957823294402
+_cell_length_c       32.99162393028811
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.87895062448312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.8173129281754062  0.9995035061938925  0.5509451596123383  1.0000
+  S   S2        1.0  0.3075453129969441  0.24952047316061038  0.5001131659288217  1.0000
+  S   S3        1.0  0.05802483983630088  0.7504795268393448  0.49988683407117823  1.0000
+  Na  Na1       1.0  0.3243698024266344  0.0006562516753714722  0.43676868209886305  1.0000
+  Na  Na2       1.0  0.3237135507512396  0.9993437483245919  0.5632313179011316  1.0000
+  Na  Na3       1.0  0.5106406614455263  0.6709281773402641  0.49985161952702034  1.0000
+  B   B1        1.0  0.9909557754672316  0.9999999999999999  0.5  1.0000
+  S   S4        1.0  0.8178094219815046  0.0004964938060777112  0.44905484038767146  1.0000
+  Na  Na4       1.0  0.8397124841052658  0.32907182265969454  0.5001483804729796  1.0000

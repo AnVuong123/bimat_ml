@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       O4Hg2Sb2F2
+_chemical_formula_sum              "O4 Hg2 Sb2 F2"
+_cell_length_a       4.220749639515337
+_cell_length_b       7.403931465459815
+_cell_length_c       36.36461788082604
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  3.992561329642541e-21  0.5716961574848809  0.5040325269005904  1.0000
+  O   O2        1.0  0.5000000000000002  0.8935122975966557  0.4959669364991545  1.0000
+  O   O3        1.0  2.0157866187177348e-17  0.17249976816435195  0.48569933203579624  1.0000
+  O   O4        1.0  0.5000000000000002  0.29269579073953816  0.5143031585553581  1.0000
+  Hg  Hg1       1.0  0.5000000000000002  0.6624980814261073  0.4645803988650324  1.0000
+  Hg  Hg2       1.0  0.0  0.8027233700490743  0.5354169540242877  1.0000
+  Sb  Sb1       1.0  2.5659051395987812e-18  0.32827232702617426  0.5314078865539875  1.0000
+  Sb  Sb2       1.0  0.5000000000000002  0.1369394189338392  0.46859391462731637  1.0000
+  F   F1        1.0  0.5000000000000002  0.4397027705088123  0.4320769163394273  1.0000
+  F   F2        1.0  0.0  0.025520894724932446  0.567921834153949  1.0000

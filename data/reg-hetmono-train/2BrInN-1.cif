@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In2N2Br2
+_chemical_formula_sum              "In2 N2 Br2"
+_cell_length_a       3.987966606208405
+_cell_length_b       3.6600693401614874
+_cell_length_c       21.341805962036666
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.4999999999999999  1.5250275466796335e-17  0.44485754200691513  1.0000
+  In  In2       1.0  0.0  0.5  0.5551468746203907  1.0000
+  N   N1        1.0  0.4999999999999999  0.5  0.5091808428836414  1.0000
+  N   N2        1.0  0.0  1.2825564619003322e-18  0.49081693736982784  1.0000
+  Br  Br1       1.0  0.4999999999999999  0.5  0.3507314853066657  1.0000
+  Br  Br2       1.0  8.925521099483703e-19  3.7322017325918026e-19  0.6492672083497845  1.0000

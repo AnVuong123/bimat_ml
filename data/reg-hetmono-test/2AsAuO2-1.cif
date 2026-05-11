@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Au2As2O4
+_chemical_formula_sum              "Au2 As2 O4"
+_cell_length_a       2.955307521715279
+_cell_length_b       5.775825398333289
+_cell_length_c       35.4115633
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0  0.1235802844550007  0.4972068409963475  1.0000
+  Au  Au2       1.0  5.292484911869593e-16  0.6235802844549971  0.5027931590036535  1.0000
+  As  As1       1.0  0.5000000000000001  0.4113359619011477  0.417719059905563  1.0000
+  As  As2       1.0  0.5000000000000001  0.9113359619011474  0.5822809400944358  1.0000
+  O   O1        1.0  0.5000000000000001  0.16018798174175736  0.4438220279581464  1.0000
+  O   O2        1.0  0.5000000000000001  0.6601879817417554  0.5561779720418532  1.0000
+  O   O3        1.0  1.6726456082852867e-18  0.571057553384909  0.4410291995600904  1.0000
+  O   O4        1.0  1.8471335245187945e-17  0.0710575533849089  0.5589708004399099  1.0000

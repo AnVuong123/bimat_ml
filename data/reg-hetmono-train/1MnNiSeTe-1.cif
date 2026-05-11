@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MnNiTeSe
+_chemical_formula_sum              "Mn1 Ni1 Te1 Se1"
+_cell_length_a       3.766821486989786
+_cell_length_b       3.963735036061516
+_cell_length_c       33.19573699823471
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.98905149531105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.11193258978877821  0.3645481250624441  0.4929638360528102  1.0000
+  Ni  Ni1       1.0  0.6118392030184349  0.8645651472802263  0.4982644567218109  1.0000
+  Te  Te1       1.0  0.6119423122057479  0.36452242621167824  0.5474089992088927  1.0000
+  Se  Se1       1.0  0.11224007667986755  0.8644032967530177  0.45218522391034593  1.0000

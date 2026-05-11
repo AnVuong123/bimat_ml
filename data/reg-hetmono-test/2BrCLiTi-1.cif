@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiCBrLiTiCBrLi
+_chemical_formula_sum              "Ti2 C2 Br2 Li2"
+_cell_length_a       3.48788682284457
+_cell_length_b       4.207073026024326
+_cell_length_c       35.2912948
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.5  0.5  0.5151741510841443  1.0000
+  C   C1        1.0  0.5  0.0  0.5150094213499905  1.0000
+  Br  Br1       1.0  1.0622578381198108e-17  0.5  0.5863396022017511  1.0000
+  Li  Li1       1.0  0.5  3.4330867175772615e-18  0.576133155346245  1.0000
+  Ti  Ti2       1.0  7.011096405792095e-19  0.0  0.4848258489158556  1.0000
+  C   C2        1.0  2.6549892985456015e-19  0.5  0.48499057865000955  1.0000
+  Br  Br2       1.0  0.5  4.8959504363209956e-18  0.41366039779824954  1.0000
+  Li  Li2       1.0  0.0  0.5  0.4238668446537559  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       SBrSGa
+_chemical_formula_sum              "S2 Br1 Ga1"
+_cell_length_a       3.7905550825270335
+_cell_length_b       3.6125841852983394
+_cell_length_c       19.66902870825127
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    118.44241031199242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.3713715284434454  0.446020752966881  0.5148277148548375  1.0000
+  Br  Br1       1.0  0.11704621170670504  0.3187628921175869  0.6186898645964297  1.0000
+  S   S2        1.0  0.7214602601540264  0.12059780414766837  0.38131013540357017  1.0000
+  Ga  Ga1       1.0  0.08488745465070452  0.8023068333336129  0.43855225922052216  1.0000

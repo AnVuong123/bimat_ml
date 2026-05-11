@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TeCrTeNiCrTe2
+_chemical_formula_sum              "Te4 Cr2 Ni1"
+_cell_length_a       3.970025456634279
+_cell_length_b       3.9703889701141044
+_cell_length_c       38.37088052501407
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99697139355193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.7251998562880582  0.4503997125761079  0.6129904272575363  1.0000
+  Cr  Cr1       1.0  0.05843609876075282  0.1168721975215044  0.4240872699387364  1.0000
+  Te  Te2       1.0  0.7251610164312575  0.45032203286250655  0.46398271276525416  1.0000
+  Ni  Ni1       1.0  0.05846043609804773  0.11692087219609432  0.500001531218138  1.0000
+  Cr  Cr2       1.0  0.05848195792038545  0.11696391584076989  0.5759150318506574  1.0000
+  Te  Te3       1.0  0.3917580395540607  0.7835160791081136  0.5360196296608081  1.0000
+  Te  Te4       1.0  0.3917180488347843  0.7834360976695608  0.3870117755786995  1.0000

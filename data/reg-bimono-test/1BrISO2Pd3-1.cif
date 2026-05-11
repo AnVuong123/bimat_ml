@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd3BrO2SI
+_chemical_formula_sum              "Pd3 Br1 O2 S1 I1"
+_cell_length_a       4.61569131763547
+_cell_length_b       5.908104174284373
+_cell_length_c       19.792200950269674
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.05195614254875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.08248618713250327  0.44760228479069525  0.5523717880194841  1.0000
+  Pd  Pd2       1.0  0.3952221257081402  0.07369921258453407  0.5064218110663472  1.0000
+  Pd  Pd3       1.0  0.7021878963161272  0.689240810872973  0.4602807910337835  1.0000
+  Br  Br1       1.0  0.2861444560579078  0.8545782476307053  0.6210172367989115  1.0000
+  O   O1        1.0  0.5714818911332415  0.42569523683916216  0.5443526312149166  1.0000
+  O   O2        1.0  0.221431792751296  0.7264120319141086  0.46609013894415724  1.0000
+  S   S1        1.0  0.9062052060623316  0.09548054618604808  0.4873678060999536  1.0000
+  I   I1        1.0  0.4985157432540878  0.28043100031724977  0.37900648358509076  1.0000

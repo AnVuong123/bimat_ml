@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       V2BrNOCl
+_chemical_formula_sum              "V2 Br1 N1 O1 Cl1"
+_cell_length_a       3.2932057765216465
+_cell_length_b       3.9246052974400705
+_cell_length_c       20.037467813157313
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99720389534639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.7459511773400638  0.7513328400124146  0.5350571938597544  1.0000
+  V   V2        1.0  0.24596914530562328  0.2512847545388562  0.4697887893088366  1.0000
+  Br  Br1       1.0  0.7459268515824561  0.25067066945237904  0.3743374526797234  1.0000
+  N   N1        1.0  0.24584919527578056  0.7512519642427896  0.48252009117832967  1.0000
+  O   O1        1.0  0.7458829787655166  0.25136051734403775  0.5329901393904259  1.0000
+  Cl  Cl1       1.0  0.24527501834718796  0.7517313247473727  0.6257301609876378  1.0000

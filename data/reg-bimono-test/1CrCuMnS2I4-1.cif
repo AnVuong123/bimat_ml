@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CuI4SCrMnS
+_chemical_formula_sum              "Cu1 I4 S2 Cr1 Mn1"
+_cell_length_a       6.443801445988563
+_cell_length_b       6.57667502557089
+_cell_length_c       19.25113741442513
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     89.99999999999996
+_cell_angle_gamma    72.42914173227074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.17658453101964453  0.0011406632471730926  0.5232250667609281  1.0000
+  I   I1        1.0  0.9999272290386116  0.683769862683526  0.38958737027040014  1.0000
+  I   I2        1.0  0.538201590189422  0.5223787013390134  0.6104126297295998  1.0000
+  I   I3        1.0  0.6491122490660537  0.2991691349394436  0.4230906941951729  1.0000
+  I   I4        1.0  0.8711787275953053  0.8992663528918562  0.5860934268298907  1.0000
+  S   S1        1.0  0.45001483339941595  0.8295555863531981  0.4565935715724564  1.0000
+  Cr  Cr1       1.0  0.7829610601364598  0.5942286327828523  0.5020575200356324  1.0000
+  Mn  Mn1       1.0  0.3052338105536567  0.566988277871508  0.4899599899908721  1.0000
+  S   S2        1.0  0.11187166331976628  0.35313120963419115  0.5375824918319242  1.0000

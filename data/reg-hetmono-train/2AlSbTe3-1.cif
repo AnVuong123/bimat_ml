@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al2Sb2Te6
+_chemical_formula_sum              "Al2 Sb2 Te6"
+_cell_length_a       7.235130271298555
+_cell_length_b       7.23492499026255
+_cell_length_c       18.411642845202184
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99904625612278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  1.5279449189033727e-05  0.999981936448556  0.500119975729477  1.0000
+  Al  Al2       1.0  0.3333244886333308  0.6666988477518916  0.4998925310188014  1.0000
+  Sb  Sb1       1.0  0.6667121944224962  0.33334684932068437  0.4205187048225578  1.0000
+  Sb  Sb2       1.0  0.6666277686619848  0.33333278851239023  0.579444744795995  1.0000
+  Te  Te1       1.0  0.26819108333604513  0.935190711003975  0.4039030724941611  1.0000
+  Te  Te2       1.0  0.06488612682732198  0.33303218922289995  0.4039120211239555  1.0000
+  Te  Te3       1.0  0.6670241480253789  0.7318375706767521  0.4039167927442257  1.0000
+  Te  Te4       1.0  0.06500416951097243  0.7315796897260269  0.5961109934661744  1.0000
+  Te  Te5       1.0  0.268364201995099  0.3334137336281025  0.5961025242149608  1.0000
+  Te  Te6       1.0  0.6665505851154176  0.9349864432759952  0.5960975033838166  1.0000

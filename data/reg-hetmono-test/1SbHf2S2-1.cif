@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       HfSHfSSb
+_chemical_formula_sum              "Hf2 S2 Sb1"
+_cell_length_a       3.77732023978964
+_cell_length_b       3.777509102100561
+_cell_length_c       36.64108128
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00165396805758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.666772321885833  0.3333861609429148  0.4461276139798718  1.0000
+  S   S1        1.0  3.1667423891456916e-05  1.5833711945739517e-05  0.41068500398639207  1.0000
+  Hf  Hf2       1.0  2.76721001884156e-05  1.3836050094211652e-05  0.5538720527385931  1.0000
+  S   S2        1.0  0.6667683211139329  0.3333841605569632  0.5893146073141479  1.0000
+  Sb  Sb1       1.0  0.3333999934251569  0.6666999967125771  0.4999998874393352  1.0000

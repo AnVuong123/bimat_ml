@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       TeInSb2NaTe5
+_chemical_formula_sum              "Te6 In1 Sb2 Na1"
+_cell_length_a       7.748756229509368
+_cell_length_b       7.748756229509353
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    112.3885490854263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.3094572237989916  0.03899551084505101  0.44391836289140235  1.0000
+  In  In1       1.0  0.0025866030289463634  0.9974133969710545  0.5  1.0000
+  Sb  Sb1       1.0  0.4804542703763086  0.836769873121283  0.48430910109066505  1.0000
+  Sb  Sb2       1.0  0.16323012687871727  0.5195457296236878  0.5156908989093345  1.0000
+  Na  Na1       1.0  0.6303508935336296  0.3696491064663656  0.5  1.0000
+  Te  Te2       1.0  0.7214906133421816  0.7387609128441088  0.4390503108114191  1.0000
+  Te  Te3       1.0  0.2612390871558914  0.2785093866578154  0.560949689188582  1.0000
+  Te  Te4       1.0  0.6809520407629247  0.010717521872069424  0.5513251621128146  1.0000
+  Te  Te5       1.0  0.989282478127935  0.31904795923706636  0.4486748378871879  1.0000
+  Te  Te6       1.0  0.9610044891549417  0.6905427762010129  0.5560816371085984  1.0000

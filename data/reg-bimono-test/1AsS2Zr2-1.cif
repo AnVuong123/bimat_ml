@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrSZrSAs
+_chemical_formula_sum              "Zr2 S2 As1"
+_cell_length_a       3.745277974969098
+_cell_length_b       3.7453028163485325
+_cell_length_c       36.64108128
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00021940884814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.6667382522883633  0.3333691261441799  0.45465343150165055  1.0000
+  S   S1        1.0  5.349464236314348e-05  2.6747321181569503e-05  0.4165116981304055  1.0000
+  Zr  Zr2       1.0  6.174815850181919e-05  3.087407925091072e-05  0.5453463480275066  1.0000
+  S   S2        1.0  0.6667465047500946  0.33337325237504606  0.5834880401587587  1.0000
+  As  As1       1.0  0.3334000014523873  0.6667000007261916  0.49999989998648314  1.0000

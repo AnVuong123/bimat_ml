@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrWNCl2BrNCu
+_chemical_formula_sum              "Br2 W1 N2 Cl2 Cu1"
+_cell_length_a       5.455166238767296
+_cell_length_b       5.454668654178344
+_cell_length_c       18.50412595049801
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    85.83046573478329
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3892188403652468  0.40816149202592233  0.5945240172413506  1.0000
+  W   W1        1.0  0.6499232774569907  0.5850805759766693  0.48800634704632856  1.0000
+  N   N1        1.0  0.881294476045458  0.3537583744303303  0.5026335167346873  1.0000
+  Cl  Cl1       1.0  0.8279092860643256  0.8291092682888018  0.4054268921999718  1.0000
+  Cl  Cl2       1.0  0.4062977394235721  0.40702550068222565  0.4053246936386088  1.0000
+  Br  Br2       1.0  0.8269697093517541  0.8454730491023821  0.5946588480500947  1.0000
+  N   N2        1.0  0.3660455900025151  0.8690695845585484  0.5129647698327396  1.0000
+  Cu  Cu1       1.0  0.12433989884189008  0.11041926439468241  0.5275378174564717  1.0000

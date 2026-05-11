@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       IHfTe
+_chemical_formula_sum              "I1 Hf1 Te1"
+_cell_length_a       3.935004505760296
+_cell_length_b       3.934660368427967
+_cell_length_c       18.66761339453022
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.07930735100315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4958090373290172  0.8307070429746853  0.4017653377264373  1.0000
+  Hf  Hf1       1.0  0.16309259278220292  0.1638867326024658  0.5058123411369161  1.0000
+  Te  Te1       1.0  0.8302025221015954  0.49736646052161665  0.5982346622735626  1.0000

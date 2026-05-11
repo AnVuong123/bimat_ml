@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       TeGaAs2LiTe5
+_chemical_formula_sum              "Te6 Ga1 As2 Li1"
+_cell_length_a       7.168772757346094
+_cell_length_b       7.168772757346084
+_cell_length_c       32.962332254769855
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.58411653233829
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.3092556880334798  0.04143684847389661  0.44664715091314533  1.0000
+  Ga  Ga1       1.0  0.002121305432904614  0.9978786945670961  0.5  1.0000
+  As  As1       1.0  0.47064669857324865  0.8289946149708878  0.4857896253964745  1.0000
+  As  As2       1.0  0.1710053850291173  0.5293533014267504  0.5142103746035254  1.0000
+  Li  Li1       1.0  0.6346658759377761  0.365334124062225  0.5  1.0000
+  Te  Te2       1.0  0.7071375225169066  0.7151102180138024  0.44411991968096864  1.0000
+  Te  Te3       1.0  0.2848897819861986  0.29286247748308947  0.5558800803190344  1.0000
+  Te  Te4       1.0  0.6740668459475222  0.012319661336700483  0.5493867140318165  1.0000
+  Te  Te5       1.0  0.9876803386633046  0.32593315405247925  0.45061328596818584  1.0000
+  Te  Te6       1.0  0.9585631515261026  0.6907443119665232  0.5533528490868547  1.0000

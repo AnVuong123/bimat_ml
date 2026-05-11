@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       S4Hg2Cl2
+_chemical_formula_sum              "S4 Hg2 Cl2"
+_cell_length_a       4.4679634679855
+_cell_length_b       8.358490642528402
+_cell_length_c       18.20958922
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5522702617184598  0.8959534007176934  0.5732241646536649  1.0000
+  S   S2        1.0  0.052270281718456046  0.10404657928230494  0.4267758253463349  1.0000
+  S   S3        1.0  0.8402868974612714  0.8947047317117688  0.42716270682066765  1.0000
+  S   S4        1.0  0.34028687746127023  0.10529527828823076  0.5728372931793314  1.0000
+  Hg  Hg1       1.0  0.6934865711801759  0.29123049540086066  0.4992513443211042  1.0000
+  Hg  Hg2       1.0  0.19348654118017491  0.7087695245991383  0.5007486656788958  1.0000
+  Cl  Cl1       1.0  0.9572689319240366  0.49575946762992734  0.5874188974507819  1.0000
+  Cl  Cl2       1.0  0.45726895192403366  0.5042405123700701  0.412581092549218  1.0000

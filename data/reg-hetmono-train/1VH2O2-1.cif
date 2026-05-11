@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       OHVOH
+_chemical_formula_sum              "O2 H2 V1"
+_cell_length_a       3.2695525372102487
+_cell_length_b       3.263746061094886
+_cell_length_c       18.838005600000002
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.05886907290133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3337056386860732  0.6674112773721458  0.5536722680338958  1.0000
+  H   H1        1.0  0.3333962618872991  0.6667925237745976  0.6053812637414142  1.0000
+  V   V1        1.0  0.9999999948954049  0.9999999897908095  0.5000000144974216  1.0000
+  O   O2        1.0  0.6662943511841255  0.33258870236824695  0.446327752388595  1.0000
+  H   H2        1.0  0.6666037294160685  0.3332074588321365  0.3946187630702895  1.0000

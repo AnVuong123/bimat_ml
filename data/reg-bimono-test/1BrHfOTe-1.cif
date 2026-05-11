@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       HfOTeBr
+_chemical_formula_sum              "Hf1 O1 Te1 Br1"
+_cell_length_a       3.5436190088363415
+_cell_length_b       3.552755617179438
+_cell_length_c       19.56187330691651
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    117.75124984896188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8570445640426108  0.8529638703091377  0.5113880620505572  1.0000
+  O   O1        1.0  0.519348723979448  0.191938516686196  0.5096397269390043  1.0000
+  Te  Te1       1.0  0.17679275066828737  0.5379995769065425  0.38350157980637767  1.0000
+  Br  Br1       1.0  0.1807908025649987  0.5336729647619789  0.6165151507587928  1.0000

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnS2Hf
+_chemical_formula_sum              "Zn1 S2 Hf1"
+_cell_length_a       3.564003419239089
+_cell_length_b       4.85013011147603
+_cell_length_c       18.213778514560847
+_cell_angle_alpha    89.99999999999999
+_cell_angle_beta     90.00000000000006
+_cell_angle_gamma    89.98355104611889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.7511470111671747  0.27446809849261083  0.47881077032690034  1.0000
+  S   S1        1.0  0.7510611212990718  0.9357028563472192  0.5882238276915366  1.0000
+  S   S2        1.0  0.2507739317041661  0.04397608025797411  0.41177617230846364  1.0000
+  Hf  Hf1       1.0  0.25140903920505625  0.7367317653244414  0.5116326104704191  1.0000

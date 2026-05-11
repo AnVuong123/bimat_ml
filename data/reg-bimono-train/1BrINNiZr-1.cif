@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ZrIBrNNi
+_chemical_formula_sum              "Zr1 I1 Br1 N1 Ni1"
+_cell_length_a       3.6455959322474767
+_cell_length_b       3.642931952713774
+_cell_length_c       20.85483778111263
+_cell_angle_alpha    89.99999999999997
+_cell_angle_beta     90.00000000000003
+_cell_angle_gamma    120.00450535832228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.9563499168909178  0.03354526159944368  0.4662238814880758  1.0000
+  I   I1        1.0  0.6237329805661784  0.36799488200332814  0.35962878631414924  1.0000
+  Br  Br1       1.0  0.6341724534662431  0.37800981977874804  0.6403712136858507  1.0000
+  N   N1        1.0  0.2901504382317838  0.7007543275263691  0.48767000037195274  1.0000
+  Ni  Ni1       1.0  0.30171164040610976  0.7120645956213364  0.5792647257556444  1.0000

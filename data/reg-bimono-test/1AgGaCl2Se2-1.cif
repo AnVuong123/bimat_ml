@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaAgSe2Cl2
+_chemical_formula_sum              "Ga1 Ag1 Se2 Cl2"
+_cell_length_a       3.7321565181871303
+_cell_length_b       6.2212353850111395
+_cell_length_c       20.30436527793611
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.9938496464132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8308241831609577  0.6743940511795571  0.47107939512588565  1.0000
+  Ag  Ag1       1.0  0.3310035670126702  0.24362171576296188  0.5507369451542685  1.0000
+  Se  Se1       1.0  0.3307959160631523  0.7561558106474531  0.5438866375845836  1.0000
+  Se  Se2       1.0  0.8309467402077315  0.2737561657372152  0.4637357911727067  1.0000
+  Cl  Cl1       1.0  0.8305013912731252  0.7916640755756758  0.369319819134751  1.0000
+  Cl  Cl2       1.0  0.8310516411733758  0.2326683720990088  0.631007156089587  1.0000

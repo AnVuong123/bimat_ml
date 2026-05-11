@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       SeSWMnCuS3
+_chemical_formula_sum              "Se1 S4 W1 Mn1 Cu1"
+_cell_length_a       5.954170520516999
+_cell_length_b       5.784250715881625
+_cell_length_c       18.18187846735099
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.81575892104979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.16102711410597578  0.5905587546057149  0.5000768359526507  1.0000
+  S   S1        1.0  0.8368951776835966  0.9009071716300727  0.4123472674439176  1.0000
+  W   W1        1.0  0.5544249995552964  0.5836476884560846  0.5000218299715504  1.0000
+  Mn  Mn1       1.0  0.17119525030819116  0.04727108527280787  0.5000162909362085  1.0000
+  Cu  Cu1       1.0  0.7294233140918654  0.13697142099413656  0.49998999133271943  1.0000
+  S   S2        1.0  0.8369357956836828  0.9010935124555732  0.587671896521877  1.0000
+  S   S3        1.0  0.49191890435319224  0.2510424170504628  0.41321297443219496  1.0000
+  S   S4        1.0  0.4919358536422811  0.25109003031483057  0.5868356172069421  1.0000

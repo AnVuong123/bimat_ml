@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo2Br6
+_chemical_formula_sum              "Mo2 Br6"
+_cell_length_a       5.981496574772649
+_cell_length_b       5.981496574772657
+_cell_length_c       18.14419067437637
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.0000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.6666666666666672  0.3333333333333333  0.4999996991841941  1.0000
+  Mo  Mo2       1.0  0.33333333333333476  0.6666666666666667  0.5000003008158063  1.0000
+  Br  Br1       1.0  0.33515802696048086  2.687222524755818e-07  0.40968583926074253  1.0000
+  Br  Br2       1.0  0.6648422417617725  0.6648419730395188  0.40968583926074253  1.0000
+  Br  Br3       1.0  0.9999997312777482  0.3351577582382297  0.40968583926074253  1.0000
+  Br  Br4       1.0  0.3351577582382284  0.9999997312777475  0.5903141607392585  1.0000
+  Br  Br5       1.0  0.6648419730395182  0.6648422417617694  0.5903141607392585  1.0000
+  Br  Br6       1.0  2.687222531550511e-07  0.33515802696048236  0.5903141607392585  1.0000

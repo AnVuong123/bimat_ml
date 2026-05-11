@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tl2In2O6
+_chemical_formula_sum              "Tl2 In2 O6"
+_cell_length_a       3.556185462852584
+_cell_length_b       5.586085739361684
+_cell_length_c       37.097944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  2.349083031583376e-20  0.007017760997973674  0.46601891481607893  1.0000
+  Tl  Tl2       1.0  0.4999999999999957  0.5070177609979775  0.533981085183921  1.0000
+  In  In1       1.0  0.4999999999999957  0.551316443558969  0.43424931148743257  1.0000
+  In  In2       1.0  0.0  0.05131644355896984  0.5657506885125666  1.0000
+  O   O1        1.0  0.4999999999999956  0.7510693913190645  0.4843952396585556  1.0000
+  O   O2        1.0  0.0  0.2510693913190627  0.5156047603414443  1.0000
+  O   O3        1.0  0.0  0.7077337947654303  0.4193668993339492  1.0000
+  O   O4        1.0  0.4999999999999957  0.20773379476543857  0.5806331006660481  1.0000
+  O   O5        1.0  0.0  0.6886850215103649  0.5590980048502242  1.0000
+  O   O6        1.0  0.4999999999999957  0.18868502151036812  0.4409019951497769  1.0000

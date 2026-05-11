@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Al2Ga2O6
+_chemical_formula_sum              "Al2 Ga2 O6"
+_cell_length_a       3.062847874054798
+_cell_length_b       4.877760144364359
+_cell_length_c       37.097944
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.0  0.0001011570215999521  0.4702600593769083  1.0000
+  Al  Al2       1.0  0.4999999999999997  0.5001011570216014  0.5297399406230916  1.0000
+  Ga  Ga1       1.0  0.5000000000000031  0.5462865187482571  0.4431319088362467  1.0000
+  Ga  Ga2       1.0  0.9999999999999994  0.04628651874825496  0.5568680911637461  1.0000
+  O   O1        1.0  0.5000000000000031  0.752631579525704  0.48968429505294825  1.0000
+  O   O2        1.0  0.0  0.2526315795256878  0.5103157049470516  1.0000
+  O   O3        1.0  0.0  0.7361885721550301  0.42894411514528724  1.0000
+  O   O4        1.0  0.5000000000000031  0.23618857215501254  0.5710558848547109  1.0000
+  O   O5        1.0  5.974256658031256e-17  0.6708444633756286  0.5505573909953603  1.0000
+  O   O6        1.0  0.5000000000000031  0.1708444633756367  0.44944260900463745  1.0000

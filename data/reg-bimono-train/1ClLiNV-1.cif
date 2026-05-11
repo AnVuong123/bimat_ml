@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       LiVNCl
+_chemical_formula_sum              "Li1 V1 N1 Cl1"
+_cell_length_a       3.177044942342912
+_cell_length_b       3.1772250613525066
+_cell_length_c       33.63298389724863
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00192981546034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.6648452453852277  0.34519922915013285  0.5537402398985533  1.0000
+  V   V1        1.0  0.9981861975517956  0.011868891353638675  0.49706047736261116  1.0000
+  N   N1        1.0  0.3315549214070377  0.6785519976888029  0.5221657126049823  1.0000
+  Cl  Cl1       1.0  0.6647069140398812  0.3449581409105768  0.4467395365744297  1.0000

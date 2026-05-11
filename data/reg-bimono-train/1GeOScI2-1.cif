@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       ScIGeOI
+_chemical_formula_sum              "Sc1 I2 Ge1 O1"
+_cell_length_a       4.303739436887214
+_cell_length_b       3.947065477521447
+_cell_length_c       20.16095766582389
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    91.60728562270576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.21217435915618965  0.7578946728809032  0.4703309840458304  1.0000
+  I   I1        1.0  0.2882084888817455  0.6897692575670868  0.6279940530865675  1.0000
+  Ge  Ge1       1.0  0.6634495182990782  0.30769035400699346  0.5411174473626477  1.0000
+  O   O1        1.0  0.3001301704502317  0.256716650096777  0.4847766962580639  1.0000
+  I   I2        1.0  0.7344311885355016  0.767709446493278  0.37192554294285507  1.0000

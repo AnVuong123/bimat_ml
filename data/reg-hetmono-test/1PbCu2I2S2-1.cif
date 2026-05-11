@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       S2PbCu2I2
+_chemical_formula_sum              "S2 Pb1 Cu2 I2"
+_cell_length_a       4.557161197170797
+_cell_length_b       6.001485639432804
+_cell_length_c       20.41899607500814
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    95.22724804937862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.28153567089986997  0.25805988922496786  0.5558484424281445  1.0000
+  S   S2        1.0  0.7993643120864768  0.323035162407666  0.45712430836955875  1.0000
+  Pb  Pb1       1.0  0.1509690397217968  0.6965186729676547  0.5146188910642172  1.0000
+  Cu  Cu1       1.0  0.7719742879866885  0.18199794690873503  0.5594290017425966  1.0000
+  Cu  Cu2       1.0  0.28732553893665996  0.2208660317667103  0.4451365052846176  1.0000
+  I   I1        1.0  0.70681131690993  0.8274192144901016  0.6326949683300231  1.0000
+  I   I2        1.0  0.2765404105417014  0.8818497970283182  0.36730503166997697  1.0000

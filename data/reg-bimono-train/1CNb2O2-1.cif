@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Nb2CO2
+_chemical_formula_sum              "Nb2 C1 O2"
+_cell_length_a       3.127241176354269
+_cell_length_b       3.1272411763542682
+_cell_length_c       19.622687438308724
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.33333333333333387  0.6666666666666666  0.4359957986247848  1.0000
+  Nb  Nb2       1.0  0.6666666666666667  0.3333333333333333  0.564004201375216  1.0000
+  C   C1        1.0  5.918837553229169e-20  3.1831469709855936e-20  0.5000000000000014  1.0000
+  O   O1        1.0  0.33333333333333387  0.6666666666666666  0.6181314748179818  1.0000
+  O   O2        1.0  0.6666666666666667  0.3333333333333333  0.3818685251820169  1.0000

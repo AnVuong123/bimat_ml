@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ta3B2O2
+_chemical_formula_sum              "Ta3 B2 O2"
+_cell_length_a       3.1885531276433263
+_cell_length_b       3.188553127643326
+_cell_length_c       22.26287682217761
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  8.266285723760891e-18  1.055556850989852e-17  0.4999999875007129  1.0000
+  Ta  Ta2       1.0  0.6666666666666664  0.3333333333333328  0.6187131050881963  1.0000
+  Ta  Ta3       1.0  0.6666666666666664  0.3333333333333328  0.38128684910296895  1.0000
+  B   B1        1.0  0.3333333333333346  0.6666666666666661  0.5604692093957154  1.0000
+  B   B2        1.0  0.3333333333333346  0.6666666666666661  0.43953079279731694  1.0000
+  O   O1        1.0  8.549738364331531e-18  3.631323923929727e-18  0.6664086749930417  1.0000
+  O   O2        1.0  1.2741642189172905e-17  4.933244632004697e-18  0.3335913254113423  1.0000

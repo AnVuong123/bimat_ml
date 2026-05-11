@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaInBrNOBr
+_chemical_formula_sum              "Ga1 In1 Br2 N1 O1"
+_cell_length_a       3.620617623422927
+_cell_length_b       4.148028284850495
+_cell_length_c       20.577501639825318
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99892413297553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7468684331800358  0.7505910745590157  0.4558090997221655  1.0000
+  In  In1       1.0  0.24689787406516386  0.2507210674934359  0.5368408642100533  1.0000
+  Br  Br1       1.0  0.7469811905689837  0.25025287772648147  0.6355242666833452  1.0000
+  N   N1        1.0  0.24684691634640366  0.7506499431469474  0.5061193821398939  1.0000
+  O   O1        1.0  0.7469134525215119  0.2506266944504309  0.4725947020306042  1.0000
+  Br  Br2       1.0  0.24741762716768487  0.7487191631510379  0.36447573331665484  1.0000

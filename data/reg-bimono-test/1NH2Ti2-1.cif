@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ti2NH2
+_chemical_formula_sum              "Ti2 N1 H2"
+_cell_length_a       2.981167470791654
+_cell_length_b       2.9811674707916476
+_cell_length_c       19.786282116605786
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.33333333333333326  0.6666666666666671  0.4421512346476235  1.0000
+  Ti  Ti2       1.0  0.6666666666666671  0.3333333333333335  0.5578487653523742  1.0000
+  N   N1        1.0  5.7738867168466726e-18  3.2169875308167013e-18  0.49999999999999944  1.0000
+  H   H1        1.0  0.33333333333333326  0.6666666666666671  0.6087088274993115  1.0000
+  H   H2        1.0  0.6666666666666671  0.3333333333333335  0.3912911725006894  1.0000

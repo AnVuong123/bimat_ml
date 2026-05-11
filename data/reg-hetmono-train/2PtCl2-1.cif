@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pt2Cl4
+_chemical_formula_sum              "Pt2 Cl4"
+_cell_length_a       4.406575417120556
+_cell_length_b       6.408394545826866
+_cell_length_c       17.55506317
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99998139318805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.00998963000000001  0.6387326099999989  0.5000008700000035  1.0000
+  Pt  Pt2       1.0  0.5099912600000001  0.1387320399999999  0.5000037600000035  1.0000
+  Cl  Cl1       1.0  0.2612787969778456  0.8880903808005839  0.4278279796501027  1.0000
+  Cl  Cl2       1.0  0.7612473769778259  0.8893903691993895  0.5721705503499029  1.0000
+  Cl  Cl3       1.0  0.7587361230221563  0.3893739891994148  0.572169170349903  1.0000
+  Cl  Cl4       1.0  0.2587168230221727  0.3881106108006122  0.42782766965010277  1.0000

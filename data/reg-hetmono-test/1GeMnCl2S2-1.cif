@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SMnGeCl2S
+_chemical_formula_sum              "S2 Mn1 Ge1 Cl2"
+_cell_length_a       4.00927218476362
+_cell_length_b       6.6746085789975425
+_cell_length_c       18.193287666021913
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    108.05172669955165
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.5308312303714918  0.29944000128564946  0.565081134180795  1.0000
+  Mn  Mn1       1.0  0.09336857854532186  0.41867220437607394  0.5115476274007836  1.0000
+  Ge  Ge1       1.0  0.3754658543310149  0.9924436824024954  0.4901864918152659  1.0000
+  Cl  Cl1       1.0  0.2508960834341086  0.720043219651441  0.5877354406005812  1.0000
+  Cl  Cl2       1.0  0.2053287316200901  0.6567602998162304  0.41224058862264135  1.0000
+  S   S2        1.0  0.9489115958169387  0.13842992864111714  0.434573469673213  1.0000

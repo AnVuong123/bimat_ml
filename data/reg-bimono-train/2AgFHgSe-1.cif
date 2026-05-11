@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2Se2Ag2F2
+_chemical_formula_sum              "Hg2 Se2 Ag2 F2"
+_cell_length_a       4.526619268209912
+_cell_length_b       6.5360582369123685
+_cell_length_c       39.52370426
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.99999999999999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.5000000000000039  0.09777503185928937  0.5090159105805354  1.0000
+  Hg  Hg2       1.0  0.5000000000000003  0.5977750318592916  0.49098408941946475  1.0000
+  Se  Se1       1.0  0.5000000000000003  0.2937014023085891  0.45065171142726035  1.0000
+  Se  Se2       1.0  0.5000000000000008  0.793701402308562  0.5493482885727324  1.0000
+  Ag  Ag1       1.0  0.0  0.10204783993172557  0.45841500517688183  1.0000
+  Ag  Ag2       1.0  0.0  0.6020478399316596  0.5415849948231182  1.0000
+  F   F1        1.0  4.9948082843781685e-18  0.26304136883525703  0.5285226128225257  1.0000
+  F   F2        1.0  3.972867074159476e-17  0.7630413688352491  0.4714773871774751  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaNi2GeBaGe
+_chemical_formula_sum              "Ba2 Ni2 Ge2"
+_cell_length_a       4.230581326817971
+_cell_length_b       4.2305813268176085
+_cell_length_c       19.902028842777284
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.00000579044809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9958470306126377  0.9958470306126419  0.6314570134063084  1.0000
+  Ni  Ni1       1.0  0.49584586141771075  0.9957509760877626  0.49986867128142676  1.0000
+  Ni  Ni2       1.0  0.9957509760877493  0.49584586141770726  0.49986867128136936  1.0000
+  Ge  Ge1       1.0  0.4958175894589614  0.4958175894589615  0.5576649304903891  1.0000
+  Ba  Ba2       1.0  0.495748534187561  0.4957485341875553  0.36827729727973424  1.0000
+  Ge  Ge2       1.0  0.9957786666289461  0.9957786666289468  0.4420588525913159  1.0000

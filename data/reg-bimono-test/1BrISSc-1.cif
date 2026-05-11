@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ScSIBr
+_chemical_formula_sum              "Sc1 S1 I1 Br1"
+_cell_length_a       4.034248473133379
+_cell_length_b       4.639879390110856
+_cell_length_c       19.668243990128286
+_cell_angle_alpha    90.0
+_cell_angle_beta     89.99999999999999
+_cell_angle_gamma    115.91738255608082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.20256730592307  0.009358658993083635  0.49407297513341136  1.0000
+  S   S1        1.0  0.512358397058556  0.6304018464179127  0.5035774147704472  1.0000
+  I   I1        1.0  0.7493031999920914  0.10584646597754091  0.3813253488091939  1.0000
+  Br  Br1       1.0  0.26294548659869305  0.12138447377265756  0.6186746511908059  1.0000

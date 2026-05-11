@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       In2S2
+_chemical_formula_sum              "In2 S2"
+_cell_length_a       5.4127817037340815
+_cell_length_b       5.4127817037340815
+_cell_length_c       15.000000016756438
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    90.0
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.0  0.0  0.5000000004647129  1.0000
+  In  In2       1.0  0.5  0.5  0.5000000002856153  1.0000
+  S   S1        1.0  0.5  3.0497596809431257e-19  0.4999999995380032  1.0000
+  S   S2        1.0  0.0  0.5  0.4999999995380032  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ni2BrNbTe
+_chemical_formula_sum              "Ni2 Br1 Nb1 Te1"
+_cell_length_a       3.671956702825474
+_cell_length_b       4.551672135071052
+_cell_length_c       19.23369745001916
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    113.80508743247064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.8752535277322292  0.554430936517294  0.4463688077573859  1.0000
+  Ni  Ni2       1.0  0.469038500450921  0.7419631155067753  0.5165159302627711  1.0000
+  Br  Br1       1.0  0.6522977309693386  0.10306935243269023  0.6100647067657821  1.0000
+  Nb  Nb1       1.0  0.18037366909329167  0.16431499568671995  0.4989503394781221  1.0000
+  Te  Te1       1.0  0.5890998268207859  0.9808799076022477  0.38990874837938255  1.0000

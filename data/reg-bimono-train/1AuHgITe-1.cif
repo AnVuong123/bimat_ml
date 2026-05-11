@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       AuHgITe
+_chemical_formula_sum              "Au1 Hg1 I1 Te1"
+_cell_length_a       4.797858752820473
+_cell_length_b       4.741978734981915
+_cell_length_c       18.630181839906932
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    105.68415970746264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7520236602223725  0.7517968452845267  0.46809139948583794  1.0000
+  Hg  Hg1       1.0  0.251908446701407  0.2512009883242686  0.4950343006403189  1.0000
+  I   I1        1.0  0.25286283495759593  0.7513827949890881  0.597427439815184  1.0000
+  Te  Te1       1.0  0.7526291406215702  0.25198482364990143  0.402572560184816  1.0000

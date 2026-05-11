@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Mo2CO2
+_chemical_formula_sum              "Mo2 C1 O2"
+_cell_length_a       3.09254711360314
+_cell_length_b       3.092547113603139
+_cell_length_c       19.82332555534114
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.3333333333333322  0.6666666666666666  0.44358747411467825  1.0000
+  Mo  Mo2       1.0  0.6666666666666664  0.3333333333333333  0.5564117710297308  1.0000
+  C   C1        1.0  0.0  0.0  0.4999996975397522  1.0000
+  O   O1        1.0  0.3333333333333322  0.6666666666666666  0.612603239386892  1.0000
+  O   O2        1.0  0.6666666666666664  0.3333333333333333  0.3873961637110724  1.0000

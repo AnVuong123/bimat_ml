@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SIrMoSITeI
+_chemical_formula_sum              "S2 Ir1 Mo1 I2 Te1"
+_cell_length_a       4.289549683700813
+_cell_length_b       4.813219544086436
+_cell_length_c       21.6019960564277
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    97.95791172820464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.297781209070006  0.4758132202441784  0.4249161604972305  1.0000
+  Ir  Ir1       1.0  0.2852494446065124  0.3397476185754816  0.5271679806325646  1.0000
+  Mo  Mo1       1.0  0.8266644871099147  0.6366300616445089  0.46095741735841134  1.0000
+  S   S2        1.0  0.7431603774247867  0.15472732287436874  0.4965720406921402  1.0000
+  I   I1        1.0  0.473562250704894  0.35736750355454344  0.6528098616253397  1.0000
+  Te  Te1       1.0  0.05296549788489912  0.7933906293691494  0.5719980152485152  1.0000
+  I   I2        1.0  0.8795814970222179  0.8892567942220349  0.3471901383746603  1.0000

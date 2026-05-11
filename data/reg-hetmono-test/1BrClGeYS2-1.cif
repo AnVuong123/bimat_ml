@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrS2YGeCl
+_chemical_formula_sum              "Br1 S2 Y1 Ge1 Cl1"
+_cell_length_a       3.783161817826992
+_cell_length_b       5.431099196726999
+_cell_length_c       20.974466751480133
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    89.96970468364563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.24961691548388174  0.2366326829724596  0.6424223753163719  1.0000
+  S   S1        1.0  0.751062985071932  0.7750027978815622  0.5379591654514168  1.0000
+  S   S2        1.0  0.25006302697350746  0.27084168266929315  0.4704952598406739  1.0000
+  Y   Y1        1.0  0.2513222799505067  0.7749577233688728  0.4462018222975844  1.0000
+  Ge  Ge1       1.0  0.7503135428077802  0.20110852250705577  0.551552354866682  1.0000
+  Cl  Cl1       1.0  0.7514431000687507  0.7592481087610529  0.35757762468362825  1.0000

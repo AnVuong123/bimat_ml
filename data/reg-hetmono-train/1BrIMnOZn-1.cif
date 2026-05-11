@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BrMnIZnO
+_chemical_formula_sum              "Br1 Mn1 I1 Zn1 O1"
+_cell_length_a       3.9220712503789574
+_cell_length_b       3.7627679724300642
+_cell_length_c       20.068581412045813
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.00000000000001
+_cell_angle_gamma    90.01483448746991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8997883275919704  0.564193396404741  0.6262815070975444  1.0000
+  Mn  Mn1       1.0  0.8982105673227195  0.06420987555786217  0.5425449284147046  1.0000
+  I   I1        1.0  0.8984414306500189  0.5639883810302172  0.3737184929024558  1.0000
+  Zn  Zn1       1.0  0.39872474998005014  0.5647566410204186  0.46103585867550856  1.0000
+  O   O1        1.0  0.39830483915729126  0.0646556555093568  0.5040481676811172  1.0000

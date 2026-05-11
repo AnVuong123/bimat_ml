@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In2F6
+_chemical_formula_sum              "In2 F6"
+_cell_length_a       5.8692367319056595
+_cell_length_b       5.869236731905627
+_cell_length_c       18.362647973794385
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6666666666666667  0.3333333333333334  0.49996412458254086  1.0000
+  In  In2       1.0  0.3333333333333393  0.6666666666666667  0.5000355770741833  1.0000
+  F   F1        1.0  0.5008267198810437  0.9999379930093587  0.4311109086064  1.0000
+  F   F2        1.0  0.49911127312834286  0.49917328011898116  0.4311109086064  1.0000
+  F   F3        1.0  6.200699066190918e-05  0.50088872687168  0.4311109086064  1.0000
+  F   F4        1.0  0.5008890295230308  6.219083659708803e-05  0.5688888129628061  1.0000
+  F   F5        1.0  0.4991731613135615  0.49911097047695147  0.5688888129628061  1.0000
+  F   F6        1.0  0.9999378091634065  0.5008268386864527  0.5688888129628061  1.0000

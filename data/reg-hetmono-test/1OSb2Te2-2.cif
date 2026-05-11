@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbTeSbTeO
+_chemical_formula_sum              "Sb2 Te2 O1"
+_cell_length_a       4.016919938694375
+_cell_length_b       4.015972991027524
+_cell_length_c       22.162984280000003
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    119.99972507023095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.3373337055953985  0.8623341217633089  0.5580791619567467  1.0000
+  Te  Te1       1.0  0.33702771354298316  0.8620011454390182  0.360373321039317  1.0000
+  Sb  Sb2       1.0  0.003451771368214355  0.19513838584254503  0.44191987510275055  1.0000
+  Te  Te2       1.0  0.0038672190586148303  0.19549694410248009  0.6396258456612512  1.0000
+  O   O1        1.0  0.6705268153332676  0.5287677721811297  0.499999994473005  1.0000
