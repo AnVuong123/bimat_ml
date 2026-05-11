@@ -1,4 +1,4 @@
-Official code repository of paper “Property Prediction of Stacked Bilayer Materials: A Multimodal Learning Approach” by An Vuong, Minh-Hao Van, Chen Zhao, and Xintao Wu. [IJCAI 2026]
+Official code repository of paper “Property Prediction of Stacked Bilayer Materials: A Multimodal Learning Approach” by An Vuong, Minh-Hao Van, Chen Zhao, and Xintao Wu. [IJCAI-ECAI 2026]
 
 ![Overview of the proposed model](figures/bimat_ml.png)
 
