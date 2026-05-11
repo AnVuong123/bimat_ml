@@ -196,3 +196,6 @@ If you find this repository useful, please consider citing our paper:
   year = {2026}
 }
 ```
+## Contact
+
+For inquiries or further assistance, please contact us at anv@uark.edu or open an issue on this repository.
