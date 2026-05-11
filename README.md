@@ -56,27 +56,29 @@ Pre-trained models are provided in the `pre-trained/` directory and can be used 
 This setting uses the top and bottom monolayer CIFs together with stacking information to predict the bilayer bandgap.
 
 **Training script:**
-
-```bash
-python main_kfold_bimono.py --mono 2
-```
-
 To train with monolayer properties:
 
 ```bash
 python main_kfold_bimono.py --mono 1
 ```
 
-**Prediction script:**
+To train without monolayer properties:
 
 ```bash
-python predict_kfold_bimono.py --mono 2
+python main_kfold_bimono.py --mono 2
 ```
 
+**Prediction script:**
 To predict with monolayer properties:
 
 ```bash
 python predict_kfold_bimono.py --mono 1
+```
+
+To predict without monolayer properties:
+
+```bash
+python predict_kfold_bimono.py --mono 2
 ```
 
 ---
@@ -86,27 +88,29 @@ python predict_kfold_bimono.py --mono 1
 This setting uses full bilayer CIFs to predict the bandgap of homogeneous bilayer materials.
 
 **Training script:**
-
-```bash
-python main_kfold_bidb.py --mono 2
-```
-
 To train with monolayer properties:
 
 ```bash
 python main_kfold_bidb.py --mono 1
 ```
 
-**Prediction script:**
+To train without monolayer properties:
 
 ```bash
-python predict_kfold_bidb.py --mono 2
+python main_kfold_bidb.py --mono 2
 ```
 
+**Prediction script:**
 To predict with monolayer properties:
 
 ```bash
 python predict_kfold_bidb.py --mono 1
+```
+
+To predict without monolayer properties:
+
+```bash
+python predict_kfold_bidb.py --mono 2
 ```
 
 ---
@@ -116,24 +120,26 @@ python predict_kfold_bidb.py --mono 1
 This setting uses the top and bottom monolayer CIFs to predict the bilayer bandgap.
 
 **Training script:**
-
-```bash
-python main_kfold_hetmono.py --mono 2
-```
-
 To train with monolayer properties:
 
 ```bash
 python main_kfold_hetmono.py --mono 1
 ```
 
-**Prediction script:**
+To train with monolayer properties:
 
 ```bash
-python predict_kfold_hetmono.py --mono 2
+python main_kfold_hetmono.py --mono 2
 ```
 
+**Prediction script:**
 To predict with monolayer properties:
+
+```bash
+python predict_kfold_hetmono.py --mono 1
+```
+
+To predict without monolayer properties:
 
 ```bash
 python predict_kfold_hetmono.py --mono 1
@@ -146,25 +152,27 @@ python predict_kfold_hetmono.py --mono 1
 This setting uses full bilayer CIFs to predict the bandgap of heterogeneous bilayer materials.
 
 **Training script:**
-
-```bash
-python main_kfold_hetdb.py --mono 2
-```
-
 To train with monolayer properties:
 
 ```bash
 python main_kfold_hetdb.py --mono 1
 ```
 
-**Prediction script:**
+To train without monolayer properties:
 
 ```bash
-python predict_kfold_hetdb.py --mono 2
+python main_kfold_hetdb.py --mono 2
 ```
 
+**Prediction script:**
 To predict with monolayer properties:
 
 ```bash
 python predict_kfold_hetdb.py --mono 1
+```
+
+To predict without monolayer properties:
+
+```bash
+python predict_kfold_hetdb.py --mono 2
 ```
