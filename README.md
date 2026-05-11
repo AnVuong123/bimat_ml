@@ -192,7 +192,7 @@ If you find this repository useful, please consider citing our paper:
 @inproceedings{vuong2026bimatml,
   title = {Property Prediction of Stacked Bilayer Materials: A Multimodal Learning Approach},
   author = {An Vuong and Minh-Hao Van and Chen Zhao and Xintao Wu},
-  booktitle = {IJCAI-ECAI},
+  booktitle = {IJCAI},
   year = {2026}
 }
 ```
