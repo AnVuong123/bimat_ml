@@ -35,7 +35,7 @@ pip install scikit-learn pymatgen
 
 ## Training and Prediction Scripts
 
-This repository provides training and prediction scripts for four settings:
+This repository provides training and prediction scripts for four settings. All scripts are run using **4-fold cross validation**.
 
 1. **BiDB with monolayer-based representation**
 2. **BiDB with bilayer-based representation**
@@ -47,7 +47,7 @@ The argument `--mono` controls whether monolayer properties are used:
 - `--mono 1`: use monolayer properties.
 - `--mono 2`: do not use monolayer properties.
 
-Pre-trained models are provided in the `pre-trained/` directory and can be used directly for prediction.
+Pre-trained models for all folds are provided in the `pre-trained/` directory and can be used directly for prediction.
 
 ---
 
